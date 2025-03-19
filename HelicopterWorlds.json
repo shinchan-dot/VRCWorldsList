@@ -1,0 +1,122 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "公開日順",
+			"Worlds": [
+				{
+					"authorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+					"authorName": "shinchan․",
+					"capacity": 32,
+					"created_at": "2023-10-17T11:44:21.965Z",
+					"defaultContentSettings": {},
+					"description": "ジムカーナ風タイムアタック、初心者用補助具、へんたい飛行練習用ダミー、航跡が分かるスモーク、広いヘリパッド。中身をGitHubで公開しています。 Gymkhana style time attack‚ aid for beginners‚ dummy for formation flight practice‚ smoke that shows the trail‚ spacious helipad․ The source is available on GitHub․",
+					"favoriteGroup": "worlds1",
+					"favoriteId": "fvrt_8f0df75e-f578-48bd-9808-6149b5b467d3",
+					"favorites": 128,
+					"featured": false,
+					"heat": 2,
+					"id": "wrld_4130b536-45c5-4703-9843-390d9a53ddcd",
+					"imageUrl": "https://api.vrchat.cloud/api/1/file/file_3b0a9371-f2e0-4fc1-b8bf-e0d309bf8bae/5/file",
+					"labsPublicationDate": "2023-11-18T05:15:11.095Z",
+					"name": "Red Rods Heliport",
+					"occupants": 0,
+					"organization": "vrchat",
+					"popularity": 5,
+					"previewYoutubeId": null,
+					"publicationDate": "2023-11-23T12:56:32.556Z",
+					"recommendedCapacity": 16,
+					"releaseStatus": "public",
+					"tags": [
+						"author_tag_helicopter",
+						"author_tag_flight",
+						"author_tag_race",
+						"system_approved"
+					],
+					"thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_3b0a9371-f2e0-4fc1-b8bf-e0d309bf8bae/5/256",
+					"udonProducts": [],
+					"unityPackages": [
+						{
+							"assetUrl": "https://api.vrchat.cloud/api/1/file/file_5c1afe10-e071-4242-93c5-530e5b42e5a3/18/file",
+							"assetVersion": 1,
+							"created_at": "2024-12-15T02:19:56.785Z",
+							"id": "unp_85aa4dc2-e6ea-4c61-acb9-2854c2b74e0b",
+							"platform": "android",
+							"unitySortNumber": 20190431000,
+							"unityVersion": "2019.4.31f1"
+						},
+						{
+							"assetUrl": "https://api.vrchat.cloud/api/1/file/file_f2230241-64e5-4a2f-9ff2-8f940ae0aeb8/33/file",
+							"assetVersion": 1,
+							"created_at": "2025-02-19T10:11:35.676Z",
+							"id": "unp_24e347ed-0e84-41ea-8df9-4d51726311be",
+							"platform": "standalonewindows",
+							"unitySortNumber": 20190431000,
+							"unityVersion": "2019.4.31f1"
+						}
+					],
+					"updated_at": "2025-02-19T10:11:35.747Z",
+					"urlList": [],
+					"version": 66,
+					"visits": 3289
+				},
+				{
+					"authorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+					"authorName": "shinchan․",
+					"capacity": 32,
+					"created_at": "2024-02-03T11:33:34.026Z",
+					"defaultContentSettings": {},
+					"description": "Helicopter Install of Power Line Marker Balls․ The source is available on GitHub․",
+					"favoriteGroup": "worlds1",
+					"favoriteId": "fvrt_fdefcad8-101c-4e68-a7c1-619009ba6fee",
+					"favorites": 161,
+					"featured": false,
+					"heat": 2,
+					"id": "wrld_c068510e-36c0-42ed-9a6a-942b649215df",
+					"imageUrl": "https://api.vrchat.cloud/api/1/file/file_8bd9f886-7d4c-4c5f-a969-071b7a6db15c/8/file",
+					"labsPublicationDate": "2024-03-15T11:13:06.985Z",
+					"name": "Power Line Marker Balls",
+					"occupants": 0,
+					"organization": "vrchat",
+					"popularity": 5,
+					"previewYoutubeId": null,
+					"publicationDate": "2024-03-18T05:39:34.087Z",
+					"recommendedCapacity": 16,
+					"releaseStatus": "public",
+					"tags": [
+						"author_tag_helicopter",
+						"author_tag_flight",
+						"system_approved"
+					],
+					"thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_8bd9f886-7d4c-4c5f-a969-071b7a6db15c/8/256",
+					"udonProducts": [],
+					"unityPackages": [
+						{
+							"assetUrl": "https://api.vrchat.cloud/api/1/file/file_c67592b1-aca1-4990-9559-c0ecbfa1ee1b/8/file",
+							"assetVersion": 1,
+							"created_at": "2024-07-27T04:49:29.028Z",
+							"id": "unp_31f1ff68-e7b7-4bab-ad33-f9a62aebedf4",
+							"platform": "android",
+							"unitySortNumber": 20190431000,
+							"unityVersion": "2019.4.31f1"
+						},
+						{
+							"assetUrl": "https://api.vrchat.cloud/api/1/file/file_20c21453-c7ac-426c-b463-caea148b38cc/30/file",
+							"assetVersion": 1,
+							"created_at": "2024-07-27T04:55:34.111Z",
+							"id": "unp_a9e5a8d6-fe9d-4617-a36c-d3f53b3d916a",
+							"platform": "standalonewindows",
+							"unitySortNumber": 20190431000,
+							"unityVersion": "2019.4.31f1"
+						}
+					],
+					"updated_at": "2024-07-27T04:55:34.326Z",
+					"urlList": [],
+					"version": 50,
+					"visits": 2001
+				}
+			]
+		}
+	]
+}
