@@ -3,7 +3,7 @@
   "ShowPrivateWorld": false,
   "Categorys": [
     {
-      "Category": "\u4F5C\u6210\u65E5\u9806",
+      "Category": "\u4F5C\u6210\u65E5\u9806(CreatedAt)",
       "Worlds": [
         {
           "ID": "wrld_605da853-4299-4e0e-9b56-1ce631b4310a",
@@ -30,7 +30,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "\u3042\u3084\u3084\u306D",
@@ -62,7 +62,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "\u30D0\u30F3\u30DC\u30FC\uFF08Bambo\uFF09",
@@ -78,7 +78,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
@@ -174,7 +174,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_e24579cf-6cca-4cce-8246-c9d674073f98",
           "AuthorName": "\u3075\u304F\u3079\uFF3BHukube\uFF3D",
@@ -238,7 +238,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "\u308F\u305F\u307C\u30FC",
@@ -254,7 +254,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_16fb9a83-755c-4024-b484-4230b35190ad",
           "AuthorName": "akira0111",
@@ -286,7 +286,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -318,7 +318,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -382,7 +382,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_efc9fd3c-b40d-44d1-8fda-4a46ca6407e7",
           "AuthorName": "DoritosDontacos",
@@ -398,7 +398,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "\u307E\u3053\u307A\u3063\u307A",
@@ -414,7 +414,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -462,7 +462,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "\u307E\u3053\u307A\u3063\u307A",
@@ -510,7 +510,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -574,7 +574,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
@@ -606,7 +606,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -622,7 +622,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -654,7 +654,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -686,7 +686,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -766,7 +766,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -782,7 +782,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -798,7 +798,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -830,7 +830,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -846,7 +846,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -910,7 +910,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -942,7 +942,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -958,7 +958,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -974,7 +974,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_464689ff-8d40-49e2-b864-e37cf9c1825a",
           "AuthorName": "\u3071\u30FC\u3057\u30FC HyprShield",
@@ -990,7 +990,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -1022,7 +1022,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -1054,7 +1054,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -1086,7 +1086,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -1182,7 +1182,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -1214,7 +1214,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -1230,7 +1230,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -1246,7 +1246,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_6b2302e2-8bdd-4ab1-8935-fc8cbd8e7706",
           "AuthorName": "Object",
@@ -1342,7 +1342,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -1374,7 +1374,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "\u304B\u3082\u307F\u30FC\u308B",
@@ -1390,7 +1390,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d2de03f5-c2b3-4074-b8cd-26b997fdbf18",
           "AuthorName": "HAZARD and Clay",
@@ -1422,7 +1422,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -1518,7 +1518,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
@@ -1550,7 +1550,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_e2c77056-5d54-479a-a71e-5af5224e0885",
           "AuthorName": "zakimeru",
@@ -1566,7 +1566,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch\u2024",
@@ -1614,7 +1614,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -1662,7 +1662,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7fe9ece6-1fcd-4eb6-81a7-20851b87dc4a",
           "AuthorName": "_l Mia l_",
@@ -1758,7 +1758,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -1774,7 +1774,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
@@ -1806,7 +1806,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
@@ -1822,7 +1822,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -1838,7 +1838,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
           "AuthorName": "long-potato",
@@ -1886,7 +1886,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -1902,7 +1902,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -1966,7 +1966,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -1982,7 +1982,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -2030,7 +2030,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "\u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
@@ -2094,7 +2094,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_3c06993c-1bbd-43bc-bd6c-bfab1fcdebd2",
           "AuthorName": "kiri\uFF08\u304D\u308A\uFF09",
@@ -2158,7 +2158,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b4928eee-07da-4f21-a813-2e32d9271feb",
           "AuthorName": "Silverlighting",
@@ -2174,7 +2174,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -2190,7 +2190,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -2206,7 +2206,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -2222,7 +2222,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -2238,7 +2238,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -2254,7 +2254,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -2334,7 +2334,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -2350,7 +2350,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d3bef383-a6cd-4937-826e-9cdf568e2dea",
           "AuthorName": "Catycat",
@@ -2366,7 +2366,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -2398,7 +2398,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -2446,7 +2446,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -2462,7 +2462,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -2558,7 +2558,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_ebcf00fe-08b2-4a2f-bceb-b87e8c19130a",
           "AuthorName": "yothy\uFF08JP\uFF09",
@@ -2606,7 +2606,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d0ae9f18-080f-4c68-a907-3d5c31debc7e",
           "AuthorName": "\u661F\u898B\u305D\u3089",
@@ -2638,7 +2638,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
@@ -2654,7 +2654,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -2680,7 +2680,7 @@
       ]
     },
     {
-      "Category": "\u66F4\u65B0\u65E5\u9806",
+      "Category": "\u66F4\u65B0\u65E5\u9806(UpdatedAt)",
       "Worlds": [
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -2691,7 +2691,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "\u3042\u3084\u3084\u306D",
@@ -2755,7 +2755,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
@@ -2803,7 +2803,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -2819,7 +2819,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -2835,7 +2835,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -2867,7 +2867,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "\u30D0\u30F3\u30DC\u30FC\uFF08Bambo\uFF09",
@@ -2915,7 +2915,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
@@ -2931,7 +2931,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -2947,7 +2947,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_3c06993c-1bbd-43bc-bd6c-bfab1fcdebd2",
           "AuthorName": "kiri\uFF08\u304D\u308A\uFF09",
@@ -2995,7 +2995,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -3011,7 +3011,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "\u308F\u305F\u307C\u30FC",
@@ -3059,7 +3059,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_16fb9a83-755c-4024-b484-4230b35190ad",
           "AuthorName": "akira0111",
@@ -3075,7 +3075,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "\u304B\u3082\u307F\u30FC\u308B",
@@ -3091,7 +3091,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -3107,7 +3107,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -3155,7 +3155,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
@@ -3171,7 +3171,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -3219,7 +3219,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -3267,7 +3267,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
           "AuthorName": "long-potato",
@@ -3283,7 +3283,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -3315,7 +3315,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch\u2024",
@@ -3347,7 +3347,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -3379,7 +3379,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -3395,7 +3395,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_e24579cf-6cca-4cce-8246-c9d674073f98",
           "AuthorName": "\u3075\u304F\u3079\uFF3BHukube\uFF3D",
@@ -3411,7 +3411,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -3427,7 +3427,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -3459,7 +3459,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "\u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
@@ -3475,7 +3475,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_e2c77056-5d54-479a-a71e-5af5224e0885",
           "AuthorName": "zakimeru",
@@ -3507,7 +3507,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -3555,7 +3555,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -3571,7 +3571,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -3635,7 +3635,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -3651,7 +3651,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -3667,7 +3667,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -3683,7 +3683,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_464689ff-8d40-49e2-b864-e37cf9c1825a",
           "AuthorName": "\u3071\u30FC\u3057\u30FC HyprShield",
@@ -3731,7 +3731,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -3747,7 +3747,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -3795,7 +3795,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -3827,7 +3827,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -3843,7 +3843,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -3859,7 +3859,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -3875,7 +3875,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -3939,7 +3939,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "\u307E\u3053\u307A\u3063\u307A",
@@ -3955,7 +3955,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -3987,7 +3987,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_efc9fd3c-b40d-44d1-8fda-4a46ca6407e7",
           "AuthorName": "DoritosDontacos",
@@ -4003,7 +4003,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "\u307E\u3053\u307A\u3063\u307A",
@@ -4083,7 +4083,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -4115,7 +4115,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -4179,7 +4179,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -4195,7 +4195,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -4211,7 +4211,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_6b2302e2-8bdd-4ab1-8935-fc8cbd8e7706",
           "AuthorName": "Object",
@@ -4243,7 +4243,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -4291,7 +4291,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -4403,7 +4403,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -4435,7 +4435,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
@@ -4451,7 +4451,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -4467,7 +4467,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d2de03f5-c2b3-4074-b8cd-26b997fdbf18",
           "AuthorName": "HAZARD and Clay",
@@ -4547,7 +4547,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d0ae9f18-080f-4c68-a907-3d5c31debc7e",
           "AuthorName": "\u661F\u898B\u305D\u3089",
@@ -4563,7 +4563,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7fe9ece6-1fcd-4eb6-81a7-20851b87dc4a",
           "AuthorName": "_l Mia l_",
@@ -4771,7 +4771,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b4928eee-07da-4f21-a813-2e32d9271feb",
           "AuthorName": "Silverlighting",
@@ -4851,7 +4851,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
@@ -4899,7 +4899,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
@@ -5027,7 +5027,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -5043,7 +5043,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -5075,7 +5075,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -5091,7 +5091,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -5139,7 +5139,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -5187,7 +5187,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d3bef383-a6cd-4937-826e-9cdf568e2dea",
           "AuthorName": "Catycat",
@@ -5203,7 +5203,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -5219,7 +5219,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -5299,7 +5299,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -5347,7 +5347,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_ebcf00fe-08b2-4a2f-bceb-b87e8c19130a",
           "AuthorName": "yothy\uFF08JP\uFF09",
@@ -5357,7 +5357,7 @@
       ]
     },
     {
-      "Category": "\u30EF\u30FC\u30EB\u30C9\u540D\u9806",
+      "Category": "\u30EF\u30FC\u30EB\u30C9\u540D\u9806(WorldName)",
       "Worlds": [
         {
           "ID": "wrld_22a788ce-5a81-41dc-a455-70816f72f71a",
@@ -5400,7 +5400,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -5432,7 +5432,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -5480,7 +5480,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
@@ -5496,7 +5496,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -5608,7 +5608,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -5624,7 +5624,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -5640,7 +5640,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -5656,7 +5656,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_efc9fd3c-b40d-44d1-8fda-4a46ca6407e7",
           "AuthorName": "DoritosDontacos",
@@ -5672,7 +5672,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -5688,7 +5688,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -5736,7 +5736,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d2de03f5-c2b3-4074-b8cd-26b997fdbf18",
           "AuthorName": "HAZARD and Clay",
@@ -5752,7 +5752,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -5800,7 +5800,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch\u2024",
@@ -5864,7 +5864,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -5880,7 +5880,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "\u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
@@ -5944,7 +5944,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -5976,7 +5976,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7fe9ece6-1fcd-4eb6-81a7-20851b87dc4a",
           "AuthorName": "_l Mia l_",
@@ -6024,7 +6024,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -6056,7 +6056,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d3bef383-a6cd-4937-826e-9cdf568e2dea",
           "AuthorName": "Catycat",
@@ -6088,7 +6088,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_e2c77056-5d54-479a-a71e-5af5224e0885",
           "AuthorName": "zakimeru",
@@ -6248,7 +6248,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -6296,7 +6296,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
@@ -6344,7 +6344,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_ebcf00fe-08b2-4a2f-bceb-b87e8c19130a",
           "AuthorName": "yothy\uFF08JP\uFF09",
@@ -6360,7 +6360,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
@@ -6456,7 +6456,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -6488,7 +6488,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "\u308F\u305F\u307C\u30FC",
@@ -6584,7 +6584,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
@@ -6600,7 +6600,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -6616,7 +6616,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -6632,7 +6632,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
           "AuthorName": "long-potato",
@@ -6648,7 +6648,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -6664,7 +6664,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -6680,7 +6680,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -6696,7 +6696,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_6b2302e2-8bdd-4ab1-8935-fc8cbd8e7706",
           "AuthorName": "Object",
@@ -6712,7 +6712,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
@@ -6760,7 +6760,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
@@ -6808,7 +6808,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -6856,7 +6856,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -6904,7 +6904,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -6920,7 +6920,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -6968,7 +6968,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -6984,7 +6984,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -7000,7 +7000,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -7080,7 +7080,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d0ae9f18-080f-4c68-a907-3d5c31debc7e",
           "AuthorName": "\u661F\u898B\u305D\u3089",
@@ -7176,7 +7176,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -7192,7 +7192,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -7208,7 +7208,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b4928eee-07da-4f21-a813-2e32d9271feb",
           "AuthorName": "Silverlighting",
@@ -7256,7 +7256,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -7272,7 +7272,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_e24579cf-6cca-4cce-8246-c9d674073f98",
           "AuthorName": "\u3075\u304F\u3079\uFF3BHukube\uFF3D",
@@ -7304,7 +7304,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "\u3042\u3084\u3084\u306D",
@@ -7336,7 +7336,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -7384,7 +7384,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -7400,7 +7400,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -7432,7 +7432,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -7448,7 +7448,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "\u304B\u3082\u307F\u30FC\u308B",
@@ -7480,7 +7480,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "\u307E\u3053\u307A\u3063\u307A",
@@ -7512,7 +7512,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_464689ff-8d40-49e2-b864-e37cf9c1825a",
           "AuthorName": "\u3071\u30FC\u3057\u30FC HyprShield",
@@ -7528,7 +7528,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -7544,7 +7544,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -7576,7 +7576,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_3c06993c-1bbd-43bc-bd6c-bfab1fcdebd2",
           "AuthorName": "kiri\uFF08\u304D\u308A\uFF09",
@@ -7608,7 +7608,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
@@ -7640,7 +7640,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_16fb9a83-755c-4024-b484-4230b35190ad",
           "AuthorName": "akira0111",
@@ -7672,7 +7672,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "\u307E\u3053\u307A\u3063\u307A",
@@ -7720,7 +7720,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
@@ -7736,7 +7736,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -7768,7 +7768,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -7864,7 +7864,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -7896,7 +7896,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "\u30D0\u30F3\u30DC\u30FC\uFF08Bambo\uFF09",
@@ -7912,7 +7912,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -7960,7 +7960,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -7976,7 +7976,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -8024,7 +8024,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -8034,7 +8034,7 @@
       ]
     },
     {
-      "Category": "\u4F5C\u8005\u540D\u9806",
+      "Category": "\u4F5C\u8005\u540D\u9806(AuthorName)",
       "Worlds": [
         {
           "ID": "wrld_455e5734-4463-44a9-b6f6-516a3c538eff",
@@ -8045,7 +8045,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7fe9ece6-1fcd-4eb6-81a7-20851b87dc4a",
           "AuthorName": "_l Mia l_",
@@ -8069,22 +8069,6 @@
           "UpdatedAt": "2025-02-13T10:19:58.119Z"
         },
         {
-          "ID": "wrld_37b0eeae-86ce-42e0-9600-81be88d65028",
-          "Name": "Case III - Carrier in a Storm - By 5Sori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "It is a world where you can experience a aircraft carrier in a storm\u2024 Try landing and flying in low visibility\u01C3 There are also several features such as TACAN and ILS automated LSO\u2024 Some features may not work or there may be bugs due to work in progress\u2024 \u2217 Recent Update \u02F8 Adjust plane\u0027s seat\u201A Fixed HMD func of heli",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
-          "AuthorName": "5Sori",
-          "CreatedAt": "2023-11-09T13:50:04.267Z",
-          "UpdatedAt": "2023-12-10T04:13:48.996Z"
-        },
-        {
           "ID": "wrld_605da853-4299-4e0e-9b56-1ce631b4310a",
           "Name": "Intercept\u02F8 Broken Sky By 5Sori",
           "RecommendedCapacity": 8,
@@ -8101,6 +8085,22 @@
           "UpdatedAt": "2025-03-19T15:55:37.712Z"
         },
         {
+          "ID": "wrld_37b0eeae-86ce-42e0-9600-81be88d65028",
+          "Name": "Case III - Carrier in a Storm - By 5Sori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "It is a world where you can experience a aircraft carrier in a storm\u2024 Try landing and flying in low visibility\u01C3 There are also several features such as TACAN and ILS automated LSO\u2024 Some features may not work or there may be bugs due to work in progress\u2024 \u2217 Recent Update \u02F8 Adjust plane\u0027s seat\u201A Fixed HMD func of heli",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
+          "AuthorName": "5Sori",
+          "CreatedAt": "2023-11-09T13:50:04.267Z",
+          "UpdatedAt": "2023-12-10T04:13:48.996Z"
+        },
+        {
           "ID": "wrld_b0eb9b72-2498-47c2-9bc3-d24aca5aed71",
           "Name": "Just Urban CAS By 5Sori",
           "RecommendedCapacity": 16,
@@ -8109,7 +8109,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
@@ -8141,7 +8141,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch\u2024",
@@ -8157,7 +8157,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_16fb9a83-755c-4024-b484-4230b35190ad",
           "AuthorName": "akira0111",
@@ -8173,7 +8173,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d3bef383-a6cd-4937-826e-9cdf568e2dea",
           "AuthorName": "Catycat",
@@ -8237,28 +8237,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
           "CreatedAt": "2023-08-16T05:56:02.733Z",
           "UpdatedAt": "2024-11-30T11:53:29.653Z"
-        },
-        {
-          "ID": "wrld_2497040b-ab48-491e-b83d-48df41e73170",
-          "Name": "Project Helo By CodyHayzett",
-          "RecommendedCapacity": 18,
-          "Capacity": 50,
-          "Description": "Practice flying helicopters here\u2024 Last update\u02F8 11\u204427\u20442024",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
-          "AuthorName": "CodyHayzett",
-          "CreatedAt": "2021-12-17T07:26:50.542Z",
-          "UpdatedAt": "2024-12-01T02:18:53.623Z"
         },
         {
           "ID": "wrld_a77d0208-be34-43cc-975f-1020c9353736",
@@ -8269,12 +8253,28 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
           "CreatedAt": "2022-04-03T19:21:19.491Z",
           "UpdatedAt": "2022-04-03T19:34:01.48Z"
+        },
+        {
+          "ID": "wrld_2497040b-ab48-491e-b83d-48df41e73170",
+          "Name": "Project Helo By CodyHayzett",
+          "RecommendedCapacity": 18,
+          "Capacity": 50,
+          "Description": "Practice flying helicopters here\u2024 Last update\u02F8 11\u204427\u20442024",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
+          "AuthorName": "CodyHayzett",
+          "CreatedAt": "2021-12-17T07:26:50.542Z",
+          "UpdatedAt": "2024-12-01T02:18:53.623Z"
         },
         {
           "ID": "wrld_60300d73-dd92-47d6-a5d3-ad3b7676d0a5",
@@ -8317,7 +8317,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_efc9fd3c-b40d-44d1-8fda-4a46ca6407e7",
           "AuthorName": "DoritosDontacos",
@@ -8333,12 +8333,28 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
           "CreatedAt": "2022-04-07T08:32:50.917Z",
           "UpdatedAt": "2022-07-16T12:13:38.811Z"
+        },
+        {
+          "ID": "wrld_b861593b-930d-48da-b231-cc0504e11cbd",
+          "Name": "\uFF3BPC\u2044QUEST\uFF3DFlight Training\u02F8 Light Aircraft \uFF06 Helicopter \uFF3BRJSS\uFF3D By ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "3 x MA40NG by Zlin Aerospace \uFF06 2 x MH315 by Zlin Rotorcraft\u2024 Powered by SaccFlightAndVehicles\u2024 About 30 to 40 FPS on Quest2\u2024",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
+          "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
+          "CreatedAt": "2022-03-19T12:04:08.58Z",
+          "UpdatedAt": "2022-04-14T06:30:54.605Z"
         },
         {
           "ID": "wrld_82ec644c-43b0-434c-9179-80623ef98887",
@@ -8357,38 +8373,6 @@
           "UpdatedAt": "2022-06-10T15:21:31.099Z"
         },
         {
-          "ID": "wrld_b861593b-930d-48da-b231-cc0504e11cbd",
-          "Name": "\uFF3BPC\u2044QUEST\uFF3DFlight Training\u02F8 Light Aircraft \uFF06 Helicopter \uFF3BRJSS\uFF3D By ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "3 x MA40NG by Zlin Aerospace \uFF06 2 x MH315 by Zlin Rotorcraft\u2024 Powered by SaccFlightAndVehicles\u2024 About 30 to 40 FPS on Quest2\u2024",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
-          "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
-          "CreatedAt": "2022-03-19T12:04:08.58Z",
-          "UpdatedAt": "2022-04-14T06:30:54.605Z"
-        },
-        {
-          "ID": "wrld_76300b35-ace7-43a9-999b-f1743e34b62d",
-          "Name": "Esnya Aircraft Laboratory 2\u20241\u20240-rc\u20248 By ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
-          "RecommendedCapacity": 80,
-          "Capacity": 80,
-          "Description": "\uFF3BVCC Upgrade Work in Progress - Caution for Bugs\uFF3D ILS\u201A VOR\u201A DME for high-level navigation\u2024 Virtual 3D Flight Radar for situational awareness\u2024 Realistic aircraft handling under full IMC\uFF08Instrument Meteorological Conditions\uFF09\u2024 UdonChips-SaccFlight collaboration for rewards and activities\u2024 Adjustable sun and fog\u2024 Penalties for misconduct\u201A bonuses for hidden treasures\u2024",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
-          "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
-          "CreatedAt": "2021-06-01T22:07:05.251Z",
-          "UpdatedAt": "2023-10-03T14:54:24.608Z"
-        },
-        {
           "ID": "wrld_85544359-8645-4aa1-9f3b-a573dd2b4946",
           "Name": "Happy 5\u20245\u00B0 Approach \uFF3BEGLC\uFF3D By ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
           "RecommendedCapacity": 16,
@@ -8397,12 +8381,28 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
           "CreatedAt": "2022-01-31T12:00:12.706Z",
           "UpdatedAt": "2022-06-21T08:53:24.815Z"
+        },
+        {
+          "ID": "wrld_5241df39-9624-4d25-b644-edb11fe645bf",
+          "Name": "RJBK KOHNAN By ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Powerd by SaccFlightAndVehicles \u2044 Vehicles from ZlinHeavyIndustries \u2044 Added RJOT and RJOB",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
+          "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
+          "CreatedAt": "2021-12-09T17:45:52.051Z",
+          "UpdatedAt": "2023-10-11T11:26:35.159Z"
         },
         {
           "ID": "wrld_59f16d97-0e4d-43c1-9624-291a2a2125ee",
@@ -8421,22 +8421,6 @@
           "UpdatedAt": "2022-06-17T10:04:38.392Z"
         },
         {
-          "ID": "wrld_5241df39-9624-4d25-b644-edb11fe645bf",
-          "Name": "RJBK KOHNAN By ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "Powerd by SaccFlightAndVehicles \u2044 Vehicles from ZlinHeavyIndustries \u2044 Added RJOT and RJOB",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
-          "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
-          "CreatedAt": "2021-12-09T17:45:52.051Z",
-          "UpdatedAt": "2023-10-11T11:26:35.159Z"
-        },
-        {
           "ID": "wrld_6e11b9d6-c445-4c8a-8652-eb483f3f74e7",
           "Name": "Zlin Heavy Industries Testdrome 2\u20241\u20243 By ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
           "RecommendedCapacity": 8,
@@ -8451,6 +8435,22 @@
           "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
           "CreatedAt": "2021-09-27T10:39:47.476Z",
           "UpdatedAt": "2023-10-03T14:19:15.273Z"
+        },
+        {
+          "ID": "wrld_76300b35-ace7-43a9-999b-f1743e34b62d",
+          "Name": "Esnya Aircraft Laboratory 2\u20241\u20240-rc\u20248 By ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "\uFF3BVCC Upgrade Work in Progress - Caution for Bugs\uFF3D ILS\u201A VOR\u201A DME for high-level navigation\u2024 Virtual 3D Flight Radar for situational awareness\u2024 Realistic aircraft handling under full IMC\uFF08Instrument Meteorological Conditions\uFF09\u2024 UdonChips-SaccFlight collaboration for rewards and activities\u2024 Adjustable sun and fog\u2024 Penalties for misconduct\u201A bonuses for hidden treasures\u2024",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_429b25d8-e193-4f92-8321-ec05f3a81f1c",
+          "AuthorName": "ESNYA\uFF0F\u30A8\u30B9\u30CB\u30E4",
+          "CreatedAt": "2021-06-01T22:07:05.251Z",
+          "UpdatedAt": "2023-10-03T14:54:24.608Z"
         },
         {
           "ID": "wrld_036088f9-6834-419c-b506-69bae28cfeb8",
@@ -8525,7 +8525,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d2de03f5-c2b3-4074-b8cd-26b997fdbf18",
           "AuthorName": "HAZARD and Clay",
@@ -8541,7 +8541,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
@@ -8565,22 +8565,6 @@
           "UpdatedAt": "2022-07-16T11:32:58.698Z"
         },
         {
-          "ID": "wrld_a0391269-7b95-4e39-9bd3-7826c40ed917",
-          "Name": "Bavarian Pride By Just a Nomad",
-          "RecommendedCapacity": 64,
-          "Capacity": 64,
-          "Description": "Blame Fallapa for the name\u2024",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
-          "AuthorName": "Just a Nomad",
-          "CreatedAt": "2023-04-17T06:32:35.121Z",
-          "UpdatedAt": "2023-09-21T19:35:45.75Z"
-        },
-        {
           "ID": "wrld_92e91ec6-9a9f-44a4-ab18-be12eb8aaef2",
           "Name": "Desert Canyon By Just a Nomad",
           "RecommendedCapacity": 64,
@@ -8597,6 +8581,22 @@
           "UpdatedAt": "2024-03-07T17:52:55.961Z"
         },
         {
+          "ID": "wrld_a0391269-7b95-4e39-9bd3-7826c40ed917",
+          "Name": "Bavarian Pride By Just a Nomad",
+          "RecommendedCapacity": 64,
+          "Capacity": 64,
+          "Description": "Blame Fallapa for the name\u2024",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
+          "AuthorName": "Just a Nomad",
+          "CreatedAt": "2023-04-17T06:32:35.121Z",
+          "UpdatedAt": "2023-09-21T19:35:45.75Z"
+        },
+        {
           "ID": "wrld_ce7724c6-3b26-4d4e-9a70-089ef68b2277",
           "Name": "Insel\u201A wo das Gras gr\u00FCn w\u00E4chst By Just a Nomad",
           "RecommendedCapacity": 32,
@@ -8611,6 +8611,22 @@
           "AuthorName": "Just a Nomad",
           "CreatedAt": "2022-08-03T19:29:58.527Z",
           "UpdatedAt": "2023-04-09T12:24:01.734Z"
+        },
+        {
+          "ID": "wrld_6851ac71-ee38-4c5a-a918-400fdeb3b7b8",
+          "Name": "Tokyoflight23 By katamitirunner",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "PLATEAU\u3092\u4F7F\u7528\u3057\u305F\u98DB\u884C\u6A5F\u3092\u98DB\u3070\u305B\u308B\u30EF\u30FC\u30EB\u30C9\u306E23\u533A\u306E\u5927\u304D\u3055\u7248\u3067\u3059\u300220240623update",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
+          "AuthorName": "katamitirunner",
+          "CreatedAt": "2023-10-18T10:19:00.137Z",
+          "UpdatedAt": "2024-06-22T18:53:01.077Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -8645,22 +8661,6 @@
           "UpdatedAt": "2023-03-15T17:34:10.564Z"
         },
         {
-          "ID": "wrld_6851ac71-ee38-4c5a-a918-400fdeb3b7b8",
-          "Name": "Tokyoflight23 By katamitirunner",
-          "RecommendedCapacity": 80,
-          "Capacity": 80,
-          "Description": "PLATEAU\u3092\u4F7F\u7528\u3057\u305F\u98DB\u884C\u6A5F\u3092\u98DB\u3070\u305B\u308B\u30EF\u30FC\u30EB\u30C9\u306E23\u533A\u306E\u5927\u304D\u3055\u7248\u3067\u3059\u300220240623update",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
-          "AuthorName": "katamitirunner",
-          "CreatedAt": "2023-10-18T10:19:00.137Z",
-          "UpdatedAt": "2024-06-22T18:53:01.077Z"
-        },
-        {
           "ID": "wrld_cb2f6666-765c-4060-a42d-fbd4892b7778",
           "Name": "BB-63 USS Missouri 1990\u0027s By katsuobusi24",
           "RecommendedCapacity": 40,
@@ -8677,22 +8677,6 @@
           "UpdatedAt": "2024-09-02T05:35:25.733Z"
         },
         {
-          "ID": "wrld_dd7618dc-b7cf-483c-b256-7e65bdb6b0a2",
-          "Name": "\u5929\u7A7A\u6BCD Tenkubo \uFF08PC\u2044Quest\uFF09 By Katu-",
-          "RecommendedCapacity": 16,
-          "Capacity": 64,
-          "Description": "\u5929\u7A7A\u306E\u96F2\u6D77\u306B\u6D6E\u304B\u3076\u7A7A\u6BCD\u3067\u3059\u3002 \u8266\u6A4B\u3067\u304F\u3064\u308D\u3052\u308B\u3088\u3046\u306B\u3057\u307E\u3057\u305F\u3002 \u30DF\u30B5\u30A4\u30EB\u3092\u6CA2\u5C71\uFF08\u6570\u4E07\u767A\uFF09\u767A\u5C04\u3067\u304D\u308B\u69D8\u306B\u3057\u3066\u3044\u307E\u3059\u3002 \u6D6E\u3044\u3066\u3044\u308B\u6575UFO\u306B\u767A\u5C04\u3057\u3066\u304F\u3060\u3055\u3044\u3002 \u4ECA\u5F8C\u3082\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8\u3057\u3066\u3044\u304D\u307E\u3059\uFF01 An aircraft carrier floating over the cloud\u2024 You can relax on the bridge of aircraft carrier\u2024 The aircrafts are set up to fire a large number of missiles \uFF08around tens of thousands\uFF09\u2024 Please fire at the floating enemy UFO\u2024 I will continue to update\u01C3",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
-          "AuthorName": "Katu-",
-          "CreatedAt": "2023-12-17T09:13:02.172Z",
-          "UpdatedAt": "2024-03-13T12:02:53.573Z"
-        },
-        {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
           "Name": "\u65E5\u672C\u5217\u5CF6 1\u02F81 Real Scale Japan\uFF08OWML\uFF09\uFF08PC\u2044Quest\uFF09 By Katu-",
           "RecommendedCapacity": 16,
@@ -8701,12 +8685,28 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
           "CreatedAt": "2024-03-31T15:56:34.153Z",
           "UpdatedAt": "2025-03-02T02:38:24.118Z"
+        },
+        {
+          "ID": "wrld_dd7618dc-b7cf-483c-b256-7e65bdb6b0a2",
+          "Name": "\u5929\u7A7A\u6BCD Tenkubo \uFF08PC\u2044Quest\uFF09 By Katu-",
+          "RecommendedCapacity": 16,
+          "Capacity": 64,
+          "Description": "\u5929\u7A7A\u306E\u96F2\u6D77\u306B\u6D6E\u304B\u3076\u7A7A\u6BCD\u3067\u3059\u3002 \u8266\u6A4B\u3067\u304F\u3064\u308D\u3052\u308B\u3088\u3046\u306B\u3057\u307E\u3057\u305F\u3002 \u30DF\u30B5\u30A4\u30EB\u3092\u6CA2\u5C71\uFF08\u6570\u4E07\u767A\uFF09\u767A\u5C04\u3067\u304D\u308B\u69D8\u306B\u3057\u3066\u3044\u307E\u3059\u3002 \u6D6E\u3044\u3066\u3044\u308B\u6575UFO\u306B\u767A\u5C04\u3057\u3066\u304F\u3060\u3055\u3044\u3002 \u4ECA\u5F8C\u3082\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8\u3057\u3066\u3044\u304D\u307E\u3059\uFF01 An aircraft carrier floating over the cloud\u2024 You can relax on the bridge of aircraft carrier\u2024 The aircrafts are set up to fire a large number of missiles \uFF08around tens of thousands\uFF09\u2024 Please fire at the floating enemy UFO\u2024 I will continue to update\u01C3",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
+          "AuthorName": "Katu-",
+          "CreatedAt": "2023-12-17T09:13:02.172Z",
+          "UpdatedAt": "2024-03-13T12:02:53.573Z"
         },
         {
           "ID": "wrld_ec9586d7-422e-453b-8c1e-923c7169c616",
@@ -8717,7 +8717,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_3c06993c-1bbd-43bc-bd6c-bfab1fcdebd2",
           "AuthorName": "kiri\uFF08\u304D\u308A\uFF09",
@@ -8733,7 +8733,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
           "AuthorName": "long-potato",
@@ -8773,22 +8773,6 @@
           "UpdatedAt": "2023-02-03T12:15:19.565Z"
         },
         {
-          "ID": "wrld_bf0938c7-138f-4977-806d-29e373ebd4db",
-          "Name": "NC-220 flight world By Nameko649",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "NC-220 flight",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
-          "AuthorName": "Nameko649",
-          "CreatedAt": "2023-12-18T14:33:27.358Z",
-          "UpdatedAt": "2023-12-20T12:51:33.137Z"
-        },
-        {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
           "Name": "Vierinan War 1967 By Nameko649",
           "RecommendedCapacity": 16,
@@ -8805,36 +8789,20 @@
           "UpdatedAt": "2025-03-14T19:15:37.377Z"
         },
         {
-          "ID": "wrld_2510c4ed-e63c-4921-aea3-0f23031b8295",
-          "Name": "\u4E0A\u9AD8\u5730\uFF08Kamikochi\uFF09\u5730\u5F62\u56F3\u30D5\u30E9\u30A4\u30C8 \uFF3BOWML\uFF3D By noritama3",
+          "ID": "wrld_bf0938c7-138f-4977-806d-29e373ebd4db",
+          "Name": "NC-220 flight world By Nameko649",
           "RecommendedCapacity": 16,
-          "Capacity": 40,
-          "Description": "2\u20245\u4E07\u5206\u306E1\u5730\u56F3\u30921\u5206\u306E1\u306B\u3057\u305F\u975E\u516C\u5F0F\u30D0\u30FC\u30C1\u30E3\u30EB\u4E0A\u9AD8\u5730\uFF08\u795E\u964D\u5730\uFF09\u3067\u5730\u5F62\u56F3\u3068\u5B9F\u969B\u306E\u5730\u5F62\u3092\u4F53\u611F\u3057\u3088\u3046\uFF01 \u30D8\u30EA\uFF0812\u4EBA\u4E57\u308ABell-412\uFF09\u3067\u904A\u89A7\u98DB\u884C\u3092\u304A\u697D\u3057\u307F\u304F\u3060\u3055\u3044\u3002 \u4F8B\u306B\u3088\u3063\u3066\u4E3B\u8981\u306A\u5C0F\u5C4B\u306B\u30D8\u30EA\u30D1\u30C3\u30C9\u3092\u8A2D\u7F6E\u3057\u3066\u3044\u304F\u4E88\u5B9A\u3067\u3059\u3002 \u5730\u5F62\u30C7\u30FC\u30BF\u51FA\u5178\uFF1A\u96FB\u5B50\u5730\u5F62\u56F325000\uFF08\u56FD\u571F\u5730\u7406\u9662\uFF09\u5730\u7406\u9662\u30BF\u30A4\u30EB\u3001\u56FD\u571F\u5730\u7406\u9662\u30A6\u30A7\u30D6\u30B5\u30A4\u30C8 \u57FA\u76E4\u5730\u56F3\u60C5\u5831\u30C0\u30A6\u30F3\u30ED\u30FC\u30C9\u30B5\u30A4\u30C8 https\u02F8\u2044\u2044fgd\u2024gsi\u2024go\u2024jp\u2044download\u2044menu\u2024php \u5730\u5F62\u30C7\u30FC\u30BF\u3092\u52A0\u5DE5\u3057\u3066\u5229\u7528\u20442024-0619 8\u4EBA\u4E57\u308A Super Sonic Tofu \u8FFD\u52A0 \u20442024-1013 SDK3\u20247\u20241",
+          "Capacity": 32,
+          "Description": "NC-220 flight",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": false
           },
-          "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
-          "AuthorName": "noritama3",
-          "CreatedAt": "2024-06-01T09:19:09.626Z",
-          "UpdatedAt": "2024-10-12T17:52:16.762Z"
-        },
-        {
-          "ID": "wrld_3eeefe79-eeaa-446d-9123-6fae997c2d8f",
-          "Name": "\u5C3E\u702C\uFF08Oze\uFF09\u30D5\u30E9\u30A4\u30C8 \uFF3BOWML\uFF3D By noritama3",
-          "RecommendedCapacity": 24,
-          "Capacity": 40,
-          "Description": "\u5C3E\u702C\u3092\u7A7A\u4E2D\u6563\u6B69\u3002saccflight\u306E\u6A5F\u80FD\u3067\u30A2\u30D0\u30BF\u30FC\u5358\u4F53\u3067\u3082\u98DB\u3093\u3067\u3044\u3051\u307E\u3059\uFF01\u30CF\u30A4\u30AD\u30F3\u30B0\u3084\u30B3\u30FC\u30D2\u30FC\u30BF\u30A4\u30E0\u306B\u3082\u3069\u3046\u305E\u3002 OWML\u02F8Open World Movement Logic System for SaccFlight \u5C0E\u5165\u3067\u539F\u70B9\u304B\u3089\u9060\u304F\u306A\u3063\u3066\u3082\u5FEB\u9069\u306B\u306A\u308A\u307E\u3057\u305F\u3002 40x40km\u3067\u5C3E\u702C\u56FD\u7ACB\u516C\u5712\u306E\u4E3B\u8981\u90E8\u52066\u5272\u7A0B\u5EA6\u304C\u542B\u307E\u308C\u3066\u3044\u307E\u3059\u3002 \u4E3B\u8981\u30DD\u30A4\u30F3\u30C8\u306B\u5730\u540D\u3092\u66F8\u3044\u305F\u30D8\u30EA\u30D1\u30C3\u30C9\u3092\u7F6E\u3044\u3066\u3042\u308A\u307E\u3059\u3002 NOT a realistic LEM Simulator\u2024 Only for fun flight and Helico practices with LEM over OZE National Park\u2024 \u2044 No interior so far \u2044 Controll equipments from SF-1 \u2044 Flight settings based on SH-1 \u5730\u5F62\u30C7\u30FC\u30BF\u51FA\u5178\uFF1A\u56FD\u571F\u5730\u7406\u9662\u30A6\u30A7\u30D6\u30B5\u30A4\u30C8 \u57FA\u76E4\u5730\u56F3\u60C5\u5831\u30C0\u30A6\u30F3\u30ED\u30FC\u30C9\u30B5\u30A4\u30C8 https\u02F8\u2044\u2044fgd\u2024gsi\u2024go\u2024jp\u2044download\u2044menu\u2024php \u5730\u5F62\u30C7\u30FC\u30BF\u3092\u52A0\u5DE5\u3057\u3066\u5229\u7528 2024-1013 SDK3\u20247\u20241",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
-          "AuthorName": "noritama3",
-          "CreatedAt": "2024-03-12T01:25:25.189Z",
-          "UpdatedAt": "2024-10-12T17:07:49.296Z"
+          "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
+          "AuthorName": "Nameko649",
+          "CreatedAt": "2023-12-18T14:33:27.358Z",
+          "UpdatedAt": "2023-12-20T12:51:33.137Z"
         },
         {
           "ID": "wrld_568f2a00-73b2-4174-976e-891dd6538c55",
@@ -8845,7 +8813,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
@@ -8861,12 +8829,44 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
           "CreatedAt": "2024-06-07T00:51:26.423Z",
           "UpdatedAt": "2024-10-13T04:55:13.1Z"
+        },
+        {
+          "ID": "wrld_2510c4ed-e63c-4921-aea3-0f23031b8295",
+          "Name": "\u4E0A\u9AD8\u5730\uFF08Kamikochi\uFF09\u5730\u5F62\u56F3\u30D5\u30E9\u30A4\u30C8 \uFF3BOWML\uFF3D By noritama3",
+          "RecommendedCapacity": 16,
+          "Capacity": 40,
+          "Description": "2\u20245\u4E07\u5206\u306E1\u5730\u56F3\u30921\u5206\u306E1\u306B\u3057\u305F\u975E\u516C\u5F0F\u30D0\u30FC\u30C1\u30E3\u30EB\u4E0A\u9AD8\u5730\uFF08\u795E\u964D\u5730\uFF09\u3067\u5730\u5F62\u56F3\u3068\u5B9F\u969B\u306E\u5730\u5F62\u3092\u4F53\u611F\u3057\u3088\u3046\uFF01 \u30D8\u30EA\uFF0812\u4EBA\u4E57\u308ABell-412\uFF09\u3067\u904A\u89A7\u98DB\u884C\u3092\u304A\u697D\u3057\u307F\u304F\u3060\u3055\u3044\u3002 \u4F8B\u306B\u3088\u3063\u3066\u4E3B\u8981\u306A\u5C0F\u5C4B\u306B\u30D8\u30EA\u30D1\u30C3\u30C9\u3092\u8A2D\u7F6E\u3057\u3066\u3044\u304F\u4E88\u5B9A\u3067\u3059\u3002 \u5730\u5F62\u30C7\u30FC\u30BF\u51FA\u5178\uFF1A\u96FB\u5B50\u5730\u5F62\u56F325000\uFF08\u56FD\u571F\u5730\u7406\u9662\uFF09\u5730\u7406\u9662\u30BF\u30A4\u30EB\u3001\u56FD\u571F\u5730\u7406\u9662\u30A6\u30A7\u30D6\u30B5\u30A4\u30C8 \u57FA\u76E4\u5730\u56F3\u60C5\u5831\u30C0\u30A6\u30F3\u30ED\u30FC\u30C9\u30B5\u30A4\u30C8 https\u02F8\u2044\u2044fgd\u2024gsi\u2024go\u2024jp\u2044download\u2044menu\u2024php \u5730\u5F62\u30C7\u30FC\u30BF\u3092\u52A0\u5DE5\u3057\u3066\u5229\u7528\u20442024-0619 8\u4EBA\u4E57\u308A Super Sonic Tofu \u8FFD\u52A0 \u20442024-1013 SDK3\u20247\u20241",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
+          "AuthorName": "noritama3",
+          "CreatedAt": "2024-06-01T09:19:09.626Z",
+          "UpdatedAt": "2024-10-12T17:52:16.762Z"
+        },
+        {
+          "ID": "wrld_3eeefe79-eeaa-446d-9123-6fae997c2d8f",
+          "Name": "\u5C3E\u702C\uFF08Oze\uFF09\u30D5\u30E9\u30A4\u30C8 \uFF3BOWML\uFF3D By noritama3",
+          "RecommendedCapacity": 24,
+          "Capacity": 40,
+          "Description": "\u5C3E\u702C\u3092\u7A7A\u4E2D\u6563\u6B69\u3002saccflight\u306E\u6A5F\u80FD\u3067\u30A2\u30D0\u30BF\u30FC\u5358\u4F53\u3067\u3082\u98DB\u3093\u3067\u3044\u3051\u307E\u3059\uFF01\u30CF\u30A4\u30AD\u30F3\u30B0\u3084\u30B3\u30FC\u30D2\u30FC\u30BF\u30A4\u30E0\u306B\u3082\u3069\u3046\u305E\u3002 OWML\u02F8Open World Movement Logic System for SaccFlight \u5C0E\u5165\u3067\u539F\u70B9\u304B\u3089\u9060\u304F\u306A\u3063\u3066\u3082\u5FEB\u9069\u306B\u306A\u308A\u307E\u3057\u305F\u3002 40x40km\u3067\u5C3E\u702C\u56FD\u7ACB\u516C\u5712\u306E\u4E3B\u8981\u90E8\u52066\u5272\u7A0B\u5EA6\u304C\u542B\u307E\u308C\u3066\u3044\u307E\u3059\u3002 \u4E3B\u8981\u30DD\u30A4\u30F3\u30C8\u306B\u5730\u540D\u3092\u66F8\u3044\u305F\u30D8\u30EA\u30D1\u30C3\u30C9\u3092\u7F6E\u3044\u3066\u3042\u308A\u307E\u3059\u3002 NOT a realistic LEM Simulator\u2024 Only for fun flight and Helico practices with LEM over OZE National Park\u2024 \u2044 No interior so far \u2044 Controll equipments from SF-1 \u2044 Flight settings based on SH-1 \u5730\u5F62\u30C7\u30FC\u30BF\u51FA\u5178\uFF1A\u56FD\u571F\u5730\u7406\u9662\u30A6\u30A7\u30D6\u30B5\u30A4\u30C8 \u57FA\u76E4\u5730\u56F3\u60C5\u5831\u30C0\u30A6\u30F3\u30ED\u30FC\u30C9\u30B5\u30A4\u30C8 https\u02F8\u2044\u2044fgd\u2024gsi\u2024go\u2024jp\u2044download\u2044menu\u2024php \u5730\u5F62\u30C7\u30FC\u30BF\u3092\u52A0\u5DE5\u3057\u3066\u5229\u7528 2024-1013 SDK3\u20247\u20241",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
+          "AuthorName": "noritama3",
+          "CreatedAt": "2024-03-12T01:25:25.189Z",
+          "UpdatedAt": "2024-10-12T17:07:49.296Z"
         },
         {
           "ID": "wrld_66cbc9bc-bb44-4d62-9840-9ee29a92b0fd",
@@ -8877,7 +8877,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_6b2302e2-8bdd-4ab1-8935-fc8cbd8e7706",
           "AuthorName": "Object",
@@ -8917,11 +8917,11 @@
           "UpdatedAt": "2023-08-13T10:44:43.364Z"
         },
         {
-          "ID": "wrld_ac70ebe9-a687-4d4f-a220-c58a84ea60b7",
-          "Name": "COMBAT FIELD By Oppailot",
-          "RecommendedCapacity": 32,
-          "Capacity": 64,
-          "Description": "You can play against other players using vehicles\u2024 There are four types of vehicles that can be used\u02F8 tanks\u201A anti-aircraft vehicles\u201A attack helicopters\u201A\u30D3\u30FC\u30AF\u30EB\u3092\u4F7F\u7528\u3057\u305F\u5BFE\u6226\u304C\u884C\u3048\u307E\u3059\u3002 \u4F7F\u7528\u3067\u304D\u308B\u30D3\u30FC\u30AF\u30EB\u306F\u6226\u8ECA\u3001\u5BFE\u7A7A\u8ECA\u4E21\u3001\u653B\u6483\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3001\u6226\u95D8\u6A5F\u306E\uFF14\u7A2E\u985E\u3002 \u6226\u95D8\u306B\u5099\u3048\u3088\uFF01",
+          "ID": "wrld_4a9df82d-1517-4675-bfea-6b018afd6bdd",
+          "Name": "Southern birds By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "World allows you to operate around the Island in a jet fighter or helicopter\u2024 \u67D0\u56FD\u67D0\u6240\u306E\u5CF6\u306E\u5468\u8FBA\u3092\u30B8\u30A7\u30C3\u30C8\u6226\u95D8\u6A5F\u3084\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3067\u6D3B\u52D5\u3067\u304D\u308BWorld\u3067\u3059\u3002",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -8929,15 +8929,15 @@
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
-          "CreatedAt": "2021-11-18T11:56:55.762Z",
-          "UpdatedAt": "2021-12-06T13:41:15.821Z"
+          "CreatedAt": "2024-12-14T03:56:09.006Z",
+          "UpdatedAt": "2025-03-01T06:53:15.438Z"
         },
         {
-          "ID": "wrld_a9ad0d39-8af2-41d2-b05c-87b0f477441b",
-          "Name": "COMBAT ISLANDS By Oppailot",
-          "RecommendedCapacity": 32,
-          "Capacity": 64,
-          "Description": "You can play against other players using vehicles\u2024 There are multiple types of military vehicles that can be used\u02F8 armored fighting vehicle\u201A MLRS\u201A MQ-9 drone\u201A Warship\u201A attack helicopter\u201A utility helicopter\u201A and jet fighter\u2024\u591A\u6570\u306E\u8ECD\u7528\u30D3\u30FC\u30AF\u30EB\u3092\u4F7F\u7528\u3057\u305F\u5BFE\u6226\u304C\u884C\u3048\u307E\u3059\u3002 \u4F7F\u7528\u3067\u304D\u308B\u30D3\u30FC\u30AF\u30EB\u306F\u6A5F\u52D5\u6226\u95D8\u8ECA\u3001MLRS\u3001MQ-9\u30C9\u30ED\u30FC\u30F3\u3001\u99C6\u9010\u8266\u3001\u653B\u6483\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3001\u591A\u7528\u9014\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3001\u305D\u3057\u3066\u30B8\u30A7\u30C3\u30C8\u6226\u95D8\u6A5F\u3002",
+          "ID": "wrld_e8c7a30d-4d63-4233-bca4-e4eff209e388",
+          "Name": "HELI HOCKEY By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "This is air hockey\u2024 In other words\u201A it is aircraft hockey\u2024 Shoot the puck into the opponent\u0027s goal\u01C3 This is a super exciting 3D action game\u2024 \u3044\u308F\u3086\u308B\u30A8\u30A2\u30DB\u30C3\u30B1\u30FC\u3001\u305D\u308C\u306F\u3059\u306A\u308F\u3061\u30A8\u30A2\u30AF\u30E9\u30D5\u30C8\u30FB\u30DB\u30C3\u30B1\u30FC\u3067\u3059\u3002 \u30D1\u30C3\u30AF\u3092\u76F8\u624B\u306E\u30B4\u30FC\u30EB\u306B\u30B7\u30E5\u30FC\u30C8\uFF01 \u8D85\u30FB\u30A8\u30AD\u30B5\u30A4\u30C6\u30A3\u30F3\u30B0\u306A3D\u30A2\u30AF\u30B7\u30E7\u30F3\u30B2\u30FC\u30E0\u3067\u3059\u3002",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -8945,8 +8945,8 @@
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
-          "CreatedAt": "2022-08-07T06:55:56.053Z",
-          "UpdatedAt": "2023-08-13T00:07:18.763Z"
+          "CreatedAt": "2024-07-25T11:00:29.237Z",
+          "UpdatedAt": "2024-10-12T09:52:24.335Z"
         },
         {
           "ID": "wrld_ad87f40b-6492-4b06-9200-3e6b98912ded",
@@ -8965,6 +8965,166 @@
           "UpdatedAt": "2025-02-03T00:07:15.911Z"
         },
         {
+          "ID": "wrld_826115ca-9860-4290-bc0d-237e902c1ae6",
+          "Name": "Senka islands By Oppailot",
+          "RecommendedCapacity": 64,
+          "Capacity": 64,
+          "Description": "World allows you to operate around the fictional Senka Islands in a jet fighter or helicopter\u2024 \u67B6\u7A7A\u306E\u5CF6\u3001\u5C16\u83EF\u8AF8\u5CF6\u306E\u5468\u8FBA\u3092\u30B8\u30A7\u30C3\u30C8\u6226\u95D8\u6A5F\u3084\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3067\u6D3B\u52D5\u3067\u304D\u308BWorld\u3067\u3059\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-09-13T15:03:53.62Z",
+          "UpdatedAt": "2024-12-11T23:08:51.668Z"
+        },
+        {
+          "ID": "wrld_f62576b9-afee-4686-bf2c-1e6230d901ad",
+          "Name": "\u9E7F\u5150\u5CF6\u770C\u3044\u3061\u304D\u4E32\u6728\u91CE\u5E02 By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u9E7F\u5150\u5CF6\u770C\u3044\u3061\u304D\u4E32\u6728\u91CE\u5E02",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-09-04T08:52:34.471Z",
+          "UpdatedAt": "2023-09-04T10:48:00.033Z"
+        },
+        {
+          "ID": "wrld_ad5140ff-74d4-4ed6-8944-3086036400d5",
+          "Name": "JVG ACM Training airspace By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "You can train for air-to-air combat by flying an F-16 fighter jet belonging to the Japan Virtual Guard\u2024 You can also fly Cessna 172 light aircraft\u201A Robinson R22 helicopters\u201A and A320 jets\u2024 The scenery recreates the Kagoshima Airport \uFF08RJFK\uFF09 in Japan and the surrounding area\u2024 Japan Virtual Guard\u6240\u5C5E\u306EF-16\u6226\u95D8\u6A5F\u3092\u64CD\u7E26\u3057\u3066\u3001\u7A7A\u5BFE\u7A7A\u6226\u95D8\u306E\u8A13\u7DF4\u3092\u884C\u3046\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002 \u30BB\u30B9\u30CA172\u8EFD\u98DB\u884C\u6A5F\u3084\u3001\u30ED\u30D3\u30F3\u30BD\u30F3R22\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3001A320\u30B8\u30A7\u30C3\u30C8\u306A\u3069\u3082\u64CD\u7E26\u3059\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002 \u30B7\u30FC\u30CA\u30EA\u30FC\u306F\u65E5\u672C\u306E\u9E7F\u5150\u5CF6\u7A7A\u6E2F\uFF08RJFK\uFF09\u3068\u305D\u306E\u5468\u8FBA\u3092\u518D\u73FE\u3057\u3066\u3044\u307E\u3059\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-06-04T01:36:33.787Z",
+          "UpdatedAt": "2023-07-19T03:21:17.3Z"
+        },
+        {
+          "ID": "wrld_225c3dc9-9067-45e5-9053-3e5226db3663",
+          "Name": "N island By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "N island",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-04-14T04:12:24.53Z",
+          "UpdatedAt": "2023-04-14T04:12:24.53Z"
+        },
+        {
+          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+          "Name": "JVG Sendai Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "The scenery recreates the Sendai Airport \uFF08RJSS\uFF09 in Japan and the surrounding area\u2024 \u30B7\u30FC\u30CA\u30EA\u30FC\u306F\u65E5\u672C\u306E\u4ED9\u53F0\u7A7A\u6E2F\uFF08RJSS\uFF09\u3068\u305D\u306E\u5468\u8FBA\u3092\u518D\u73FE\u3057\u3066\u3044\u307E\u3059\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-03-21T10:58:00.822Z",
+          "UpdatedAt": "2025-03-01T05:48:48.334Z"
+        },
+        {
+          "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
+          "Name": "\u30D8\u30EA\u5A18 \u30ED\u30FC\u30BF\u30FC\u30C0\u30FC\u30D3\u30FC By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3067\u7AF6\u99AC\u5834\u3092\u98DB\u3076\u3053\u3068\u304C\u3067\u304D\u308B\u30B8\u30E7\u30FC\u30AFWorld\u3067\u3059\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-01-05T05:45:20.105Z",
+          "UpdatedAt": "2023-01-07T08:37:22.423Z"
+        },
+        {
+          "ID": "wrld_ec155d74-d8ff-4981-a687-4023f4767076",
+          "Name": "Southern Islands By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u77F3\u57A3\u7A7A\u6E2F\u3092\u57FA\u70B9\u306B\u3001\u6226\u95D8\u6A5F\u3067\u5B9F\u5BF8\u5927\u306E\u5148\u5CF6\u8AF8\u5CF6\u4E00\u5E2F\u3092\u81EA\u7531\u306B\u98DB\u884C\u3059\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002 Based at Ishigaki Airport\u201A you are free to fly by fighter jet over the full-size Japanese archipelago of Sakishima Islands\u2024",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2022-12-19T13:10:53.599Z",
+          "UpdatedAt": "2023-01-06T00:50:17.919Z"
+        },
+        {
+          "ID": "wrld_b1a4e7dc-e2cb-444a-96bf-1f996ec89a17",
+          "Name": "\u7B2C8\u56DE\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u64CD\u7E26\u7AF6\u6280\u4F1A By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2022-10-26T11:56:28.127Z",
+          "UpdatedAt": "2022-12-20T14:30:32.016Z"
+        },
+        {
+          "ID": "wrld_15230f5c-9eb4-446b-9990-91881e4d02e9",
+          "Name": "SACC BALL By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SACC BALL\u201A it is soccer or football played with helicopters and automobiles\u2024 SACC BALL\u3001\u305D\u308C\u306F\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3068\u81EA\u52D5\u8ECA\u3092\u4F7F\u3063\u3066\u884C\u3046\u30B5\u30C3\u30AB\u30FC\u3001\u3042\u308B\u3044\u306F\u30D5\u30C3\u30C8\u30DC\u30FC\u30EB\u3067\u3059\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2022-09-27T07:55:21.216Z",
+          "UpdatedAt": "2022-09-29T14:54:21.721Z"
+        },
+        {
+          "ID": "wrld_a9ad0d39-8af2-41d2-b05c-87b0f477441b",
+          "Name": "COMBAT ISLANDS By Oppailot",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "You can play against other players using vehicles\u2024 There are multiple types of military vehicles that can be used\u02F8 armored fighting vehicle\u201A MLRS\u201A MQ-9 drone\u201A Warship\u201A attack helicopter\u201A utility helicopter\u201A and jet fighter\u2024\u591A\u6570\u306E\u8ECD\u7528\u30D3\u30FC\u30AF\u30EB\u3092\u4F7F\u7528\u3057\u305F\u5BFE\u6226\u304C\u884C\u3048\u307E\u3059\u3002 \u4F7F\u7528\u3067\u304D\u308B\u30D3\u30FC\u30AF\u30EB\u306F\u6A5F\u52D5\u6226\u95D8\u8ECA\u3001MLRS\u3001MQ-9\u30C9\u30ED\u30FC\u30F3\u3001\u99C6\u9010\u8266\u3001\u653B\u6483\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3001\u591A\u7528\u9014\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3001\u305D\u3057\u3066\u30B8\u30A7\u30C3\u30C8\u6226\u95D8\u6A5F\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2022-08-07T06:55:56.053Z",
+          "UpdatedAt": "2023-08-13T00:07:18.763Z"
+        },
+        {
           "ID": "wrld_7c0a3b60-550f-4241-b95b-e64e35d2b608",
           "Name": "Hamburger Flight By Oppailot",
           "RecommendedCapacity": 16,
@@ -8981,11 +9141,11 @@
           "UpdatedAt": "2022-07-14T07:18:38.499Z"
         },
         {
-          "ID": "wrld_e8c7a30d-4d63-4233-bca4-e4eff209e388",
-          "Name": "HELI HOCKEY By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "This is air hockey\u2024 In other words\u201A it is aircraft hockey\u2024 Shoot the puck into the opponent\u0027s goal\u01C3 This is a super exciting 3D action game\u2024 \u3044\u308F\u3086\u308B\u30A8\u30A2\u30DB\u30C3\u30B1\u30FC\u3001\u305D\u308C\u306F\u3059\u306A\u308F\u3061\u30A8\u30A2\u30AF\u30E9\u30D5\u30C8\u30FB\u30DB\u30C3\u30B1\u30FC\u3067\u3059\u3002 \u30D1\u30C3\u30AF\u3092\u76F8\u624B\u306E\u30B4\u30FC\u30EB\u306B\u30B7\u30E5\u30FC\u30C8\uFF01 \u8D85\u30FB\u30A8\u30AD\u30B5\u30A4\u30C6\u30A3\u30F3\u30B0\u306A3D\u30A2\u30AF\u30B7\u30E7\u30F3\u30B2\u30FC\u30E0\u3067\u3059\u3002",
+          "ID": "wrld_a3dd33ba-cf1c-4d5d-ab05-d7448b302796",
+          "Name": "Vietnam River Combat By Oppailot",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "\u30D9\u30C8\u30CA\u30E0\u6226\u4E89\u671F\u306E\u30D3\u30FC\u30AF\u30EB\u306B\u4E57\u3063\u3066\u52D5\u304B\u3059\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002 UH-1 Huey\u3001AH-1G Cobra\u3001PBR\uFF08Patrol boat river\uFF09\u304C\u3042\u308A\u307E\u3059\u3002 M16\u3084AK47\u3068\u3044\u3063\u305F\u30E9\u30A4\u30D5\u30EB\u3092\u6483\u3064\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002 \u66B4\u308C\u307E\u308F\u3063\u305F\u308A\u3001\u5BFE\u6226\u3092\u3057\u305F\u308A\u3001\u904A\u3073\u65B9\u306F\u81EA\u7531\u3002 \u30BF\u30A4\u30E0\u30C8\u30E9\u30A4\u30A2\u30EB\u5F62\u5F0F\u306E\u30EC\u30FC\u30B9\u30E2\u30FC\u30C9\u3082\u3042\u308A\u307E\u3059\u3002You can ride and move a vehicle from the Vietnam War era\u2024 There is the UH-1 Huey\u201A the AH-1G Cobra\u201A and the PBR \uFF08Patrol boat river\uFF09\u2024 You can shoot rifles such as M16 and AK47\u2024 The game can be played in any way you like\u201A from rampaging to fighting\u2024 There is also a time trial style race mode\u2024",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -8993,8 +9153,24 @@
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
-          "CreatedAt": "2024-07-25T11:00:29.237Z",
-          "UpdatedAt": "2024-10-12T09:52:24.335Z"
+          "CreatedAt": "2022-02-12T10:40:19.709Z",
+          "UpdatedAt": "2022-02-28T12:00:51.013Z"
+        },
+        {
+          "ID": "wrld_ac70ebe9-a687-4d4f-a220-c58a84ea60b7",
+          "Name": "COMBAT FIELD By Oppailot",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "You can play against other players using vehicles\u2024 There are four types of vehicles that can be used\u02F8 tanks\u201A anti-aircraft vehicles\u201A attack helicopters\u201A\u30D3\u30FC\u30AF\u30EB\u3092\u4F7F\u7528\u3057\u305F\u5BFE\u6226\u304C\u884C\u3048\u307E\u3059\u3002 \u4F7F\u7528\u3067\u304D\u308B\u30D3\u30FC\u30AF\u30EB\u306F\u6226\u8ECA\u3001\u5BFE\u7A7A\u8ECA\u4E21\u3001\u653B\u6483\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3001\u6226\u95D8\u6A5F\u306E\uFF14\u7A2E\u985E\u3002 \u6226\u95D8\u306B\u5099\u3048\u3088\uFF01",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2021-11-18T11:56:55.762Z",
+          "UpdatedAt": "2021-12-06T13:41:15.821Z"
         },
         {
           "ID": "wrld_0deb4bae-57d6-4dbf-8a18-0b05fe0efa9b",
@@ -9029,182 +9205,6 @@
           "UpdatedAt": "2021-12-23T11:06:46.276Z"
         },
         {
-          "ID": "wrld_ad5140ff-74d4-4ed6-8944-3086036400d5",
-          "Name": "JVG ACM Training airspace By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "You can train for air-to-air combat by flying an F-16 fighter jet belonging to the Japan Virtual Guard\u2024 You can also fly Cessna 172 light aircraft\u201A Robinson R22 helicopters\u201A and A320 jets\u2024 The scenery recreates the Kagoshima Airport \uFF08RJFK\uFF09 in Japan and the surrounding area\u2024 Japan Virtual Guard\u6240\u5C5E\u306EF-16\u6226\u95D8\u6A5F\u3092\u64CD\u7E26\u3057\u3066\u3001\u7A7A\u5BFE\u7A7A\u6226\u95D8\u306E\u8A13\u7DF4\u3092\u884C\u3046\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002 \u30BB\u30B9\u30CA172\u8EFD\u98DB\u884C\u6A5F\u3084\u3001\u30ED\u30D3\u30F3\u30BD\u30F3R22\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3001A320\u30B8\u30A7\u30C3\u30C8\u306A\u3069\u3082\u64CD\u7E26\u3059\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002 \u30B7\u30FC\u30CA\u30EA\u30FC\u306F\u65E5\u672C\u306E\u9E7F\u5150\u5CF6\u7A7A\u6E2F\uFF08RJFK\uFF09\u3068\u305D\u306E\u5468\u8FBA\u3092\u518D\u73FE\u3057\u3066\u3044\u307E\u3059\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2023-07-19T03:21:17.3Z"
-        },
-        {
-          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
-          "Name": "JVG Sendai Air Station By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "The scenery recreates the Sendai Airport \uFF08RJSS\uFF09 in Japan and the surrounding area\u2024 \u30B7\u30FC\u30CA\u30EA\u30FC\u306F\u65E5\u672C\u306E\u4ED9\u53F0\u7A7A\u6E2F\uFF08RJSS\uFF09\u3068\u305D\u306E\u5468\u8FBA\u3092\u518D\u73FE\u3057\u3066\u3044\u307E\u3059\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-03-01T05:48:48.334Z"
-        },
-        {
-          "ID": "wrld_225c3dc9-9067-45e5-9053-3e5226db3663",
-          "Name": "N island By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "N island",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-04-14T04:12:24.53Z",
-          "UpdatedAt": "2023-04-14T04:12:24.53Z"
-        },
-        {
-          "ID": "wrld_15230f5c-9eb4-446b-9990-91881e4d02e9",
-          "Name": "SACC BALL By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SACC BALL\u201A it is soccer or football played with helicopters and automobiles\u2024 SACC BALL\u3001\u305D\u308C\u306F\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3068\u81EA\u52D5\u8ECA\u3092\u4F7F\u3063\u3066\u884C\u3046\u30B5\u30C3\u30AB\u30FC\u3001\u3042\u308B\u3044\u306F\u30D5\u30C3\u30C8\u30DC\u30FC\u30EB\u3067\u3059\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2022-09-27T07:55:21.216Z",
-          "UpdatedAt": "2022-09-29T14:54:21.721Z"
-        },
-        {
-          "ID": "wrld_826115ca-9860-4290-bc0d-237e902c1ae6",
-          "Name": "Senka islands By Oppailot",
-          "RecommendedCapacity": 64,
-          "Capacity": 64,
-          "Description": "World allows you to operate around the fictional Senka Islands in a jet fighter or helicopter\u2024 \u67B6\u7A7A\u306E\u5CF6\u3001\u5C16\u83EF\u8AF8\u5CF6\u306E\u5468\u8FBA\u3092\u30B8\u30A7\u30C3\u30C8\u6226\u95D8\u6A5F\u3084\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3067\u6D3B\u52D5\u3067\u304D\u308BWorld\u3067\u3059\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-09-13T15:03:53.62Z",
-          "UpdatedAt": "2024-12-11T23:08:51.668Z"
-        },
-        {
-          "ID": "wrld_4a9df82d-1517-4675-bfea-6b018afd6bdd",
-          "Name": "Southern birds By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "World allows you to operate around the Island in a jet fighter or helicopter\u2024 \u67D0\u56FD\u67D0\u6240\u306E\u5CF6\u306E\u5468\u8FBA\u3092\u30B8\u30A7\u30C3\u30C8\u6226\u95D8\u6A5F\u3084\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3067\u6D3B\u52D5\u3067\u304D\u308BWorld\u3067\u3059\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2024-12-14T03:56:09.006Z",
-          "UpdatedAt": "2025-03-01T06:53:15.438Z"
-        },
-        {
-          "ID": "wrld_ec155d74-d8ff-4981-a687-4023f4767076",
-          "Name": "Southern Islands By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u77F3\u57A3\u7A7A\u6E2F\u3092\u57FA\u70B9\u306B\u3001\u6226\u95D8\u6A5F\u3067\u5B9F\u5BF8\u5927\u306E\u5148\u5CF6\u8AF8\u5CF6\u4E00\u5E2F\u3092\u81EA\u7531\u306B\u98DB\u884C\u3059\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002 Based at Ishigaki Airport\u201A you are free to fly by fighter jet over the full-size Japanese archipelago of Sakishima Islands\u2024",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2022-12-19T13:10:53.599Z",
-          "UpdatedAt": "2023-01-06T00:50:17.919Z"
-        },
-        {
-          "ID": "wrld_a3dd33ba-cf1c-4d5d-ab05-d7448b302796",
-          "Name": "Vietnam River Combat By Oppailot",
-          "RecommendedCapacity": 32,
-          "Capacity": 64,
-          "Description": "\u30D9\u30C8\u30CA\u30E0\u6226\u4E89\u671F\u306E\u30D3\u30FC\u30AF\u30EB\u306B\u4E57\u3063\u3066\u52D5\u304B\u3059\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002 UH-1 Huey\u3001AH-1G Cobra\u3001PBR\uFF08Patrol boat river\uFF09\u304C\u3042\u308A\u307E\u3059\u3002 M16\u3084AK47\u3068\u3044\u3063\u305F\u30E9\u30A4\u30D5\u30EB\u3092\u6483\u3064\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002 \u66B4\u308C\u307E\u308F\u3063\u305F\u308A\u3001\u5BFE\u6226\u3092\u3057\u305F\u308A\u3001\u904A\u3073\u65B9\u306F\u81EA\u7531\u3002 \u30BF\u30A4\u30E0\u30C8\u30E9\u30A4\u30A2\u30EB\u5F62\u5F0F\u306E\u30EC\u30FC\u30B9\u30E2\u30FC\u30C9\u3082\u3042\u308A\u307E\u3059\u3002You can ride and move a vehicle from the Vietnam War era\u2024 There is the UH-1 Huey\u201A the AH-1G Cobra\u201A and the PBR \uFF08Patrol boat river\uFF09\u2024 You can shoot rifles such as M16 and AK47\u2024 The game can be played in any way you like\u201A from rampaging to fighting\u2024 There is also a time trial style race mode\u2024",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2022-02-12T10:40:19.709Z",
-          "UpdatedAt": "2022-02-28T12:00:51.013Z"
-        },
-        {
-          "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
-          "Name": "\u30D8\u30EA\u5A18 \u30ED\u30FC\u30BF\u30FC\u30C0\u30FC\u30D3\u30FC By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u3067\u7AF6\u99AC\u5834\u3092\u98DB\u3076\u3053\u3068\u304C\u3067\u304D\u308B\u30B8\u30E7\u30FC\u30AFWorld\u3067\u3059\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-01-05T05:45:20.105Z",
-          "UpdatedAt": "2023-01-07T08:37:22.423Z"
-        },
-        {
-          "ID": "wrld_f62576b9-afee-4686-bf2c-1e6230d901ad",
-          "Name": "\u9E7F\u5150\u5CF6\u770C\u3044\u3061\u304D\u4E32\u6728\u91CE\u5E02 By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u9E7F\u5150\u5CF6\u770C\u3044\u3061\u304D\u4E32\u6728\u91CE\u5E02",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-09-04T08:52:34.471Z",
-          "UpdatedAt": "2023-09-04T10:48:00.033Z"
-        },
-        {
-          "ID": "wrld_b1a4e7dc-e2cb-444a-96bf-1f996ec89a17",
-          "Name": "\u7B2C8\u56DE\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u64CD\u7E26\u7AF6\u6280\u4F1A By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2022-10-26T11:56:28.127Z",
-          "UpdatedAt": "2022-12-20T14:30:32.016Z"
-        },
-        {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
           "Name": "Riezet Flight Home QT1 By Riezet Lieaner",
           "RecommendedCapacity": 16,
@@ -9213,28 +9213,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-24T13:03:56.307Z",
           "UpdatedAt": "2025-03-14T12:47:40.758Z"
-        },
-        {
-          "ID": "wrld_204dbeb8-49a3-4140-9889-df8eee70f3a1",
-          "Name": "Riezet Flight Home T2 By Riezet Lieaner",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u5915\u967D\u3068\u6D77 \u98DB\u884C\u6A5F\u3067\u81EA\u7531\u306B\u3001\u5E73\u548C\u306B\u98DB\u3073\u3001\u5FC3\u3092\u5BA5\u3081\u308B Sunset and the sea Fly freely and peacefully on a plane and soothe your heart",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2024-09-15T12:54:17.096Z",
-          "UpdatedAt": "2025-03-14T22:20:01.5Z"
         },
         {
           "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
@@ -9251,6 +9235,22 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-02T07:23:06.931Z",
           "UpdatedAt": "2025-03-16T07:54:37.508Z"
+        },
+        {
+          "ID": "wrld_204dbeb8-49a3-4140-9889-df8eee70f3a1",
+          "Name": "Riezet Flight Home T2 By Riezet Lieaner",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u5915\u967D\u3068\u6D77 \u98DB\u884C\u6A5F\u3067\u81EA\u7531\u306B\u3001\u5E73\u548C\u306B\u98DB\u3073\u3001\u5FC3\u3092\u5BA5\u3081\u308B Sunset and the sea Fly freely and peacefully on a plane and soothe your heart",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2024-09-15T12:54:17.096Z",
+          "UpdatedAt": "2025-03-14T22:20:01.5Z"
         },
         {
           "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
@@ -9277,7 +9277,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -9293,7 +9293,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -9317,20 +9317,20 @@
           "UpdatedAt": "2024-12-25T02:12:29.701Z"
         },
         {
-          "ID": "wrld_7a5b8b94-a660-44b9-a0f3-ed7d34c97f3c",
-          "Name": "Catch\uFF06Go\u01C3\u01C3 By Sayodori",
+          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
+          "Name": "catch\uFF06Shoot\u01C3\u01C3 2 By Sayodori",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u306EHOOK\u3067\u771F\u3093\u4E2D\u306B\u3042\u308B\u8377\u7269\u3092\u53D6\u308A\u3001\u5DE6\u53F3\u306B\u3042\u308B\u8D64\u3044\u5E8A\u306E\u4E0A\u306B\u7F6E\u304F\u306E\u304C\u6210\u529F\u3059\u308B\u3068\u3001\u767D\u304F\u5909\u308F\u308A\u307E\u3059\u3002 \u5148\u306B\u5168\u3066\u7F6E\u304F\u3053\u3068\u304C\u51FA\u6765\u305F\u3089\u52DD\u3061\u3001\u3084\u6642\u9593\u5236\u9650\u3092\u8A2D\u3051\u3066\u591A\u304F\u7F6E\u3051\u305F\u65B9\u306E\u52DD\u3061\u7B49\u30EB\u30FC\u30EB\u3092\u6C7A\u3081\u3066\u904A\u3093\u3067\u307F\u3066\u304F\u3060\u3055\u3044\u3002",
+          "Description": "\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u306EHOOK\u3067\u771F\u3093\u4E2D\u306B\u3042\u308B\u8377\u7269\u3092\u53D6\u308A\u3001\u5DE6\u53F3\u306B\u3042\u308B\u7C60\u306B\u5165\u308C\u308B\u306E\u304C\u6210\u529F\u3059\u308B\u3068\u3001\u6570\u5B57\u304C\u5897\u3048\u307E\u3059\u3002 \u6642\u9593\u5236\u9650\u3092\u8A2D\u3051\u3066\u591A\u304F\u5165\u308C\u305F\u65B9\u306E\u52DD\u3061\u7B49\u30EB\u30FC\u30EB\u3092\u6C7A\u3081\u3066\u904A\u3093\u3067\u307F\u3066\u304F\u3060\u3055\u3044\u3002 \u540C\u671F\u7B49\u4E0D\u5177\u5408\u304C\u3042\u308A\u307E\u3059\u304C\u3054\u4E86\u627F\u304F\u3060\u3055\u3044\u3002",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
-          "CreatedAt": "2024-04-04T08:03:31.567Z",
-          "UpdatedAt": "2025-01-03T06:53:28.221Z"
+          "CreatedAt": "2024-10-04T14:23:01.112Z",
+          "UpdatedAt": "2025-02-16T07:21:25.906Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -9341,7 +9341,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -9349,52 +9349,20 @@
           "UpdatedAt": "2025-01-03T07:19:05.441Z"
         },
         {
-          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
-          "Name": "catch\uFF06Shoot\u01C3\u01C3 2 By Sayodori",
+          "ID": "wrld_7a5b8b94-a660-44b9-a0f3-ed7d34c97f3c",
+          "Name": "Catch\uFF06Go\u01C3\u01C3 By Sayodori",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u306EHOOK\u3067\u771F\u3093\u4E2D\u306B\u3042\u308B\u8377\u7269\u3092\u53D6\u308A\u3001\u5DE6\u53F3\u306B\u3042\u308B\u7C60\u306B\u5165\u308C\u308B\u306E\u304C\u6210\u529F\u3059\u308B\u3068\u3001\u6570\u5B57\u304C\u5897\u3048\u307E\u3059\u3002 \u6642\u9593\u5236\u9650\u3092\u8A2D\u3051\u3066\u591A\u304F\u5165\u308C\u305F\u65B9\u306E\u52DD\u3061\u7B49\u30EB\u30FC\u30EB\u3092\u6C7A\u3081\u3066\u904A\u3093\u3067\u307F\u3066\u304F\u3060\u3055\u3044\u3002 \u540C\u671F\u7B49\u4E0D\u5177\u5408\u304C\u3042\u308A\u307E\u3059\u304C\u3054\u4E86\u627F\u304F\u3060\u3055\u3044\u3002",
+          "Description": "\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u306EHOOK\u3067\u771F\u3093\u4E2D\u306B\u3042\u308B\u8377\u7269\u3092\u53D6\u308A\u3001\u5DE6\u53F3\u306B\u3042\u308B\u8D64\u3044\u5E8A\u306E\u4E0A\u306B\u7F6E\u304F\u306E\u304C\u6210\u529F\u3059\u308B\u3068\u3001\u767D\u304F\u5909\u308F\u308A\u307E\u3059\u3002 \u5148\u306B\u5168\u3066\u7F6E\u304F\u3053\u3068\u304C\u51FA\u6765\u305F\u3089\u52DD\u3061\u3001\u3084\u6642\u9593\u5236\u9650\u3092\u8A2D\u3051\u3066\u591A\u304F\u7F6E\u3051\u305F\u65B9\u306E\u52DD\u3061\u7B49\u30EB\u30FC\u30EB\u3092\u6C7A\u3081\u3066\u904A\u3093\u3067\u307F\u3066\u304F\u3060\u3055\u3044\u3002",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
-          "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-02-16T07:21:25.906Z"
-        },
-        {
-          "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
-          "Name": "Merry Christmas by\u2024Sayodori By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u30AF\u30EA\u30B9\u30DE\u30B9\u4ED5\u69D8\u306E\u98DB\u884C\u6A5F\u306E\u3042\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2023-12-18T17:59:05.666Z",
-          "UpdatedAt": "2024-12-06T10:38:21.996Z"
-        },
-        {
-          "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
-          "Name": "\u3046\u307F\u306E\u3046\u3048 By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "B-SFCVN67\u30FCMARINBLUE\u30FC\u306B\u7740\u8266\u7DF4\u7FD2\u304C\u51FA\u6765\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-01-01T09:05:15.872Z",
-          "UpdatedAt": "2025-01-19T13:26:26.269Z"
+          "CreatedAt": "2024-04-04T08:03:31.567Z",
+          "UpdatedAt": "2025-01-03T06:53:28.221Z"
         },
         {
           "ID": "wrld_44f7c1e2-38b6-45c6-9c96-ba32b6c1c420",
@@ -9413,6 +9381,38 @@
           "UpdatedAt": "2025-02-09T02:09:34.687Z"
         },
         {
+          "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
+          "Name": "\u3046\u307F\u306E\u3046\u3048 By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "B-SFCVN67\u30FCMARINBLUE\u30FC\u306B\u7740\u8266\u7DF4\u7FD2\u304C\u51FA\u6765\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-01-01T09:05:15.872Z",
+          "UpdatedAt": "2025-01-19T13:26:26.269Z"
+        },
+        {
+          "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
+          "Name": "Merry Christmas by\u2024Sayodori By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u30AF\u30EA\u30B9\u30DE\u30B9\u4ED5\u69D8\u306E\u98DB\u884C\u6A5F\u306E\u3042\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2023-12-18T17:59:05.666Z",
+          "UpdatedAt": "2024-12-06T10:38:21.996Z"
+        },
+        {
           "ID": "wrld_7e31e3f8-2ea2-4f8d-9d90-1d0e3181fc7c",
           "Name": "Aircraft Inspector By shinchan\u2024",
           "RecommendedCapacity": 16,
@@ -9421,7 +9421,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -9437,7 +9437,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -9453,7 +9453,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan\u2024",
@@ -9485,7 +9485,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b4928eee-07da-4f21-a813-2e32d9271feb",
           "AuthorName": "Silverlighting",
@@ -9501,7 +9501,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -9517,7 +9517,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -9557,22 +9557,6 @@
           "UpdatedAt": "2023-07-13T08:27:03.976Z"
         },
         {
-          "ID": "wrld_cb3ac353-be87-4902-9e65-d806f749ccda",
-          "Name": "heli-SUMOU By tanabe",
-          "RecommendedCapacity": 40,
-          "Capacity": 50,
-          "Description": "heli-SUMOU",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_3f0fde5a-c3f2-49f1-83b1-12912713ebe0",
-          "AuthorName": "tanabe",
-          "CreatedAt": "2023-11-28T11:21:53.332Z",
-          "UpdatedAt": "2023-12-10T21:12:52.796Z"
-        },
-        {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
           "Name": "\u30EC\u30B9\u30AD\u30E5\u30FC\u30D8\u30EA\u5371\u6A5F\u4E00\u9AEA \u5927\u602A\u736324\u6642 By tanabe",
           "RecommendedCapacity": 16,
@@ -9587,6 +9571,22 @@
           "AuthorName": "tanabe",
           "CreatedAt": "2024-05-16T02:51:23.181Z",
           "UpdatedAt": "2024-06-07T01:54:33.878Z"
+        },
+        {
+          "ID": "wrld_cb3ac353-be87-4902-9e65-d806f749ccda",
+          "Name": "heli-SUMOU By tanabe",
+          "RecommendedCapacity": 40,
+          "Capacity": 50,
+          "Description": "heli-SUMOU",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_3f0fde5a-c3f2-49f1-83b1-12912713ebe0",
+          "AuthorName": "tanabe",
+          "CreatedAt": "2023-11-28T11:21:53.332Z",
+          "UpdatedAt": "2023-12-10T21:12:52.796Z"
         },
         {
           "ID": "wrld_8008565b-2305-4672-9c66-84657411fcfd",
@@ -9621,6 +9621,38 @@
           "UpdatedAt": "2023-06-27T07:21:18.258Z"
         },
         {
+          "ID": "wrld_0aa5f8b3-b21e-44b9-9447-c91ff7b616e9",
+          "Name": "\u30CF\u30ED\u30A6\u30A3\u30F3\u30C8\u30E9\u30C3\u30AFTA2024 By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u304A\u3046\u3001\u304A\u524D\u3055\u3093\u304C\u805E\u3044\u3066\u305F\u904B\u8EE2\u624B\u304B\u3002\u3082\u3046\u30CF\u30ED\u30A6\u30A3\u30F3\u3060\u308D\u3046\u3002\u3042\u306E\u5C71\u306E\u4E0A\u307E\u3067\u30AB\u30DC\u30C1\u30E3\u3092\u904B\u3076\u5FC5\u8981\u304C\u3042\u308B\u3093\u3060\u304C\u3001\u898B\u3066\u306E\u901A\u308A\u4FFA\u306E\u30C8\u30E9\u30C3\u30AF\u306F\u4F7F\u3044\u7269\u306B\u306A\u3089\u306A\u304F\u306A\u3063\u3061\u307E\u3063\u305F\u3002 \u305D\u3053\u3067\u304A\u524D\u3055\u3093\u306B\u4EE3\u308F\u308A\u3092\u3084\u3063\u3066\u307B\u3057\u3044\u3063\u3066\u5BF8\u6CD5\u3060\u3002\u3067\u304D\u308B\u3060\u3051\u65E9\u3044\u65B9\u304C\u826F\u3044\u304C\u3001\u3053\u3053\u304B\u3089\u5148\u306F\u3042\u3093\u307E\u308A\u9053\u304C\u6574\u5099\u3055\u308C\u3066\u306D\u3047\u3002\u304F\u308C\u3050\u308C\u3082\u4FFA\u306E\u4E8C\u306E\u821E\u306B\u306A\u3089\u306D\u3047\u3088\u3046\u306B\u306A\u3002 \u305D\u308C\u3058\u3083\u3041\u3001\u983C\u3093\u3060\u305C\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-10-25T03:25:12.71Z",
+          "UpdatedAt": "2024-10-26T06:21:58.769Z"
+        },
+        {
+          "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
+          "Name": "\u9BD6\u7814 \u6E56\u7554\u98DB\u884C\u5834 YVL airport By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u713C\u9BD6\u4EEE\u60F3\u7814\u7A76\u6240\u3067\u516C\u958B\u3057\u3066\u3044\u308Bsacc\u5BFE\u5FDCVehicle\u306E\u3046\u3061\u3001\u30B8\u30A7\u30C3\u30C8\u6A5F\u4EE5\u5916\u306B\u4E57\u308B\u3053\u3068\u304C\u3067\u304D\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-07-28T13:48:56.155Z",
+          "UpdatedAt": "2024-12-20T04:53:58.765Z"
+        },
+        {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
           "Name": "\u3054\u307E\u3055\u3070\u7FA4\u5CF6 - Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -9629,7 +9661,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
@@ -9645,28 +9677,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-03-22T09:38:21.869Z",
           "UpdatedAt": "2025-02-05T11:51:55.701Z"
-        },
-        {
-          "ID": "wrld_0aa5f8b3-b21e-44b9-9447-c91ff7b616e9",
-          "Name": "\u30CF\u30ED\u30A6\u30A3\u30F3\u30C8\u30E9\u30C3\u30AFTA2024 By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u304A\u3046\u3001\u304A\u524D\u3055\u3093\u304C\u805E\u3044\u3066\u305F\u904B\u8EE2\u624B\u304B\u3002\u3082\u3046\u30CF\u30ED\u30A6\u30A3\u30F3\u3060\u308D\u3046\u3002\u3042\u306E\u5C71\u306E\u4E0A\u307E\u3067\u30AB\u30DC\u30C1\u30E3\u3092\u904B\u3076\u5FC5\u8981\u304C\u3042\u308B\u3093\u3060\u304C\u3001\u898B\u3066\u306E\u901A\u308A\u4FFA\u306E\u30C8\u30E9\u30C3\u30AF\u306F\u4F7F\u3044\u7269\u306B\u306A\u3089\u306A\u304F\u306A\u3063\u3061\u307E\u3063\u305F\u3002 \u305D\u3053\u3067\u304A\u524D\u3055\u3093\u306B\u4EE3\u308F\u308A\u3092\u3084\u3063\u3066\u307B\u3057\u3044\u3063\u3066\u5BF8\u6CD5\u3060\u3002\u3067\u304D\u308B\u3060\u3051\u65E9\u3044\u65B9\u304C\u826F\u3044\u304C\u3001\u3053\u3053\u304B\u3089\u5148\u306F\u3042\u3093\u307E\u308A\u9053\u304C\u6574\u5099\u3055\u308C\u3066\u306D\u3047\u3002\u304F\u308C\u3050\u308C\u3082\u4FFA\u306E\u4E8C\u306E\u821E\u306B\u306A\u3089\u306D\u3047\u3088\u3046\u306B\u306A\u3002 \u305D\u308C\u3058\u3083\u3041\u3001\u983C\u3093\u3060\u305C\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-10-25T03:25:12.71Z",
-          "UpdatedAt": "2024-10-26T06:21:58.769Z"
         },
         {
           "ID": "wrld_14399fdd-c14d-4885-b921-e87c1d9d3ed5",
@@ -9677,28 +9693,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2023-10-24T06:04:03.166Z",
           "UpdatedAt": "2023-10-31T07:21:27.014Z"
-        },
-        {
-          "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
-          "Name": "\u9BD6\u7814 \u6E56\u7554\u98DB\u884C\u5834 YVL airport By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u713C\u9BD6\u4EEE\u60F3\u7814\u7A76\u6240\u3067\u516C\u958B\u3057\u3066\u3044\u308Bsacc\u5BFE\u5FDCVehicle\u306E\u3046\u3061\u3001\u30B8\u30A7\u30C3\u30C8\u6A5F\u4EE5\u5916\u306B\u4E57\u308B\u3053\u3068\u304C\u3067\u304D\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2024-12-20T04:53:58.765Z"
         },
         {
           "ID": "wrld_c88c7a07-a621-44ba-b0d0-87663acadeb4",
@@ -9709,7 +9709,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_ebcf00fe-08b2-4a2f-bceb-b87e8c19130a",
           "AuthorName": "yothy\uFF08JP\uFF09",
@@ -9741,7 +9741,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -9757,7 +9757,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -9773,7 +9773,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_e2c77056-5d54-479a-a71e-5af5224e0885",
           "AuthorName": "zakimeru",
@@ -9813,6 +9813,22 @@
           "UpdatedAt": "2023-05-14T10:08:30.317Z"
         },
         {
+          "ID": "wrld_00aacfe7-ab03-4a8c-9efc-5a8909d89f01",
+          "Name": "F-14\u02F8 After Dark By Zweikaku",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Anytime\u2024",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
+          "AuthorName": "Zweikaku",
+          "CreatedAt": "2024-09-27T05:21:10.463Z",
+          "UpdatedAt": "2024-09-30T09:29:42.613Z"
+        },
+        {
           "ID": "wrld_3d34f761-29ee-4527-a948-2edb33f8932d",
           "Name": "7\u0027s Mountain Island Airbase By Zweikaku",
           "RecommendedCapacity": 30,
@@ -9837,28 +9853,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
           "UpdatedAt": "2025-03-19T08:45:20.971Z"
-        },
-        {
-          "ID": "wrld_00aacfe7-ab03-4a8c-9efc-5a8909d89f01",
-          "Name": "F-14\u02F8 After Dark By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "Anytime\u2024",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2024-09-27T05:21:10.463Z",
-          "UpdatedAt": "2024-09-30T09:29:42.613Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -9869,7 +9869,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "\u3042\u3084\u3084\u306D",
@@ -9949,7 +9949,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "\u304B\u3082\u307F\u30FC\u308B",
@@ -9973,11 +9973,11 @@
           "UpdatedAt": "2023-07-03T13:21:35.592Z"
         },
         {
-          "ID": "wrld_d1231c52-734b-4871-b10c-e152610c2784",
-          "Name": "Just Halloween Party By \u304D\u308A\u3057\u307E\u306F\u308B\u306A",
-          "RecommendedCapacity": 32,
-          "Capacity": 64,
-          "Description": "Just Halloween Party",
+          "ID": "wrld_630c5246-8ef7-4dee-b6a9-8095f4001ec8",
+          "Name": "North Island By \u304D\u308A\u3057\u307E\u306F\u308B\u306A",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\uFF2E\uFF30\uFF23\u3068\u30C9\u30C3\u30B0\u30D5\u30A1\u30A4\u30C8\u306E\u3067\u304D\u308B\u30D5\u30E9\u30A4\u30C8\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -9985,24 +9985,8 @@
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
-          "CreatedAt": "2023-10-28T18:35:07.568Z",
-          "UpdatedAt": "2023-10-30T15:01:11.864Z"
-        },
-        {
-          "ID": "wrld_606ce8ab-150d-46b3-bf10-b6654bacdaf6",
-          "Name": "Just Hamamatsu \uFF3BRJNH\uFF3D By \u304D\u308A\u3057\u307E\u306F\u308B\u306A",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "\u6D5C\u677E\u5E02\u3092\u518D\u73FE\u3057\u305F\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3001\u7121\u7DDA\u3092\u5C0E\u5165\u3057\u7DE8\u968A\u98DB\u884C\u304C\u53EF\u80FD\u3067\u3059\u3001\u8A13\u7DF4\u98DB\u884C\u3084\u5C55\u793A\u98DB\u884C\u306A\u3069\u306B\u3069\u3046\u305E\u3002\u30AF\u30A8\u30B9\u30C8\u5BFE\u5FDC\u3067\u3059\u304C\u304A\u307E\u3051\u7A0B\u5EA6\u306A\u306E\u3067\u3001\u63A8\u5968\u306F\u3057\u3066\u3044\u307E\u305B\u3093\u3001\u7E2E\u5C3A\u3084\u65BD\u8A2D\u306A\u3069\u5B9F\u5728\u306E\u7269\u3068\u306F\u7570\u306A\u308A\u307E\u3059\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
-          "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
-          "CreatedAt": "2023-02-17T18:19:16.254Z",
-          "UpdatedAt": "2023-03-20T17:25:38.059Z"
+          "CreatedAt": "2025-01-28T14:11:48.083Z",
+          "UpdatedAt": "2025-03-18T19:28:51.394Z"
         },
         {
           "ID": "wrld_c4bf37ef-1ba5-4705-8009-f1ec7ccd17e8",
@@ -10021,11 +10005,11 @@
           "UpdatedAt": "2023-12-27T18:22:19.59Z"
         },
         {
-          "ID": "wrld_630c5246-8ef7-4dee-b6a9-8095f4001ec8",
-          "Name": "North Island By \u304D\u308A\u3057\u307E\u306F\u308B\u306A",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\uFF2E\uFF30\uFF23\u3068\u30C9\u30C3\u30B0\u30D5\u30A1\u30A4\u30C8\u306E\u3067\u304D\u308B\u30D5\u30E9\u30A4\u30C8\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002",
+          "ID": "wrld_d1231c52-734b-4871-b10c-e152610c2784",
+          "Name": "Just Halloween Party By \u304D\u308A\u3057\u307E\u306F\u308B\u306A",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "Just Halloween Party",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -10033,15 +10017,15 @@
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
-          "CreatedAt": "2025-01-28T14:11:48.083Z",
-          "UpdatedAt": "2025-03-18T19:28:51.394Z"
+          "CreatedAt": "2023-10-28T18:35:07.568Z",
+          "UpdatedAt": "2023-10-30T15:01:11.864Z"
         },
         {
-          "ID": "wrld_ec8fef64-ee7f-4c5f-b00c-da2948e11ad8",
-          "Name": "OCEAN Island By \u304D\u308A\u3057\u307E\u306F\u308B\u306A",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "\u7A7A\u6BCD\u8266\u8F09\u6A5F\u904B\u7528\u304C\u3067\u304D\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3001\u5BFE\u5730\u3001\u5BFE\u8266\u653B\u6483\u306EPVE\u6226\u95D8\u304C\u3067\u304D\u307E\u3059\u3002 \u7121\u7DDA\u3092\u5C0E\u5165\u3057\u3001\u822A\u7A7A\u6A5F\u3001\u6BCD\u8266\u306B\u304A\u3044\u3066\u97F3\u58F0\u901A\u8A71\u306B\u3088\u308B\u9023\u643A\u304C\u53EF\u80FD\u3067\u3059\u3002 \u30AF\u30A8\u30B9\u30C8\u5BFE\u5FDC\u3067\u3059\u304C\u304A\u307E\u3051\u7A0B\u5EA6\u306A\u306E\u3067\u3001\u63A8\u5968\u306F\u3057\u3066\u3044\u307E\u305B\u3093",
+          "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
+          "Name": "\u7CDE\u30EF\u30FC\u30EB\u30C9 By \u304D\u308A\u3057\u307E\u306F\u308B\u306A",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u7CDE\u30EF\u30FC\u30EB\u30C9",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -10049,8 +10033,8 @@
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
-          "CreatedAt": "2023-02-25T07:55:38.694Z",
-          "UpdatedAt": "2023-02-25T09:30:10.201Z"
+          "CreatedAt": "2023-09-04T14:58:08.335Z",
+          "UpdatedAt": "2023-09-06T18:43:47.194Z"
         },
         {
           "ID": "wrld_50c02490-5708-43f7-b27e-630c10bba998",
@@ -10069,20 +10053,36 @@
           "UpdatedAt": "2023-09-04T18:45:58.358Z"
         },
         {
-          "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
-          "Name": "\u7CDE\u30EF\u30FC\u30EB\u30C9 By \u304D\u308A\u3057\u307E\u306F\u308B\u306A",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u7CDE\u30EF\u30FC\u30EB\u30C9",
+          "ID": "wrld_ec8fef64-ee7f-4c5f-b00c-da2948e11ad8",
+          "Name": "OCEAN Island By \u304D\u308A\u3057\u307E\u306F\u308B\u306A",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "\u7A7A\u6BCD\u8266\u8F09\u6A5F\u904B\u7528\u304C\u3067\u304D\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3001\u5BFE\u5730\u3001\u5BFE\u8266\u653B\u6483\u306EPVE\u6226\u95D8\u304C\u3067\u304D\u307E\u3059\u3002 \u7121\u7DDA\u3092\u5C0E\u5165\u3057\u3001\u822A\u7A7A\u6A5F\u3001\u6BCD\u8266\u306B\u304A\u3044\u3066\u97F3\u58F0\u901A\u8A71\u306B\u3088\u308B\u9023\u643A\u304C\u53EF\u80FD\u3067\u3059\u3002 \u30AF\u30A8\u30B9\u30C8\u5BFE\u5FDC\u3067\u3059\u304C\u304A\u307E\u3051\u7A0B\u5EA6\u306A\u306E\u3067\u3001\u63A8\u5968\u306F\u3057\u3066\u3044\u307E\u305B\u3093",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
-          "CreatedAt": "2023-09-04T14:58:08.335Z",
-          "UpdatedAt": "2023-09-06T18:43:47.194Z"
+          "CreatedAt": "2023-02-25T07:55:38.694Z",
+          "UpdatedAt": "2023-02-25T09:30:10.201Z"
+        },
+        {
+          "ID": "wrld_606ce8ab-150d-46b3-bf10-b6654bacdaf6",
+          "Name": "Just Hamamatsu \uFF3BRJNH\uFF3D By \u304D\u308A\u3057\u307E\u306F\u308B\u306A",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "\u6D5C\u677E\u5E02\u3092\u518D\u73FE\u3057\u305F\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3001\u7121\u7DDA\u3092\u5C0E\u5165\u3057\u7DE8\u968A\u98DB\u884C\u304C\u53EF\u80FD\u3067\u3059\u3001\u8A13\u7DF4\u98DB\u884C\u3084\u5C55\u793A\u98DB\u884C\u306A\u3069\u306B\u3069\u3046\u305E\u3002\u30AF\u30A8\u30B9\u30C8\u5BFE\u5FDC\u3067\u3059\u304C\u304A\u307E\u3051\u7A0B\u5EA6\u306A\u306E\u3067\u3001\u63A8\u5968\u306F\u3057\u3066\u3044\u307E\u305B\u3093\u3001\u7E2E\u5C3A\u3084\u65BD\u8A2D\u306A\u3069\u5B9F\u5728\u306E\u7269\u3068\u306F\u7570\u306A\u308A\u307E\u3059\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
+          "AuthorName": "\u304D\u308A\u3057\u307E\u306F\u308B\u306A",
+          "CreatedAt": "2023-02-17T18:19:16.254Z",
+          "UpdatedAt": "2023-03-20T17:25:38.059Z"
         },
         {
           "ID": "wrld_00b2433e-1f8a-4148-862f-b47b861c0756",
@@ -10125,28 +10125,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
           "CreatedAt": "2024-04-29T14:00:54.172Z",
           "UpdatedAt": "2025-03-13T05:31:18.454Z"
-        },
-        {
-          "ID": "wrld_f76f9974-9c8b-49b1-83d3-3a1f9b4da8cf",
-          "Name": "city\u6E4A for Helicopters By \u30B7\u30F3\u300Asymphony\u300B",
-          "RecommendedCapacity": 15,
-          "Capacity": 30,
-          "Description": "\u7F8E\u3057\u3044\u6E2F\u753A\u3001city\u6E4A\u3002 \u305F\u304F\u3055\u3093\u306E\u30D8\u30EA\u3068\u5171\u306B\u3001\u7DE8\u968A\u98DB\u884C\u3084\u7DF4\u7FD2\u306B\u3069\u3046\u305E\uFF01",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
-          "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
-          "CreatedAt": "2022-06-05T01:49:03.209Z",
-          "UpdatedAt": "2024-08-18T06:21:48.139Z"
         },
         {
           "ID": "wrld_2acbbdb3-2da1-45ab-8a85-76ec7a67d435",
@@ -10157,28 +10141,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
           "CreatedAt": "2023-04-15T08:19:41.157Z",
           "UpdatedAt": "2025-01-06T13:46:46.336Z"
-        },
-        {
-          "ID": "wrld_76d3b968-d337-46d4-be15-3cd840dba188",
-          "Name": "sightseeing in yamato By \u30B7\u30F3\u300Asymphony\u300B",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u30D5\u30EB\u30B9\u30AF\u30E9\u30C3\u30C1\u3067\u9811\u5F35\u3063\u3066\u518D\u73FE\u3055\u308C\u305F\u307B\u307C\u539F\u5BF8\u5927\u306E\u6226\u8266\u5927\u548C\u3092\u89B3\u5149\u3057\u3088\u3046\uFF01",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
-          "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
-          "CreatedAt": "2021-11-18T10:08:04.847Z",
-          "UpdatedAt": "2021-12-04T10:22:16.114Z"
         },
         {
           "ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
@@ -10189,12 +10157,28 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
           "UpdatedAt": "2024-11-13T15:04:41.933Z"
+        },
+        {
+          "ID": "wrld_f76f9974-9c8b-49b1-83d3-3a1f9b4da8cf",
+          "Name": "city\u6E4A for Helicopters By \u30B7\u30F3\u300Asymphony\u300B",
+          "RecommendedCapacity": 15,
+          "Capacity": 30,
+          "Description": "\u7F8E\u3057\u3044\u6E2F\u753A\u3001city\u6E4A\u3002 \u305F\u304F\u3055\u3093\u306E\u30D8\u30EA\u3068\u5171\u306B\u3001\u7DE8\u968A\u98DB\u884C\u3084\u7DF4\u7FD2\u306B\u3069\u3046\u305E\uFF01",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
+          "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
+          "CreatedAt": "2022-06-05T01:49:03.209Z",
+          "UpdatedAt": "2024-08-18T06:21:48.139Z"
         },
         {
           "ID": "wrld_40c04871-dd5f-411e-9d3c-d9ec97b8b9cb",
@@ -10205,12 +10189,28 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
           "CreatedAt": "2022-03-24T11:14:21.695Z",
           "UpdatedAt": "2022-08-23T10:30:14.536Z"
+        },
+        {
+          "ID": "wrld_76d3b968-d337-46d4-be15-3cd840dba188",
+          "Name": "sightseeing in yamato By \u30B7\u30F3\u300Asymphony\u300B",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u30D5\u30EB\u30B9\u30AF\u30E9\u30C3\u30C1\u3067\u9811\u5F35\u3063\u3066\u518D\u73FE\u3055\u308C\u305F\u307B\u307C\u539F\u5BF8\u5927\u306E\u6226\u8266\u5927\u548C\u3092\u89B3\u5149\u3057\u3088\u3046\uFF01",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
+          "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
+          "CreatedAt": "2021-11-18T10:08:04.847Z",
+          "UpdatedAt": "2021-12-04T10:22:16.114Z"
         },
         {
           "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
@@ -10221,7 +10221,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "\u30B7\u30F3\u300Asymphony\u300B",
@@ -10237,60 +10237,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
           "CreatedAt": "2024-02-22T14:23:55.08Z",
           "UpdatedAt": "2024-11-12T05:48:45.375Z"
-        },
-        {
-          "ID": "wrld_e574bbd4-e020-4c49-8287-8edb163cfd3f",
-          "Name": "STEAM HELI RACER By \u3068\u304D\u308F\uFF08tokiwa\uFF09",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "Ride a steampunk helicopter and fly faster \uFF08Free BGM MusMus http\u02F8\u2044\u2044musmus\u2024main\u2024jp\u2044 Free SE OtoLogic https\u02F8\u2044\u2044otologic\u2024jp\uFF09",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
-          "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
-          "CreatedAt": "2023-10-09T06:05:44.381Z",
-          "UpdatedAt": "2024-05-06T04:19:47.126Z"
-        },
-        {
-          "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
-          "Name": "Tanuki Island By \u3068\u304D\u308F\uFF08tokiwa\uFF09",
-          "RecommendedCapacity": 64,
-          "Capacity": 64,
-          "Description": "\uFF08Free BGM MusMus http\u02F8\u2044\u2044musmus\u2024main\u2024jp\u2044\uFF09",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
-          "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
-          "CreatedAt": "2023-02-15T18:34:33.465Z",
-          "UpdatedAt": "2025-01-27T11:26:20.896Z"
-        },
-        {
-          "ID": "wrld_56b5b37b-7470-43d7-beb1-2bad3abcd222",
-          "Name": "YY Helicopter System test world By \u3068\u304D\u308F\uFF08tokiwa\uFF09",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "YY Helicopter System test world",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
-          "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
-          "CreatedAt": "2023-03-02T06:42:59.758Z",
-          "UpdatedAt": "2024-12-25T04:11:46.701Z"
         },
         {
           "ID": "wrld_4fe4cfe2-fad8-439e-b2f1-49ab11c8aadd",
@@ -10301,12 +10253,60 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
           "UpdatedAt": "2024-12-21T11:45:54.609Z"
+        },
+        {
+          "ID": "wrld_e574bbd4-e020-4c49-8287-8edb163cfd3f",
+          "Name": "STEAM HELI RACER By \u3068\u304D\u308F\uFF08tokiwa\uFF09",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Ride a steampunk helicopter and fly faster \uFF08Free BGM MusMus http\u02F8\u2044\u2044musmus\u2024main\u2024jp\u2044 Free SE OtoLogic https\u02F8\u2044\u2044otologic\u2024jp\uFF09",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
+          "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
+          "CreatedAt": "2023-10-09T06:05:44.381Z",
+          "UpdatedAt": "2024-05-06T04:19:47.126Z"
+        },
+        {
+          "ID": "wrld_56b5b37b-7470-43d7-beb1-2bad3abcd222",
+          "Name": "YY Helicopter System test world By \u3068\u304D\u308F\uFF08tokiwa\uFF09",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "YY Helicopter System test world",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
+          "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
+          "CreatedAt": "2023-03-02T06:42:59.758Z",
+          "UpdatedAt": "2024-12-25T04:11:46.701Z"
+        },
+        {
+          "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
+          "Name": "Tanuki Island By \u3068\u304D\u308F\uFF08tokiwa\uFF09",
+          "RecommendedCapacity": 64,
+          "Capacity": 64,
+          "Description": "\uFF08Free BGM MusMus http\u02F8\u2044\u2044musmus\u2024main\u2024jp\u2044\uFF09",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
+          "AuthorName": "\u3068\u304D\u308F\uFF08tokiwa\uFF09",
+          "CreatedAt": "2023-02-15T18:34:33.465Z",
+          "UpdatedAt": "2025-01-27T11:26:20.896Z"
         },
         {
           "ID": "wrld_ffed549e-a0bb-4b9c-a3b9-801b4e500bc8",
@@ -10333,7 +10333,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_464689ff-8d40-49e2-b864-e37cf9c1825a",
           "AuthorName": "\u3071\u30FC\u3057\u30FC HyprShield",
@@ -10365,7 +10365,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "\u30D0\u30F3\u30DC\u30FC\uFF08Bambo\uFF09",
@@ -10381,7 +10381,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_e24579cf-6cca-4cce-8246-c9d674073f98",
           "AuthorName": "\u3075\u304F\u3079\uFF3BHukube\uFF3D",
@@ -10397,7 +10397,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "\u307E\u3053\u307A\u3063\u307A",
@@ -10413,7 +10413,7 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "\u307E\u3053\u307A\u3063\u307A",
@@ -10421,11 +10421,11 @@
           "UpdatedAt": "2024-09-13T11:32:41.694Z"
         },
         {
-          "ID": "wrld_22a788ce-5a81-41dc-a455-70816f72f71a",
-          "Name": "??? By \u30DF\u30FC\u3055\u3093",
+          "ID": "wrld_15300551-e360-49c2-8aaa-438faa68039e",
+          "Name": "\u7121\u4EBA\u8CB8\u3057\u51FA\u3057\u6240 By \u30DF\u30FC\u3055\u3093",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "\u521D\u3081\u3066\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\u304C\u7834\u640D\u3057\u305F\u306E\u3067\u8A18\u5FF5\u306B\u5D29\u58CA\u3059\u308B\u307E\u3067\u3053\u306E\u307E\u307E\u7F6E\u3044\u3066\u304A\u304D\u307E\u3059 \u3001\u30EF\u30FC\u30EB\u30C9\u306E\u7D42\u672B\u307E\u3067\u3054\u81EA\u7531\u306B\u304A\u98DB\u3073\u304F\u3060\u3055\u3044 \u3002\u3002\u3002\u306A\u304A\u3001\u9577\u6642\u9593\u306E\u30D5\u30E9\u30A4\u30C8\u306F\u3042\u306A\u305F\u306E\u76EE\u306E\u5065\u5EB7\u3092\u5BB3\u3059\u308B\u6050\u308C\u304C\u3042\u308A\u307E\u3059\u3002",
+          "Description": "\u3068\u3066\u3082\u9752\u3044",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -10433,72 +10433,8 @@
           },
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "\u30DF\u30FC\u3055\u3093",
-          "CreatedAt": "2024-06-04T12:14:06.442Z",
-          "UpdatedAt": "2024-06-09T20:14:33.967Z"
-        },
-        {
-          "ID": "wrld_a84a54cf-1650-4979-97fc-3275b2ed4016",
-          "Name": "hub station\uFF1A220236f1 By \u30DF\u30FC\u3055\u3093",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u300E\u6B21\u306E\u4E57\u7D99\u4FBF\u306F420768\u6642\u959354\u520632\u79D2\u5F8C\u306B\u5230\u7740\u4E88\u5B9A\u3067\u3059\u3001\u79FB\u52D5\u306B\u969B\u3057\u3066\u306F\u8DB3\u5143\u306B\u304A\u6C17\u3092\u3064\u3051\u304F\u3060\u3055\u3044\u3002\u306A\u304A\u5F53\u65BD\u8A2D\u306F\u5B8C\u5168\u7121\u4EBA\u904B\u884C\u3068\u306A\u3063\u3066\u304A\u308A\u307E\u3059\u3001\u3054\u5229\u7528\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u300F",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "\u30DF\u30FC\u3055\u3093",
-          "CreatedAt": "2024-06-30T21:55:11.284Z",
-          "UpdatedAt": "2025-01-24T13:41:08.323Z"
-        },
-        {
-          "ID": "wrld_51f34439-0b1e-4606-b3eb-20639b233e00",
-          "Name": "U\uFF0B1F728\u2044point\uFF1AB By \u30DF\u30FC\u3055\u3093",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u4E0D\u6CD5\u6295\u68C4\u3055\u308C\u305F\u30C0\u30A4\u30BD\u30F3\u7403\u7528\u5EFA\u7BC9\u8CC7\u6750\u306E\u7AEF\u6750\u306F\u904E\u758E\u60D1\u661FU\uFF0B1F728\u3078\u3068\u964D\u308A\u6CE8\u304E\u3001\u305D\u306E\u98A8\u666F\u3092\u4E00\u5909\u3055\u305B\u305F\u304C\u3082\u306F\u3084\u4EBA\u3005\u304C\u3053\u306E\u661F\u306B\u611F\u5FC3\u3092\u5411\u3051\u308B\u4E8B\u306F\u306A\u304B\u3063\u305F\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "\u30DF\u30FC\u3055\u3093",
-          "CreatedAt": "2024-05-24T13:53:52.953Z",
-          "UpdatedAt": "2024-11-14T12:31:01.636Z"
-        },
-        {
-          "ID": "wrld_7335e76a-c4a5-4f5e-8f5d-b786e9d35347",
-          "Name": "\u3053\u305A\u307F\u3063\u304F\u304D\u3085\u30FC\u3076 By \u30DF\u30FC\u3055\u3093",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "\u30DF\u30FC\u3055\u3093",
-          "CreatedAt": "2024-06-22T12:35:35.013Z",
-          "UpdatedAt": "2024-09-02T16:48:01.485Z"
-        },
-        {
-          "ID": "wrld_ce7e0f34-ef81-4812-81a6-a580bf14351a",
-          "Name": "\u306A\u3044\u3068\u3075\u3089\u3044\u3068 By \u30DF\u30FC\u3055\u3093",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u9670\u9B31\u3068\u3057\u305F\u591C\u3092\u98DB\u3073\u305F\u3044\u4EBA\u5411\u3051\u3002 \u30E9\u30B8\u30AA\u30BE\u30FC\u30F3\u306F\u30EA\u30B9\u30DD\u30FC\u30F3\u5730\u70B9\u3042\u305F\u308A\u3001 \u6A5F\u9283\u306F\u6483\u3066\u307E\u305B\u3093\u3002 \u96E2\u9678\u6642\u306F\u30A8\u30F3\u30B8\u30F3\u30C8\u30EB\u30AF\u306B\u304A\u6C17\u3092\u4ED8\u3051\u304F\u3060\u3055\u3044\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "\u30DF\u30FC\u3055\u3093",
-          "CreatedAt": "2024-05-29T13:45:47.332Z",
-          "UpdatedAt": "2025-02-05T12:31:58.694Z"
+          "CreatedAt": "2024-11-08T06:01:56.549Z",
+          "UpdatedAt": "2025-02-05T02:23:43.209Z"
         },
         {
           "ID": "wrld_f16204b8-df69-47e0-b543-db6ec52019a0",
@@ -10517,11 +10453,11 @@
           "UpdatedAt": "2024-09-05T18:32:23.82Z"
         },
         {
-          "ID": "wrld_15300551-e360-49c2-8aaa-438faa68039e",
-          "Name": "\u7121\u4EBA\u8CB8\u3057\u51FA\u3057\u6240 By \u30DF\u30FC\u3055\u3093",
+          "ID": "wrld_a84a54cf-1650-4979-97fc-3275b2ed4016",
+          "Name": "hub station\uFF1A220236f1 By \u30DF\u30FC\u3055\u3093",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "\u3068\u3066\u3082\u9752\u3044",
+          "Description": "\u300E\u6B21\u306E\u4E57\u7D99\u4FBF\u306F420768\u6642\u959354\u520632\u79D2\u5F8C\u306B\u5230\u7740\u4E88\u5B9A\u3067\u3059\u3001\u79FB\u52D5\u306B\u969B\u3057\u3066\u306F\u8DB3\u5143\u306B\u304A\u6C17\u3092\u3064\u3051\u304F\u3060\u3055\u3044\u3002\u306A\u304A\u5F53\u65BD\u8A2D\u306F\u5B8C\u5168\u7121\u4EBA\u904B\u884C\u3068\u306A\u3063\u3066\u304A\u308A\u307E\u3059\u3001\u3054\u5229\u7528\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u300F",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -10529,8 +10465,72 @@
           },
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "\u30DF\u30FC\u3055\u3093",
-          "CreatedAt": "2024-11-08T06:01:56.549Z",
-          "UpdatedAt": "2025-02-05T02:23:43.209Z"
+          "CreatedAt": "2024-06-30T21:55:11.284Z",
+          "UpdatedAt": "2025-01-24T13:41:08.323Z"
+        },
+        {
+          "ID": "wrld_7335e76a-c4a5-4f5e-8f5d-b786e9d35347",
+          "Name": "\u3053\u305A\u307F\u3063\u304F\u304D\u3085\u30FC\u3076 By \u30DF\u30FC\u3055\u3093",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "\u30DF\u30FC\u3055\u3093",
+          "CreatedAt": "2024-06-22T12:35:35.013Z",
+          "UpdatedAt": "2024-09-02T16:48:01.485Z"
+        },
+        {
+          "ID": "wrld_22a788ce-5a81-41dc-a455-70816f72f71a",
+          "Name": "??? By \u30DF\u30FC\u3055\u3093",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u521D\u3081\u3066\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\u304C\u7834\u640D\u3057\u305F\u306E\u3067\u8A18\u5FF5\u306B\u5D29\u58CA\u3059\u308B\u307E\u3067\u3053\u306E\u307E\u307E\u7F6E\u3044\u3066\u304A\u304D\u307E\u3059 \u3001\u30EF\u30FC\u30EB\u30C9\u306E\u7D42\u672B\u307E\u3067\u3054\u81EA\u7531\u306B\u304A\u98DB\u3073\u304F\u3060\u3055\u3044 \u3002\u3002\u3002\u306A\u304A\u3001\u9577\u6642\u9593\u306E\u30D5\u30E9\u30A4\u30C8\u306F\u3042\u306A\u305F\u306E\u76EE\u306E\u5065\u5EB7\u3092\u5BB3\u3059\u308B\u6050\u308C\u304C\u3042\u308A\u307E\u3059\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "\u30DF\u30FC\u3055\u3093",
+          "CreatedAt": "2024-06-04T12:14:06.442Z",
+          "UpdatedAt": "2024-06-09T20:14:33.967Z"
+        },
+        {
+          "ID": "wrld_ce7e0f34-ef81-4812-81a6-a580bf14351a",
+          "Name": "\u306A\u3044\u3068\u3075\u3089\u3044\u3068 By \u30DF\u30FC\u3055\u3093",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u9670\u9B31\u3068\u3057\u305F\u591C\u3092\u98DB\u3073\u305F\u3044\u4EBA\u5411\u3051\u3002 \u30E9\u30B8\u30AA\u30BE\u30FC\u30F3\u306F\u30EA\u30B9\u30DD\u30FC\u30F3\u5730\u70B9\u3042\u305F\u308A\u3001 \u6A5F\u9283\u306F\u6483\u3066\u307E\u305B\u3093\u3002 \u96E2\u9678\u6642\u306F\u30A8\u30F3\u30B8\u30F3\u30C8\u30EB\u30AF\u306B\u304A\u6C17\u3092\u4ED8\u3051\u304F\u3060\u3055\u3044\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "\u30DF\u30FC\u3055\u3093",
+          "CreatedAt": "2024-05-29T13:45:47.332Z",
+          "UpdatedAt": "2025-02-05T12:31:58.694Z"
+        },
+        {
+          "ID": "wrld_51f34439-0b1e-4606-b3eb-20639b233e00",
+          "Name": "U\uFF0B1F728\u2044point\uFF1AB By \u30DF\u30FC\u3055\u3093",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u4E0D\u6CD5\u6295\u68C4\u3055\u308C\u305F\u30C0\u30A4\u30BD\u30F3\u7403\u7528\u5EFA\u7BC9\u8CC7\u6750\u306E\u7AEF\u6750\u306F\u904E\u758E\u60D1\u661FU\uFF0B1F728\u3078\u3068\u964D\u308A\u6CE8\u304E\u3001\u305D\u306E\u98A8\u666F\u3092\u4E00\u5909\u3055\u305B\u305F\u304C\u3082\u306F\u3084\u4EBA\u3005\u304C\u3053\u306E\u661F\u306B\u611F\u5FC3\u3092\u5411\u3051\u308B\u4E8B\u306F\u306A\u304B\u3063\u305F\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "\u30DF\u30FC\u3055\u3093",
+          "CreatedAt": "2024-05-24T13:53:52.953Z",
+          "UpdatedAt": "2024-11-14T12:31:01.636Z"
         },
         {
           "ID": "wrld_522b17d4-286f-4dee-bd87-69fad77c8b43",
@@ -10573,12 +10573,28 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "\u308F\u305F\u307C\u30FC",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
           "UpdatedAt": "2025-03-01T15:11:03.053Z"
+        },
+        {
+          "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
+          "Name": "SummerNightFlight ~IwoTo\uFF5E By \u9650\u754C\u6A5F\u95A2\u9577",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u590F\u306E\u6691\u3055\u306B\u3042\u3066\u3089\u308C\u3066\u76EE\u306B\u6620\u3063\u305F\u5E7B\u3092\u8A70\u3081\u8FBC\u3093\u3060\u30EF\u30FC\u30EB\u30C9\u306B\u591C\u304C\u6765\u307E\u3057\u305F\u3002",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
+          "AuthorName": "\u9650\u754C\u6A5F\u95A2\u9577",
+          "CreatedAt": "2024-08-04T12:24:16.351Z",
+          "UpdatedAt": "2024-10-16T12:18:48.153Z"
         },
         {
           "ID": "wrld_a824c395-45ff-4de9-a65d-07a724d2de8d",
@@ -10613,22 +10629,6 @@
           "UpdatedAt": "2024-10-28T14:15:42.111Z"
         },
         {
-          "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
-          "Name": "SummerNightFlight ~IwoTo\uFF5E By \u9650\u754C\u6A5F\u95A2\u9577",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u590F\u306E\u6691\u3055\u306B\u3042\u3066\u3089\u308C\u3066\u76EE\u306B\u6620\u3063\u305F\u5E7B\u3092\u8A70\u3081\u8FBC\u3093\u3060\u30EF\u30FC\u30EB\u30C9\u306B\u591C\u304C\u6765\u307E\u3057\u305F\u3002",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
-          "AuthorName": "\u9650\u754C\u6A5F\u95A2\u9577",
-          "CreatedAt": "2024-08-04T12:24:16.351Z",
-          "UpdatedAt": "2024-10-16T12:18:48.153Z"
-        },
-        {
           "ID": "wrld_58f7db31-cf01-4fe9-b053-c4b77cd90424",
           "Name": "Tutorial Sacc\u0027s Flight System By \u661F\u898B\u305D\u3089",
           "RecommendedCapacity": 5,
@@ -10637,44 +10637,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_d0ae9f18-080f-4c68-a907-3d5c31debc7e",
           "AuthorName": "\u661F\u898B\u305D\u3089",
           "CreatedAt": "2021-04-09T16:29:32.371Z",
           "UpdatedAt": "2023-09-21T12:21:42.165Z"
-        },
-        {
-          "ID": "wrld_c6846d53-a644-442f-b4d3-c02a73d58975",
-          "Name": "A56-7W\uFF0B\u685C\uFF08\u9AD8\u30DD\u30EA\uFF09 By \u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u65E2\u5B58\u306E\u30EF\u30FC\u30EB\u30C9\u306B\u9AD8\u30DD\u30EA\u306A\u685C\u3092\u690D\u6A39\u3057\u305F\u3060\u3051",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
-          "AuthorName": "\u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
-          "CreatedAt": "2023-03-04T02:52:55.794Z",
-          "UpdatedAt": "2025-03-11T14:10:59.463Z"
-        },
-        {
-          "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
-          "Name": "File A56-7W By \u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
-          "RecommendedCapacity": 16,
-          "Capacity": 16,
-          "Description": "\u30A8\u30A2\u30FC\u30A6\u30EB\u30D5\u306E\u98DB\u3076\u59FF\u3092\u898B\u305F\u3044\u3060\u3051\u3067\u4F5C\u3063\u305F",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
-          "AuthorName": "\u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
-          "CreatedAt": "2022-09-03T05:05:23.624Z",
-          "UpdatedAt": "2024-12-28T08:27:28.321Z"
         },
         {
           "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
@@ -10707,6 +10675,38 @@
           "AuthorName": "\u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
           "CreatedAt": "2023-03-26T02:20:36.586Z",
           "UpdatedAt": "2024-11-16T13:56:13.749Z"
+        },
+        {
+          "ID": "wrld_c6846d53-a644-442f-b4d3-c02a73d58975",
+          "Name": "A56-7W\uFF0B\u685C\uFF08\u9AD8\u30DD\u30EA\uFF09 By \u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u65E2\u5B58\u306E\u30EF\u30FC\u30EB\u30C9\u306B\u9AD8\u30DD\u30EA\u306A\u685C\u3092\u690D\u6A39\u3057\u305F\u3060\u3051",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
+          "AuthorName": "\u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
+          "CreatedAt": "2023-03-04T02:52:55.794Z",
+          "UpdatedAt": "2025-03-11T14:10:59.463Z"
+        },
+        {
+          "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
+          "Name": "File A56-7W By \u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
+          "RecommendedCapacity": 16,
+          "Capacity": 16,
+          "Description": "\u30A8\u30A2\u30FC\u30A6\u30EB\u30D5\u306E\u98DB\u3076\u59FF\u3092\u898B\u305F\u3044\u3060\u3051\u3067\u4F5C\u3063\u305F",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
+          "AuthorName": "\u8429\u30AD\u30E3\u30F3\u30D1\u30FCJP",
+          "CreatedAt": "2022-09-03T05:05:23.624Z",
+          "UpdatedAt": "2024-12-28T08:27:28.321Z"
         }
       ]
     }
