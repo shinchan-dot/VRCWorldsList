@@ -19,7 +19,7 @@
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
           "CreatedAt": "2025-03-15T14:48:46.761Z",
-          "UpdatedAt": "2025-03-19T15:55:37.712Z"
+          "UpdatedAt": "2025-03-22T19:36:23.737Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -35,7 +35,7 @@
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-20T15:20:20.087Z"
+          "UpdatedAt": "2025-03-21T02:58:04.8Z"
         },
         {
           "ID": "wrld_5948766b-6797-4507-9d3e-0bbd033916de",
@@ -67,7 +67,39 @@
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "バンボー（Bambo）",
           "CreatedAt": "2025-03-07T13:51:02.195Z",
-          "UpdatedAt": "2025-03-15T15:50:26.873Z"
+          "UpdatedAt": "2025-03-22T04:43:13.401Z"
+        },
+        {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-03-22T13:01:14.178Z"
+        },
+        {
+          "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
+          "Name": "Mi35M test world By eleyp vr",
+          "RecommendedCapacity": 14,
+          "Capacity": 14,
+          "Description": "just a world for testing some stuff with helis",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
+          "AuthorName": "eleyp vr",
+          "CreatedAt": "2025-02-26T22:16:11.988Z",
+          "UpdatedAt": "2025-03-12T16:15:35.442Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -99,7 +131,7 @@
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
           "AuthorName": "にとうっぺ",
           "CreatedAt": "2025-02-16T15:16:15.576Z",
-          "UpdatedAt": "2025-03-20T13:38:35.826Z"
+          "UpdatedAt": "2025-03-21T11:29:08.142Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -120,7 +152,7 @@
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
           "Name": "いちごみるくヘリポート飛行場（製作中） By いちごみるく2100",
-          "RecommendedCapacity": 16,
+          "RecommendedCapacity": 25,
           "Capacity": 30,
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
           "ReleaseStatus": "public",
@@ -131,7 +163,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-20T14:23:25.131Z"
+          "UpdatedAt": "2025-03-22T17:59:05.129Z"
         },
         {
           "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
@@ -758,6 +790,22 @@
           "UpdatedAt": "2024-06-07T01:54:33.878Z"
         },
         {
+          "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
+          "Name": "Ka52 Test World By eleyp vr",
+          "RecommendedCapacity": 9,
+          "Capacity": 10,
+          "Description": "Ka52 Test World with apache's",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
+          "AuthorName": "eleyp vr",
+          "CreatedAt": "2024-05-02T20:11:46.466Z",
+          "UpdatedAt": "2025-03-20T17:44:02.304Z"
+        },
+        {
           "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
           "Name": "City MIO for Vehicle World By シン《symphony》",
           "RecommendedCapacity": 20,
@@ -1210,7 +1258,7 @@
           "Name": "Red Rods Heliport By shinchan․",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "ジムカーナ風タイムアタック、初心者用補助具、へんたい飛行練習用ダミー、航跡が分かるスモーク、広いヘリパッド。中身をGitHubで公開しています。 Gymkhana style time attack‚ aid for beginners‚ dummy for formation flight practice‚ smoke that shows the trail‚ spacious helipad․ The source is available on GitHub․",
+          "Description": "ジムカーナ風タイムアタック、初心者用補助具、へんたい飛行練習用ダミー、航跡が分かるスモーク、広いヘリパッド、ポータルライブラリ。中身をGitHubで公開しています。 Gymkhana style time attack‚ aid for beginners‚ dummy for formation flight practice‚ smoke that shows the trail‚ spacious helipad‚ portal library․ The source is available on GitHub․",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -1219,7 +1267,7 @@
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan․",
           "CreatedAt": "2023-10-17T11:44:21.965Z",
-          "UpdatedAt": "2025-02-19T10:11:35.747Z"
+          "UpdatedAt": "2025-03-22T14:08:28.095Z"
         },
         {
           "ID": "wrld_e574bbd4-e020-4c49-8287-8edb163cfd3f",
@@ -2659,7 +2707,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-03-17T15:48:37.94Z"
+          "UpdatedAt": "2025-03-21T13:06:17.579Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -2683,25 +2731,25 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
-          "Name": "あやや島空港 By あややね",
-          "RecommendedCapacity": 16,
+          "ID": "wrld_605da853-4299-4e0e-9b56-1ce631b4310a",
+          "Name": "Intercept˸ Broken Sky By 5Sori",
+          "RecommendedCapacity": 8,
           "Capacity": 16,
-          "Description": "武装は双方が無効化モードをオフにすることで使用可能になります。滑走路以外は30knの速度制限があり、超過すると壁が出現して止められます。空母にはIFLOLSとLRLLS、LSOを設置、カタパルトは機体外部から操作が可能です。アレスティングワイヤーは引っ張られて伸びます。",
+          "Description": "Protect aircraft carrier from AI fighters and bombersǃ It's a kind of gimmick demo world AI戦闘機と爆撃機から空母を守れ！ ギミックデモを兼ねて作ったワールドです。 ＃VRC_BrokenSky",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": true
+            "Android": false
           },
-          "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
-          "AuthorName": "あややね",
-          "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-20T15:20:20.087Z"
+          "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
+          "AuthorName": "5Sori",
+          "CreatedAt": "2025-03-15T14:48:46.761Z",
+          "UpdatedAt": "2025-03-22T19:36:23.737Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
           "Name": "いちごみるくヘリポート飛行場（製作中） By いちごみるく2100",
-          "RecommendedCapacity": 16,
+          "RecommendedCapacity": 25,
           "Capacity": 30,
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
           "ReleaseStatus": "public",
@@ -2712,7 +2760,71 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-20T14:23:25.131Z"
+          "UpdatedAt": "2025-03-22T17:59:05.129Z"
+        },
+        {
+          "ID": "wrld_4130b536-45c5-4703-9843-390d9a53ddcd",
+          "Name": "Red Rods Heliport By shinchan․",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ジムカーナ風タイムアタック、初心者用補助具、へんたい飛行練習用ダミー、航跡が分かるスモーク、広いヘリパッド、ポータルライブラリ。中身をGitHubで公開しています。 Gymkhana style time attack‚ aid for beginners‚ dummy for formation flight practice‚ smoke that shows the trail‚ spacious helipad‚ portal library․ The source is available on GitHub․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+          "AuthorName": "shinchan․",
+          "CreatedAt": "2023-10-17T11:44:21.965Z",
+          "UpdatedAt": "2025-03-22T14:08:28.095Z"
+        },
+        {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-03-22T13:01:14.178Z"
+        },
+        {
+          "ID": "wrld_8cc58555-c794-4a60-b4d6-9771a587baca",
+          "Name": "特撮ロケ By バンボー（Bambo）",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "特撮のロケ地といえば採石場。タイマー式やセンサー式の爆薬が仕込んであります。変形ロボット「ファイバリオン」やヘリにも乗れるよ！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
+          "AuthorName": "バンボー（Bambo）",
+          "CreatedAt": "2025-03-07T13:51:02.195Z",
+          "UpdatedAt": "2025-03-22T04:43:13.401Z"
+        },
+        {
+          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+          "Name": "Test Pilots By Sacchan",
+          "RecommendedCapacity": 12,
+          "Capacity": 44,
+          "Description": "For those who love flying․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2020-04-07T09:27:04.715Z",
+          "UpdatedAt": "2025-03-21T13:06:17.579Z"
         },
         {
           "ID": "wrld_ffed549e-a0bb-4b9c-a3b9-801b4e500bc8",
@@ -2728,23 +2840,39 @@
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
           "AuthorName": "にとうっぺ",
           "CreatedAt": "2025-02-16T15:16:15.576Z",
-          "UpdatedAt": "2025-03-20T13:38:35.826Z"
+          "UpdatedAt": "2025-03-21T11:29:08.142Z"
         },
         {
-          "ID": "wrld_605da853-4299-4e0e-9b56-1ce631b4310a",
-          "Name": "Intercept˸ Broken Sky By 5Sori",
-          "RecommendedCapacity": 8,
+          "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
+          "Name": "あやや島空港 By あややね",
+          "RecommendedCapacity": 16,
           "Capacity": 16,
-          "Description": "Protect aircraft carrier from AI fighters and bombersǃ It's a kind of gimmick demo world AI戦闘機と爆撃機から空母を守れ！ ギミックデモを兼ねて作ったワールドです。 ＃VRC_BrokenSky",
+          "Description": "武装は双方が無効化モードをオフにすることで使用可能になります。滑走路以外は30knの速度制限があり、超過すると壁が出現して止められます。空母にはIFLOLSとLRLLS、LSOを設置、カタパルトは機体外部から操作が可能です。アレスティングワイヤーは引っ張られて伸びます。",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
-          "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
-          "AuthorName": "5Sori",
-          "CreatedAt": "2025-03-15T14:48:46.761Z",
-          "UpdatedAt": "2025-03-19T15:55:37.712Z"
+          "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
+          "AuthorName": "あややね",
+          "CreatedAt": "2025-03-12T12:02:26.919Z",
+          "UpdatedAt": "2025-03-21T02:58:04.8Z"
+        },
+        {
+          "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
+          "Name": "Ka52 Test World By eleyp vr",
+          "RecommendedCapacity": 9,
+          "Capacity": 10,
+          "Description": "Ka52 Test World with apache's",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
+          "AuthorName": "eleyp vr",
+          "CreatedAt": "2024-05-02T20:11:46.466Z",
+          "UpdatedAt": "2025-03-20T17:44:02.304Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
@@ -2811,22 +2939,6 @@
           "UpdatedAt": "2025-03-17T17:20:34.317Z"
         },
         {
-          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
-          "Name": "Test Pilots By Sacchan",
-          "RecommendedCapacity": 12,
-          "Capacity": 44,
-          "Description": "For those who love flying․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-03-17T15:48:37.94Z"
-        },
-        {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
           "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -2857,22 +2969,6 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-02T07:23:06.931Z",
           "UpdatedAt": "2025-03-16T07:54:37.508Z"
-        },
-        {
-          "ID": "wrld_8cc58555-c794-4a60-b4d6-9771a587baca",
-          "Name": "特撮ロケ By バンボー（Bambo）",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "特撮のロケ地といえば採石場。タイマー式やセンサー式の爆薬が仕込んであります。変形ロボット「ファイバリオン」やヘリにも乗れるよ！",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
-          "AuthorName": "バンボー（Bambo）",
-          "CreatedAt": "2025-03-07T13:51:02.195Z",
-          "UpdatedAt": "2025-03-15T15:50:26.873Z"
         },
         {
           "ID": "wrld_204dbeb8-49a3-4140-9889-df8eee70f3a1",
@@ -2937,6 +3033,22 @@
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2024-04-29T14:00:54.172Z",
           "UpdatedAt": "2025-03-13T05:31:18.454Z"
+        },
+        {
+          "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
+          "Name": "Mi35M test world By eleyp vr",
+          "RecommendedCapacity": 14,
+          "Capacity": 14,
+          "Description": "just a world for testing some stuff with helis",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
+          "AuthorName": "eleyp vr",
+          "CreatedAt": "2025-02-26T22:16:11.988Z",
+          "UpdatedAt": "2025-03-12T16:15:35.442Z"
         },
         {
           "ID": "wrld_ec9586d7-422e-453b-8c1e-923c7169c616",
@@ -3081,22 +3193,6 @@
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
           "UpdatedAt": "2025-02-22T02:23:58.034Z"
-        },
-        {
-          "ID": "wrld_4130b536-45c5-4703-9843-390d9a53ddcd",
-          "Name": "Red Rods Heliport By shinchan․",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ジムカーナ風タイムアタック、初心者用補助具、へんたい飛行練習用ダミー、航跡が分かるスモーク、広いヘリパッド。中身をGitHubで公開しています。 Gymkhana style time attack‚ aid for beginners‚ dummy for formation flight practice‚ smoke that shows the trail‚ spacious helipad․ The source is available on GitHub․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
-          "AuthorName": "shinchan․",
-          "CreatedAt": "2023-10-17T11:44:21.965Z",
-          "UpdatedAt": "2025-02-19T10:11:35.747Z"
         },
         {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
@@ -6237,7 +6333,7 @@
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
           "CreatedAt": "2025-03-15T14:48:46.761Z",
-          "UpdatedAt": "2025-03-19T15:55:37.712Z"
+          "UpdatedAt": "2025-03-22T19:36:23.737Z"
         },
         {
           "ID": "wrld_736b4f6d-99e9-4a53-ae57-6e801b1b85f0",
@@ -6400,6 +6496,22 @@
           "UpdatedAt": "2025-03-01T05:48:48.334Z"
         },
         {
+          "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
+          "Name": "Ka52 Test World By eleyp vr",
+          "RecommendedCapacity": 9,
+          "Capacity": 10,
+          "Description": "Ka52 Test World with apache's",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
+          "AuthorName": "eleyp vr",
+          "CreatedAt": "2024-05-02T20:11:46.466Z",
+          "UpdatedAt": "2025-03-20T17:44:02.304Z"
+        },
+        {
           "ID": "wrld_73bfab3d-5888-4364-909a-6bba45749538",
           "Name": "Levin's Flight Test World 01 By れびん-Levin403",
           "RecommendedCapacity": 16,
@@ -6462,6 +6574,22 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2023-12-18T17:59:05.666Z",
           "UpdatedAt": "2024-12-06T10:38:21.996Z"
+        },
+        {
+          "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
+          "Name": "Mi35M test world By eleyp vr",
+          "RecommendedCapacity": 14,
+          "Capacity": 14,
+          "Description": "just a world for testing some stuff with helis",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
+          "AuthorName": "eleyp vr",
+          "CreatedAt": "2025-02-26T22:16:11.988Z",
+          "UpdatedAt": "2025-03-12T16:15:35.442Z"
         },
         {
           "ID": "wrld_60300d73-dd92-47d6-a5d3-ad3b7676d0a5",
@@ -6676,7 +6804,7 @@
           "Name": "Red Rods Heliport By shinchan․",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "ジムカーナ風タイムアタック、初心者用補助具、へんたい飛行練習用ダミー、航跡が分かるスモーク、広いヘリパッド。中身をGitHubで公開しています。 Gymkhana style time attack‚ aid for beginners‚ dummy for formation flight practice‚ smoke that shows the trail‚ spacious helipad․ The source is available on GitHub․",
+          "Description": "ジムカーナ風タイムアタック、初心者用補助具、へんたい飛行練習用ダミー、航跡が分かるスモーク、広いヘリパッド、ポータルライブラリ。中身をGitHubで公開しています。 Gymkhana style time attack‚ aid for beginners‚ dummy for formation flight practice‚ smoke that shows the trail‚ spacious helipad‚ portal library․ The source is available on GitHub․",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -6685,7 +6813,7 @@
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan․",
           "CreatedAt": "2023-10-17T11:44:21.965Z",
-          "UpdatedAt": "2025-02-19T10:11:35.747Z"
+          "UpdatedAt": "2025-03-22T14:08:28.095Z"
         },
         {
           "ID": "wrld_66cbc9bc-bb44-4d62-9840-9ee29a92b0fd",
@@ -7005,7 +7133,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-03-17T15:48:37.94Z"
+          "UpdatedAt": "2025-03-21T13:06:17.579Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -7309,12 +7437,12 @@
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-20T15:20:20.087Z"
+          "UpdatedAt": "2025-03-21T02:58:04.8Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
           "Name": "いちごみるくヘリポート飛行場（製作中） By いちごみるく2100",
-          "RecommendedCapacity": 16,
+          "RecommendedCapacity": 25,
           "Capacity": 30,
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
           "ReleaseStatus": "public",
@@ -7325,7 +7453,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-20T14:23:25.131Z"
+          "UpdatedAt": "2025-03-22T17:59:05.129Z"
         },
         {
           "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
@@ -7616,6 +7744,22 @@
           "UpdatedAt": "2025-02-08T10:02:29.967Z"
         },
         {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-03-22T13:01:14.178Z"
+        },
+        {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
           "Name": "レスキューヘリ危機一髪 大怪獣24時 By tanabe",
           "RecommendedCapacity": 16,
@@ -7693,7 +7837,7 @@
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
           "AuthorName": "にとうっぺ",
           "CreatedAt": "2025-02-16T15:16:15.576Z",
-          "UpdatedAt": "2025-03-20T13:38:35.826Z"
+          "UpdatedAt": "2025-03-21T11:29:08.142Z"
         },
         {
           "ID": "wrld_0d79f7b1-0a1e-446a-b091-291575537a6c",
@@ -7901,7 +8045,7 @@
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "バンボー（Bambo）",
           "CreatedAt": "2025-03-07T13:51:02.195Z",
-          "UpdatedAt": "2025-03-15T15:50:26.873Z"
+          "UpdatedAt": "2025-03-22T04:43:13.401Z"
         },
         {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
@@ -8082,7 +8226,7 @@
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
           "CreatedAt": "2025-03-15T14:48:46.761Z",
-          "UpdatedAt": "2025-03-19T15:55:37.712Z"
+          "UpdatedAt": "2025-03-22T19:36:23.737Z"
         },
         {
           "ID": "wrld_37b0eeae-86ce-42e0-9600-81be88d65028",
@@ -8323,6 +8467,38 @@
           "AuthorName": "DoritosDontacos",
           "CreatedAt": "2024-09-03T11:36:08.549Z",
           "UpdatedAt": "2024-09-16T05:56:25.751Z"
+        },
+        {
+          "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
+          "Name": "Mi35M test world By eleyp vr",
+          "RecommendedCapacity": 14,
+          "Capacity": 14,
+          "Description": "just a world for testing some stuff with helis",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
+          "AuthorName": "eleyp vr",
+          "CreatedAt": "2025-02-26T22:16:11.988Z",
+          "UpdatedAt": "2025-03-12T16:15:35.442Z"
+        },
+        {
+          "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
+          "Name": "Ka52 Test World By eleyp vr",
+          "RecommendedCapacity": 9,
+          "Capacity": 10,
+          "Description": "Ka52 Test World with apache's",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
+          "AuthorName": "eleyp vr",
+          "CreatedAt": "2024-05-02T20:11:46.466Z",
+          "UpdatedAt": "2025-03-20T17:44:02.304Z"
         },
         {
           "ID": "wrld_1d45de10-31fc-409c-8bd7-a1fc19839c81",
@@ -9298,7 +9474,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-03-17T15:48:37.94Z"
+          "UpdatedAt": "2025-03-21T13:06:17.579Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -9449,7 +9625,7 @@
           "Name": "Red Rods Heliport By shinchan․",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "ジムカーナ風タイムアタック、初心者用補助具、へんたい飛行練習用ダミー、航跡が分かるスモーク、広いヘリパッド。中身をGitHubで公開しています。 Gymkhana style time attack‚ aid for beginners‚ dummy for formation flight practice‚ smoke that shows the trail‚ spacious helipad․ The source is available on GitHub․",
+          "Description": "ジムカーナ風タイムアタック、初心者用補助具、へんたい飛行練習用ダミー、航跡が分かるスモーク、広いヘリパッド、ポータルライブラリ。中身をGitHubで公開しています。 Gymkhana style time attack‚ aid for beginners‚ dummy for formation flight practice‚ smoke that shows the trail‚ spacious helipad‚ portal library․ The source is available on GitHub․",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -9458,7 +9634,7 @@
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan․",
           "CreatedAt": "2023-10-17T11:44:21.965Z",
-          "UpdatedAt": "2025-02-19T10:11:35.747Z"
+          "UpdatedAt": "2025-03-22T14:08:28.095Z"
         },
         {
           "ID": "wrld_d331ccca-6f9a-48ef-9ae0-3d515dcca884",
@@ -9491,6 +9667,22 @@
           "AuthorName": "Silverlighting",
           "CreatedAt": "2022-06-10T22:49:44.438Z",
           "UpdatedAt": "2023-06-26T06:42:25.044Z"
+        },
+        {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-03-22T13:01:14.178Z"
         },
         {
           "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
@@ -9874,7 +10066,7 @@
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-20T15:20:20.087Z"
+          "UpdatedAt": "2025-03-21T02:58:04.8Z"
         },
         {
           "ID": "wrld_5948766b-6797-4507-9d3e-0bbd033916de",
@@ -9895,7 +10087,7 @@
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
           "Name": "いちごみるくヘリポート飛行場（製作中） By いちごみるく2100",
-          "RecommendedCapacity": 16,
+          "RecommendedCapacity": 25,
           "Capacity": 30,
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
           "ReleaseStatus": "public",
@@ -9906,7 +10098,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-20T14:23:25.131Z"
+          "UpdatedAt": "2025-03-22T17:59:05.129Z"
         },
         {
           "ID": "wrld_caf90a82-5287-4d27-bd2d-a1103f2b5d7d",
@@ -10322,7 +10514,7 @@
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
           "AuthorName": "にとうっぺ",
           "CreatedAt": "2025-02-16T15:16:15.576Z",
-          "UpdatedAt": "2025-03-20T13:38:35.826Z"
+          "UpdatedAt": "2025-03-21T11:29:08.142Z"
         },
         {
           "ID": "wrld_bd5474da-9f92-448e-9076-de2716e2e20a",
@@ -10370,7 +10562,7 @@
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "バンボー（Bambo）",
           "CreatedAt": "2025-03-07T13:51:02.195Z",
-          "UpdatedAt": "2025-03-15T15:50:26.873Z"
+          "UpdatedAt": "2025-03-22T04:43:13.401Z"
         },
         {
           "ID": "wrld_24aa017a-9e5d-4dbb-87f8-d2499f3936b2",
