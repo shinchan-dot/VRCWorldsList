@@ -19,7 +19,23 @@
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
           "CreatedAt": "2025-03-15T14:48:46.761Z",
-          "UpdatedAt": "2025-03-22T19:36:23.737Z"
+          "UpdatedAt": "2025-03-23T15:03:51.626Z"
+        },
+        {
+          "ID": "wrld_3e6e4756-2baa-486d-95ee-70b9158c5664",
+          "Name": "（WIP）Rocky Mountain Airbase By BambooPill",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "Mountain Airbase with unarmed planes Feel free to fly around or do dumb shxt 武装解除した飛行機が多数置いてあり、山の中にあるエアベースです 自由な空を自由に飛んでください",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
+          "AuthorName": "BambooPill",
+          "CreatedAt": "2025-03-12T19:40:16.049Z",
+          "UpdatedAt": "2025-03-17T01:17:27.758Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -36,22 +52,6 @@
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
           "UpdatedAt": "2025-03-21T02:58:04.8Z"
-        },
-        {
-          "ID": "wrld_5948766b-6797-4507-9d3e-0bbd033916de",
-          "Name": "（武装あり）いちごみるくヘリポート飛行場 By いちごみるく2100",
-          "RecommendedCapacity": 40,
-          "Capacity": 40,
-          "Description": "いちごみるくヘリポート飛行場（武装あり）",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
-          "AuthorName": "いちごみるく2100",
-          "CreatedAt": "2025-03-08T17:42:21.677Z",
-          "UpdatedAt": "2025-03-09T15:43:08.916Z"
         },
         {
           "ID": "wrld_8cc58555-c794-4a60-b4d6-9771a587baca",
@@ -151,7 +151,7 @@
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
-          "Name": "いちごみるくヘリポート飛行場（製作中） By いちごみるく2100",
+          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
           "RecommendedCapacity": 25,
           "Capacity": 30,
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
@@ -163,7 +163,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-22T17:59:05.129Z"
+          "UpdatedAt": "2025-03-23T08:47:30.644Z"
         },
         {
           "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
@@ -196,6 +196,22 @@
           "AuthorName": "きりしまはるな",
           "CreatedAt": "2025-01-28T14:11:48.083Z",
           "UpdatedAt": "2025-03-18T19:28:51.394Z"
+        },
+        {
+          "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
+          "Name": "Formation Flight of Helicopter By みやみや-JP",
+          "RecommendedCapacity": 12,
+          "Capacity": 32,
+          "Description": "AH-64とJU-87が合計12機置いてあります！ 編隊飛行と急降下爆撃楽しんでください！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
+          "AuthorName": "みやみや-JP",
+          "CreatedAt": "2025-01-03T09:52:43.239Z",
+          "UpdatedAt": "2025-01-05T02:41:08.587Z"
         },
         {
           "ID": "wrld_24aa017a-9e5d-4dbb-87f8-d2499f3936b2",
@@ -260,6 +276,22 @@
           "AuthorName": "satoshi_62",
           "CreatedAt": "2024-12-07T05:04:48.381Z",
           "UpdatedAt": "2024-12-25T02:12:29.701Z"
+        },
+        {
+          "ID": "wrld_a93abcbe-244b-4273-a2a8-72142158dc67",
+          "Name": "へりこぷたーとれーにんぐ By みやみや-JP",
+          "RecommendedCapacity": 7,
+          "Capacity": 16,
+          "Description": "Bell206Vのようなヘリでいろいろな練習ができるワールドです！楽しんでください！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
+          "AuthorName": "みやみや-JP",
+          "CreatedAt": "2024-11-30T04:30:27.819Z",
+          "UpdatedAt": "2024-12-08T03:56:31.01Z"
         },
         {
           "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
@@ -1540,22 +1572,6 @@
           "AuthorName": "限界機関長",
           "CreatedAt": "2023-06-11T15:23:13.33Z",
           "UpdatedAt": "2024-10-28T14:15:42.111Z"
-        },
-        {
-          "ID": "wrld_840b03c0-1515-4809-8e5a-61c7f4ebcee3",
-          "Name": "WIP_MEGA CITY By パズ_PAZ",
-          "RecommendedCapacity": 5,
-          "Capacity": 10,
-          "Description": "暇つぶしで作っていたら結構いい感じだったので公開します。2023⁄6⁄19 機体の更新や軽量化を行いました",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_9e3eee01-08fc-41b8-b117-fb31c7be97a0",
-          "AuthorName": "パズ_PAZ",
-          "CreatedAt": "2023-06-09T06:26:48.576Z",
-          "UpdatedAt": "2023-06-19T12:22:22.749Z"
         },
         {
           "ID": "wrld_b0eb9b72-2498-47c2-9bc3-d24aca5aed71",
@@ -2744,11 +2760,11 @@
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
           "CreatedAt": "2025-03-15T14:48:46.761Z",
-          "UpdatedAt": "2025-03-22T19:36:23.737Z"
+          "UpdatedAt": "2025-03-23T15:03:51.626Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
-          "Name": "いちごみるくヘリポート飛行場（製作中） By いちごみるく2100",
+          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
           "RecommendedCapacity": 25,
           "Capacity": 30,
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
@@ -2760,7 +2776,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-22T17:59:05.129Z"
+          "UpdatedAt": "2025-03-23T08:47:30.644Z"
         },
         {
           "ID": "wrld_4130b536-45c5-4703-9843-390d9a53ddcd",
@@ -2939,6 +2955,22 @@
           "UpdatedAt": "2025-03-17T17:20:34.317Z"
         },
         {
+          "ID": "wrld_3e6e4756-2baa-486d-95ee-70b9158c5664",
+          "Name": "（WIP）Rocky Mountain Airbase By BambooPill",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "Mountain Airbase with unarmed planes Feel free to fly around or do dumb shxt 武装解除した飛行機が多数置いてあり、山の中にあるエアベースです 自由な空を自由に飛んでください",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
+          "AuthorName": "BambooPill",
+          "CreatedAt": "2025-03-12T19:40:16.049Z",
+          "UpdatedAt": "2025-03-17T01:17:27.758Z"
+        },
+        {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
           "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -3081,22 +3113,6 @@
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2023-03-04T02:52:55.794Z",
           "UpdatedAt": "2025-03-11T14:10:59.463Z"
-        },
-        {
-          "ID": "wrld_5948766b-6797-4507-9d3e-0bbd033916de",
-          "Name": "（武装あり）いちごみるくヘリポート飛行場 By いちごみるく2100",
-          "RecommendedCapacity": 40,
-          "Capacity": 40,
-          "Description": "いちごみるくヘリポート飛行場（武装あり）",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
-          "AuthorName": "いちごみるく2100",
-          "CreatedAt": "2025-03-08T17:42:21.677Z",
-          "UpdatedAt": "2025-03-09T15:43:08.916Z"
         },
         {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
@@ -3499,6 +3515,22 @@
           "UpdatedAt": "2025-01-05T04:11:58.56Z"
         },
         {
+          "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
+          "Name": "Formation Flight of Helicopter By みやみや-JP",
+          "RecommendedCapacity": 12,
+          "Capacity": 32,
+          "Description": "AH-64とJU-87が合計12機置いてあります！ 編隊飛行と急降下爆撃楽しんでください！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
+          "AuthorName": "みやみや-JP",
+          "CreatedAt": "2025-01-03T09:52:43.239Z",
+          "UpdatedAt": "2025-01-05T02:41:08.587Z"
+        },
+        {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
           "Name": "Catch＆Shootǃǃ By Sayodori",
           "RecommendedCapacity": 16,
@@ -3721,6 +3753,22 @@
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-09-13T15:03:53.62Z",
           "UpdatedAt": "2024-12-11T23:08:51.668Z"
+        },
+        {
+          "ID": "wrld_a93abcbe-244b-4273-a2a8-72142158dc67",
+          "Name": "へりこぷたーとれーにんぐ By みやみや-JP",
+          "RecommendedCapacity": 7,
+          "Capacity": 16,
+          "Description": "Bell206Vのようなヘリでいろいろな練習ができるワールドです！楽しんでください！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
+          "AuthorName": "みやみや-JP",
+          "CreatedAt": "2024-11-30T04:30:27.819Z",
+          "UpdatedAt": "2024-12-08T03:56:31.01Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -4873,22 +4921,6 @@
           "AuthorName": "Silverlighting",
           "CreatedAt": "2022-06-10T22:49:44.438Z",
           "UpdatedAt": "2023-06-26T06:42:25.044Z"
-        },
-        {
-          "ID": "wrld_840b03c0-1515-4809-8e5a-61c7f4ebcee3",
-          "Name": "WIP_MEGA CITY By パズ_PAZ",
-          "RecommendedCapacity": 5,
-          "Capacity": 10,
-          "Description": "暇つぶしで作っていたら結構いい感じだったので公開します。2023⁄6⁄19 機体の更新や軽量化を行いました",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_9e3eee01-08fc-41b8-b117-fb31c7be97a0",
-          "AuthorName": "パズ_PAZ",
-          "CreatedAt": "2023-06-09T06:26:48.576Z",
-          "UpdatedAt": "2023-06-19T12:22:22.749Z"
         },
         {
           "ID": "wrld_74a1a7e3-095a-4eaa-a9a3-d791582fd714",
@@ -5472,20 +5504,20 @@
           "UpdatedAt": "2024-06-09T20:14:33.967Z"
         },
         {
-          "ID": "wrld_5948766b-6797-4507-9d3e-0bbd033916de",
-          "Name": "（武装あり）いちごみるくヘリポート飛行場 By いちごみるく2100",
-          "RecommendedCapacity": 40,
-          "Capacity": 40,
-          "Description": "いちごみるくヘリポート飛行場（武装あり）",
+          "ID": "wrld_3e6e4756-2baa-486d-95ee-70b9158c5664",
+          "Name": "（WIP）Rocky Mountain Airbase By BambooPill",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "Mountain Airbase with unarmed planes Feel free to fly around or do dumb shxt 武装解除した飛行機が多数置いてあり、山の中にあるエアベースです 自由な空を自由に飛んでください",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": false
           },
-          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
-          "AuthorName": "いちごみるく2100",
-          "CreatedAt": "2025-03-08T17:42:21.677Z",
-          "UpdatedAt": "2025-03-09T15:43:08.916Z"
+          "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
+          "AuthorName": "BambooPill",
+          "CreatedAt": "2025-03-12T19:40:16.049Z",
+          "UpdatedAt": "2025-03-17T01:17:27.758Z"
         },
         {
           "ID": "wrld_1d45de10-31fc-409c-8bd7-a1fc19839c81",
@@ -6048,6 +6080,22 @@
           "UpdatedAt": "2025-01-06T13:46:46.336Z"
         },
         {
+          "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
+          "Name": "Formation Flight of Helicopter By みやみや-JP",
+          "RecommendedCapacity": 12,
+          "Capacity": 32,
+          "Description": "AH-64とJU-87が合計12機置いてあります！ 編隊飛行と急降下爆撃楽しんでください！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
+          "AuthorName": "みやみや-JP",
+          "CreatedAt": "2025-01-03T09:52:43.239Z",
+          "UpdatedAt": "2025-01-05T02:41:08.587Z"
+        },
+        {
           "ID": "wrld_8fee122b-ad23-4ae7-9d8d-a2548a5b4ad0",
           "Name": "FREE FLIGHT 2 By 27Silpheed",
           "RecommendedCapacity": 16,
@@ -6333,7 +6381,7 @@
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
           "CreatedAt": "2025-03-15T14:48:46.761Z",
-          "UpdatedAt": "2025-03-22T19:36:23.737Z"
+          "UpdatedAt": "2025-03-23T15:03:51.626Z"
         },
         {
           "ID": "wrld_736b4f6d-99e9-4a53-ae57-6e801b1b85f0",
@@ -7344,22 +7392,6 @@
           "UpdatedAt": "2023-06-26T06:42:25.044Z"
         },
         {
-          "ID": "wrld_840b03c0-1515-4809-8e5a-61c7f4ebcee3",
-          "Name": "WIP_MEGA CITY By パズ_PAZ",
-          "RecommendedCapacity": 5,
-          "Capacity": 10,
-          "Description": "暇つぶしで作っていたら結構いい感じだったので公開します。2023⁄6⁄19 機体の更新や軽量化を行いました",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_9e3eee01-08fc-41b8-b117-fb31c7be97a0",
-          "AuthorName": "パズ_PAZ",
-          "CreatedAt": "2023-06-09T06:26:48.576Z",
-          "UpdatedAt": "2023-06-19T12:22:22.749Z"
-        },
-        {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
           "Name": "Yui's Home 2․3 By Yui Asakura",
           "RecommendedCapacity": 16,
@@ -7441,7 +7473,7 @@
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
-          "Name": "いちごみるくヘリポート飛行場（製作中） By いちごみるく2100",
+          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
           "RecommendedCapacity": 25,
           "Capacity": 30,
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
@@ -7453,7 +7485,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-22T17:59:05.129Z"
+          "UpdatedAt": "2025-03-23T08:47:30.644Z"
         },
         {
           "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
@@ -7678,6 +7710,22 @@
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2023-10-24T06:04:03.166Z",
           "UpdatedAt": "2023-10-31T07:21:27.014Z"
+        },
+        {
+          "ID": "wrld_a93abcbe-244b-4273-a2a8-72142158dc67",
+          "Name": "へりこぷたーとれーにんぐ By みやみや-JP",
+          "RecommendedCapacity": 7,
+          "Capacity": 16,
+          "Description": "Bell206Vのようなヘリでいろいろな練習ができるワールドです！楽しんでください！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
+          "AuthorName": "みやみや-JP",
+          "CreatedAt": "2024-11-30T04:30:27.819Z",
+          "UpdatedAt": "2024-12-08T03:56:31.01Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -8226,7 +8274,7 @@
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
           "CreatedAt": "2025-03-15T14:48:46.761Z",
-          "UpdatedAt": "2025-03-22T19:36:23.737Z"
+          "UpdatedAt": "2025-03-23T15:03:51.626Z"
         },
         {
           "ID": "wrld_37b0eeae-86ce-42e0-9600-81be88d65028",
@@ -8307,6 +8355,22 @@
           "AuthorName": "akira0111",
           "CreatedAt": "2024-11-20T07:05:45.74Z",
           "UpdatedAt": "2025-02-26T10:51:49.273Z"
+        },
+        {
+          "ID": "wrld_3e6e4756-2baa-486d-95ee-70b9158c5664",
+          "Name": "（WIP）Rocky Mountain Airbase By BambooPill",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "Mountain Airbase with unarmed planes Feel free to fly around or do dumb shxt 武装解除した飛行機が多数置いてあり、山の中にあるエアベースです 自由な空を自由に飛んでください",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
+          "AuthorName": "BambooPill",
+          "CreatedAt": "2025-03-12T19:40:16.049Z",
+          "UpdatedAt": "2025-03-17T01:17:27.758Z"
         },
         {
           "ID": "wrld_765244fd-9e45-4d69-8ba6-ae28e9542750",
@@ -10069,24 +10133,8 @@
           "UpdatedAt": "2025-03-21T02:58:04.8Z"
         },
         {
-          "ID": "wrld_5948766b-6797-4507-9d3e-0bbd033916de",
-          "Name": "（武装あり）いちごみるくヘリポート飛行場 By いちごみるく2100",
-          "RecommendedCapacity": 40,
-          "Capacity": 40,
-          "Description": "いちごみるくヘリポート飛行場（武装あり）",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
-          "AuthorName": "いちごみるく2100",
-          "CreatedAt": "2025-03-08T17:42:21.677Z",
-          "UpdatedAt": "2025-03-09T15:43:08.916Z"
-        },
-        {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
-          "Name": "いちごみるくヘリポート飛行場（製作中） By いちごみるく2100",
+          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
           "RecommendedCapacity": 25,
           "Capacity": 30,
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
@@ -10098,7 +10146,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-22T17:59:05.129Z"
+          "UpdatedAt": "2025-03-23T08:47:30.644Z"
         },
         {
           "ID": "wrld_caf90a82-5287-4d27-bd2d-a1103f2b5d7d",
@@ -10533,22 +10581,6 @@
           "UpdatedAt": "2024-11-25T02:33:56.757Z"
         },
         {
-          "ID": "wrld_840b03c0-1515-4809-8e5a-61c7f4ebcee3",
-          "Name": "WIP_MEGA CITY By パズ_PAZ",
-          "RecommendedCapacity": 5,
-          "Capacity": 10,
-          "Description": "暇つぶしで作っていたら結構いい感じだったので公開します。2023⁄6⁄19 機体の更新や軽量化を行いました",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_9e3eee01-08fc-41b8-b117-fb31c7be97a0",
-          "AuthorName": "パズ_PAZ",
-          "CreatedAt": "2023-06-09T06:26:48.576Z",
-          "UpdatedAt": "2023-06-19T12:22:22.749Z"
-        },
-        {
           "ID": "wrld_8cc58555-c794-4a60-b4d6-9771a587baca",
           "Name": "特撮ロケ By バンボー（Bambo）",
           "RecommendedCapacity": 16,
@@ -10723,6 +10755,38 @@
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-05-24T13:53:52.953Z",
           "UpdatedAt": "2024-11-14T12:31:01.636Z"
+        },
+        {
+          "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
+          "Name": "Formation Flight of Helicopter By みやみや-JP",
+          "RecommendedCapacity": 12,
+          "Capacity": 32,
+          "Description": "AH-64とJU-87が合計12機置いてあります！ 編隊飛行と急降下爆撃楽しんでください！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
+          "AuthorName": "みやみや-JP",
+          "CreatedAt": "2025-01-03T09:52:43.239Z",
+          "UpdatedAt": "2025-01-05T02:41:08.587Z"
+        },
+        {
+          "ID": "wrld_a93abcbe-244b-4273-a2a8-72142158dc67",
+          "Name": "へりこぷたーとれーにんぐ By みやみや-JP",
+          "RecommendedCapacity": 7,
+          "Capacity": 16,
+          "Description": "Bell206Vのようなヘリでいろいろな練習ができるワールドです！楽しんでください！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
+          "AuthorName": "みやみや-JP",
+          "CreatedAt": "2024-11-30T04:30:27.819Z",
+          "UpdatedAt": "2024-12-08T03:56:31.01Z"
         },
         {
           "ID": "wrld_522b17d4-286f-4dee-bd87-69fad77c8b43",
