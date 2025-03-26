@@ -35,7 +35,7 @@
           "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
           "AuthorName": "BambooPill",
           "CreatedAt": "2025-03-12T19:40:16.049Z",
-          "UpdatedAt": "2025-03-17T01:17:27.758Z"
+          "UpdatedAt": "2025-03-25T23:11:19.796Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -51,7 +51,7 @@
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-25T00:58:08.074Z"
+          "UpdatedAt": "2025-03-26T00:32:23.001Z"
         },
         {
           "ID": "wrld_8cc58555-c794-4a60-b4d6-9771a587baca",
@@ -83,7 +83,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-03-22T13:01:14.178Z"
+          "UpdatedAt": "2025-03-25T11:32:22.269Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -163,7 +163,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-24T15:28:45.025Z"
+          "UpdatedAt": "2025-03-25T10:35:58.475Z"
         },
         {
           "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
@@ -548,6 +548,22 @@
           "AuthorName": "限界機関長",
           "CreatedAt": "2024-08-04T12:24:16.351Z",
           "UpdatedAt": "2024-10-16T12:18:48.153Z"
+        },
+        {
+          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
+          "Name": "Helicopter flight training By aica_s",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
+          "AuthorName": "aica_s",
+          "CreatedAt": "2024-08-04T08:23:01.722Z",
+          "UpdatedAt": "2024-09-08T07:18:01.671Z"
         },
         {
           "ID": "wrld_f16204b8-df69-47e0-b543-db6ec52019a0",
@@ -1043,7 +1059,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2024-12-21T11:45:54.609Z"
+          "UpdatedAt": "2025-03-25T05:55:08.679Z"
         },
         {
           "ID": "wrld_bd5474da-9f92-448e-9076-de2716e2e20a",
@@ -1827,7 +1843,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2023-03-02T06:42:59.758Z",
-          "UpdatedAt": "2024-12-25T04:11:46.701Z"
+          "UpdatedAt": "2025-03-25T05:37:13.939Z"
         },
         {
           "ID": "wrld_ec8fef64-ee7f-4c5f-b00c-da2948e11ad8",
@@ -2760,7 +2776,39 @@
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-25T00:58:08.074Z"
+          "UpdatedAt": "2025-03-26T00:32:23.001Z"
+        },
+        {
+          "ID": "wrld_3e6e4756-2baa-486d-95ee-70b9158c5664",
+          "Name": "（WIP）Rocky Mountain Airbase By BambooPill",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "Mountain Airbase with unarmed planes Feel free to fly around or do dumb shxt 武装解除した飛行機が多数置いてあり、山の中にあるエアベースです 自由な空を自由に飛んでください",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
+          "AuthorName": "BambooPill",
+          "CreatedAt": "2025-03-12T19:40:16.049Z",
+          "UpdatedAt": "2025-03-25T23:11:19.796Z"
+        },
+        {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-03-25T11:32:22.269Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -2776,7 +2824,39 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-24T15:28:45.025Z"
+          "UpdatedAt": "2025-03-25T10:35:58.475Z"
+        },
+        {
+          "ID": "wrld_4fe4cfe2-fad8-439e-b2f1-49ab11c8aadd",
+          "Name": "高松ゆうらん飛行 By ときわ（tokiwa）",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "香川県高松市の上空を、ヘリコプターでゆうらん飛行しましょう。 ｜ 国土交通省ホームページによる3D都市モデル（Project PLATEAU）高松市（2022年度）を加工し利用しています。 https˸⁄⁄www․geospatial․jp⁄ckan⁄dataset⁄plateau-37201-takamatsu-shi-2022 ｜ フリーBGM・音楽素材MusMus http˸⁄⁄musmus․main․jp⁄",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
+          "AuthorName": "ときわ（tokiwa）",
+          "CreatedAt": "2024-02-13T12:50:46.489Z",
+          "UpdatedAt": "2025-03-25T05:55:08.679Z"
+        },
+        {
+          "ID": "wrld_56b5b37b-7470-43d7-beb1-2bad3abcd222",
+          "Name": "YY Helicopter System test world By ときわ（tokiwa）",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "YY Helicopter System test world",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
+          "AuthorName": "ときわ（tokiwa）",
+          "CreatedAt": "2023-03-02T06:42:59.758Z",
+          "UpdatedAt": "2025-03-25T05:37:13.939Z"
         },
         {
           "ID": "wrld_605da853-4299-4e0e-9b56-1ce631b4310a",
@@ -2809,22 +2889,6 @@
           "AuthorName": "shinchan․",
           "CreatedAt": "2023-10-17T11:44:21.965Z",
           "UpdatedAt": "2025-03-22T14:08:28.095Z"
-        },
-        {
-          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
-          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
-          "AuthorName": "sumisu_san",
-          "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-03-22T13:01:14.178Z"
         },
         {
           "ID": "wrld_8cc58555-c794-4a60-b4d6-9771a587baca",
@@ -2953,22 +3017,6 @@
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
           "UpdatedAt": "2025-03-17T17:20:34.317Z"
-        },
-        {
-          "ID": "wrld_3e6e4756-2baa-486d-95ee-70b9158c5664",
-          "Name": "（WIP）Rocky Mountain Airbase By BambooPill",
-          "RecommendedCapacity": 80,
-          "Capacity": 80,
-          "Description": "Mountain Airbase with unarmed planes Feel free to fly around or do dumb shxt 武装解除した飛行機が多数置いてあり、山の中にあるエアベースです 自由な空を自由に飛んでください",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
-          "AuthorName": "BambooPill",
-          "CreatedAt": "2025-03-12T19:40:16.049Z",
-          "UpdatedAt": "2025-03-17T01:17:27.758Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -3627,22 +3675,6 @@
           "UpdatedAt": "2024-12-25T10:28:00.832Z"
         },
         {
-          "ID": "wrld_56b5b37b-7470-43d7-beb1-2bad3abcd222",
-          "Name": "YY Helicopter System test world By ときわ（tokiwa）",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "YY Helicopter System test world",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
-          "AuthorName": "ときわ（tokiwa）",
-          "CreatedAt": "2023-03-02T06:42:59.758Z",
-          "UpdatedAt": "2024-12-25T04:11:46.701Z"
-        },
-        {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
           "Name": "Hovering Christmas By satoshi_62",
           "RecommendedCapacity": 16,
@@ -3673,22 +3705,6 @@
           "AuthorName": "Chris SAF",
           "CreatedAt": "2022-11-12T18:49:53.796Z",
           "UpdatedAt": "2024-12-21T21:29:07.308Z"
-        },
-        {
-          "ID": "wrld_4fe4cfe2-fad8-439e-b2f1-49ab11c8aadd",
-          "Name": "高松ゆうらん飛行 By ときわ（tokiwa）",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "香川県高松市の上空を、ヘリコプターでゆうらん飛行しましょう。 ｜ 国土交通省ホームページによる3D都市モデル（Project PLATEAU）高松市（2022年度）を加工し利用しています。 https˸⁄⁄www․geospatial․jp⁄ckan⁄dataset⁄plateau-37201-takamatsu-shi-2022 ｜ フリーBGM・音楽素材MusMus http˸⁄⁄musmus․main․jp⁄",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
-          "AuthorName": "ときわ（tokiwa）",
-          "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2024-12-21T11:45:54.609Z"
         },
         {
           "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
@@ -4153,6 +4169,22 @@
           "AuthorName": "まこぺっぺ",
           "CreatedAt": "2024-08-26T03:08:00.451Z",
           "UpdatedAt": "2024-09-13T11:32:41.694Z"
+        },
+        {
+          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
+          "Name": "Helicopter flight training By aica_s",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
+          "AuthorName": "aica_s",
+          "CreatedAt": "2024-08-04T08:23:01.722Z",
+          "UpdatedAt": "2024-09-08T07:18:01.671Z"
         },
         {
           "ID": "wrld_f16204b8-df69-47e0-b543-db6ec52019a0",
@@ -5517,7 +5549,7 @@
           "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
           "AuthorName": "BambooPill",
           "CreatedAt": "2025-03-12T19:40:16.049Z",
-          "UpdatedAt": "2025-03-17T01:17:27.758Z"
+          "UpdatedAt": "2025-03-25T23:11:19.796Z"
         },
         {
           "ID": "wrld_1d45de10-31fc-409c-8bd7-a1fc19839c81",
@@ -6254,6 +6286,22 @@
           "AuthorName": "じゃっこ_VRC",
           "CreatedAt": "2024-12-29T08:37:46.326Z",
           "UpdatedAt": "2024-12-31T20:24:55.509Z"
+        },
+        {
+          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
+          "Name": "Helicopter flight training By aica_s",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
+          "AuthorName": "aica_s",
+          "CreatedAt": "2024-08-04T08:23:01.722Z",
+          "UpdatedAt": "2024-09-08T07:18:01.671Z"
         },
         {
           "ID": "wrld_0deb4bae-57d6-4dbf-8a18-0b05fe0efa9b",
@@ -7421,7 +7469,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2023-03-02T06:42:59.758Z",
-          "UpdatedAt": "2024-12-25T04:11:46.701Z"
+          "UpdatedAt": "2025-03-25T05:37:13.939Z"
         },
         {
           "ID": "wrld_24aa017a-9e5d-4dbb-87f8-d2499f3936b2",
@@ -7469,7 +7517,7 @@
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-25T00:58:08.074Z"
+          "UpdatedAt": "2025-03-26T00:32:23.001Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -7485,7 +7533,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-24T15:28:45.025Z"
+          "UpdatedAt": "2025-03-25T10:35:58.475Z"
         },
         {
           "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
@@ -7805,7 +7853,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-03-22T13:01:14.178Z"
+          "UpdatedAt": "2025-03-25T11:32:22.269Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -7917,7 +7965,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2024-12-21T11:45:54.609Z"
+          "UpdatedAt": "2025-03-25T05:55:08.679Z"
         },
         {
           "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
@@ -8341,6 +8389,22 @@
           "UpdatedAt": "2025-01-22T02:14:16.609Z"
         },
         {
+          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
+          "Name": "Helicopter flight training By aica_s",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
+          "AuthorName": "aica_s",
+          "CreatedAt": "2024-08-04T08:23:01.722Z",
+          "UpdatedAt": "2024-09-08T07:18:01.671Z"
+        },
+        {
           "ID": "wrld_20e181eb-50ed-419a-898f-8b999e94c401",
           "Name": "家の中でヘリコプター -Helicopters in the house By akira0111",
           "RecommendedCapacity": 16,
@@ -8370,7 +8434,7 @@
           "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
           "AuthorName": "BambooPill",
           "CreatedAt": "2025-03-12T19:40:16.049Z",
-          "UpdatedAt": "2025-03-17T01:17:27.758Z"
+          "UpdatedAt": "2025-03-25T23:11:19.796Z"
         },
         {
           "ID": "wrld_765244fd-9e45-4d69-8ba6-ae28e9542750",
@@ -9746,7 +9810,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-03-22T13:01:14.178Z"
+          "UpdatedAt": "2025-03-25T11:32:22.269Z"
         },
         {
           "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
@@ -10130,7 +10194,7 @@
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-25T00:58:08.074Z"
+          "UpdatedAt": "2025-03-26T00:32:23.001Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -10146,7 +10210,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-03-24T15:28:45.025Z"
+          "UpdatedAt": "2025-03-25T10:35:58.475Z"
         },
         {
           "ID": "wrld_caf90a82-5287-4d27-bd2d-a1103f2b5d7d",
@@ -10498,7 +10562,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2024-12-21T11:45:54.609Z"
+          "UpdatedAt": "2025-03-25T05:55:08.679Z"
         },
         {
           "ID": "wrld_e574bbd4-e020-4c49-8287-8edb163cfd3f",
@@ -10530,7 +10594,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2023-03-02T06:42:59.758Z",
-          "UpdatedAt": "2024-12-25T04:11:46.701Z"
+          "UpdatedAt": "2025-03-25T05:37:13.939Z"
         },
         {
           "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
