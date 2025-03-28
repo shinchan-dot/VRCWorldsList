@@ -35,7 +35,7 @@
           "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
           "AuthorName": "BambooPill",
           "CreatedAt": "2025-03-12T19:40:16.049Z",
-          "UpdatedAt": "2025-03-27T03:33:28.303Z"
+          "UpdatedAt": "2025-03-27T07:53:26.31Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -51,7 +51,7 @@
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-27T00:56:19.798Z"
+          "UpdatedAt": "2025-03-28T04:25:42.961Z"
         },
         {
           "ID": "wrld_8cc58555-c794-4a60-b4d6-9771a587baca",
@@ -630,22 +630,6 @@
           "UpdatedAt": "2024-12-25T10:28:00.832Z"
         },
         {
-          "ID": "wrld_a84a54cf-1650-4979-97fc-3275b2ed4016",
-          "Name": "hub station：220236f1 By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "『次の乗継便は420768時間54分32秒後に到着予定です、移動に際しては足元にお気をつけください。なお当施設は完全無人運行となっております、ご利用ありがとうございます』",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-06-30T21:55:11.284Z",
-          "UpdatedAt": "2025-01-24T13:41:08.323Z"
-        },
-        {
           "ID": "wrld_8d00f0e1-9604-4d58-80b3-0204fcbad0b6",
           "Name": "ゆるゲぷらすフライトワールド01˸ぜねらるあびえーしょん！ By heyhey_t",
           "RecommendedCapacity": 16,
@@ -857,7 +841,7 @@
           "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
           "Name": "City MIO for Vehicle World By シン《symphony》",
           "RecommendedCapacity": 20,
-          "Capacity": 36,
+          "Capacity": 35,
           "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
@@ -867,7 +851,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2024-04-29T14:00:54.172Z",
-          "UpdatedAt": "2025-03-13T05:31:18.454Z"
+          "UpdatedAt": "2025-03-27T03:04:48.326Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -2763,6 +2747,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
+          "Name": "あやや島空港 By あややね",
+          "RecommendedCapacity": 16,
+          "Capacity": 16,
+          "Description": "武装は双方が無効化モードをオフにすることで使用可能になります。滑走路以外は30knの速度制限があり、超過すると壁が出現して止められます。空母にはIFLOLSとLRLLS、LSOを設置、カタパルトは機体外部から操作が可能です。アレスティングワイヤーは引っ張られて伸びます。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
+          "AuthorName": "あややね",
+          "CreatedAt": "2025-03-12T12:02:26.919Z",
+          "UpdatedAt": "2025-03-28T04:25:42.961Z"
+        },
+        {
           "ID": "wrld_3e6e4756-2baa-486d-95ee-70b9158c5664",
           "Name": "（WIP）Rocky Mountain Airbase By BambooPill",
           "RecommendedCapacity": 80,
@@ -2776,7 +2776,23 @@
           "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
           "AuthorName": "BambooPill",
           "CreatedAt": "2025-03-12T19:40:16.049Z",
-          "UpdatedAt": "2025-03-27T03:33:28.303Z"
+          "UpdatedAt": "2025-03-27T07:53:26.31Z"
+        },
+        {
+          "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
+          "Name": "City MIO for Vehicle World By シン《symphony》",
+          "RecommendedCapacity": 20,
+          "Capacity": 35,
+          "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
+          "AuthorName": "シン《symphony》",
+          "CreatedAt": "2024-04-29T14:00:54.172Z",
+          "UpdatedAt": "2025-03-27T03:04:48.326Z"
         },
         {
           "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
@@ -2793,22 +2809,6 @@
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
           "UpdatedAt": "2025-03-27T01:52:11.995Z"
-        },
-        {
-          "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
-          "Name": "あやや島空港 By あややね",
-          "RecommendedCapacity": 16,
-          "Capacity": 16,
-          "Description": "武装は双方が無効化モードをオフにすることで使用可能になります。滑走路以外は30knの速度制限があり、超過すると壁が出現して止められます。空母にはIFLOLSとLRLLS、LSOを設置、カタパルトは機体外部から操作が可能です。アレスティングワイヤーは引っ張られて伸びます。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
-          "AuthorName": "あややね",
-          "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-27T00:56:19.798Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -3113,22 +3113,6 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-24T13:03:56.307Z",
           "UpdatedAt": "2025-03-14T12:47:40.758Z"
-        },
-        {
-          "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
-          "Name": "City MIO for Vehicle World By シン《symphony》",
-          "RecommendedCapacity": 20,
-          "Capacity": 36,
-          "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
-          "AuthorName": "シン《symphony》",
-          "CreatedAt": "2024-04-29T14:00:54.172Z",
-          "UpdatedAt": "2025-03-13T05:31:18.454Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -3449,22 +3433,6 @@
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2023-02-15T18:34:33.465Z",
           "UpdatedAt": "2025-01-27T11:26:20.896Z"
-        },
-        {
-          "ID": "wrld_a84a54cf-1650-4979-97fc-3275b2ed4016",
-          "Name": "hub station：220236f1 By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "『次の乗継便は420768時間54分32秒後に到着予定です、移動に際しては足元にお気をつけください。なお当施設は完全無人運行となっております、ご利用ありがとうございます』",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-06-30T21:55:11.284Z",
-          "UpdatedAt": "2025-01-24T13:41:08.323Z"
         },
         {
           "ID": "wrld_a6b41adb-aef7-4e3e-8f3a-fc72cd943651",
@@ -5549,7 +5517,7 @@
           "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
           "AuthorName": "BambooPill",
           "CreatedAt": "2025-03-12T19:40:16.049Z",
-          "UpdatedAt": "2025-03-27T03:33:28.303Z"
+          "UpdatedAt": "2025-03-27T07:53:26.31Z"
         },
         {
           "ID": "wrld_1d45de10-31fc-409c-8bd7-a1fc19839c81",
@@ -5827,7 +5795,7 @@
           "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
           "Name": "City MIO for Vehicle World By シン《symphony》",
           "RecommendedCapacity": 20,
-          "Capacity": 36,
+          "Capacity": 35,
           "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
@@ -5837,7 +5805,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2024-04-29T14:00:54.172Z",
-          "UpdatedAt": "2025-03-13T05:31:18.454Z"
+          "UpdatedAt": "2025-03-27T03:04:48.326Z"
         },
         {
           "ID": "wrld_f76f9974-9c8b-49b1-83d3-3a1f9b4da8cf",
@@ -6382,22 +6350,6 @@
           "AuthorName": "satoshi_62",
           "CreatedAt": "2024-12-07T05:04:48.381Z",
           "UpdatedAt": "2024-12-25T02:12:29.701Z"
-        },
-        {
-          "ID": "wrld_a84a54cf-1650-4979-97fc-3275b2ed4016",
-          "Name": "hub station：220236f1 By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "『次の乗継便は420768時間54分32秒後に到着予定です、移動に際しては足元にお気をつけください。なお当施設は完全無人運行となっております、ご利用ありがとうございます』",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-06-30T21:55:11.284Z",
-          "UpdatedAt": "2025-01-24T13:41:08.323Z"
         },
         {
           "ID": "wrld_ce7724c6-3b26-4d4e-9a70-089ef68b2277",
@@ -7517,7 +7469,7 @@
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-27T00:56:19.798Z"
+          "UpdatedAt": "2025-03-28T04:25:42.961Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -8434,7 +8386,7 @@
           "AuthorId": "usr_bb337d96-94f6-472c-ac4a-7655f0f74631",
           "AuthorName": "BambooPill",
           "CreatedAt": "2025-03-12T19:40:16.049Z",
-          "UpdatedAt": "2025-03-27T03:33:28.303Z"
+          "UpdatedAt": "2025-03-27T07:53:26.31Z"
         },
         {
           "ID": "wrld_765244fd-9e45-4d69-8ba6-ae28e9542750",
@@ -10194,7 +10146,7 @@
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
-          "UpdatedAt": "2025-03-27T00:56:19.798Z"
+          "UpdatedAt": "2025-03-28T04:25:42.961Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -10424,7 +10376,7 @@
           "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
           "Name": "City MIO for Vehicle World By シン《symphony》",
           "RecommendedCapacity": 20,
-          "Capacity": 36,
+          "Capacity": 35,
           "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
@@ -10434,7 +10386,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2024-04-29T14:00:54.172Z",
-          "UpdatedAt": "2025-03-13T05:31:18.454Z"
+          "UpdatedAt": "2025-03-27T03:04:48.326Z"
         },
         {
           "ID": "wrld_2acbbdb3-2da1-45ab-8a85-76ec7a67d435",
@@ -10739,22 +10691,6 @@
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-08-03T17:29:06.08Z",
           "UpdatedAt": "2024-09-05T18:32:23.82Z"
-        },
-        {
-          "ID": "wrld_a84a54cf-1650-4979-97fc-3275b2ed4016",
-          "Name": "hub station：220236f1 By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "『次の乗継便は420768時間54分32秒後に到着予定です、移動に際しては足元にお気をつけください。なお当施設は完全無人運行となっております、ご利用ありがとうございます』",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-06-30T21:55:11.284Z",
-          "UpdatedAt": "2025-01-24T13:41:08.323Z"
         },
         {
           "ID": "wrld_7335e76a-c4a5-4f5e-8f5d-b786e9d35347",
