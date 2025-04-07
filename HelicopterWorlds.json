@@ -278,6 +278,22 @@
           "UpdatedAt": "2025-03-26T10:02:34.275Z"
         },
         {
+          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
+          "Name": "Kennedy Space Center By medaka0228",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Kennedy Space Center",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
+          "AuthorName": "medaka0228",
+          "CreatedAt": "2021-12-14T13:35:04.995Z",
+          "UpdatedAt": "2025-03-25T11:58:02.035Z"
+        },
+        {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
           "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
           "RecommendedCapacity": 16,
@@ -5227,6 +5243,22 @@
           "UpdatedAt": "2023-07-03T13:21:35.592Z"
         },
         {
+          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
+          "Name": "Kennedy Space Center By medaka0228",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Kennedy Space Center",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
+          "AuthorName": "medaka0228",
+          "CreatedAt": "2021-12-14T13:35:04.995Z",
+          "UpdatedAt": "2025-03-25T11:58:02.035Z"
+        },
+        {
           "ID": "wrld_5241df39-9624-4d25-b644-edb11fe645bf",
           "Name": "RJBK KOHNAN By ESNYA／エスニヤ",
           "RecommendedCapacity": 16,
@@ -6590,6 +6622,22 @@
           "AuthorName": "eleyp vr",
           "CreatedAt": "2024-05-02T20:11:46.466Z",
           "UpdatedAt": "2025-03-20T17:44:02.304Z"
+        },
+        {
+          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
+          "Name": "Kennedy Space Center By medaka0228",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Kennedy Space Center",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
+          "AuthorName": "medaka0228",
+          "CreatedAt": "2021-12-14T13:35:04.995Z",
+          "UpdatedAt": "2025-03-25T11:58:02.035Z"
         },
         {
           "ID": "wrld_73bfab3d-5888-4364-909a-6bba45749538",
@@ -9091,6 +9139,22 @@
           "AuthorName": "Maple_K",
           "CreatedAt": "2022-09-19T06:30:40.484Z",
           "UpdatedAt": "2023-02-03T12:15:19.565Z"
+        },
+        {
+          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
+          "Name": "Kennedy Space Center By medaka0228",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Kennedy Space Center",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
+          "AuthorName": "medaka0228",
+          "CreatedAt": "2021-12-14T13:35:04.995Z",
+          "UpdatedAt": "2025-03-25T11:58:02.035Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
