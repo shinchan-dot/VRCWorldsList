@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
+          "Name": "shin˸Owl Pleiades By ぐらまむ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "旅客機などにも乗れるワールドです、昼夜サイクルなどはラウンジのタブレットでいじれますので、ぜひどうぞ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
+          "AuthorName": "ぐらまむ",
+          "CreatedAt": "2025-03-06T06:07:00.865Z",
+          "UpdatedAt": "2025-04-08T15:12:43.04Z"
+        },
+        {
+          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
+          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Welcome to the F-14 Worldǃ Here‚ you can fly the Iconic aircraft‚ The Grumman F-14ǃ And if you got tired of flying‚ you can try flying the Sukhoi SU-30‚ and the McDonnell AV-8B＋ǃ We also got UH-1Y Venom and MH-60S Seahawk Helicopters․ You also get to fly the V-22 Ospreyǃ Fly with us and have a blastǃ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
+          "AuthorName": "Zweikaku",
+          "CreatedAt": "2020-05-17T13:35:24.03Z",
+          "UpdatedAt": "2025-04-08T12:20:46.734Z"
+        },
+        {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
           "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -164,22 +196,6 @@
           "AuthorName": "きりしまはるな",
           "CreatedAt": "2025-01-28T14:11:48.083Z",
           "UpdatedAt": "2025-04-01T17:13:41.953Z"
-        },
-        {
-          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
-          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "Welcome to the F-14 Worldǃ Here‚ you can fly the Iconic aircraft‚ The Grumman F-14ǃ And if you got tired of flying‚ you can try flying the Sukhoi SU-30‚ and the McDonnell AV-8B＋ǃ We also got UH-1Y Venom and MH-60S Seahawk Helicopters․ You also get to fly the V-22 Ospreyǃ Fly with us and have a blastǃ",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-04-01T06:02:49.177Z"
         },
         {
           "ID": "wrld_21cdfc4b-6d0d-4cbc-9579-31f8786439e5",
@@ -2843,6 +2859,22 @@
           "UpdatedAt": "2025-03-22T04:43:13.401Z"
         },
         {
+          "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
+          "Name": "shin˸Owl Pleiades By ぐらまむ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "旅客機などにも乗れるワールドです、昼夜サイクルなどはラウンジのタブレットでいじれますので、ぜひどうぞ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
+          "AuthorName": "ぐらまむ",
+          "CreatedAt": "2025-03-06T06:07:00.865Z",
+          "UpdatedAt": "2025-04-08T15:12:43.04Z"
+        },
+        {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
           "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
           "RecommendedCapacity": 16,
@@ -5512,7 +5544,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-04-01T06:02:49.177Z"
+          "UpdatedAt": "2025-04-08T12:20:46.734Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -5677,7 +5709,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-04-01T06:02:49.177Z"
+          "UpdatedAt": "2025-04-08T12:20:46.734Z"
         },
         {
           "ID": "wrld_7e31e3f8-2ea2-4f8d-9d90-1d0e3181fc7c",
@@ -7086,6 +7118,22 @@
           "AuthorName": "taiyaki（ºωº э）З",
           "CreatedAt": "2023-07-12T11:27:51.007Z",
           "UpdatedAt": "2023-07-13T08:27:03.976Z"
+        },
+        {
+          "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
+          "Name": "shin˸Owl Pleiades By ぐらまむ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "旅客機などにも乗れるワールドです、昼夜サイクルなどはラウンジのタブレットでいじれますので、ぜひどうぞ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
+          "AuthorName": "ぐらまむ",
+          "CreatedAt": "2025-03-06T06:07:00.865Z",
+          "UpdatedAt": "2025-04-08T15:12:43.04Z"
         },
         {
           "ID": "wrld_eff40f82-b5af-433f-8d87-c36e6408652a",
@@ -10258,7 +10306,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-04-01T06:02:49.177Z"
+          "UpdatedAt": "2025-04-08T12:20:46.734Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -10467,6 +10515,22 @@
           "AuthorName": "きりしまはるな",
           "CreatedAt": "2023-02-17T18:19:16.254Z",
           "UpdatedAt": "2023-03-20T17:25:38.059Z"
+        },
+        {
+          "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
+          "Name": "shin˸Owl Pleiades By ぐらまむ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "旅客機などにも乗れるワールドです、昼夜サイクルなどはラウンジのタブレットでいじれますので、ぜひどうぞ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
+          "AuthorName": "ぐらまむ",
+          "CreatedAt": "2025-03-06T06:07:00.865Z",
+          "UpdatedAt": "2025-04-08T15:12:43.04Z"
         },
         {
           "ID": "wrld_00b2433e-1f8a-4148-862f-b47b861c0756",
