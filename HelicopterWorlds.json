@@ -6,36 +6,20 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
-          "Name": "Riezet Flight Home QT1 By Riezet Lieaner",
+          "ID": "wrld_4a9df82d-1517-4675-bfea-6b018afd6bdd",
+          "Name": "Southern birds By Oppailot",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "・動画プレイヤー、プレイリスト、ミラー、QV PEN 飛行機はプロペラ機のみ（ヘリコプターが1機） ・曲技飛行（エアロバティックス）を前提にした軽やかな挙動の機種 ・穏やかな挙動の並列複座型機 EN ・Video player‚ playlist‚ mirror‚ QV PEN Only propeller planes （one helicopter） ・Lightweight aircraft designed for aerobatics ・Parallel two-seater aircraft with gentle movements",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-02-24T13:03:56.307Z",
-          "UpdatedAt": "2025-04-14T21:20:01.534Z"
-        },
-        {
-          "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
-          "Name": "shin˸Owl Pleiades By ぐらまむ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "旅客機などにも乗れるワールドです、昼夜サイクルなどはラウンジのタブレットでいじれますので、ぜひどうぞ",
+          "Description": "World allows you to operate around the Island in a jet fighter or helicopter․ 某国某所の島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": false
           },
-          "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
-          "AuthorName": "ぐらまむ",
-          "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-04-13T19:12:13.655Z"
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2024-12-14T03:56:09.006Z",
+          "UpdatedAt": "2025-04-15T15:44:52.829Z"
         },
         {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
@@ -51,7 +35,55 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-04-13T14:13:31.869Z"
+          "UpdatedAt": "2025-04-15T15:25:01.926Z"
+        },
+        {
+          "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
+          "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-07T06:47:02.462Z",
+          "UpdatedAt": "2025-04-15T14:06:09.007Z"
+        },
+        {
+          "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
+          "Name": "shin˸Owl Pleiades By ぐらまむ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "旅客機などにも乗れるワールドです、昼夜サイクルなどはラウンジのタブレットでいじれますので、ぜひどうぞ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
+          "AuthorName": "ぐらまむ",
+          "CreatedAt": "2025-03-06T06:07:00.865Z",
+          "UpdatedAt": "2025-04-15T07:24:13.222Z"
+        },
+        {
+          "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
+          "Name": "Riezet Flight Home QT1 By Riezet Lieaner",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "・動画プレイヤー、プレイリスト、ミラー、QV PEN 飛行機はプロペラ機のみ（ヘリコプターが1機） ・曲技飛行（エアロバティックス）を前提にした軽やかな挙動の機種 ・穏やかな挙動の並列複座型機 EN ・Video player‚ playlist‚ mirror‚ QV PEN Only propeller planes （one helicopter） ・Lightweight aircraft designed for aerobatics ・Parallel two-seater aircraft with gentle movements",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-02-24T13:03:56.307Z",
+          "UpdatedAt": "2025-04-14T21:20:01.534Z"
         },
         {
           "ID": "wrld_60300d73-dd92-47d6-a5d3-ad3b7676d0a5",
@@ -612,22 +644,6 @@
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
           "UpdatedAt": "2025-03-01T15:11:03.053Z"
-        },
-        {
-          "ID": "wrld_4a9df82d-1517-4675-bfea-6b018afd6bdd",
-          "Name": "Southern birds By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "World allows you to operate around the Island in a jet fighter or helicopter․ 某国某所の島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2024-12-14T03:56:09.006Z",
-          "UpdatedAt": "2025-03-01T06:53:15.438Z"
         },
         {
           "ID": "wrld_20e181eb-50ed-419a-898f-8b999e94c401",
@@ -2827,6 +2843,22 @@
       "Category": "作成日順(CreatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
+          "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-07T06:47:02.462Z",
+          "UpdatedAt": "2025-04-15T14:06:09.007Z"
+        },
+        {
           "ID": "wrld_605da853-4299-4e0e-9b56-1ce631b4310a",
           "Name": "Intercept˸ Broken Sky By 5Sori",
           "RecommendedCapacity": 8,
@@ -2904,7 +2936,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-04-13T19:12:13.655Z"
+          "UpdatedAt": "2025-04-15T07:24:13.222Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -3112,7 +3144,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2024-12-14T03:56:09.006Z",
-          "UpdatedAt": "2025-03-01T06:53:15.438Z"
+          "UpdatedAt": "2025-04-15T15:44:52.829Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -4648,7 +4680,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-04-13T14:13:31.869Z"
+          "UpdatedAt": "2025-04-15T15:25:01.926Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -6717,7 +6749,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-04-13T14:13:31.869Z"
+          "UpdatedAt": "2025-04-15T15:25:01.926Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -7213,7 +7245,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-04-13T19:12:13.655Z"
+          "UpdatedAt": "2025-04-15T07:24:13.222Z"
         },
         {
           "ID": "wrld_eff40f82-b5af-433f-8d87-c36e6408652a",
@@ -7261,7 +7293,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2024-12-14T03:56:09.006Z",
-          "UpdatedAt": "2025-03-01T06:53:15.438Z"
+          "UpdatedAt": "2025-04-15T15:44:52.829Z"
         },
         {
           "ID": "wrld_ec155d74-d8ff-4981-a687-4023f4767076",
@@ -8432,6 +8464,22 @@
           "UpdatedAt": "2025-02-05T02:23:43.209Z"
         },
         {
+          "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
+          "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-07T06:47:02.462Z",
+          "UpdatedAt": "2025-04-15T14:06:09.007Z"
+        },
+        {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
           "Name": "夜の星、島、ヘリ（QUEST対応Ver․） By ねねみそ",
           "RecommendedCapacity": 16,
@@ -9458,7 +9506,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2024-12-14T03:56:09.006Z",
-          "UpdatedAt": "2025-03-01T06:53:15.438Z"
+          "UpdatedAt": "2025-04-15T15:44:52.829Z"
         },
         {
           "ID": "wrld_e8c7a30d-4d63-4233-bca4-e4eff209e388",
@@ -9570,7 +9618,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-04-13T14:13:31.869Z"
+          "UpdatedAt": "2025-04-15T15:25:01.926Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -10642,7 +10690,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-04-13T19:12:13.655Z"
+          "UpdatedAt": "2025-04-15T07:24:13.222Z"
         },
         {
           "ID": "wrld_00b2433e-1f8a-4148-862f-b47b861c0756",
@@ -10883,6 +10931,22 @@
           "AuthorName": "にとうっぺ",
           "CreatedAt": "2025-02-16T15:16:15.576Z",
           "UpdatedAt": "2025-03-21T11:29:08.142Z"
+        },
+        {
+          "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
+          "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-07T06:47:02.462Z",
+          "UpdatedAt": "2025-04-15T14:06:09.007Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
