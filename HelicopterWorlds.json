@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
+          "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！アバターフライトはオフにしてありますがスイッチで切り替えできるのでお好みで調整してください。 サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-07T06:47:02.462Z",
+          "UpdatedAt": "2025-04-18T13:51:52.133Z"
+        },
+        {
           "ID": "wrld_4a9df82d-1517-4675-bfea-6b018afd6bdd",
           "Name": "Southern birds By Oppailot",
           "RecommendedCapacity": 16,
@@ -36,22 +52,6 @@
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
           "UpdatedAt": "2025-04-15T15:25:01.926Z"
-        },
-        {
-          "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
-          "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-15T14:06:09.007Z"
         },
         {
           "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
@@ -2847,7 +2847,7 @@
           "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
+          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！アバターフライトはオフにしてありますがスイッチで切り替えできるのでお好みで調整してください。 サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -2856,7 +2856,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-15T14:06:09.007Z"
+          "UpdatedAt": "2025-04-18T13:51:52.133Z"
         },
         {
           "ID": "wrld_605da853-4299-4e0e-9b56-1ce631b4310a",
@@ -8468,7 +8468,7 @@
           "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
+          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！アバターフライトはオフにしてありますがスイッチで切り替えできるのでお好みで調整してください。 サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -8477,7 +8477,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-15T14:06:09.007Z"
+          "UpdatedAt": "2025-04-18T13:51:52.133Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -10937,7 +10937,7 @@
           "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
+          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！アバターフライトはオフにしてありますがスイッチで切り替えできるのでお好みで調整してください。 サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -10946,7 +10946,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-15T14:06:09.007Z"
+          "UpdatedAt": "2025-04-18T13:51:52.133Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
