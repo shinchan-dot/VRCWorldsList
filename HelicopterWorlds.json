@@ -6,22 +6,6 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
-          "Name": "夜の星、島、ヘリ（QUEST対応Ver․） By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」QUESTにも対応してるVer․です。 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC 2025⁄04⁄11 リスポーン位置（ヘリがある位置）に明かりを追加しました。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2024-09-29T13:38:33.408Z",
-          "UpdatedAt": "2025-04-20T06:20:21.884Z"
-        },
-        {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
           "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
           "RecommendedCapacity": 16,
@@ -35,7 +19,39 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-20T05:43:34.007Z"
+          "UpdatedAt": "2025-04-20T10:02:12.788Z"
+        },
+        {
+          "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
+          "Name": "夜の星、島、ヘリ（QUEST対応Ver․） By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」QUESTにも対応してるVer․です。 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC 2025⁄04⁄11 リスポーン位置（ヘリがある位置）に明かりを追加しました。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2024-09-29T13:38:33.408Z",
+          "UpdatedAt": "2025-04-20T09:26:21.83Z"
+        },
+        {
+          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
+          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Welcome to the F-14 Worldǃ Here‚ you can fly the Iconic aircraft‚ The Grumman F-14ǃ And if you got tired of flying‚ you can try flying the Sukhoi SU-30‚ and the McDonnell AV-8B＋ǃ We also got UH-1Y Venom and MH-60S Seahawk Helicopters․ You also get to fly the V-22 Ospreyǃ Fly with us and have a blastǃ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
+          "AuthorName": "Zweikaku",
+          "CreatedAt": "2020-05-17T13:35:24.03Z",
+          "UpdatedAt": "2025-04-20T09:01:49.186Z"
         },
         {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
@@ -196,22 +212,6 @@
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
           "UpdatedAt": "2025-04-10T12:17:25.539Z"
-        },
-        {
-          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
-          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "Welcome to the F-14 Worldǃ Here‚ you can fly the Iconic aircraft‚ The Grumman F-14ǃ And if you got tired of flying‚ you can try flying the Sukhoi SU-30‚ and the McDonnell AV-8B＋ǃ We also got UH-1Y Venom and MH-60S Seahawk Helicopters․ You also get to fly the V-22 Ospreyǃ Fly with us and have a blastǃ",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-04-10T05:46:08.983Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -2856,7 +2856,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-20T05:43:34.007Z"
+          "UpdatedAt": "2025-04-20T10:02:12.788Z"
         },
         {
           "ID": "wrld_605da853-4299-4e0e-9b56-1ce631b4310a",
@@ -3288,7 +3288,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2024-09-29T13:38:33.408Z",
-          "UpdatedAt": "2025-04-20T06:20:21.884Z"
+          "UpdatedAt": "2025-04-20T09:26:21.83Z"
         },
         {
           "ID": "wrld_00aacfe7-ab03-4a8c-9efc-5a8909d89f01",
@@ -5640,7 +5640,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-04-10T05:46:08.983Z"
+          "UpdatedAt": "2025-04-20T09:01:49.186Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -5805,7 +5805,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-04-10T05:46:08.983Z"
+          "UpdatedAt": "2025-04-20T09:01:49.186Z"
         },
         {
           "ID": "wrld_7e31e3f8-2ea2-4f8d-9d90-1d0e3181fc7c",
@@ -8477,7 +8477,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-20T05:43:34.007Z"
+          "UpdatedAt": "2025-04-20T10:02:12.788Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -8493,7 +8493,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2024-09-29T13:38:33.408Z",
-          "UpdatedAt": "2025-04-20T06:20:21.884Z"
+          "UpdatedAt": "2025-04-20T09:26:21.83Z"
         },
         {
           "ID": "wrld_968264e3-10d1-490b-8b8e-b9322cf6a1e6",
@@ -10466,7 +10466,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-04-10T05:46:08.983Z"
+          "UpdatedAt": "2025-04-20T09:01:49.186Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -10946,7 +10946,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-20T05:43:34.007Z"
+          "UpdatedAt": "2025-04-20T10:02:12.788Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -10962,7 +10962,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2024-09-29T13:38:33.408Z",
-          "UpdatedAt": "2025-04-20T06:20:21.884Z"
+          "UpdatedAt": "2025-04-20T09:26:21.83Z"
         },
         {
           "ID": "wrld_bd5474da-9f92-448e-9076-de2716e2e20a",
