@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_ffed549e-a0bb-4b9c-a3b9-801b4e500bc8",
+          "Name": "荒天時発着艦訓練 By にとうっぺ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "比較的高波の海象で発着艦を行えるワールドです。ＤＤＨ以外は動揺があります。また、動揺はローカルでありますし動揺に伴いアバターが勝手に動くように錯覚し振動もありますから、酔いに弱い方は他艦船に移動しないか長くとどまるのはご遠慮ください。 SeaRAM甲板前面で風速等の設定が出来ます。ワールドとしては、風向は設置されている通り、相対風は30～40ktを想定しております。 格納庫前部側に休憩スペースがありますから、飛行で疲れたらぜひご利用ください。艦内へは、艦橋構造物左舷側にテレポーターがありますからぜひご利用ください。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
+          "AuthorName": "にとうっぺ",
+          "CreatedAt": "2025-02-16T15:16:15.576Z",
+          "UpdatedAt": "2025-04-28T16:18:41.591Z"
+        },
+        {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
           "Name": "catch＆Shootǃǃ 2 By Sayodori",
           "RecommendedCapacity": 16,
@@ -36,22 +52,6 @@
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
           "UpdatedAt": "2025-04-27T14:24:21.857Z"
-        },
-        {
-          "ID": "wrld_ffed549e-a0bb-4b9c-a3b9-801b4e500bc8",
-          "Name": "荒天時発着艦訓練 By にとうっぺ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "比較的高波の海象で発着艦を行えるワールドです。ＤＤＨ以外は動揺があります。また、動揺はローカルでありますし動揺に伴いアバターが勝手に動くように錯覚し振動もありますから、酔いに弱い方は他艦船に移動しないか長くとどまるのはご遠慮ください。 SeaRAM甲板前面で風速等の設定が出来ます。ワールドとしては、風向は設置されている通り、相対風は30～40ktを想定しております。 格納庫前部側に休憩スペースがありますから、飛行で疲れたらぜひご利用ください。艦内へは、艦橋構造物左舷側にテレポーターがありますからぜひご利用ください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
-          "AuthorName": "にとうっぺ",
-          "CreatedAt": "2025-02-16T15:16:15.576Z",
-          "UpdatedAt": "2025-04-26T15:10:24.689Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -1495,7 +1495,7 @@
         },
         {
           "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
-          "Name": "Helicopter flight training By aica_s",
+          "Name": "Helicopter flight training By 藍香 -aica-",
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
@@ -1505,7 +1505,7 @@
             "Android": false
           },
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
-          "AuthorName": "aica_s",
+          "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
           "UpdatedAt": "2024-09-08T07:18:01.671Z"
         },
@@ -3016,7 +3016,7 @@
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
           "AuthorName": "にとうっぺ",
           "CreatedAt": "2025-02-16T15:16:15.576Z",
-          "UpdatedAt": "2025-04-26T15:10:24.689Z"
+          "UpdatedAt": "2025-04-28T16:18:41.591Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -3452,7 +3452,7 @@
         },
         {
           "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
-          "Name": "Helicopter flight training By aica_s",
+          "Name": "Helicopter flight training By 藍香 -aica-",
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
@@ -3462,7 +3462,7 @@
             "Android": false
           },
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
-          "AuthorName": "aica_s",
+          "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
           "UpdatedAt": "2024-09-08T07:18:01.671Z"
         },
@@ -6465,7 +6465,7 @@
         },
         {
           "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
-          "Name": "Helicopter flight training By aica_s",
+          "Name": "Helicopter flight training By 藍香 -aica-",
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
@@ -6475,7 +6475,7 @@
             "Android": false
           },
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
-          "AuthorName": "aica_s",
+          "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
           "UpdatedAt": "2024-09-08T07:18:01.671Z"
         },
@@ -8141,7 +8141,7 @@
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
           "AuthorName": "にとうっぺ",
           "CreatedAt": "2025-02-16T15:16:15.576Z",
-          "UpdatedAt": "2025-04-26T15:10:24.689Z"
+          "UpdatedAt": "2025-04-28T16:18:41.591Z"
         },
         {
           "ID": "wrld_0d79f7b1-0a1e-446a-b091-291575537a6c",
@@ -8627,22 +8627,6 @@
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
           "UpdatedAt": "2025-01-22T02:14:16.609Z"
-        },
-        {
-          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
-          "Name": "Helicopter flight training By aica_s",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
-          "AuthorName": "aica_s",
-          "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2024-09-08T07:18:01.671Z"
         },
         {
           "ID": "wrld_20e181eb-50ed-419a-898f-8b999e94c401",
@@ -10930,7 +10914,7 @@
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
           "AuthorName": "にとうっぺ",
           "CreatedAt": "2025-02-16T15:16:15.576Z",
-          "UpdatedAt": "2025-04-26T15:10:24.689Z"
+          "UpdatedAt": "2025-04-28T16:18:41.591Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -11347,6 +11331,22 @@
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2022-09-03T05:05:23.624Z",
           "UpdatedAt": "2024-12-28T08:27:28.321Z"
+        },
+        {
+          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
+          "Name": "Helicopter flight training By 藍香 -aica-",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
+          "AuthorName": "藍香 -aica-",
+          "CreatedAt": "2024-08-04T08:23:01.722Z",
+          "UpdatedAt": "2024-09-08T07:18:01.671Z"
         }
       ]
     }
