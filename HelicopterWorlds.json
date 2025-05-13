@@ -19,7 +19,23 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-11T15:03:08.028Z"
+          "UpdatedAt": "2025-05-12T14:50:09.875Z"
+        },
+        {
+          "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
+          "Name": "LOOP's TA By RS_あーるえす",
+          "RecommendedCapacity": 64,
+          "Capacity": 64,
+          "Description": "TimeAttack＆Practice",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
+          "AuthorName": "RS_あーるえす",
+          "CreatedAt": "2023-04-15T13:18:54.899Z",
+          "UpdatedAt": "2025-05-12T12:49:07.393Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -868,22 +884,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-01-01T09:05:15.872Z",
           "UpdatedAt": "2025-01-19T13:26:26.269Z"
-        },
-        {
-          "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
-          "Name": "LOOP's test world By RS_あーるえす",
-          "RecommendedCapacity": 64,
-          "Capacity": 64,
-          "Description": "試作機テスト中",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
-          "AuthorName": "RS_あーるえす",
-          "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-01-14T14:27:10.09Z"
         },
         {
           "ID": "wrld_2acbbdb3-2da1-45ab-8a85-76ec7a67d435",
@@ -2952,7 +2952,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-11T15:03:08.028Z"
+          "UpdatedAt": "2025-05-12T14:50:09.875Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -4572,10 +4572,10 @@
         },
         {
           "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
-          "Name": "LOOP's test world By RS_あーるえす",
+          "Name": "LOOP's TA By RS_あーるえす",
           "RecommendedCapacity": 64,
           "Capacity": 64,
-          "Description": "試作機テスト中",
+          "Description": "TimeAttack＆Practice",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -4584,7 +4584,7 @@
           "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-01-14T14:27:10.09Z"
+          "UpdatedAt": "2025-05-12T12:49:07.393Z"
         },
         {
           "ID": "wrld_2acbbdb3-2da1-45ab-8a85-76ec7a67d435",
@@ -6817,10 +6817,10 @@
         },
         {
           "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
-          "Name": "LOOP's test world By RS_あーるえす",
+          "Name": "LOOP's TA By RS_あーるえす",
           "RecommendedCapacity": 64,
           "Capacity": 64,
-          "Description": "試作機テスト中",
+          "Description": "TimeAttack＆Practice",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -6829,7 +6829,7 @@
           "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-01-14T14:27:10.09Z"
+          "UpdatedAt": "2025-05-12T12:49:07.393Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -8045,7 +8045,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-11T15:03:08.028Z"
+          "UpdatedAt": "2025-05-12T14:50:09.875Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -9814,10 +9814,10 @@
         },
         {
           "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
-          "Name": "LOOP's test world By RS_あーるえす",
+          "Name": "LOOP's TA By RS_あーるえす",
           "RecommendedCapacity": 64,
           "Capacity": 64,
-          "Description": "試作機テスト中",
+          "Description": "TimeAttack＆Practice",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -9826,7 +9826,7 @@
           "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-01-14T14:27:10.09Z"
+          "UpdatedAt": "2025-05-12T12:49:07.393Z"
         },
         {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
@@ -10082,7 +10082,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-11T15:03:08.028Z"
+          "UpdatedAt": "2025-05-12T14:50:09.875Z"
         },
         {
           "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
