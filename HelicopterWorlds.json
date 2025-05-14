@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-05-13T14:01:54.884Z"
+        },
+        {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
           "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
           "RecommendedCapacity": 16,
@@ -19,7 +35,23 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-12T14:50:09.875Z"
+          "UpdatedAt": "2025-05-13T13:07:04.572Z"
+        },
+        {
+          "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
+          "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！アバターフライトはオフにしてありますがスイッチで切り替えできるのでお好みで調整してください。 サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-07T06:47:02.462Z",
+          "UpdatedAt": "2025-05-13T03:59:46.963Z"
         },
         {
           "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
@@ -36,22 +68,6 @@
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
           "UpdatedAt": "2025-05-12T12:49:07.393Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-11T11:34:50.145Z"
         },
         {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
@@ -260,22 +276,6 @@
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
           "UpdatedAt": "2025-04-23T06:12:49.703Z"
-        },
-        {
-          "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
-          "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夜の島 動画プレーヤー QVペン それと「こけし」PCのみ対応Ver․です 遊覧飛行や練習にもどうぞ！アバターフライトはオフにしてありますがスイッチで切り替えできるのでお好みで調整してください。 サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-20T10:02:12.788Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -2856,7 +2856,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-20T10:02:12.788Z"
+          "UpdatedAt": "2025-05-13T03:59:46.963Z"
         },
         {
           "ID": "wrld_605da853-4299-4e0e-9b56-1ce631b4310a",
@@ -2952,7 +2952,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-12T14:50:09.875Z"
+          "UpdatedAt": "2025-05-13T13:07:04.572Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -3592,7 +3592,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-11T11:34:50.145Z"
+          "UpdatedAt": "2025-05-13T14:01:54.884Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -7789,7 +7789,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-11T11:34:50.145Z"
+          "UpdatedAt": "2025-05-13T14:01:54.884Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -8045,7 +8045,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-12T14:50:09.875Z"
+          "UpdatedAt": "2025-05-13T13:07:04.572Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -8477,7 +8477,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-20T10:02:12.788Z"
+          "UpdatedAt": "2025-05-13T03:59:46.963Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -10082,7 +10082,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-12T14:50:09.875Z"
+          "UpdatedAt": "2025-05-13T13:07:04.572Z"
         },
         {
           "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
@@ -10258,7 +10258,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-11T11:34:50.145Z"
+          "UpdatedAt": "2025-05-13T14:01:54.884Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -10930,7 +10930,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
-          "UpdatedAt": "2025-04-20T10:02:12.788Z"
+          "UpdatedAt": "2025-05-13T03:59:46.963Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
