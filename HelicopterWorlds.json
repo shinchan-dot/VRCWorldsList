@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
+          "Name": "LOOP's TA By RS_あーるえす",
+          "RecommendedCapacity": 64,
+          "Capacity": 64,
+          "Description": "TimeAttack＆Practice",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
+          "AuthorName": "RS_あーるえす",
+          "CreatedAt": "2023-04-15T13:18:54.899Z",
+          "UpdatedAt": "2025-05-14T13:14:50.648Z"
+        },
+        {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-05-14T12:25:57.366Z"
+        },
+        {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
           "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -22,22 +54,6 @@
           "UpdatedAt": "2025-05-13T14:01:54.884Z"
         },
         {
-          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
-          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
-          "AuthorName": "sumisu_san",
-          "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-13T13:07:04.572Z"
-        },
-        {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
           "Name": "夜の星、島、ヘリ（PCのみVer․） By ねねみそ",
           "RecommendedCapacity": 16,
@@ -52,22 +68,6 @@
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
           "UpdatedAt": "2025-05-13T03:59:46.963Z"
-        },
-        {
-          "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
-          "Name": "LOOP's TA By RS_あーるえす",
-          "RecommendedCapacity": 64,
-          "Capacity": 64,
-          "Description": "TimeAttack＆Practice",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
-          "AuthorName": "RS_あーるえす",
-          "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-05-12T12:49:07.393Z"
         },
         {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
@@ -2952,7 +2952,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-13T13:07:04.572Z"
+          "UpdatedAt": "2025-05-14T12:25:57.366Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -4584,7 +4584,7 @@
           "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-05-12T12:49:07.393Z"
+          "UpdatedAt": "2025-05-14T13:14:50.648Z"
         },
         {
           "ID": "wrld_2acbbdb3-2da1-45ab-8a85-76ec7a67d435",
@@ -6829,7 +6829,7 @@
           "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-05-12T12:49:07.393Z"
+          "UpdatedAt": "2025-05-14T13:14:50.648Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -8045,7 +8045,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-13T13:07:04.572Z"
+          "UpdatedAt": "2025-05-14T12:25:57.366Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -9826,7 +9826,7 @@
           "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-05-12T12:49:07.393Z"
+          "UpdatedAt": "2025-05-14T13:14:50.648Z"
         },
         {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
@@ -10082,7 +10082,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-05-13T13:07:04.572Z"
+          "UpdatedAt": "2025-05-14T12:25:57.366Z"
         },
         {
           "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
