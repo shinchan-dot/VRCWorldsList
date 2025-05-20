@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-05-19T16:59:06.919Z"
+        },
+        {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
           "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
           "RecommendedCapacity": 30,
@@ -68,22 +84,6 @@
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
           "UpdatedAt": "2025-05-14T13:14:50.648Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-13T14:01:54.884Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -3592,7 +3592,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-13T14:01:54.884Z"
+          "UpdatedAt": "2025-05-19T16:59:06.919Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -7789,7 +7789,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-13T14:01:54.884Z"
+          "UpdatedAt": "2025-05-19T16:59:06.919Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -10258,7 +10258,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-13T14:01:54.884Z"
+          "UpdatedAt": "2025-05-19T16:59:06.919Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
