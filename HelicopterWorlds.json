@@ -10,7 +10,7 @@
           "Name": "海虹国際空港 RJKK A320 By Kanlll",
           "RecommendedCapacity": 20,
           "Capacity": 80,
-          "Description": "A320を飛ばせるマップ 制作途中",
+          "Description": "A320を飛ばせるマップ。 日本をベースとしています。 制作途中",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -19,7 +19,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-05-23T14:21:26.072Z"
+          "UpdatedAt": "2025-05-25T03:11:24.343Z"
         },
         {
           "ID": "wrld_204dbeb8-49a3-4140-9889-df8eee70f3a1",
@@ -35,7 +35,23 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2024-09-15T12:54:17.096Z",
-          "UpdatedAt": "2025-05-23T11:15:53.715Z"
+          "UpdatedAt": "2025-05-24T04:34:39.614Z"
+        },
+        {
+          "ID": "wrld_4796ac10-bfb9-449c-a67f-88a97bee0ca1",
+          "Name": "Helicopter Curling By shinchan․",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "カーリングは技術と伝統のゲームです。 Curling is a game of skill and of tradition․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+          "AuthorName": "shinchan․",
+          "CreatedAt": "2025-03-14T11:17:46.56Z",
+          "UpdatedAt": "2025-05-21T13:38:54.613Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -2875,6 +2891,22 @@
           "UpdatedAt": "2025-03-23T15:03:51.626Z"
         },
         {
+          "ID": "wrld_4796ac10-bfb9-449c-a67f-88a97bee0ca1",
+          "Name": "Helicopter Curling By shinchan․",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "カーリングは技術と伝統のゲームです。 Curling is a game of skill and of tradition․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+          "AuthorName": "shinchan․",
+          "CreatedAt": "2025-03-14T11:17:46.56Z",
+          "UpdatedAt": "2025-05-21T13:38:54.613Z"
+        },
+        {
           "ID": "wrld_3e6e4756-2baa-486d-95ee-70b9158c5664",
           "Name": "（WIP）Rocky Mountain Airbase By BambooPill",
           "RecommendedCapacity": 80,
@@ -2975,7 +3007,7 @@
           "Name": "海虹国際空港 RJKK A320 By Kanlll",
           "RecommendedCapacity": 20,
           "Capacity": 80,
-          "Description": "A320を飛ばせるマップ 制作途中",
+          "Description": "A320を飛ばせるマップ。 日本をベースとしています。 制作途中",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -2984,7 +3016,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-05-23T14:21:26.072Z"
+          "UpdatedAt": "2025-05-25T03:11:24.343Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -3320,7 +3352,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2024-09-15T12:54:17.096Z",
-          "UpdatedAt": "2025-05-23T11:15:53.715Z"
+          "UpdatedAt": "2025-05-24T04:34:39.614Z"
         },
         {
           "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
@@ -6448,6 +6480,22 @@
           "UpdatedAt": "2024-12-26T11:51:06.645Z"
         },
         {
+          "ID": "wrld_4796ac10-bfb9-449c-a67f-88a97bee0ca1",
+          "Name": "Helicopter Curling By shinchan․",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "カーリングは技術と伝統のゲームです。 Curling is a game of skill and of tradition․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+          "AuthorName": "shinchan․",
+          "CreatedAt": "2025-03-14T11:17:46.56Z",
+          "UpdatedAt": "2025-05-21T13:38:54.613Z"
+        },
+        {
           "ID": "wrld_250ed8ed-9288-4c8c-9131-78a200064c1b",
           "Name": "Helicopter de Fukuwarai By じゃっこ_VRC",
           "RecommendedCapacity": 16,
@@ -7133,7 +7181,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2024-09-15T12:54:17.096Z",
-          "UpdatedAt": "2025-05-23T11:15:53.715Z"
+          "UpdatedAt": "2025-05-24T04:34:39.614Z"
         },
         {
           "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
@@ -8084,7 +8132,7 @@
           "Name": "海虹国際空港 RJKK A320 By Kanlll",
           "RecommendedCapacity": 20,
           "Capacity": 80,
-          "Description": "A320を飛ばせるマップ 制作途中",
+          "Description": "A320を飛ばせるマップ。 日本をベースとしています。 制作途中",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -8093,7 +8141,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-05-23T14:21:26.072Z"
+          "UpdatedAt": "2025-05-25T03:11:24.343Z"
         },
         {
           "ID": "wrld_366d09a6-859e-4340-8325-801bc4267d52",
@@ -9145,7 +9193,7 @@
           "Name": "海虹国際空港 RJKK A320 By Kanlll",
           "RecommendedCapacity": 20,
           "Capacity": 80,
-          "Description": "A320を飛ばせるマップ 制作途中",
+          "Description": "A320を飛ばせるマップ。 日本をベースとしています。 制作途中",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -9154,7 +9202,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-05-23T14:21:26.072Z"
+          "UpdatedAt": "2025-05-25T03:11:24.343Z"
         },
         {
           "ID": "wrld_6851ac71-ee38-4c5a-a918-400fdeb3b7b8",
@@ -9810,7 +9858,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2024-09-15T12:54:17.096Z",
-          "UpdatedAt": "2025-05-23T11:15:53.715Z"
+          "UpdatedAt": "2025-05-24T04:34:39.614Z"
         },
         {
           "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
@@ -9971,6 +10019,22 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2023-12-18T17:59:05.666Z",
           "UpdatedAt": "2024-12-06T10:38:21.996Z"
+        },
+        {
+          "ID": "wrld_4796ac10-bfb9-449c-a67f-88a97bee0ca1",
+          "Name": "Helicopter Curling By shinchan․",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "カーリングは技術と伝統のゲームです。 Curling is a game of skill and of tradition․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+          "AuthorName": "shinchan․",
+          "CreatedAt": "2025-03-14T11:17:46.56Z",
+          "UpdatedAt": "2025-05-21T13:38:54.613Z"
         },
         {
           "ID": "wrld_7e31e3f8-2ea2-4f8d-9d90-1d0e3181fc7c",
