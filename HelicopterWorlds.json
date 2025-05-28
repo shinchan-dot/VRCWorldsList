@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
+          "Name": "Flettner Island By CKK COBALT",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "チルなBGMとお洒落なオブジェに囲まれた、シンプルで落ち着いたムーディーなリビングとベッドルーム。 ベランダから望むのは田舎の小さな飛行場。 現実や都会の喧騒から離れて、大切な人と静かに過ごしたい、そんな方におすすめなワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
+          "AuthorName": "CKK COBALT",
+          "CreatedAt": "2024-09-14T15:01:24.594Z",
+          "UpdatedAt": "2025-05-28T07:54:23.261Z"
+        },
+        {
+          "ID": "wrld_4fe4cfe2-fad8-439e-b2f1-49ab11c8aadd",
+          "Name": "高松ゆうらん飛行 By ときわ（tokiwa）",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "香川県高松市の上空を、ヘリコプターでゆうらん飛行しましょう。 ｜ 国土交通省ホームページによる3D都市モデル（Project PLATEAU）高松市（2022年度）を加工し利用しています。 https˸⁄⁄www․geospatial․jp⁄ckan⁄dataset⁄plateau-37201-takamatsu-shi-2022 ｜ フリーBGM・音楽素材MusMus http˸⁄⁄musmus․main․jp⁄",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
+          "AuthorName": "ときわ（tokiwa）",
+          "CreatedAt": "2024-02-13T12:50:46.489Z",
+          "UpdatedAt": "2025-05-26T16:17:41.694Z"
+        },
+        {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
           "Name": "海虹国際空港 RJKK A320 By Kanlll",
           "RecommendedCapacity": 20,
@@ -548,22 +580,6 @@
           "AuthorName": "shinchan․",
           "CreatedAt": "2023-10-17T11:44:21.965Z",
           "UpdatedAt": "2025-03-26T10:02:34.275Z"
-        },
-        {
-          "ID": "wrld_4fe4cfe2-fad8-439e-b2f1-49ab11c8aadd",
-          "Name": "高松ゆうらん飛行 By ときわ（tokiwa）",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "香川県高松市の上空を、ヘリコプターでゆうらん飛行しましょう。 ｜ 国土交通省ホームページによる3D都市モデル（Project PLATEAU）高松市（2022年度）を加工し利用しています。 https˸⁄⁄www․geospatial․jp⁄ckan⁄dataset⁄plateau-37201-takamatsu-shi-2022 ｜ フリーBGM・音楽素材MusMus http˸⁄⁄musmus․main․jp⁄",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
-          "AuthorName": "ときわ（tokiwa）",
-          "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2025-03-25T05:55:08.679Z"
         },
         {
           "ID": "wrld_56b5b37b-7470-43d7-beb1-2bad3abcd222",
@@ -1268,22 +1284,6 @@
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
           "UpdatedAt": "2024-11-13T15:04:41.933Z"
-        },
-        {
-          "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
-          "Name": "Flettner Island By CKK COBALT",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "チルなBGMとお洒落なオブジェに囲まれた、シンプルで落ち着いたムーディーなリビングとベッドルーム。 ベランダから望むのは田舎の小さな飛行場。 現実や都会の喧騒から離れて、大切な人と静かに過ごしたい、そんな方におすすめなワールドです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
-          "AuthorName": "CKK COBALT",
-          "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2024-11-01T08:32:29.114Z"
         },
         {
           "ID": "wrld_0c8800fb-777d-4ac5-99eb-daee776cc1d7",
@@ -3368,7 +3368,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2024-11-01T08:32:29.114Z"
+          "UpdatedAt": "2025-05-28T07:54:23.261Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -3992,7 +3992,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2025-03-25T05:55:08.679Z"
+          "UpdatedAt": "2025-05-26T16:17:41.694Z"
         },
         {
           "ID": "wrld_bd5474da-9f92-448e-9076-de2716e2e20a",
@@ -6269,7 +6269,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2024-11-01T08:32:29.114Z"
+          "UpdatedAt": "2025-05-28T07:54:23.261Z"
         },
         {
           "ID": "wrld_8008565b-2305-4672-9c66-84657411fcfd",
@@ -8221,7 +8221,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2025-03-25T05:55:08.679Z"
+          "UpdatedAt": "2025-05-26T16:17:41.694Z"
         },
         {
           "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
@@ -8770,7 +8770,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2024-11-01T08:32:29.114Z"
+          "UpdatedAt": "2025-05-28T07:54:23.261Z"
         },
         {
           "ID": "wrld_736b4f6d-99e9-4a53-ae57-6e801b1b85f0",
@@ -10914,7 +10914,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2025-03-25T05:55:08.679Z"
+          "UpdatedAt": "2025-05-26T16:17:41.694Z"
         },
         {
           "ID": "wrld_e574bbd4-e020-4c49-8287-8edb163cfd3f",
