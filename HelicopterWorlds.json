@@ -6,11 +6,91 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-06-02T17:10:32.693Z"
+        },
+        {
+          "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
+          "Name": "Flettner Island By CKK COBALT",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "チルなBGMとお洒落なオブジェに囲まれた、シンプルで落ち着いたムーディーなリビングとベッドルーム。 ベランダから望むのは田舎の小さな飛行場。 現実や都会の喧騒から離れて、大切な人と静かに過ごしたい、そんな方におすすめなワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
+          "AuthorName": "CKK COBALT",
+          "CreatedAt": "2024-09-14T15:01:24.594Z",
+          "UpdatedAt": "2025-06-02T13:58:20.856Z"
+        },
+        {
+          "ID": "wrld_f08ad423-45b6-4231-b165-c7401b3f9e51",
+          "Name": "Icosahedron By ミーさん",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Icosahedron",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "ミーさん",
+          "CreatedAt": "2025-06-01T12:40:41.23Z",
+          "UpdatedAt": "2025-06-02T10:10:00.424Z"
+        },
+        {
+          "ID": "wrld_f16204b8-df69-47e0-b543-db6ec52019a0",
+          "Name": "垂直降下16000ｍ By ミーさん",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "うえうえしたしたひだりみぎひだりみぎ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "ミーさん",
+          "CreatedAt": "2024-08-03T17:29:06.08Z",
+          "UpdatedAt": "2025-06-02T02:36:35.565Z"
+        },
+        {
+          "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
+          "Name": "サヴァ大峡谷 - Sava Great Canyon By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機、軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-03-22T09:38:21.869Z",
+          "UpdatedAt": "2025-06-01T16:19:18.519Z"
+        },
+        {
           "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -19,7 +99,39 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-05-30T21:15:05.551Z"
+          "UpdatedAt": "2025-05-31T17:59:40.114Z"
+        },
+        {
+          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
+          "Name": "Kennedy Space Center By medaka0228",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Kennedy Space Center",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
+          "AuthorName": "medaka0228",
+          "CreatedAt": "2021-12-14T13:35:04.995Z",
+          "UpdatedAt": "2025-05-31T12:00:25.699Z"
+        },
+        {
+          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
+          "Name": "catch＆Shootǃǃ 2 By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-10-04T14:23:01.112Z",
+          "UpdatedAt": "2025-05-31T03:00:23.794Z"
         },
         {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
@@ -36,22 +148,6 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
           "UpdatedAt": "2025-05-30T13:14:58.057Z"
-        },
-        {
-          "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
-          "Name": "Flettner Island By CKK COBALT",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "チルなBGMとお洒落なオブジェに囲まれた、シンプルで落ち着いたムーディーなリビングとベッドルーム。 ベランダから望むのは田舎の小さな飛行場。 現実や都会の喧騒から離れて、大切な人と静かに過ごしたい、そんな方におすすめなワールドです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
-          "AuthorName": "CKK COBALT",
-          "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-05-28T10:33:54.359Z"
         },
         {
           "ID": "wrld_4fe4cfe2-fad8-439e-b2f1-49ab11c8aadd",
@@ -134,22 +230,6 @@
           "UpdatedAt": "2025-05-21T13:38:54.613Z"
         },
         {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-21T11:48:22.753Z"
-        },
-        {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
           "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
           "RecommendedCapacity": 30,
@@ -212,22 +292,6 @@
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
           "UpdatedAt": "2025-05-13T03:59:46.963Z"
-        },
-        {
-          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
-          "Name": "Kennedy Space Center By medaka0228",
-          "RecommendedCapacity": 40,
-          "Capacity": 80,
-          "Description": "Kennedy Space Center",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
-          "AuthorName": "medaka0228",
-          "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-05-11T04:21:40.255Z"
         },
         {
           "ID": "wrld_522b17d4-286f-4dee-bd87-69fad77c8b43",
@@ -324,22 +388,6 @@
           "AuthorName": "にとうっぺ",
           "CreatedAt": "2025-02-16T15:16:15.576Z",
           "UpdatedAt": "2025-04-29T05:30:46.304Z"
-        },
-        {
-          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
-          "Name": "catch＆Shootǃǃ 2 By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-04-27T15:03:40.628Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -852,22 +900,6 @@
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-05-29T13:45:47.332Z",
           "UpdatedAt": "2025-02-05T12:31:58.694Z"
-        },
-        {
-          "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
-          "Name": "サヴァ大峡谷 - Sava Great Canyon By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機と軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-03-22T09:38:21.869Z",
-          "UpdatedAt": "2025-02-05T11:51:55.701Z"
         },
         {
           "ID": "wrld_15300551-e360-49c2-8aaa-438faa68039e",
@@ -1540,22 +1572,6 @@
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
           "UpdatedAt": "2024-09-08T07:18:01.671Z"
-        },
-        {
-          "ID": "wrld_f16204b8-df69-47e0-b543-db6ec52019a0",
-          "Name": "垂直降下16000ｍ By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "うえうえしたしたひだりみぎひだりみぎ",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-08-03T17:29:06.08Z",
-          "UpdatedAt": "2024-09-05T18:32:23.82Z"
         },
         {
           "ID": "wrld_57f59034-25d1-4078-bdef-90c6d1c486f0",
@@ -2875,6 +2891,22 @@
       "Category": "作成日順(CreatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_f08ad423-45b6-4231-b165-c7401b3f9e51",
+          "Name": "Icosahedron By ミーさん",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Icosahedron",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "ミーさん",
+          "CreatedAt": "2025-06-01T12:40:41.23Z",
+          "UpdatedAt": "2025-06-02T10:10:00.424Z"
+        },
+        {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
           "Name": "Riezet Flight Home T2R By Riezet Lieaner",
           "RecommendedCapacity": 12,
@@ -3336,7 +3368,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-04-27T15:03:40.628Z"
+          "UpdatedAt": "2025-05-31T03:00:23.794Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -3400,7 +3432,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-05-28T10:33:54.359Z"
+          "UpdatedAt": "2025-06-02T13:58:20.856Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -3544,7 +3576,7 @@
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-08-03T17:29:06.08Z",
-          "UpdatedAt": "2024-09-05T18:32:23.82Z"
+          "UpdatedAt": "2025-06-02T02:36:35.565Z"
         },
         {
           "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
@@ -3656,7 +3688,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-21T11:48:22.753Z"
+          "UpdatedAt": "2025-06-02T17:10:32.693Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -3903,7 +3935,7 @@
           "Name": "サヴァ大峡谷 - Sava Great Canyon By Yakisaba dayo",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機と軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
+          "Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機、軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -3912,7 +3944,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-03-22T09:38:21.869Z",
-          "UpdatedAt": "2025-02-05T11:51:55.701Z"
+          "UpdatedAt": "2025-06-01T16:19:18.519Z"
         },
         {
           "ID": "wrld_00b2433e-1f8a-4148-862f-b47b861c0756",
@@ -4431,7 +4463,7 @@
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -4440,7 +4472,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-05-30T21:15:05.551Z"
+          "UpdatedAt": "2025-05-31T17:59:40.114Z"
         },
         {
           "ID": "wrld_39515b4c-36c5-4e0b-959e-ece318384025",
@@ -5448,7 +5480,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-05-11T04:21:40.255Z"
+          "UpdatedAt": "2025-05-31T12:00:25.699Z"
         },
         {
           "ID": "wrld_5241df39-9624-4d25-b644-edb11fe645bf",
@@ -6029,7 +6061,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-04-27T15:03:40.628Z"
+          "UpdatedAt": "2025-05-31T03:00:23.794Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -6301,7 +6333,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-05-28T10:33:54.359Z"
+          "UpdatedAt": "2025-06-02T13:58:20.856Z"
         },
         {
           "ID": "wrld_8008565b-2305-4672-9c66-84657411fcfd",
@@ -6640,6 +6672,22 @@
           "UpdatedAt": "2024-12-25T02:12:29.701Z"
         },
         {
+          "ID": "wrld_f08ad423-45b6-4231-b165-c7401b3f9e51",
+          "Name": "Icosahedron By ミーさん",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Icosahedron",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "ミーさん",
+          "CreatedAt": "2025-06-01T12:40:41.23Z",
+          "UpdatedAt": "2025-06-02T10:10:00.424Z"
+        },
+        {
           "ID": "wrld_ce7724c6-3b26-4d4e-9a70-089ef68b2277",
           "Name": "Insel‚ wo das Gras grün wächst By Just a Nomad",
           "RecommendedCapacity": 32,
@@ -6861,7 +6909,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-05-11T04:21:40.255Z"
+          "UpdatedAt": "2025-05-31T12:00:25.699Z"
         },
         {
           "ID": "wrld_73bfab3d-5888-4364-909a-6bba45749538",
@@ -7885,14 +7933,14 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-21T11:48:22.753Z"
+          "UpdatedAt": "2025-06-02T17:10:32.693Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
           "Name": "サヴァ大峡谷 - Sava Great Canyon By Yakisaba dayo",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機と軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
+          "Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機、軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -7901,7 +7949,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-03-22T09:38:21.869Z",
-          "UpdatedAt": "2025-02-05T11:51:55.701Z"
+          "UpdatedAt": "2025-06-01T16:19:18.519Z"
         },
         {
           "ID": "wrld_57f59034-25d1-4078-bdef-90c6d1c486f0",
@@ -7940,7 +7988,7 @@
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -7949,7 +7997,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-05-30T21:15:05.551Z"
+          "UpdatedAt": "2025-05-31T17:59:40.114Z"
         },
         {
           "ID": "wrld_96c165cc-bbbc-475c-bc4d-6f002d732e36",
@@ -8333,7 +8381,7 @@
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-08-03T17:29:06.08Z",
-          "UpdatedAt": "2024-09-05T18:32:23.82Z"
+          "UpdatedAt": "2025-06-02T02:36:35.565Z"
         },
         {
           "ID": "wrld_00b2433e-1f8a-4148-862f-b47b861c0756",
@@ -8818,7 +8866,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-05-28T10:33:54.359Z"
+          "UpdatedAt": "2025-06-02T13:58:20.856Z"
         },
         {
           "ID": "wrld_736b4f6d-99e9-4a53-ae57-6e801b1b85f0",
@@ -9426,7 +9474,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-05-11T04:21:40.255Z"
+          "UpdatedAt": "2025-05-31T12:00:25.699Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -10002,7 +10050,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-04-27T15:03:40.628Z"
+          "UpdatedAt": "2025-05-31T03:00:23.794Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -10386,14 +10434,14 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-05-21T11:48:22.753Z"
+          "UpdatedAt": "2025-06-02T17:10:32.693Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
           "Name": "サヴァ大峡谷 - Sava Great Canyon By Yakisaba dayo",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機と軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
+          "Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機、軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -10402,7 +10450,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-03-22T09:38:21.869Z",
-          "UpdatedAt": "2025-02-05T11:51:55.701Z"
+          "UpdatedAt": "2025-06-01T16:19:18.519Z"
         },
         {
           "ID": "wrld_14399fdd-c14d-4885-b921-e87c1d9d3ed5",
@@ -10649,7 +10697,7 @@
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -10658,7 +10706,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-05-30T21:15:05.551Z"
+          "UpdatedAt": "2025-05-31T17:59:40.114Z"
         },
         {
           "ID": "wrld_05334b28-c7f5-493c-881d-469634a99c90",
@@ -11157,6 +11205,22 @@
           "UpdatedAt": "2024-09-13T11:32:41.694Z"
         },
         {
+          "ID": "wrld_f08ad423-45b6-4231-b165-c7401b3f9e51",
+          "Name": "Icosahedron By ミーさん",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Icosahedron",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "ミーさん",
+          "CreatedAt": "2025-06-01T12:40:41.23Z",
+          "UpdatedAt": "2025-06-02T10:10:00.424Z"
+        },
+        {
           "ID": "wrld_15300551-e360-49c2-8aaa-438faa68039e",
           "Name": "無人貸し出し所 By ミーさん",
           "RecommendedCapacity": 16,
@@ -11186,7 +11250,7 @@
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-08-03T17:29:06.08Z",
-          "UpdatedAt": "2024-09-05T18:32:23.82Z"
+          "UpdatedAt": "2025-06-02T02:36:35.565Z"
         },
         {
           "ID": "wrld_7335e76a-c4a5-4f5e-8f5d-b786e9d35347",
