@@ -6,6 +6,86 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
+          "Name": "海虹国際空港 RJKK A320 By Kanlll",
+          "RecommendedCapacity": 20,
+          "Capacity": 80,
+          "Description": "A320を飛ばせるマップ。 日本をベースとしています。 制作途中",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
+          "AuthorName": "Kanlll",
+          "CreatedAt": "2025-02-25T12:26:24.326Z",
+          "UpdatedAt": "2025-06-16T13:13:04.945Z"
+        },
+        {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-06-16T12:23:24.27Z"
+        },
+        {
+          "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
+          "Name": "Flettner Island By CKK COBALT",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "チルなBGMとお洒落なオブジェに囲まれた、シンプルで落ち着いたムーディーなリビングとベッドルーム。 ベランダから望むのは田舎の小さな飛行場。 現実や都会の喧騒から離れて、大切な人と静かに過ごしたい、そんな方におすすめなワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
+          "AuthorName": "CKK COBALT",
+          "CreatedAt": "2024-09-14T15:01:24.594Z",
+          "UpdatedAt": "2025-06-16T12:04:21.817Z"
+        },
+        {
+          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
+          "Name": "すやみーる -Suya Mile- By かもみーる",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄06⁄16",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
+          "AuthorName": "かもみーる",
+          "CreatedAt": "2023-07-27T21:44:38.895Z",
+          "UpdatedAt": "2025-06-16T07:37:46.322Z"
+        },
+        {
+          "ID": "wrld_15300551-e360-49c2-8aaa-438faa68039e",
+          "Name": "無人貸し出し所 By ミーさん",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "とても青い",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "ミーさん",
+          "CreatedAt": "2024-11-08T06:01:56.549Z",
+          "UpdatedAt": "2025-06-15T11:28:56.104Z"
+        },
+        {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
           "Name": "Riezet Flight Home T2R By Riezet Lieaner",
           "RecommendedCapacity": 12,
@@ -19,7 +99,55 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-06-10T02:21:50.877Z"
+          "UpdatedAt": "2025-06-13T12:40:08.08Z"
+        },
+        {
+          "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
+          "Name": "サヴァ大峡谷 - Sava Great Canyon By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機、軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-03-22T09:38:21.869Z",
+          "UpdatedAt": "2025-06-11T10:17:39.929Z"
+        },
+        {
+          "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
+          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
+          "RecommendedCapacity": 30,
+          "Capacity": 30,
+          "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
+          "AuthorName": "いちごみるく2100",
+          "CreatedAt": "2025-02-04T10:58:00.395Z",
+          "UpdatedAt": "2025-06-11T10:16:32.968Z"
+        },
+        {
+          "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
+          "Name": "Vierinan War 1967 By Nameko649",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 軽い暴力表現あり 20250315アップデート",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
+          "AuthorName": "Nameko649",
+          "CreatedAt": "2025-02-08T22:55:44.59Z",
+          "UpdatedAt": "2025-06-11T07:50:39.26Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -36,38 +164,6 @@
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
           "UpdatedAt": "2025-06-09T23:44:13.834Z"
-        },
-        {
-          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
-          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
-          "AuthorName": "sumisu_san",
-          "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-06-09T12:26:30.348Z"
-        },
-        {
-          "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
-          "Name": "Flettner Island By CKK COBALT",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "チルなBGMとお洒落なオブジェに囲まれた、シンプルで落ち着いたムーディーなリビングとベッドルーム。 ベランダから望むのは田舎の小さな飛行場。 現実や都会の喧騒から離れて、大切な人と静かに過ごしたい、そんな方におすすめなワールドです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
-          "AuthorName": "CKK COBALT",
-          "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-09T10:56:17.271Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -182,38 +278,6 @@
           "UpdatedAt": "2025-06-02T02:36:35.565Z"
         },
         {
-          "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
-          "Name": "サヴァ大峡谷 - Sava Great Canyon By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機、軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-03-22T09:38:21.869Z",
-          "UpdatedAt": "2025-06-01T16:19:18.519Z"
-        },
-        {
-          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
-          "Name": "すやみーる -Suya Mile- By かもみーる",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
-          "AuthorName": "かもみーる",
-          "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-05-31T17:59:40.114Z"
-        },
-        {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
           "Name": "catch＆Shootǃǃ 2 By Sayodori",
           "RecommendedCapacity": 16,
@@ -244,22 +308,6 @@
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
           "UpdatedAt": "2025-05-26T16:17:41.694Z"
-        },
-        {
-          "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
-          "Name": "海虹国際空港 RJKK A320 By Kanlll",
-          "RecommendedCapacity": 20,
-          "Capacity": 80,
-          "Description": "A320を飛ばせるマップ。 日本をベースとしています。 制作途中",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
-          "AuthorName": "Kanlll",
-          "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-05-25T10:53:38.825Z"
         },
         {
           "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
@@ -550,22 +598,6 @@
           "UpdatedAt": "2025-04-13T10:40:16.935Z"
         },
         {
-          "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
-          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
-          "RecommendedCapacity": 30,
-          "Capacity": 30,
-          "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
-          "AuthorName": "いちごみるく2100",
-          "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-04-10T12:17:25.539Z"
-        },
-        {
           "ID": "wrld_7e31e3f8-2ea2-4f8d-9d90-1d0e3181fc7c",
           "Name": "Aircraft Inspector By shinchan․",
           "RecommendedCapacity": 16,
@@ -742,22 +774,6 @@
           "UpdatedAt": "2025-03-20T17:44:02.304Z"
         },
         {
-          "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
-          "Name": "Vierinan War 1967 By Nameko649",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 軽い暴力表現あり 20250315アップデート",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
-          "AuthorName": "Nameko649",
-          "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-03-14T19:15:37.377Z"
-        },
-        {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
           "Name": "Mi35M test world By eleyp vr",
           "RecommendedCapacity": 14,
@@ -918,22 +934,6 @@
           "UpdatedAt": "2025-02-05T12:31:58.694Z"
         },
         {
-          "ID": "wrld_15300551-e360-49c2-8aaa-438faa68039e",
-          "Name": "無人貸し出し所 By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "とても青い",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-11-08T06:01:56.549Z",
-          "UpdatedAt": "2025-02-05T02:23:43.209Z"
-        },
-        {
           "ID": "wrld_ad87f40b-6492-4b06-9200-3e6b98912ded",
           "Name": "GANZER COMBAT v2․8 By Oppailot",
           "RecommendedCapacity": 16,
@@ -1015,7 +1015,7 @@
         },
         {
           "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
-          "Name": "Formation Flight of Helicopter By みやみや-JP",
+          "Name": "Formation Flight of Helicopter By -みや-",
           "RecommendedCapacity": 12,
           "Capacity": 32,
           "Description": "AH-64とJU-87が合計12機置いてあります！ 編隊飛行と急降下爆撃楽しんでください！",
@@ -1025,7 +1025,7 @@
             "Android": true
           },
           "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
-          "AuthorName": "みやみや-JP",
+          "AuthorName": "-みや-",
           "CreatedAt": "2025-01-03T09:52:43.239Z",
           "UpdatedAt": "2025-01-05T02:41:08.587Z"
         },
@@ -1223,7 +1223,7 @@
         },
         {
           "ID": "wrld_a93abcbe-244b-4273-a2a8-72142158dc67",
-          "Name": "へりこぷたーとれーにんぐ By みやみや-JP",
+          "Name": "へりこぷたーとれーにんぐ By -みや-",
           "RecommendedCapacity": 7,
           "Capacity": 16,
           "Description": "Bell206Vのようなヘリでいろいろな練習ができるワールドです！楽しんでください！",
@@ -1233,7 +1233,7 @@
             "Android": true
           },
           "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
-          "AuthorName": "みやみや-JP",
+          "AuthorName": "-みや-",
           "CreatedAt": "2024-11-30T04:30:27.819Z",
           "UpdatedAt": "2024-12-08T03:56:31.01Z"
         },
@@ -2936,7 +2936,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-06-10T02:21:50.877Z"
+          "UpdatedAt": "2025-06-13T12:40:08.08Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -3064,7 +3064,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-06-09T12:26:30.348Z"
+          "UpdatedAt": "2025-06-16T12:23:24.27Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -3096,7 +3096,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-05-25T10:53:38.825Z"
+          "UpdatedAt": "2025-06-16T13:13:04.945Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -3144,7 +3144,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-03-14T19:15:37.377Z"
+          "UpdatedAt": "2025-06-11T07:50:39.26Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -3160,7 +3160,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-04-10T12:17:25.539Z"
+          "UpdatedAt": "2025-06-11T10:16:32.968Z"
         },
         {
           "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
@@ -3196,7 +3196,7 @@
         },
         {
           "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
-          "Name": "Formation Flight of Helicopter By みやみや-JP",
+          "Name": "Formation Flight of Helicopter By -みや-",
           "RecommendedCapacity": 12,
           "Capacity": 32,
           "Description": "AH-64とJU-87が合計12機置いてあります！ 編隊飛行と急降下爆撃楽しんでください！",
@@ -3206,7 +3206,7 @@
             "Android": true
           },
           "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
-          "AuthorName": "みやみや-JP",
+          "AuthorName": "-みや-",
           "CreatedAt": "2025-01-03T09:52:43.239Z",
           "UpdatedAt": "2025-01-05T02:41:08.587Z"
         },
@@ -3292,7 +3292,7 @@
         },
         {
           "ID": "wrld_a93abcbe-244b-4273-a2a8-72142158dc67",
-          "Name": "へりこぷたーとれーにんぐ By みやみや-JP",
+          "Name": "へりこぷたーとれーにんぐ By -みや-",
           "RecommendedCapacity": 7,
           "Capacity": 16,
           "Description": "Bell206Vのようなヘリでいろいろな練習ができるワールドです！楽しんでください！",
@@ -3302,7 +3302,7 @@
             "Android": true
           },
           "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
-          "AuthorName": "みやみや-JP",
+          "AuthorName": "-みや-",
           "CreatedAt": "2024-11-30T04:30:27.819Z",
           "UpdatedAt": "2024-12-08T03:56:31.01Z"
         },
@@ -3352,7 +3352,7 @@
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-11-08T06:01:56.549Z",
-          "UpdatedAt": "2025-02-05T02:23:43.209Z"
+          "UpdatedAt": "2025-06-15T11:28:56.104Z"
         },
         {
           "ID": "wrld_0aa5f8b3-b21e-44b9-9447-c91ff7b616e9",
@@ -3464,7 +3464,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-09T10:56:17.271Z"
+          "UpdatedAt": "2025-06-16T12:04:21.817Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -3976,7 +3976,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-03-22T09:38:21.869Z",
-          "UpdatedAt": "2025-06-01T16:19:18.519Z"
+          "UpdatedAt": "2025-06-11T10:17:39.929Z"
         },
         {
           "ID": "wrld_00b2433e-1f8a-4148-862f-b47b861c0756",
@@ -4495,7 +4495,7 @@
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄06⁄16",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -4504,7 +4504,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-05-31T17:59:40.114Z"
+          "UpdatedAt": "2025-06-16T07:37:46.322Z"
         },
         {
           "ID": "wrld_39515b4c-36c5-4e0b-959e-ece318384025",
@@ -6365,7 +6365,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-09T10:56:17.271Z"
+          "UpdatedAt": "2025-06-16T12:04:21.817Z"
         },
         {
           "ID": "wrld_8008565b-2305-4672-9c66-84657411fcfd",
@@ -6417,7 +6417,7 @@
         },
         {
           "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
-          "Name": "Formation Flight of Helicopter By みやみや-JP",
+          "Name": "Formation Flight of Helicopter By -みや-",
           "RecommendedCapacity": 12,
           "Capacity": 32,
           "Description": "AH-64とJU-87が合計12機置いてあります！ 編隊飛行と急降下爆撃楽しんでください！",
@@ -6427,7 +6427,7 @@
             "Android": true
           },
           "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
-          "AuthorName": "みやみや-JP",
+          "AuthorName": "-みや-",
           "CreatedAt": "2025-01-03T09:52:43.239Z",
           "UpdatedAt": "2025-01-05T02:41:08.587Z"
         },
@@ -7325,7 +7325,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-06-10T02:21:50.877Z"
+          "UpdatedAt": "2025-06-13T12:40:08.08Z"
         },
         {
           "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
@@ -7757,7 +7757,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-03-14T19:15:37.377Z"
+          "UpdatedAt": "2025-06-11T07:50:39.26Z"
         },
         {
           "ID": "wrld_a3dd33ba-cf1c-4d5d-ab05-d7448b302796",
@@ -7917,7 +7917,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-04-10T12:17:25.539Z"
+          "UpdatedAt": "2025-06-11T10:16:32.968Z"
         },
         {
           "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
@@ -7997,7 +7997,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-03-22T09:38:21.869Z",
-          "UpdatedAt": "2025-06-01T16:19:18.519Z"
+          "UpdatedAt": "2025-06-11T10:17:39.929Z"
         },
         {
           "ID": "wrld_57f59034-25d1-4078-bdef-90c6d1c486f0",
@@ -8036,7 +8036,7 @@
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄06⁄16",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -8045,7 +8045,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-05-31T17:59:40.114Z"
+          "UpdatedAt": "2025-06-16T07:37:46.322Z"
         },
         {
           "ID": "wrld_96c165cc-bbbc-475c-bc4d-6f002d732e36",
@@ -8145,7 +8145,7 @@
         },
         {
           "ID": "wrld_a93abcbe-244b-4273-a2a8-72142158dc67",
-          "Name": "へりこぷたーとれーにんぐ By みやみや-JP",
+          "Name": "へりこぷたーとれーにんぐ By -みや-",
           "RecommendedCapacity": 7,
           "Capacity": 16,
           "Description": "Bell206Vのようなヘリでいろいろな練習ができるワールドです！楽しんでください！",
@@ -8155,7 +8155,7 @@
             "Android": true
           },
           "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
-          "AuthorName": "みやみや-JP",
+          "AuthorName": "-みや-",
           "CreatedAt": "2024-11-30T04:30:27.819Z",
           "UpdatedAt": "2024-12-08T03:56:31.01Z"
         },
@@ -8237,7 +8237,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-06-09T12:26:30.348Z"
+          "UpdatedAt": "2025-06-16T12:23:24.27Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -8285,7 +8285,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-05-25T10:53:38.825Z"
+          "UpdatedAt": "2025-06-16T13:13:04.945Z"
         },
         {
           "ID": "wrld_366d09a6-859e-4340-8325-801bc4267d52",
@@ -8653,7 +8653,7 @@
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-11-08T06:01:56.549Z",
-          "UpdatedAt": "2025-02-05T02:23:43.209Z"
+          "UpdatedAt": "2025-06-15T11:28:56.104Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -8723,6 +8723,38 @@
           "AuthorName": "_l Mia l_",
           "CreatedAt": "2023-04-01T20:03:18.619Z",
           "UpdatedAt": "2023-09-18T10:43:34.176Z"
+        },
+        {
+          "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
+          "Name": "Formation Flight of Helicopter By -みや-",
+          "RecommendedCapacity": 12,
+          "Capacity": 32,
+          "Description": "AH-64とJU-87が合計12機置いてあります！ 編隊飛行と急降下爆撃楽しんでください！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
+          "AuthorName": "-みや-",
+          "CreatedAt": "2025-01-03T09:52:43.239Z",
+          "UpdatedAt": "2025-01-05T02:41:08.587Z"
+        },
+        {
+          "ID": "wrld_a93abcbe-244b-4273-a2a8-72142158dc67",
+          "Name": "へりこぷたーとれーにんぐ By -みや-",
+          "RecommendedCapacity": 7,
+          "Capacity": 16,
+          "Description": "Bell206Vのようなヘリでいろいろな練習ができるワールドです！楽しんでください！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
+          "AuthorName": "-みや-",
+          "CreatedAt": "2024-11-30T04:30:27.819Z",
+          "UpdatedAt": "2024-12-08T03:56:31.01Z"
         },
         {
           "ID": "wrld_8fee122b-ad23-4ae7-9d8d-a2548a5b4ad0",
@@ -8914,7 +8946,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-09T10:56:17.271Z"
+          "UpdatedAt": "2025-06-16T12:04:21.817Z"
         },
         {
           "ID": "wrld_736b4f6d-99e9-4a53-ae57-6e801b1b85f0",
@@ -9346,7 +9378,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-05-25T10:53:38.825Z"
+          "UpdatedAt": "2025-06-16T13:13:04.945Z"
         },
         {
           "ID": "wrld_6851ac71-ee38-4c5a-a918-400fdeb3b7b8",
@@ -9538,7 +9570,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-03-14T19:15:37.377Z"
+          "UpdatedAt": "2025-06-11T07:50:39.26Z"
         },
         {
           "ID": "wrld_bf0938c7-138f-4977-806d-29e373ebd4db",
@@ -9970,7 +10002,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-06-10T02:21:50.877Z"
+          "UpdatedAt": "2025-06-13T12:40:08.08Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -10306,7 +10338,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-06-09T12:26:30.348Z"
+          "UpdatedAt": "2025-06-16T12:23:24.27Z"
         },
         {
           "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
@@ -10498,7 +10530,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-03-22T09:38:21.869Z",
-          "UpdatedAt": "2025-06-01T16:19:18.519Z"
+          "UpdatedAt": "2025-06-11T10:17:39.929Z"
         },
         {
           "ID": "wrld_14399fdd-c14d-4885-b921-e87c1d9d3ed5",
@@ -10706,7 +10738,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-04-10T12:17:25.539Z"
+          "UpdatedAt": "2025-06-11T10:16:32.968Z"
         },
         {
           "ID": "wrld_caf90a82-5287-4d27-bd2d-a1103f2b5d7d",
@@ -10745,7 +10777,7 @@
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄05⁄31",
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄06⁄16",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -10754,7 +10786,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-05-31T17:59:40.114Z"
+          "UpdatedAt": "2025-06-16T07:37:46.322Z"
         },
         {
           "ID": "wrld_05334b28-c7f5-493c-881d-469634a99c90",
@@ -11282,7 +11314,7 @@
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-11-08T06:01:56.549Z",
-          "UpdatedAt": "2025-02-05T02:23:43.209Z"
+          "UpdatedAt": "2025-06-15T11:28:56.104Z"
         },
         {
           "ID": "wrld_f16204b8-df69-47e0-b543-db6ec52019a0",
@@ -11363,38 +11395,6 @@
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-05-24T13:53:52.953Z",
           "UpdatedAt": "2024-11-14T12:31:01.636Z"
-        },
-        {
-          "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
-          "Name": "Formation Flight of Helicopter By みやみや-JP",
-          "RecommendedCapacity": 12,
-          "Capacity": 32,
-          "Description": "AH-64とJU-87が合計12機置いてあります！ 編隊飛行と急降下爆撃楽しんでください！",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
-          "AuthorName": "みやみや-JP",
-          "CreatedAt": "2025-01-03T09:52:43.239Z",
-          "UpdatedAt": "2025-01-05T02:41:08.587Z"
-        },
-        {
-          "ID": "wrld_a93abcbe-244b-4273-a2a8-72142158dc67",
-          "Name": "へりこぷたーとれーにんぐ By みやみや-JP",
-          "RecommendedCapacity": 7,
-          "Capacity": 16,
-          "Description": "Bell206Vのようなヘリでいろいろな練習ができるワールドです！楽しんでください！",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_ddb07233-262f-4441-8958-917316a6e282",
-          "AuthorName": "みやみや-JP",
-          "CreatedAt": "2024-11-30T04:30:27.819Z",
-          "UpdatedAt": "2024-12-08T03:56:31.01Z"
         },
         {
           "ID": "wrld_a3c4c416-8375-4ec4-9fa8-b9bb7ca0c3fa",
