@@ -19,7 +19,23 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-06-16T13:13:04.945Z"
+          "UpdatedAt": "2025-06-17T11:52:38.945Z"
+        },
+        {
+          "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
+          "Name": "Flettner Island By CKK COBALT",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "チルなBGMとお洒落なオブジェに囲まれた、シンプルで落ち着いたムーディーなリビングとベッドルーム。 ベランダから望むのは田舎の小さな飛行場。 現実や都会の喧騒から離れて、大切な人と静かに過ごしたい、そんな方におすすめなワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
+          "AuthorName": "CKK COBALT",
+          "CreatedAt": "2024-09-14T15:01:24.594Z",
+          "UpdatedAt": "2025-06-17T11:09:40.899Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -36,22 +52,6 @@
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
           "UpdatedAt": "2025-06-16T12:23:24.27Z"
-        },
-        {
-          "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
-          "Name": "Flettner Island By CKK COBALT",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "チルなBGMとお洒落なオブジェに囲まれた、シンプルで落ち着いたムーディーなリビングとベッドルーム。 ベランダから望むのは田舎の小さな飛行場。 現実や都会の喧騒から離れて、大切な人と静かに過ごしたい、そんな方におすすめなワールドです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
-          "AuthorName": "CKK COBALT",
-          "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-16T12:04:21.817Z"
         },
         {
           "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
@@ -3096,7 +3096,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-06-16T13:13:04.945Z"
+          "UpdatedAt": "2025-06-17T11:52:38.945Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -3464,7 +3464,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-16T12:04:21.817Z"
+          "UpdatedAt": "2025-06-17T11:09:40.899Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -6365,7 +6365,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-16T12:04:21.817Z"
+          "UpdatedAt": "2025-06-17T11:09:40.899Z"
         },
         {
           "ID": "wrld_8008565b-2305-4672-9c66-84657411fcfd",
@@ -8285,7 +8285,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-06-16T13:13:04.945Z"
+          "UpdatedAt": "2025-06-17T11:52:38.945Z"
         },
         {
           "ID": "wrld_366d09a6-859e-4340-8325-801bc4267d52",
@@ -8946,7 +8946,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-16T12:04:21.817Z"
+          "UpdatedAt": "2025-06-17T11:09:40.899Z"
         },
         {
           "ID": "wrld_736b4f6d-99e9-4a53-ae57-6e801b1b85f0",
@@ -9378,7 +9378,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-06-16T13:13:04.945Z"
+          "UpdatedAt": "2025-06-17T11:52:38.945Z"
         },
         {
           "ID": "wrld_6851ac71-ee38-4c5a-a918-400fdeb3b7b8",
