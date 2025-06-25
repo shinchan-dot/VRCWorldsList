@@ -6,22 +6,6 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
-          "Name": "すやみーる -Suya Mile- By かもみーる",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄06⁄24",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
-          "AuthorName": "かもみーる",
-          "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-06-23T23:32:25.084Z"
-        },
-        {
           "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
           "Name": "LOOP's TA By RS_あーるえす",
           "RecommendedCapacity": 64,
@@ -35,7 +19,7 @@
           "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-06-23T17:05:39.344Z"
+          "UpdatedAt": "2025-06-24T16:10:48.444Z"
         },
         {
           "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
@@ -51,7 +35,55 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-06-23T14:03:42.036Z"
+          "UpdatedAt": "2025-06-24T14:48:47.068Z"
+        },
+        {
+          "ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
+          "Name": "Just Airship By と び う お（Tobiuo）",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "飛行船を操縦することのできるワールドです。ゆったり飛べる飛行船で空の旅をお楽しみください。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_e848fcd3-748a-461b-a87a-27f47178fed8",
+          "AuthorName": "と び う お（Tobiuo）",
+          "CreatedAt": "2025-01-05T11:46:50.245Z",
+          "UpdatedAt": "2025-06-24T11:49:02.882Z"
+        },
+        {
+          "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
+          "Name": "Flettner Island By CKK COBALT",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "チルなBGMとお洒落なオブジェに囲まれた、シンプルで落ち着いたムーディーなリビングとベッドルーム。 ベランダから望むのは田舎の小さな飛行場。 現実や都会の喧騒から離れて、大切な人と静かに過ごしたい、そんな方におすすめなワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
+          "AuthorName": "CKK COBALT",
+          "CreatedAt": "2024-09-14T15:01:24.594Z",
+          "UpdatedAt": "2025-06-24T10:45:22.954Z"
+        },
+        {
+          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
+          "Name": "すやみーる -Suya Mile- By かもみーる",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄06⁄24",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
+          "AuthorName": "かもみーる",
+          "CreatedAt": "2023-07-27T21:44:38.895Z",
+          "UpdatedAt": "2025-06-23T23:32:25.084Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
@@ -100,22 +132,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-01-01T09:05:15.872Z",
           "UpdatedAt": "2025-06-22T10:57:41.644Z"
-        },
-        {
-          "ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
-          "Name": "Just Airship By と び う お（Tobiuo）",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "飛行船を操縦することのできるワールドです。ゆったり飛べる飛行船で空の旅をお楽しみください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_e848fcd3-748a-461b-a87a-27f47178fed8",
-          "AuthorName": "と び う お（Tobiuo）",
-          "CreatedAt": "2025-01-05T11:46:50.245Z",
-          "UpdatedAt": "2025-06-22T07:18:56.332Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -212,22 +228,6 @@
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
           "UpdatedAt": "2025-06-17T11:52:38.945Z"
-        },
-        {
-          "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
-          "Name": "Flettner Island By CKK COBALT",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "チルなBGMとお洒落なオブジェに囲まれた、シンプルで落ち着いたムーディーなリビングとベッドルーム。 ベランダから望むのは田舎の小さな飛行場。 現実や都会の喧騒から離れて、大切な人と静かに過ごしたい、そんな方におすすめなワールドです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
-          "AuthorName": "CKK COBALT",
-          "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-17T11:09:40.899Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -3080,7 +3080,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-06-23T14:03:42.036Z"
+          "UpdatedAt": "2025-06-24T14:48:47.068Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -3240,7 +3240,7 @@
           "AuthorId": "usr_e848fcd3-748a-461b-a87a-27f47178fed8",
           "AuthorName": "と び う お（Tobiuo）",
           "CreatedAt": "2025-01-05T11:46:50.245Z",
-          "UpdatedAt": "2025-06-22T07:18:56.332Z"
+          "UpdatedAt": "2025-06-24T11:49:02.882Z"
         },
         {
           "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
@@ -3512,7 +3512,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-17T11:09:40.899Z"
+          "UpdatedAt": "2025-06-24T10:45:22.954Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -4776,7 +4776,7 @@
           "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-06-23T17:05:39.344Z"
+          "UpdatedAt": "2025-06-24T16:10:48.444Z"
         },
         {
           "ID": "wrld_2acbbdb3-2da1-45ab-8a85-76ec7a67d435",
@@ -6429,7 +6429,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-17T11:09:40.899Z"
+          "UpdatedAt": "2025-06-24T10:45:22.954Z"
         },
         {
           "ID": "wrld_8008565b-2305-4672-9c66-84657411fcfd",
@@ -6861,7 +6861,7 @@
           "AuthorId": "usr_e848fcd3-748a-461b-a87a-27f47178fed8",
           "AuthorName": "と び う お（Tobiuo）",
           "CreatedAt": "2025-01-05T11:46:50.245Z",
-          "UpdatedAt": "2025-06-22T07:18:56.332Z"
+          "UpdatedAt": "2025-06-24T11:49:02.882Z"
         },
         {
           "ID": "wrld_d1231c52-734b-4871-b10c-e152610c2784",
@@ -7069,7 +7069,7 @@
           "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-06-23T17:05:39.344Z"
+          "UpdatedAt": "2025-06-24T16:10:48.444Z"
         },
         {
           "ID": "wrld_a3c4c416-8375-4ec4-9fa8-b9bb7ca0c3fa",
@@ -7517,7 +7517,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-06-23T14:03:42.036Z"
+          "UpdatedAt": "2025-06-24T14:48:47.068Z"
         },
         {
           "ID": "wrld_eff40f82-b5af-433f-8d87-c36e6408652a",
@@ -9042,7 +9042,7 @@
           "AuthorId": "usr_d360c1d2-0863-48dd-9285-adac56614a9e",
           "AuthorName": "CKK COBALT",
           "CreatedAt": "2024-09-14T15:01:24.594Z",
-          "UpdatedAt": "2025-06-17T11:09:40.899Z"
+          "UpdatedAt": "2025-06-24T10:45:22.954Z"
         },
         {
           "ID": "wrld_736b4f6d-99e9-4a53-ae57-6e801b1b85f0",
@@ -10162,7 +10162,7 @@
           "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
           "AuthorName": "RS_あーるえす",
           "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-06-23T17:05:39.344Z"
+          "UpdatedAt": "2025-06-24T16:10:48.444Z"
         },
         {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
@@ -11026,7 +11026,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-06-23T14:03:42.036Z"
+          "UpdatedAt": "2025-06-24T14:48:47.068Z"
         },
         {
           "ID": "wrld_00b2433e-1f8a-4148-862f-b47b861c0756",
@@ -11202,7 +11202,7 @@
           "AuthorId": "usr_e848fcd3-748a-461b-a87a-27f47178fed8",
           "AuthorName": "と び う お（Tobiuo）",
           "CreatedAt": "2025-01-05T11:46:50.245Z",
-          "UpdatedAt": "2025-06-22T07:18:56.332Z"
+          "UpdatedAt": "2025-06-24T11:49:02.882Z"
         },
         {
           "ID": "wrld_21cdfc4b-6d0d-4cbc-9579-31f8786439e5",
