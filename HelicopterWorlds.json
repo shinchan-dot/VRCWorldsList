@@ -6,20 +6,36 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
-          "Name": "すやみーる -Suya Mile- By かもみーる",
+          "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
+          "Name": "Vierinan War 1967 By Nameko649",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄06⁄24",
+          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 軽い暴力表現あり 20250315アップデート",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
+          "AuthorName": "Nameko649",
+          "CreatedAt": "2025-02-08T22:55:44.59Z",
+          "UpdatedAt": "2025-06-29T17:28:47.595Z"
+        },
+        {
+          "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
+          "Name": "Catch＆Shootǃǃ By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": true
           },
-          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
-          "AuthorName": "かもみーる",
-          "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-06-28T21:39:46.582Z"
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-04-11T10:11:26.747Z",
+          "UpdatedAt": "2025-06-29T11:42:20.646Z"
         },
         {
           "ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
@@ -35,7 +51,39 @@
           "AuthorId": "usr_e848fcd3-748a-461b-a87a-27f47178fed8",
           "AuthorName": "と び う お（Tobiuo）",
           "CreatedAt": "2025-01-05T11:46:50.245Z",
-          "UpdatedAt": "2025-06-28T08:23:20.151Z"
+          "UpdatedAt": "2025-06-29T11:05:56.622Z"
+        },
+        {
+          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
+          "Name": "catch＆Shootǃǃ 2 By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-10-04T14:23:01.112Z",
+          "UpdatedAt": "2025-06-29T09:42:29.71Z"
+        },
+        {
+          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
+          "Name": "すやみーる -Suya Mile- By かもみーる",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄06⁄24",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
+          "AuthorName": "かもみーる",
+          "CreatedAt": "2023-07-27T21:44:38.895Z",
+          "UpdatedAt": "2025-06-28T21:39:46.582Z"
         },
         {
           "ID": "wrld_522b17d4-286f-4dee-bd87-69fad77c8b43",
@@ -100,38 +148,6 @@
           "AuthorName": "Coquelicotz",
           "CreatedAt": "2022-06-11T14:03:28.318Z",
           "UpdatedAt": "2025-06-26T11:30:18.612Z"
-        },
-        {
-          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
-          "Name": "catch＆Shootǃǃ 2 By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-06-26T09:57:49.777Z"
-        },
-        {
-          "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
-          "Name": "LOOP's TA By RS_あーるえす",
-          "RecommendedCapacity": 64,
-          "Capacity": 64,
-          "Description": "TimeAttack＆Practice",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
-          "AuthorName": "RS_あーるえす",
-          "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-06-25T12:50:58.828Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -324,22 +340,6 @@
           "AuthorName": "ミーさん",
           "CreatedAt": "2025-05-14T14:42:40.341Z",
           "UpdatedAt": "2025-06-15T10:11:41.563Z"
-        },
-        {
-          "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
-          "Name": "Vierinan War 1967 By Nameko649",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 軽い暴力表現あり 20250315アップデート",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
-          "AuthorName": "Nameko649",
-          "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-06-11T07:50:39.26Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -1092,22 +1092,6 @@
           "AuthorName": "るなち。",
           "CreatedAt": "2025-01-01T02:03:25.225Z",
           "UpdatedAt": "2025-01-04T15:38:00.982Z"
-        },
-        {
-          "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
-          "Name": "Catch＆Shootǃǃ By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-04-11T10:11:26.747Z",
-          "UpdatedAt": "2025-01-03T07:19:05.441Z"
         },
         {
           "ID": "wrld_7a5b8b94-a660-44b9-a0f3-ed7d34c97f3c",
@@ -3208,7 +3192,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-06-11T07:50:39.26Z"
+          "UpdatedAt": "2025-06-29T17:28:47.595Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -3272,7 +3256,7 @@
           "AuthorId": "usr_e848fcd3-748a-461b-a87a-27f47178fed8",
           "AuthorName": "と び う お（Tobiuo）",
           "CreatedAt": "2025-01-05T11:46:50.245Z",
-          "UpdatedAt": "2025-06-28T08:23:20.151Z"
+          "UpdatedAt": "2025-06-29T11:05:56.622Z"
         },
         {
           "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
@@ -3480,7 +3464,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-06-26T09:57:49.777Z"
+          "UpdatedAt": "2025-06-29T09:42:29.71Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -3976,7 +3960,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-04-11T10:11:26.747Z",
-          "UpdatedAt": "2025-01-03T07:19:05.441Z"
+          "UpdatedAt": "2025-06-29T11:42:20.646Z"
         },
         {
           "ID": "wrld_f7e6272e-5bf1-490d-bf9c-d676f957c77f",
@@ -4793,22 +4777,6 @@
           "AuthorName": "Just a Nomad",
           "CreatedAt": "2023-04-17T06:32:35.121Z",
           "UpdatedAt": "2023-09-21T19:35:45.75Z"
-        },
-        {
-          "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
-          "Name": "LOOP's TA By RS_あーるえす",
-          "RecommendedCapacity": 64,
-          "Capacity": 64,
-          "Description": "TimeAttack＆Practice",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
-          "AuthorName": "RS_あーるえす",
-          "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-06-25T12:50:58.828Z"
         },
         {
           "ID": "wrld_2acbbdb3-2da1-45ab-8a85-76ec7a67d435",
@@ -6189,7 +6157,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-04-11T10:11:26.747Z",
-          "UpdatedAt": "2025-01-03T07:19:05.441Z"
+          "UpdatedAt": "2025-06-29T11:42:20.646Z"
         },
         {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
@@ -6205,7 +6173,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-06-26T09:57:49.777Z"
+          "UpdatedAt": "2025-06-29T09:42:29.71Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -6909,7 +6877,7 @@
           "AuthorId": "usr_e848fcd3-748a-461b-a87a-27f47178fed8",
           "AuthorName": "と び う お（Tobiuo）",
           "CreatedAt": "2025-01-05T11:46:50.245Z",
-          "UpdatedAt": "2025-06-28T08:23:20.151Z"
+          "UpdatedAt": "2025-06-29T11:05:56.622Z"
         },
         {
           "ID": "wrld_d1231c52-734b-4871-b10c-e152610c2784",
@@ -7102,22 +7070,6 @@
           "AuthorName": "限界機関長",
           "CreatedAt": "2024-02-27T10:31:48.492Z",
           "UpdatedAt": "2024-03-07T10:06:20.872Z"
-        },
-        {
-          "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
-          "Name": "LOOP's TA By RS_あーるえす",
-          "RecommendedCapacity": 64,
-          "Capacity": 64,
-          "Description": "TimeAttack＆Practice",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
-          "AuthorName": "RS_あーるえす",
-          "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-06-25T12:50:58.828Z"
         },
         {
           "ID": "wrld_a3c4c416-8375-4ec4-9fa8-b9bb7ca0c3fa",
@@ -7901,7 +7853,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-06-11T07:50:39.26Z"
+          "UpdatedAt": "2025-06-29T17:28:47.595Z"
         },
         {
           "ID": "wrld_a3dd33ba-cf1c-4d5d-ab05-d7448b302796",
@@ -9714,7 +9666,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-06-11T07:50:39.26Z"
+          "UpdatedAt": "2025-06-29T17:28:47.595Z"
         },
         {
           "ID": "wrld_bf0938c7-138f-4977-806d-29e373ebd4db",
@@ -10197,22 +10149,6 @@
           "UpdatedAt": "2025-05-24T04:34:39.614Z"
         },
         {
-          "ID": "wrld_7078071f-ee6f-4f90-b3cc-427812e3ca50",
-          "Name": "LOOP's TA By RS_あーるえす",
-          "RecommendedCapacity": 64,
-          "Capacity": 64,
-          "Description": "TimeAttack＆Practice",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_44678036-0b4b-46cc-8cc7-d3546144e39c",
-          "AuthorName": "RS_あーるえす",
-          "CreatedAt": "2023-04-15T13:18:54.899Z",
-          "UpdatedAt": "2025-06-25T12:50:58.828Z"
-        },
-        {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
           "Name": "Test Drivers By Sacchan",
           "RecommendedCapacity": 14,
@@ -10274,7 +10210,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-06-26T09:57:49.777Z"
+          "UpdatedAt": "2025-06-29T09:42:29.71Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -10290,7 +10226,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-04-11T10:11:26.747Z",
-          "UpdatedAt": "2025-01-03T07:19:05.441Z"
+          "UpdatedAt": "2025-06-29T11:42:20.646Z"
         },
         {
           "ID": "wrld_7a5b8b94-a660-44b9-a0f3-ed7d34c97f3c",
@@ -11250,7 +11186,7 @@
           "AuthorId": "usr_e848fcd3-748a-461b-a87a-27f47178fed8",
           "AuthorName": "と び う お（Tobiuo）",
           "CreatedAt": "2025-01-05T11:46:50.245Z",
-          "UpdatedAt": "2025-06-28T08:23:20.151Z"
+          "UpdatedAt": "2025-06-29T11:05:56.622Z"
         },
         {
           "ID": "wrld_21cdfc4b-6d0d-4cbc-9579-31f8786439e5",
