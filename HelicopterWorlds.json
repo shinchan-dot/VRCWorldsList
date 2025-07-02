@@ -6,20 +6,36 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "ID": "wrld_8d00f0e1-9604-4d58-80b3-0204fcbad0b6",
+          "Name": "ゆるゲぷらすフライトワールド01˸ぜねらるあびえーしょん！ By heyhey_t",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "Description": "簡単に飛ばせるプロペラ機からちょっと難しい飛行機まで様々な乗り物に乗る事のできる群島の飛行場です。ゆっくり遊覧飛行してお楽しみください。",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": true
           },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-06-30T16:25:26.939Z"
+          "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
+          "AuthorName": "heyhey_t",
+          "CreatedAt": "2024-06-30T08:38:49.071Z",
+          "UpdatedAt": "2025-07-01T22:05:28.457Z"
+        },
+        {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-07-01T12:19:02.239Z"
         },
         {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
@@ -35,7 +51,23 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-06-30T13:22:50.273Z"
+          "UpdatedAt": "2025-07-01T10:03:33.852Z"
+        },
+        {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-06-30T16:25:26.939Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -294,22 +326,6 @@
           "UpdatedAt": "2025-06-18T10:33:21.098Z"
         },
         {
-          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
-          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
-          "AuthorName": "sumisu_san",
-          "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-06-16T12:23:24.27Z"
-        },
-        {
           "ID": "wrld_15300551-e360-49c2-8aaa-438faa68039e",
           "Name": "無人貸し出し所 By ミーさん",
           "RecommendedCapacity": 16,
@@ -356,22 +372,6 @@
           "AuthorName": "あややね",
           "CreatedAt": "2025-03-12T12:02:26.919Z",
           "UpdatedAt": "2025-06-09T23:44:13.834Z"
-        },
-        {
-          "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
-          "Name": "Riezet Flight Home T7 By Riezet Lieaner",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "World of JetPlane",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-02-02T07:23:06.931Z",
-          "UpdatedAt": "2025-06-08T10:48:32.237Z"
         },
         {
           "ID": "wrld_ec9586d7-422e-453b-8c1e-923c7169c616",
@@ -948,22 +948,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-01-18T08:21:27.16Z",
           "UpdatedAt": "2025-02-09T02:09:34.687Z"
-        },
-        {
-          "ID": "wrld_8d00f0e1-9604-4d58-80b3-0204fcbad0b6",
-          "Name": "ゆるゲぷらすフライトワールド01˸ぜねらるあびえーしょん！ By heyhey_t",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "簡単に飛ばせるプロペラ機からちょっと難しい飛行機まで様々な乗り物に乗る事のできる群島の飛行場です。ゆっくり遊覧飛行してお楽しみください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
-          "AuthorName": "heyhey_t",
-          "CreatedAt": "2024-06-30T08:38:49.071Z",
-          "UpdatedAt": "2025-02-08T10:02:29.967Z"
         },
         {
           "ID": "wrld_3d34f761-29ee-4527-a948-2edb33f8932d",
@@ -2968,7 +2952,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-06-30T13:22:50.273Z"
+          "UpdatedAt": "2025-07-01T10:03:33.852Z"
         },
         {
           "ID": "wrld_914b4821-162b-47da-b0c6-376231d9ecaa",
@@ -3112,7 +3096,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-06-16T12:23:24.27Z"
+          "UpdatedAt": "2025-07-01T12:19:02.239Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -3209,22 +3193,6 @@
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
           "UpdatedAt": "2025-06-27T16:05:43.65Z"
-        },
-        {
-          "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
-          "Name": "Riezet Flight Home T7 By Riezet Lieaner",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "World of JetPlane",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-02-02T07:23:06.931Z",
-          "UpdatedAt": "2025-06-08T10:48:32.237Z"
         },
         {
           "ID": "wrld_630c5246-8ef7-4dee-b6a9-8095f4001ec8",
@@ -3736,7 +3704,7 @@
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
           "CreatedAt": "2024-06-30T08:38:49.071Z",
-          "UpdatedAt": "2025-02-08T10:02:29.967Z"
+          "UpdatedAt": "2025-07-01T22:05:28.457Z"
         },
         {
           "ID": "wrld_7335e76a-c4a5-4f5e-8f5d-b786e9d35347",
@@ -7405,23 +7373,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-06-30T13:22:50.273Z"
-        },
-        {
-          "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
-          "Name": "Riezet Flight Home T7 By Riezet Lieaner",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "World of JetPlane",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-02-02T07:23:06.931Z",
-          "UpdatedAt": "2025-06-08T10:48:32.237Z"
+          "UpdatedAt": "2025-07-01T10:03:33.852Z"
         },
         {
           "ID": "wrld_5241df39-9624-4d25-b644-edb11fe645bf",
@@ -8317,7 +8269,7 @@
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
           "CreatedAt": "2024-06-30T08:38:49.071Z",
-          "UpdatedAt": "2025-02-08T10:02:29.967Z"
+          "UpdatedAt": "2025-07-01T22:05:28.457Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -8333,7 +8285,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-06-16T12:23:24.27Z"
+          "UpdatedAt": "2025-07-01T12:19:02.239Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -9394,7 +9346,7 @@
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
           "CreatedAt": "2024-06-30T08:38:49.071Z",
-          "UpdatedAt": "2025-02-08T10:02:29.967Z"
+          "UpdatedAt": "2025-07-01T22:05:28.457Z"
         },
         {
           "ID": "wrld_00829a20-d159-4afc-bc98-20eb8369fe33",
@@ -10098,7 +10050,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-06-30T13:22:50.273Z"
+          "UpdatedAt": "2025-07-01T10:03:33.852Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -10115,22 +10067,6 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-24T13:03:56.307Z",
           "UpdatedAt": "2025-05-02T12:08:53.989Z"
-        },
-        {
-          "ID": "wrld_579e6a92-272a-4531-b1ab-c9e3c9eb00af",
-          "Name": "Riezet Flight Home T7 By Riezet Lieaner",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "World of JetPlane",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-02-02T07:23:06.931Z",
-          "UpdatedAt": "2025-06-08T10:48:32.237Z"
         },
         {
           "ID": "wrld_204dbeb8-49a3-4140-9889-df8eee70f3a1",
@@ -10418,7 +10354,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-06-16T12:23:24.27Z"
+          "UpdatedAt": "2025-07-01T12:19:02.239Z"
         },
         {
           "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
