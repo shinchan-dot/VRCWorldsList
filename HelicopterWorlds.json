@@ -19,7 +19,39 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-07-03T12:58:29.492Z"
+          "UpdatedAt": "2025-07-04T12:39:17.892Z"
+        },
+        {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-07-04T12:17:56.661Z"
+        },
+        {
+          "ID": "wrld_a6b41adb-aef7-4e3e-8f3a-fc72cd943651",
+          "Name": "Desert Warfare V2․2 （QUEST BUILD IS BROKEN PLEASE WAIT） By Ahmya Akane ch․",
+          "RecommendedCapacity": 62,
+          "Capacity": 62,
+          "Description": "A military map in a desert‚ Update 6˸ Added new town⁄compound‚ overhauled environment‚ added MI-8‚ Added new FX and Systems to the UH-60M and UH-1Y‚ added more detail to existing villages‚ added new graphic changes for PC build․ Thank you for the 100K Visitsǃ and Thank you for the 5 thousand Favoritesǃ It means the world to me․ The vehicle overhaul will come soon․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
+          "AuthorName": "Ahmya Akane ch․",
+          "CreatedAt": "2023-04-21T18:58:38.923Z",
+          "UpdatedAt": "2025-07-04T05:50:10.46Z"
         },
         {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
@@ -52,22 +84,6 @@
           "AuthorName": "heyhey_t",
           "CreatedAt": "2024-06-30T08:38:49.071Z",
           "UpdatedAt": "2025-07-01T22:05:28.457Z"
-        },
-        {
-          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
-          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
-          "AuthorName": "sumisu_san",
-          "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-07-01T12:19:02.239Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -548,22 +564,6 @@
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
           "UpdatedAt": "2025-05-09T06:08:13.084Z"
-        },
-        {
-          "ID": "wrld_a6b41adb-aef7-4e3e-8f3a-fc72cd943651",
-          "Name": "Desert Warfare V2․2 （QUEST BUILD IS BROKEN PLEASE WAIT） By Ahmya Akane ch․",
-          "RecommendedCapacity": 62,
-          "Capacity": 62,
-          "Description": "A military map in a desert‚ Update 6˸ Added new town⁄compound‚ overhauled environment‚ added MI-8‚ Added new FX and Systems to the UH-60M and UH-1Y‚ added more detail to existing villages‚ added new graphic changes for PC build․ Thank you for the 100K Visitsǃ and Thank you for the 5 thousand Favoritesǃ It means the world to me․ The vehicle overhaul will come soon․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
-          "AuthorName": "Ahmya Akane ch․",
-          "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-05-08T21:21:29.217Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -3096,7 +3096,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-07-01T12:19:02.239Z"
+          "UpdatedAt": "2025-07-04T12:17:56.661Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -3192,7 +3192,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-07-03T12:58:29.492Z"
+          "UpdatedAt": "2025-07-04T12:39:17.892Z"
         },
         {
           "ID": "wrld_630c5246-8ef7-4dee-b6a9-8095f4001ec8",
@@ -4728,7 +4728,7 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-05-08T21:21:29.217Z"
+          "UpdatedAt": "2025-07-04T05:50:10.46Z"
         },
         {
           "ID": "wrld_a0391269-7b95-4e39-9bd3-7826c40ed917",
@@ -6317,7 +6317,7 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-05-08T21:21:29.217Z"
+          "UpdatedAt": "2025-07-04T05:50:10.46Z"
         },
         {
           "ID": "wrld_76300b35-ace7-43a9-999b-f1743e34b62d",
@@ -7965,7 +7965,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-07-03T12:58:29.492Z"
+          "UpdatedAt": "2025-07-04T12:39:17.892Z"
         },
         {
           "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
@@ -8285,7 +8285,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-07-01T12:19:02.239Z"
+          "UpdatedAt": "2025-07-04T12:17:56.661Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -8898,7 +8898,7 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-05-08T21:21:29.217Z"
+          "UpdatedAt": "2025-07-04T05:50:10.46Z"
         },
         {
           "ID": "wrld_20e181eb-50ed-419a-898f-8b999e94c401",
@@ -10354,7 +10354,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-07-01T12:19:02.239Z"
+          "UpdatedAt": "2025-07-04T12:17:56.661Z"
         },
         {
           "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
@@ -10754,7 +10754,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-07-03T12:58:29.492Z"
+          "UpdatedAt": "2025-07-04T12:39:17.892Z"
         },
         {
           "ID": "wrld_caf90a82-5287-4d27-bd2d-a1103f2b5d7d",
