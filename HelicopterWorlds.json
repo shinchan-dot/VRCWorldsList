@@ -6,36 +6,20 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
-          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
-          "RecommendedCapacity": 30,
-          "Capacity": 30,
-          "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
-          "AuthorName": "いちごみるく2100",
-          "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2025-07-04T12:39:17.892Z"
-        },
-        {
-          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
-          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
+          "Name": "Kennedy Space Center By medaka0228",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Kennedy Space Center",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": false
           },
-          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
-          "AuthorName": "sumisu_san",
-          "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-07-04T12:17:56.661Z"
+          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
+          "AuthorName": "medaka0228",
+          "CreatedAt": "2021-12-14T13:35:04.995Z",
+          "UpdatedAt": "2025-07-07T02:31:51.632Z"
         },
         {
           "ID": "wrld_a6b41adb-aef7-4e3e-8f3a-fc72cd943651",
@@ -51,7 +35,55 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-07-04T05:50:10.46Z"
+          "UpdatedAt": "2025-07-07T01:10:06.591Z"
+        },
+        {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-07-06T12:17:01.282Z"
+        },
+        {
+          "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
+          "Name": "うみのうえ By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "B-SFCVN67ーMARINBLUEーに着艦練習が出来るワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-01-01T09:05:15.872Z",
+          "UpdatedAt": "2025-07-06T02:44:40.15Z"
+        },
+        {
+          "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
+          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
+          "RecommendedCapacity": 30,
+          "Capacity": 30,
+          "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
+          "AuthorName": "いちごみるく2100",
+          "CreatedAt": "2025-02-04T10:58:00.395Z",
+          "UpdatedAt": "2025-07-04T12:39:17.892Z"
         },
         {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
@@ -292,38 +324,6 @@
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
           "UpdatedAt": "2025-06-23T04:18:58.995Z"
-        },
-        {
-          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
-          "Name": "Kennedy Space Center By medaka0228",
-          "RecommendedCapacity": 40,
-          "Capacity": 80,
-          "Description": "Kennedy Space Center",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
-          "AuthorName": "medaka0228",
-          "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-06-22T23:47:01.152Z"
-        },
-        {
-          "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
-          "Name": "うみのうえ By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "B-SFCVN67ーMARINBLUEーに着艦練習が出来るワールドです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-01-01T09:05:15.872Z",
-          "UpdatedAt": "2025-06-22T10:57:41.644Z"
         },
         {
           "ID": "wrld_fc09dc32-8baf-4baf-99bf-e37f2ac12f7b",
@@ -3096,7 +3096,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-07-04T12:17:56.661Z"
+          "UpdatedAt": "2025-07-06T12:17:01.282Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -4200,7 +4200,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-01-01T09:05:15.872Z",
-          "UpdatedAt": "2025-06-22T10:57:41.644Z"
+          "UpdatedAt": "2025-07-06T02:44:40.15Z"
         },
         {
           "ID": "wrld_cb2f6666-765c-4060-a42d-fbd4892b7778",
@@ -4728,7 +4728,7 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-07-04T05:50:10.46Z"
+          "UpdatedAt": "2025-07-07T01:10:06.591Z"
         },
         {
           "ID": "wrld_a0391269-7b95-4e39-9bd3-7826c40ed917",
@@ -5544,7 +5544,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-06-22T23:47:01.152Z"
+          "UpdatedAt": "2025-07-07T02:31:51.632Z"
         },
         {
           "ID": "wrld_5241df39-9624-4d25-b644-edb11fe645bf",
@@ -6317,7 +6317,7 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-07-04T05:50:10.46Z"
+          "UpdatedAt": "2025-07-07T01:10:06.591Z"
         },
         {
           "ID": "wrld_76300b35-ace7-43a9-999b-f1743e34b62d",
@@ -7005,7 +7005,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-06-22T23:47:01.152Z"
+          "UpdatedAt": "2025-07-07T02:31:51.632Z"
         },
         {
           "ID": "wrld_73bfab3d-5888-4364-909a-6bba45749538",
@@ -7981,7 +7981,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-01-01T09:05:15.872Z",
-          "UpdatedAt": "2025-06-22T10:57:41.644Z"
+          "UpdatedAt": "2025-07-06T02:44:40.15Z"
         },
         {
           "ID": "wrld_44f7c1e2-38b6-45c6-9c96-ba32b6c1c420",
@@ -8285,7 +8285,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-07-04T12:17:56.661Z"
+          "UpdatedAt": "2025-07-06T12:17:01.282Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -8898,7 +8898,7 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-07-04T05:50:10.46Z"
+          "UpdatedAt": "2025-07-07T01:10:06.591Z"
         },
         {
           "ID": "wrld_20e181eb-50ed-419a-898f-8b999e94c401",
@@ -9602,7 +9602,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-06-22T23:47:01.152Z"
+          "UpdatedAt": "2025-07-07T02:31:51.632Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -10210,7 +10210,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-01-01T09:05:15.872Z",
-          "UpdatedAt": "2025-06-22T10:57:41.644Z"
+          "UpdatedAt": "2025-07-06T02:44:40.15Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -10354,7 +10354,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-07-04T12:17:56.661Z"
+          "UpdatedAt": "2025-07-06T12:17:01.282Z"
         },
         {
           "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
