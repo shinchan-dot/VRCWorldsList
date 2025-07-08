@@ -6,20 +6,20 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
-          "Name": "Kennedy Space Center By medaka0228",
-          "RecommendedCapacity": 40,
-          "Capacity": 80,
-          "Description": "Kennedy Space Center",
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
-          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
-          "AuthorName": "medaka0228",
-          "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-07-07T02:31:51.632Z"
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-07-08T01:19:19.127Z"
         },
         {
           "ID": "wrld_a6b41adb-aef7-4e3e-8f3a-fc72cd943651",
@@ -35,7 +35,23 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-07-07T01:10:06.591Z"
+          "UpdatedAt": "2025-07-07T15:17:06.485Z"
+        },
+        {
+          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
+          "Name": "Kennedy Space Center By medaka0228",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Kennedy Space Center",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
+          "AuthorName": "medaka0228",
+          "CreatedAt": "2021-12-14T13:35:04.995Z",
+          "UpdatedAt": "2025-07-07T13:14:34.437Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -116,22 +132,6 @@
           "AuthorName": "heyhey_t",
           "CreatedAt": "2024-06-30T08:38:49.071Z",
           "UpdatedAt": "2025-07-01T22:05:28.457Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-06-30T16:25:26.939Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -3752,7 +3752,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-06-30T16:25:26.939Z"
+          "UpdatedAt": "2025-07-08T01:19:19.127Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -4728,7 +4728,7 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-07-07T01:10:06.591Z"
+          "UpdatedAt": "2025-07-07T15:17:06.485Z"
         },
         {
           "ID": "wrld_a0391269-7b95-4e39-9bd3-7826c40ed917",
@@ -5544,7 +5544,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-07-07T02:31:51.632Z"
+          "UpdatedAt": "2025-07-07T13:14:34.437Z"
         },
         {
           "ID": "wrld_5241df39-9624-4d25-b644-edb11fe645bf",
@@ -6317,7 +6317,7 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-07-07T01:10:06.591Z"
+          "UpdatedAt": "2025-07-07T15:17:06.485Z"
         },
         {
           "ID": "wrld_76300b35-ace7-43a9-999b-f1743e34b62d",
@@ -7005,7 +7005,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-07-07T02:31:51.632Z"
+          "UpdatedAt": "2025-07-07T13:14:34.437Z"
         },
         {
           "ID": "wrld_73bfab3d-5888-4364-909a-6bba45749538",
@@ -8029,7 +8029,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-06-30T16:25:26.939Z"
+          "UpdatedAt": "2025-07-08T01:19:19.127Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -8898,7 +8898,7 @@
           "AuthorId": "usr_db72925c-5e07-4f0e-a62b-cceaf24b9873",
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
-          "UpdatedAt": "2025-07-07T01:10:06.591Z"
+          "UpdatedAt": "2025-07-07T15:17:06.485Z"
         },
         {
           "ID": "wrld_20e181eb-50ed-419a-898f-8b999e94c401",
@@ -9602,7 +9602,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-07-07T02:31:51.632Z"
+          "UpdatedAt": "2025-07-07T13:14:34.437Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -10530,7 +10530,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-06-30T16:25:26.939Z"
+          "UpdatedAt": "2025-07-08T01:19:19.127Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
