@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
+          "Name": "鯖研 湖畔飛行場 YVL airport By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "焼鯖仮想研究所で公開しているsacc対応Vehicleのうち、ジェット機以外に乗ることができるワールドです",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-07-28T13:48:56.155Z",
+          "UpdatedAt": "2025-07-09T16:02:15.358Z"
+        },
+        {
           "ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
           "Name": "Just Airship By と び う お（Tobiuo）",
           "RecommendedCapacity": 16,
@@ -52,6 +68,22 @@
           "AuthorName": "Ahmya Akane ch․",
           "CreatedAt": "2023-04-21T18:58:38.923Z",
           "UpdatedAt": "2025-07-07T15:17:06.485Z"
+        },
+        {
+          "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
+          "Name": "TANK BATTLE VR By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-06-16T12:41:10.517Z",
+          "UpdatedAt": "2025-07-07T13:40:06.489Z"
         },
         {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
@@ -1188,22 +1220,6 @@
           "AuthorName": "Chris SAF",
           "CreatedAt": "2022-11-12T18:49:53.796Z",
           "UpdatedAt": "2024-12-21T21:29:07.308Z"
-        },
-        {
-          "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
-          "Name": "鯖研 湖畔飛行場 YVL airport By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "焼鯖仮想研究所で公開しているsacc対応Vehicleのうち、ジェット機以外に乗ることができるワールドです",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2024-12-20T04:53:58.765Z"
         },
         {
           "ID": "wrld_73bfab3d-5888-4364-909a-6bba45749538",
@@ -2923,6 +2939,22 @@
       "Category": "作成日順(CreatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
+          "Name": "TANK BATTLE VR By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-06-16T12:41:10.517Z",
+          "UpdatedAt": "2025-07-07T13:40:06.489Z"
+        },
+        {
           "ID": "wrld_f08ad423-45b6-4231-b165-c7401b3f9e51",
           "Name": "Icosahedron By ミーさん",
           "RecommendedCapacity": 16,
@@ -3656,7 +3688,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2024-12-20T04:53:58.765Z"
+          "UpdatedAt": "2025-07-09T16:02:15.358Z"
         },
         {
           "ID": "wrld_e8c7a30d-4d63-4233-bca4-e4eff209e388",
@@ -7600,6 +7632,22 @@
           "UpdatedAt": "2024-10-16T12:18:48.153Z"
         },
         {
+          "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
+          "Name": "TANK BATTLE VR By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-06-16T12:41:10.517Z",
+          "UpdatedAt": "2025-07-07T13:40:06.489Z"
+        },
+        {
           "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
           "Name": "Tanuki Island By ときわ（tokiwa）",
           "RecommendedCapacity": 64,
@@ -8429,7 +8477,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2024-12-20T04:53:58.765Z"
+          "UpdatedAt": "2025-07-09T16:02:15.358Z"
         },
         {
           "ID": "wrld_f62576b9-afee-4686-bf2c-1e6230d901ad",
@@ -9749,6 +9797,22 @@
           "UpdatedAt": "2023-08-13T10:44:43.364Z"
         },
         {
+          "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
+          "Name": "TANK BATTLE VR By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-06-16T12:41:10.517Z",
+          "UpdatedAt": "2025-07-07T13:40:06.489Z"
+        },
+        {
           "ID": "wrld_4a9df82d-1517-4675-bfea-6b018afd6bdd",
           "Name": "Southern birds By Oppailot",
           "RecommendedCapacity": 16,
@@ -10514,7 +10578,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2024-12-20T04:53:58.765Z"
+          "UpdatedAt": "2025-07-09T16:02:15.358Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
