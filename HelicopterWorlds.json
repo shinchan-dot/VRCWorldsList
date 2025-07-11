@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
+          "Name": "shin˸Owl Pleiades By ぐらまむ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "旅客機などにも乗れるワールドです、昼夜サイクルなどはラウンジのタブレットでいじれますので、ぜひどうぞ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
+          "AuthorName": "ぐらまむ",
+          "CreatedAt": "2025-03-06T06:07:00.865Z",
+          "UpdatedAt": "2025-07-10T09:19:25.66Z"
+        },
+        {
           "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
           "Name": "鯖研 湖畔飛行場 YVL airport By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -308,22 +324,6 @@
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-03-22T09:38:21.869Z",
           "UpdatedAt": "2025-06-25T12:17:16.555Z"
-        },
-        {
-          "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
-          "Name": "shin˸Owl Pleiades By ぐらまむ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "旅客機などにも乗れるワールドです、昼夜サイクルなどはラウンジのタブレットでいじれますので、ぜひどうぞ",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
-          "AuthorName": "ぐらまむ",
-          "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-06-24T14:48:47.068Z"
         },
         {
           "ID": "wrld_ce96938e-e536-4293-a2d1-1801d662d666",
@@ -3112,7 +3112,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-06-24T14:48:47.068Z"
+          "UpdatedAt": "2025-07-10T09:19:25.66Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -7501,7 +7501,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-06-24T14:48:47.068Z"
+          "UpdatedAt": "2025-07-10T09:19:25.66Z"
         },
         {
           "ID": "wrld_eff40f82-b5af-433f-8d87-c36e6408652a",
@@ -11010,7 +11010,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-06-24T14:48:47.068Z"
+          "UpdatedAt": "2025-07-10T09:19:25.66Z"
         },
         {
           "ID": "wrld_00b2433e-1f8a-4148-862f-b47b861c0756",
