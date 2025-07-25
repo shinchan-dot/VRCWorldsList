@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
+          "Name": "Riezet Flight Home QT1 By Riezet Lieaner",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "・動画プレイヤー、プレイリスト、ミラー、QV PEN 飛行機はプロペラ機のみ（ヘリコプターが1機） ・曲技飛行（エアロバティックス）を前提にした軽やかな挙動の機種 ・穏やかな挙動の並列複座型機 EN ・Video player‚ playlist‚ mirror‚ QV PEN Only propeller planes （one helicopter） ・Lightweight aircraft designed for aerobatics ・Parallel two-seater aircraft with gentle movements",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-02-24T13:03:56.307Z",
+          "UpdatedAt": "2025-07-24T10:20:02.236Z"
+        },
+        {
+          "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
+          "Name": "TANK BATTLE VR By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-06-16T12:41:10.517Z",
+          "UpdatedAt": "2025-07-24T09:32:32.382Z"
+        },
+        {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
           "Name": "Riezet Flight Home T2R By Riezet Lieaner",
           "RecommendedCapacity": 12,
@@ -20,22 +52,6 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
           "UpdatedAt": "2025-07-23T12:28:27.213Z"
-        },
-        {
-          "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
-          "Name": "Riezet Flight Home QT1 By Riezet Lieaner",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "・動画プレイヤー、プレイリスト、ミラー、QV PEN 飛行機はプロペラ機のみ（ヘリコプターが1機） ・曲技飛行（エアロバティックス）を前提にした軽やかな挙動の機種 ・穏やかな挙動の並列複座型機 EN ・Video player‚ playlist‚ mirror‚ QV PEN Only propeller planes （one helicopter） ・Lightweight aircraft designed for aerobatics ・Parallel two-seater aircraft with gentle movements",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-02-24T13:03:56.307Z",
-          "UpdatedAt": "2025-07-23T12:05:15.126Z"
         },
         {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
@@ -84,22 +100,6 @@
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-07T06:47:02.462Z",
           "UpdatedAt": "2025-07-16T15:33:57.079Z"
-        },
-        {
-          "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
-          "Name": "TANK BATTLE VR By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-07-16T10:46:23.591Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
@@ -2952,7 +2952,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-07-16T10:46:23.591Z"
+          "UpdatedAt": "2025-07-24T09:32:32.382Z"
         },
         {
           "ID": "wrld_f08ad423-45b6-4231-b165-c7401b3f9e51",
@@ -3176,7 +3176,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-24T13:03:56.307Z",
-          "UpdatedAt": "2025-07-23T12:05:15.126Z"
+          "UpdatedAt": "2025-07-24T10:20:02.236Z"
         },
         {
           "ID": "wrld_ffed549e-a0bb-4b9c-a3b9-801b4e500bc8",
@@ -7373,7 +7373,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-24T13:03:56.307Z",
-          "UpdatedAt": "2025-07-23T12:05:15.126Z"
+          "UpdatedAt": "2025-07-24T10:20:02.236Z"
         },
         {
           "ID": "wrld_204dbeb8-49a3-4140-9889-df8eee70f3a1",
@@ -7645,7 +7645,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-07-16T10:46:23.591Z"
+          "UpdatedAt": "2025-07-24T09:32:32.382Z"
         },
         {
           "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
@@ -9810,7 +9810,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-07-16T10:46:23.591Z"
+          "UpdatedAt": "2025-07-24T09:32:32.382Z"
         },
         {
           "ID": "wrld_4a9df82d-1517-4675-bfea-6b018afd6bdd",
@@ -10130,7 +10130,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-24T13:03:56.307Z",
-          "UpdatedAt": "2025-07-23T12:05:15.126Z"
+          "UpdatedAt": "2025-07-24T10:20:02.236Z"
         },
         {
           "ID": "wrld_204dbeb8-49a3-4140-9889-df8eee70f3a1",
