@@ -6,20 +6,20 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_046a5db3-fd6a-4f37-a5f8-6038bb82ba53",
-          "Name": "［Old］Al Salman Iraq By Chris SAF",
-          "RecommendedCapacity": 20,
-          "Capacity": 36,
-          "Description": "It was made for infantry combat and foot patrols inside a city environment․ The map includes some custom Saddam murals and posters to set the scene‚ the town itself is only based on the shape of the real life location and not made to replicate the real town in full detail․ Al-Salman District （Arabic˸ قضاء السلمان） is a district of the Al Muthanna Governorate‚ Iraq․ Its population in 2010 was 9‚324․",
+          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
+          "Name": "catch＆Shootǃǃ 2 By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
-          "AuthorId": "usr_d6fc4b20-7cfe-4f79-854a-d7bf40d88488",
-          "AuthorName": "Chris SAF",
-          "CreatedAt": "2022-11-12T18:49:53.796Z",
-          "UpdatedAt": "2025-07-29T03:28:39.6Z"
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-10-04T14:23:01.112Z",
+          "UpdatedAt": "2025-07-31T10:53:59.348Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -35,7 +35,23 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-07-28T02:20:50.703Z"
+          "UpdatedAt": "2025-07-31T05:45:26.348Z"
+        },
+        {
+          "ID": "wrld_046a5db3-fd6a-4f37-a5f8-6038bb82ba53",
+          "Name": "［Old］Al Salman Iraq By Chris SAF",
+          "RecommendedCapacity": 20,
+          "Capacity": 36,
+          "Description": "It was made for infantry combat and foot patrols inside a city environment․ The map includes some custom Saddam murals and posters to set the scene‚ the town itself is only based on the shape of the real life location and not made to replicate the real town in full detail․ Al-Salman District （Arabic˸ قضاء السلمان） is a district of the Al Muthanna Governorate‚ Iraq․ Its population in 2010 was 9‚324․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_d6fc4b20-7cfe-4f79-854a-d7bf40d88488",
+          "AuthorName": "Chris SAF",
+          "CreatedAt": "2022-11-12T18:49:53.796Z",
+          "UpdatedAt": "2025-07-29T03:28:39.6Z"
         },
         {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
@@ -308,22 +324,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-04-11T10:11:26.747Z",
           "UpdatedAt": "2025-06-29T11:42:20.646Z"
-        },
-        {
-          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
-          "Name": "catch＆Shootǃǃ 2 By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-06-29T09:42:29.71Z"
         },
         {
           "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
@@ -996,22 +996,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-01-18T08:21:27.16Z",
           "UpdatedAt": "2025-02-09T02:09:34.687Z"
-        },
-        {
-          "ID": "wrld_3d34f761-29ee-4527-a948-2edb33f8932d",
-          "Name": "7's Mountain Island Airbase By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "7's Mountain Island Airbase",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2023-11-27T04:18:25.82Z",
-          "UpdatedAt": "2025-02-06T05:18:35.565Z"
         },
         {
           "ID": "wrld_ce7e0f34-ef81-4812-81a6-a580bf14351a",
@@ -3464,7 +3448,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-06-29T09:42:29.71Z"
+          "UpdatedAt": "2025-07-31T10:53:59.348Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -3784,7 +3768,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-07-28T02:20:50.703Z"
+          "UpdatedAt": "2025-07-31T05:45:26.348Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -4329,22 +4313,6 @@
           "AuthorName": "tanabe",
           "CreatedAt": "2023-11-28T11:21:53.332Z",
           "UpdatedAt": "2023-12-10T21:12:52.796Z"
-        },
-        {
-          "ID": "wrld_3d34f761-29ee-4527-a948-2edb33f8932d",
-          "Name": "7's Mountain Island Airbase By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "7's Mountain Island Airbase",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2023-11-27T04:18:25.82Z",
-          "UpdatedAt": "2025-02-06T05:18:35.565Z"
         },
         {
           "ID": "wrld_37b0eeae-86ce-42e0-9600-81be88d65028",
@@ -5968,22 +5936,6 @@
           "UpdatedAt": "2022-04-14T06:30:54.605Z"
         },
         {
-          "ID": "wrld_3d34f761-29ee-4527-a948-2edb33f8932d",
-          "Name": "7's Mountain Island Airbase By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "7's Mountain Island Airbase",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2023-11-27T04:18:25.82Z",
-          "UpdatedAt": "2025-02-06T05:18:35.565Z"
-        },
-        {
           "ID": "wrld_c6846d53-a644-442f-b4d3-c02a73d58975",
           "Name": "A56-7W＋桜（高ポリ） By 萩キャンパーJP",
           "RecommendedCapacity": 16,
@@ -6173,7 +6125,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-06-29T09:42:29.71Z"
+          "UpdatedAt": "2025-07-31T10:53:59.348Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -8077,7 +8029,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-07-28T02:20:50.703Z"
+          "UpdatedAt": "2025-07-31T05:45:26.348Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -10210,7 +10162,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-06-29T09:42:29.71Z"
+          "UpdatedAt": "2025-07-31T10:53:59.348Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -10594,7 +10546,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-07-28T02:20:50.703Z"
+          "UpdatedAt": "2025-07-31T05:45:26.348Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -10755,22 +10707,6 @@
           "AuthorName": "Zweikaku",
           "CreatedAt": "2024-09-27T05:21:10.463Z",
           "UpdatedAt": "2024-09-30T09:29:42.613Z"
-        },
-        {
-          "ID": "wrld_3d34f761-29ee-4527-a948-2edb33f8932d",
-          "Name": "7's Mountain Island Airbase By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "7's Mountain Island Airbase",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2023-11-27T04:18:25.82Z",
-          "UpdatedAt": "2025-02-06T05:18:35.565Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
