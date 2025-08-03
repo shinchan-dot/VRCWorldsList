@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
+          "Name": "Maldives Cottage - with vehicles By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "乗り物に乗って景色と探索を楽しむworldです。guntamix氏の販売Worldをベースに、操縦可能な飛行機、ヘリコプター、ボートを配置しています。 飛んでる人の様子やYoutube動画を眺めながら、コテージでくつろぐこともできます。 This is a world where you can enjoy the scenery and exploration while on board a vehicle․ Based on guntamix's commercial world‚ this world features flyable airplanes‚ helicopters‚ and boats․ You can relax in the cottage while watching people flying around and YouTube videos․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-07-25T06:05:03.97Z",
+          "UpdatedAt": "2025-08-02T23:39:17.396Z"
+        },
+        {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-08-02T06:17:47.05Z"
+        },
+        {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
           "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
           "RecommendedCapacity": 30,
@@ -36,22 +68,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
           "UpdatedAt": "2025-07-31T10:53:59.348Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-07-31T05:45:26.348Z"
         },
         {
           "ID": "wrld_046a5db3-fd6a-4f37-a5f8-6038bb82ba53",
@@ -2923,6 +2939,22 @@
       "Category": "作成日順(CreatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
+          "Name": "Maldives Cottage - with vehicles By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "乗り物に乗って景色と探索を楽しむworldです。guntamix氏の販売Worldをベースに、操縦可能な飛行機、ヘリコプター、ボートを配置しています。 飛んでる人の様子やYoutube動画を眺めながら、コテージでくつろぐこともできます。 This is a world where you can enjoy the scenery and exploration while on board a vehicle․ Based on guntamix's commercial world‚ this world features flyable airplanes‚ helicopters‚ and boats․ You can relax in the cottage while watching people flying around and YouTube videos․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-07-25T06:05:03.97Z",
+          "UpdatedAt": "2025-08-02T23:39:17.396Z"
+        },
+        {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
           "Name": "TANK BATTLE VR By Oppailot",
           "RecommendedCapacity": 16,
@@ -3768,7 +3800,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-07-31T05:45:26.348Z"
+          "UpdatedAt": "2025-08-02T06:17:47.05Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -7040,6 +7072,22 @@
           "UpdatedAt": "2025-01-04T15:38:00.982Z"
         },
         {
+          "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
+          "Name": "Maldives Cottage - with vehicles By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "乗り物に乗って景色と探索を楽しむworldです。guntamix氏の販売Worldをベースに、操縦可能な飛行機、ヘリコプター、ボートを配置しています。 飛んでる人の様子やYoutube動画を眺めながら、コテージでくつろぐこともできます。 This is a world where you can enjoy the scenery and exploration while on board a vehicle․ Based on guntamix's commercial world‚ this world features flyable airplanes‚ helicopters‚ and boats․ You can relax in the cottage while watching people flying around and YouTube videos․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-07-25T06:05:03.97Z",
+          "UpdatedAt": "2025-08-02T23:39:17.396Z"
+        },
+        {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
           "Name": "Merry Christmas by․Sayodori By Sayodori",
           "RecommendedCapacity": 16,
@@ -8029,7 +8077,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-07-31T05:45:26.348Z"
+          "UpdatedAt": "2025-08-02T06:17:47.05Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -9749,6 +9797,22 @@
           "UpdatedAt": "2023-08-13T10:44:43.364Z"
         },
         {
+          "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
+          "Name": "Maldives Cottage - with vehicles By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "乗り物に乗って景色と探索を楽しむworldです。guntamix氏の販売Worldをベースに、操縦可能な飛行機、ヘリコプター、ボートを配置しています。 飛んでる人の様子やYoutube動画を眺めながら、コテージでくつろぐこともできます。 This is a world where you can enjoy the scenery and exploration while on board a vehicle․ Based on guntamix's commercial world‚ this world features flyable airplanes‚ helicopters‚ and boats․ You can relax in the cottage while watching people flying around and YouTube videos․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-07-25T06:05:03.97Z",
+          "UpdatedAt": "2025-08-02T23:39:17.396Z"
+        },
+        {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
           "Name": "TANK BATTLE VR By Oppailot",
           "RecommendedCapacity": 16,
@@ -10546,7 +10610,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-07-31T05:45:26.348Z"
+          "UpdatedAt": "2025-08-02T06:17:47.05Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
