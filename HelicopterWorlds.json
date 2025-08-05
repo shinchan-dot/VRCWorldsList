@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
+          "Name": "shin˸Owl Pleiades By ぐらまむ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "旅客機などにも乗れるワールドです、昼夜サイクルなどはラウンジのタブレットでいじれますので、ぜひどうぞ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
+          "AuthorName": "ぐらまむ",
+          "CreatedAt": "2025-03-06T06:07:00.865Z",
+          "UpdatedAt": "2025-08-04T15:15:25.681Z"
+        },
+        {
+          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
+          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "∗cues top gun anthem∗",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
+          "AuthorName": "Zweikaku",
+          "CreatedAt": "2020-05-17T13:35:24.03Z",
+          "UpdatedAt": "2025-08-04T06:48:11.104Z"
+        },
+        {
           "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
           "Name": "Maldives Cottage - with vehicles By Oppailot",
           "RecommendedCapacity": 16,
@@ -19,7 +51,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-02T23:39:17.396Z"
+          "UpdatedAt": "2025-08-03T08:58:37.92Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -182,22 +214,6 @@
           "UpdatedAt": "2025-07-16T15:33:57.079Z"
         },
         {
-          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
-          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "∗cues top gun anthem∗",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-07-14T04:48:03.809Z"
-        },
-        {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
           "Name": "Kennedy Space Center By medaka0228",
           "RecommendedCapacity": 40,
@@ -212,22 +228,6 @@
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
           "UpdatedAt": "2025-07-12T05:14:06.342Z"
-        },
-        {
-          "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
-          "Name": "shin˸Owl Pleiades By ぐらまむ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "旅客機などにも乗れるワールドです、昼夜サイクルなどはラウンジのタブレットでいじれますので、ぜひどうぞ",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
-          "AuthorName": "ぐらまむ",
-          "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-07-10T09:19:25.66Z"
         },
         {
           "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
@@ -2952,7 +2952,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-02T23:39:17.396Z"
+          "UpdatedAt": "2025-08-03T08:58:37.92Z"
         },
         {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
@@ -3128,7 +3128,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-07-10T09:19:25.66Z"
+          "UpdatedAt": "2025-08-04T15:15:25.681Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -5832,7 +5832,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-07-14T04:48:03.809Z"
+          "UpdatedAt": "2025-08-04T06:48:11.104Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -5997,7 +5997,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-07-14T04:48:03.809Z"
+          "UpdatedAt": "2025-08-04T06:48:11.104Z"
         },
         {
           "ID": "wrld_7e31e3f8-2ea2-4f8d-9d90-1d0e3181fc7c",
@@ -7085,7 +7085,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-02T23:39:17.396Z"
+          "UpdatedAt": "2025-08-03T08:58:37.92Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -7501,7 +7501,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-07-10T09:19:25.66Z"
+          "UpdatedAt": "2025-08-04T15:15:25.681Z"
         },
         {
           "ID": "wrld_eff40f82-b5af-433f-8d87-c36e6408652a",
@@ -9810,7 +9810,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-02T23:39:17.396Z"
+          "UpdatedAt": "2025-08-03T08:58:37.92Z"
         },
         {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
@@ -10786,7 +10786,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-07-14T04:48:03.809Z"
+          "UpdatedAt": "2025-08-04T06:48:11.104Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -11010,7 +11010,7 @@
           "AuthorId": "usr_65e6da27-89d8-4b6c-a97e-72688650571d",
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
-          "UpdatedAt": "2025-07-10T09:19:25.66Z"
+          "UpdatedAt": "2025-08-04T15:15:25.681Z"
         },
         {
           "ID": "wrld_00b2433e-1f8a-4148-862f-b47b861c0756",
