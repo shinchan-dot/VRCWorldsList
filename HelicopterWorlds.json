@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-08-10T03:51:36.367Z"
+        },
+        {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
           "Name": "Riezet Flight Home T2R By Riezet Lieaner",
           "RecommendedCapacity": 12,
@@ -19,7 +35,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-08-09T22:03:06.307Z"
+          "UpdatedAt": "2025-08-10T02:03:15.678Z"
         },
         {
           "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
@@ -100,22 +116,6 @@
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
           "UpdatedAt": "2025-08-03T08:58:37.92Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-08-02T06:17:47.05Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -3000,7 +3000,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-08-09T22:03:06.307Z"
+          "UpdatedAt": "2025-08-10T02:03:15.678Z"
         },
         {
           "ID": "wrld_914b4821-162b-47da-b0c6-376231d9ecaa",
@@ -3800,7 +3800,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-08-02T06:17:47.05Z"
+          "UpdatedAt": "2025-08-10T03:51:36.367Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -7405,7 +7405,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-08-09T22:03:06.307Z"
+          "UpdatedAt": "2025-08-10T02:03:15.678Z"
         },
         {
           "ID": "wrld_5241df39-9624-4d25-b644-edb11fe645bf",
@@ -8077,7 +8077,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-08-02T06:17:47.05Z"
+          "UpdatedAt": "2025-08-10T03:51:36.367Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -10130,7 +10130,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-08-09T22:03:06.307Z"
+          "UpdatedAt": "2025-08-10T02:03:15.678Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -10610,7 +10610,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-08-02T06:17:47.05Z"
+          "UpdatedAt": "2025-08-10T03:51:36.367Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
