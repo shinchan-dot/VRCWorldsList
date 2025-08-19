@@ -6,6 +6,70 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
+          "Name": "Maldives Cottage - with vehicles By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "乗り物に乗って景色と探索を楽しむworldです。guntamix氏の販売Worldをベースに、操縦可能な飛行機、ヘリコプター、ボートを配置しています。 飛んでる人の様子やYoutube動画を眺めながら、コテージでくつろぐこともできます。 This is a world where you can enjoy the scenery and exploration while on board a vehicle․ Based on guntamix's commercial world‚ this world features flyable airplanes‚ helicopters‚ and boats․ You can relax in the cottage while watching people flying around and YouTube videos․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-07-25T06:05:03.97Z",
+          "UpdatedAt": "2025-08-19T03:30:29.726Z"
+        },
+        {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-08-18T22:56:34.059Z"
+        },
+        {
+          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+          "Name": "JVG Sendai Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 45,
+          "Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-03-21T10:58:00.822Z",
+          "UpdatedAt": "2025-08-18T15:56:28.698Z"
+        },
+        {
+          "ID": "wrld_ad5140ff-74d4-4ed6-8944-3086036400d5",
+          "Name": "JVG Kagoshima Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-06-04T01:36:33.787Z",
+          "UpdatedAt": "2025-08-18T15:24:44.097Z"
+        },
+        {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
           "Name": "Kennedy Space Center By medaka0228",
           "RecommendedCapacity": 40,
@@ -22,22 +86,6 @@
           "UpdatedAt": "2025-08-18T08:43:52.744Z"
         },
         {
-          "ID": "wrld_ad5140ff-74d4-4ed6-8944-3086036400d5",
-          "Name": "JVG Kagoshima Air Station By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-18T07:46:47.477Z"
-        },
-        {
           "ID": "wrld_cb2f6666-765c-4060-a42d-fbd4892b7778",
           "Name": "BB-63 USS Missouri 1990's By katsuobusi24",
           "RecommendedCapacity": 40,
@@ -52,22 +100,6 @@
           "AuthorName": "katsuobusi24",
           "CreatedAt": "2023-12-23T16:06:46.654Z",
           "UpdatedAt": "2025-08-18T06:36:32.372Z"
-        },
-        {
-          "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
-          "Name": "Maldives Cottage - with vehicles By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "乗り物に乗って景色と探索を楽しむworldです。guntamix氏の販売Worldをベースに、操縦可能な飛行機、ヘリコプター、ボートを配置しています。 飛んでる人の様子やYoutube動画を眺めながら、コテージでくつろぐこともできます。 This is a world where you can enjoy the scenery and exploration while on board a vehicle․ Based on guntamix's commercial world‚ this world features flyable airplanes‚ helicopters‚ and boats․ You can relax in the cottage while watching people flying around and YouTube videos․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-18T01:45:48.951Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
@@ -212,22 +244,6 @@
           "AuthorName": "限界機関長",
           "CreatedAt": "2024-08-04T12:24:16.351Z",
           "UpdatedAt": "2025-08-11T09:03:47.815Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-08-10T03:51:36.367Z"
         },
         {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
@@ -2936,7 +2952,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-18T01:45:48.951Z"
+          "UpdatedAt": "2025-08-19T03:30:29.726Z"
         },
         {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
@@ -3784,7 +3800,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-08-10T03:51:36.367Z"
+          "UpdatedAt": "2025-08-18T22:56:34.059Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -4712,7 +4728,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-18T07:46:47.477Z"
+          "UpdatedAt": "2025-08-18T15:24:44.097Z"
         },
         {
           "ID": "wrld_07122997-4780-4951-85de-b639f64c9cc8",
@@ -4841,6 +4857,22 @@
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2023-03-26T02:20:36.586Z",
           "UpdatedAt": "2024-11-16T13:56:13.749Z"
+        },
+        {
+          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+          "Name": "JVG Sendai Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 45,
+          "Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-03-21T10:58:00.822Z",
+          "UpdatedAt": "2025-08-18T15:56:28.698Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -6909,7 +6941,23 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-18T07:46:47.477Z"
+          "UpdatedAt": "2025-08-18T15:24:44.097Z"
+        },
+        {
+          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+          "Name": "JVG Sendai Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 45,
+          "Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-03-21T10:58:00.822Z",
+          "UpdatedAt": "2025-08-18T15:56:28.698Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -7005,7 +7053,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-18T01:45:48.951Z"
+          "UpdatedAt": "2025-08-19T03:30:29.726Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -7965,7 +8013,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-08-10T03:51:36.367Z"
+          "UpdatedAt": "2025-08-18T22:56:34.059Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -9698,7 +9746,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-18T01:45:48.951Z"
+          "UpdatedAt": "2025-08-19T03:30:29.726Z"
         },
         {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
@@ -9810,7 +9858,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-18T07:46:47.477Z"
+          "UpdatedAt": "2025-08-18T15:24:44.097Z"
         },
         {
           "ID": "wrld_225c3dc9-9067-45e5-9053-3e5226db3663",
@@ -9827,6 +9875,22 @@
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-04-14T04:12:24.53Z",
           "UpdatedAt": "2023-04-14T04:12:24.53Z"
+        },
+        {
+          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+          "Name": "JVG Sendai Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 45,
+          "Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-03-21T10:58:00.822Z",
+          "UpdatedAt": "2025-08-18T15:56:28.698Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -10466,7 +10530,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-08-10T03:51:36.367Z"
+          "UpdatedAt": "2025-08-18T22:56:34.059Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
