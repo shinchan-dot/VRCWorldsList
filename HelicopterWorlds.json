@@ -19,7 +19,71 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-19T03:30:29.726Z"
+          "UpdatedAt": "2025-08-20T02:09:03.127Z"
+        },
+        {
+          "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
+          "Name": "Yui's Home 2․4 By Yui Asakura",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "部屋と空港と空母。航空機の武装は一部を除き解除してあります。Rooms‚ airports and aircraft carriers․ Aircraft are disarmed․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
+          "AuthorName": "Yui Asakura",
+          "CreatedAt": "2024-06-14T11:16:01.481Z",
+          "UpdatedAt": "2025-08-19T11:54:06.817Z"
+        },
+        {
+          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+          "Name": "JVG Sendai Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 45,
+          "Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-03-21T10:58:00.822Z",
+          "UpdatedAt": "2025-08-19T05:13:16.025Z"
+        },
+        {
+          "ID": "wrld_ad5140ff-74d4-4ed6-8944-3086036400d5",
+          "Name": "JVG Kagoshima Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-06-04T01:36:33.787Z",
+          "UpdatedAt": "2025-08-19T04:35:02.235Z"
+        },
+        {
+          "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
+          "Name": "TANK BATTLE VR By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-06-16T12:41:10.517Z",
+          "UpdatedAt": "2025-08-19T04:19:53.738Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -36,38 +100,6 @@
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
           "UpdatedAt": "2025-08-18T22:56:34.059Z"
-        },
-        {
-          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
-          "Name": "JVG Sendai Air Station By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 45,
-          "Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-08-18T15:56:28.698Z"
-        },
-        {
-          "ID": "wrld_ad5140ff-74d4-4ed6-8944-3086036400d5",
-          "Name": "JVG Kagoshima Air Station By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-18T15:24:44.097Z"
         },
         {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
@@ -196,22 +228,6 @@
           "AuthorName": "もふたこ-mofutako-",
           "CreatedAt": "2025-08-13T03:56:41.806Z",
           "UpdatedAt": "2025-08-13T12:35:12.056Z"
-        },
-        {
-          "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
-          "Name": "Yui's Home 2․4 By Yui Asakura",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "部屋と空港と空母。航空機の武装は一部を除き解除してあります。Rooms‚ airports and aircraft carriers․ Aircraft are disarmed․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
-          "AuthorName": "Yui Asakura",
-          "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-08-13T11:08:17.961Z"
         },
         {
           "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
@@ -356,22 +372,6 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-24T13:03:56.307Z",
           "UpdatedAt": "2025-07-24T10:20:02.236Z"
-        },
-        {
-          "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
-          "Name": "TANK BATTLE VR By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-07-24T09:32:32.382Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -2952,7 +2952,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-19T03:30:29.726Z"
+          "UpdatedAt": "2025-08-20T02:09:03.127Z"
         },
         {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
@@ -2968,7 +2968,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-07-24T09:32:32.382Z"
+          "UpdatedAt": "2025-08-19T04:19:53.738Z"
         },
         {
           "ID": "wrld_f08ad423-45b6-4231-b165-c7401b3f9e51",
@@ -3816,7 +3816,7 @@
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-08-13T11:08:17.961Z"
+          "UpdatedAt": "2025-08-19T11:54:06.817Z"
         },
         {
           "ID": "wrld_968264e3-10d1-490b-8b8e-b9322cf6a1e6",
@@ -4728,7 +4728,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-18T15:24:44.097Z"
+          "UpdatedAt": "2025-08-19T04:35:02.235Z"
         },
         {
           "ID": "wrld_07122997-4780-4951-85de-b639f64c9cc8",
@@ -4872,7 +4872,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-08-18T15:56:28.698Z"
+          "UpdatedAt": "2025-08-19T05:13:16.025Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -6941,7 +6941,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-18T15:24:44.097Z"
+          "UpdatedAt": "2025-08-19T04:35:02.235Z"
         },
         {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
@@ -6957,7 +6957,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-08-18T15:56:28.698Z"
+          "UpdatedAt": "2025-08-19T05:13:16.025Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -7053,7 +7053,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-19T03:30:29.726Z"
+          "UpdatedAt": "2025-08-20T02:09:03.127Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -7581,7 +7581,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-07-24T09:32:32.382Z"
+          "UpdatedAt": "2025-08-19T04:19:53.738Z"
         },
         {
           "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
@@ -7869,7 +7869,7 @@
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-08-13T11:08:17.961Z"
+          "UpdatedAt": "2025-08-19T11:54:06.817Z"
         },
         {
           "ID": "wrld_56b5b37b-7470-43d7-beb1-2bad3abcd222",
@@ -9746,7 +9746,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-19T03:30:29.726Z"
+          "UpdatedAt": "2025-08-20T02:09:03.127Z"
         },
         {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
@@ -9762,7 +9762,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-07-24T09:32:32.382Z"
+          "UpdatedAt": "2025-08-19T04:19:53.738Z"
         },
         {
           "ID": "wrld_4a9df82d-1517-4675-bfea-6b018afd6bdd",
@@ -9858,7 +9858,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-18T15:24:44.097Z"
+          "UpdatedAt": "2025-08-19T04:35:02.235Z"
         },
         {
           "ID": "wrld_225c3dc9-9067-45e5-9053-3e5226db3663",
@@ -9890,7 +9890,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-08-18T15:56:28.698Z"
+          "UpdatedAt": "2025-08-19T05:13:16.025Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -10594,7 +10594,7 @@
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-08-13T11:08:17.961Z"
+          "UpdatedAt": "2025-08-19T11:54:06.817Z"
         },
         {
           "ID": "wrld_ca93c2e1-5405-4ff3-bf41-6c94ce1a6c33",
