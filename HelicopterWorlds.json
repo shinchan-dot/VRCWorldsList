@@ -6,6 +6,54 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
+          "Name": "TANK BATTLE VR By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-06-16T12:41:10.517Z",
+          "UpdatedAt": "2025-08-26T12:11:52.533Z"
+        },
+        {
+          "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
+          "Name": "Maldives Cottage - with vehicles By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "乗り物に乗って景色と探索を楽しむworldです。guntamix氏の販売Worldをベースに、操縦可能な飛行機、ヘリコプター、ボートを配置しています。 飛んでる人の様子やYoutube動画を眺めながら、コテージでくつろぐこともできます。 This is a world where you can enjoy the scenery and exploration while on board a vehicle․ Based on guntamix's commercial world‚ this world features flyable airplanes‚ helicopters‚ and boats․ You can relax in the cottage while watching people flying around and YouTube videos․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2025-07-25T06:05:03.97Z",
+          "UpdatedAt": "2025-08-26T11:58:53.664Z"
+        },
+        {
+          "ID": "wrld_ad5140ff-74d4-4ed6-8944-3086036400d5",
+          "Name": "JVG Kagoshima Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-06-04T01:36:33.787Z",
+          "UpdatedAt": "2025-08-26T11:09:52.392Z"
+        },
+        {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
           "Name": "JVG Sendai Air Station By Oppailot",
           "RecommendedCapacity": 16,
@@ -19,7 +67,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-08-23T14:52:55.427Z"
+          "UpdatedAt": "2025-08-26T10:53:49.361Z"
         },
         {
           "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
@@ -70,38 +118,6 @@
           "UpdatedAt": "2025-08-22T07:27:02.319Z"
         },
         {
-          "ID": "wrld_ad5140ff-74d4-4ed6-8944-3086036400d5",
-          "Name": "JVG Kagoshima Air Station By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-21T21:45:12.139Z"
-        },
-        {
-          "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
-          "Name": "Maldives Cottage - with vehicles By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "乗り物に乗って景色と探索を楽しむworldです。guntamix氏の販売Worldをベースに、操縦可能な飛行機、ヘリコプター、ボートを配置しています。 飛んでる人の様子やYoutube動画を眺めながら、コテージでくつろぐこともできます。 This is a world where you can enjoy the scenery and exploration while on board a vehicle․ Based on guntamix's commercial world‚ this world features flyable airplanes‚ helicopters‚ and boats․ You can relax in the cottage while watching people flying around and YouTube videos․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-21T15:26:47.382Z"
-        },
-        {
           "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
           "Name": "City MIO for Vehicle World By シン《symphony》",
           "RecommendedCapacity": 20,
@@ -148,22 +164,6 @@
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
           "UpdatedAt": "2025-08-20T03:01:13.909Z"
-        },
-        {
-          "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
-          "Name": "TANK BATTLE VR By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-08-19T04:19:53.738Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -2952,7 +2952,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-21T15:26:47.382Z"
+          "UpdatedAt": "2025-08-26T11:58:53.664Z"
         },
         {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
@@ -2968,7 +2968,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-08-19T04:19:53.738Z"
+          "UpdatedAt": "2025-08-26T12:11:52.533Z"
         },
         {
           "ID": "wrld_f08ad423-45b6-4231-b165-c7401b3f9e51",
@@ -4728,7 +4728,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-21T21:45:12.139Z"
+          "UpdatedAt": "2025-08-26T11:09:52.392Z"
         },
         {
           "ID": "wrld_07122997-4780-4951-85de-b639f64c9cc8",
@@ -4872,7 +4872,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-08-23T14:52:55.427Z"
+          "UpdatedAt": "2025-08-26T10:53:49.361Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -6941,7 +6941,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-21T21:45:12.139Z"
+          "UpdatedAt": "2025-08-26T11:09:52.392Z"
         },
         {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
@@ -6957,7 +6957,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-08-23T14:52:55.427Z"
+          "UpdatedAt": "2025-08-26T10:53:49.361Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -7053,7 +7053,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-21T15:26:47.382Z"
+          "UpdatedAt": "2025-08-26T11:58:53.664Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -7581,7 +7581,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-08-19T04:19:53.738Z"
+          "UpdatedAt": "2025-08-26T12:11:52.533Z"
         },
         {
           "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
@@ -9746,7 +9746,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
-          "UpdatedAt": "2025-08-21T15:26:47.382Z"
+          "UpdatedAt": "2025-08-26T11:58:53.664Z"
         },
         {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
@@ -9762,7 +9762,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-06-16T12:41:10.517Z",
-          "UpdatedAt": "2025-08-19T04:19:53.738Z"
+          "UpdatedAt": "2025-08-26T12:11:52.533Z"
         },
         {
           "ID": "wrld_4a9df82d-1517-4675-bfea-6b018afd6bdd",
@@ -9858,7 +9858,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-06-04T01:36:33.787Z",
-          "UpdatedAt": "2025-08-21T21:45:12.139Z"
+          "UpdatedAt": "2025-08-26T11:09:52.392Z"
         },
         {
           "ID": "wrld_225c3dc9-9067-45e5-9053-3e5226db3663",
@@ -9890,7 +9890,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-08-23T14:52:55.427Z"
+          "UpdatedAt": "2025-08-26T10:53:49.361Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
