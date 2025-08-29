@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
+          "Name": "海虹国際空港 RJKK A320 By Kanlll",
+          "RecommendedCapacity": 20,
+          "Capacity": 80,
+          "Description": "A320を飛ばせるマップ。 日本をベースとしています。 制作途中",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
+          "AuthorName": "Kanlll",
+          "CreatedAt": "2025-02-25T12:26:24.326Z",
+          "UpdatedAt": "2025-08-28T02:49:31.43Z"
+        },
+        {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
           "Name": "TANK BATTLE VR By Oppailot",
           "RecommendedCapacity": 16,
@@ -68,6 +84,22 @@
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
           "UpdatedAt": "2025-08-26T10:53:49.361Z"
+        },
+        {
+          "ID": "wrld_614b53a7-b0d2-4b91-9266-42ff17a2dbe0",
+          "Name": "Grappling Newyork By katamitirunner",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ニューヨークの町を蜘蛛男のように飛び回れるワールドです。 戦闘ヘリも置いてあるので摩天楼の中でのヘリ同士の空戦も出来ます。 This world lets you fly around the city of New York like a spider man․ There are also combat helicopters‚ so you can have helicopter aerial battles among the skyscrapers․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
+          "AuthorName": "katamitirunner",
+          "CreatedAt": "2025-08-17T12:44:02.046Z",
+          "UpdatedAt": "2025-08-24T14:23:58.78Z"
         },
         {
           "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
@@ -212,22 +244,6 @@
           "AuthorName": "katsuobusi24",
           "CreatedAt": "2023-12-23T16:06:46.654Z",
           "UpdatedAt": "2025-08-18T06:36:32.372Z"
-        },
-        {
-          "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
-          "Name": "海虹国際空港 RJKK A320 By Kanlll",
-          "RecommendedCapacity": 20,
-          "Capacity": 80,
-          "Description": "A320を飛ばせるマップ。 日本をベースとしています。 制作途中",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
-          "AuthorName": "Kanlll",
-          "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-08-17T07:46:15.983Z"
         },
         {
           "ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
@@ -2923,6 +2939,22 @@
       "Category": "作成日順(CreatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_614b53a7-b0d2-4b91-9266-42ff17a2dbe0",
+          "Name": "Grappling Newyork By katamitirunner",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ニューヨークの町を蜘蛛男のように飛び回れるワールドです。 戦闘ヘリも置いてあるので摩天楼の中でのヘリ同士の空戦も出来ます。 This world lets you fly around the city of New York like a spider man․ There are also combat helicopters‚ so you can have helicopter aerial battles among the skyscrapers․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
+          "AuthorName": "katamitirunner",
+          "CreatedAt": "2025-08-17T12:44:02.046Z",
+          "UpdatedAt": "2025-08-24T14:23:58.78Z"
+        },
+        {
           "ID": "wrld_3869e4ca-c336-4f0a-ab91-1751b0cb41cc",
           "Name": "シンプルHルーム By もふたこ-mofutako-",
           "RecommendedCapacity": 6,
@@ -3176,7 +3208,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-08-17T07:46:15.983Z"
+          "UpdatedAt": "2025-08-28T02:49:31.43Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -6512,6 +6544,22 @@
           "UpdatedAt": "2025-02-03T00:07:15.911Z"
         },
         {
+          "ID": "wrld_614b53a7-b0d2-4b91-9266-42ff17a2dbe0",
+          "Name": "Grappling Newyork By katamitirunner",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ニューヨークの町を蜘蛛男のように飛び回れるワールドです。 戦闘ヘリも置いてあるので摩天楼の中でのヘリ同士の空戦も出来ます。 This world lets you fly around the city of New York like a spider man․ There are also combat helicopters‚ so you can have helicopter aerial battles among the skyscrapers․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
+          "AuthorName": "katamitirunner",
+          "CreatedAt": "2025-08-17T12:44:02.046Z",
+          "UpdatedAt": "2025-08-24T14:23:58.78Z"
+        },
+        {
           "ID": "wrld_7c0a3b60-550f-4241-b95b-e64e35d2b608",
           "Name": "Hamburger Flight By Oppailot",
           "RecommendedCapacity": 16,
@@ -8333,7 +8381,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-08-17T07:46:15.983Z"
+          "UpdatedAt": "2025-08-28T02:49:31.43Z"
         },
         {
           "ID": "wrld_366d09a6-859e-4340-8325-801bc4267d52",
@@ -9410,7 +9458,23 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-08-17T07:46:15.983Z"
+          "UpdatedAt": "2025-08-28T02:49:31.43Z"
+        },
+        {
+          "ID": "wrld_614b53a7-b0d2-4b91-9266-42ff17a2dbe0",
+          "Name": "Grappling Newyork By katamitirunner",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ニューヨークの町を蜘蛛男のように飛び回れるワールドです。 戦闘ヘリも置いてあるので摩天楼の中でのヘリ同士の空戦も出来ます。 This world lets you fly around the city of New York like a spider man․ There are also combat helicopters‚ so you can have helicopter aerial battles among the skyscrapers․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
+          "AuthorName": "katamitirunner",
+          "CreatedAt": "2025-08-17T12:44:02.046Z",
+          "UpdatedAt": "2025-08-24T14:23:58.78Z"
         },
         {
           "ID": "wrld_6851ac71-ee38-4c5a-a918-400fdeb3b7b8",
