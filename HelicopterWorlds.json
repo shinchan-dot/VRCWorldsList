@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-09-08T12:00:16.783Z"
+        },
+        {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
           "Name": "海虹国際空港 RJKK A320 By Kanlll",
           "RecommendedCapacity": 20,
@@ -484,22 +500,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-01-01T09:05:15.872Z",
           "UpdatedAt": "2025-08-09T03:09:13.547Z"
-        },
-        {
-          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
-          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
-          "AuthorName": "sumisu_san",
-          "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-08-07T16:45:15.281Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -3256,7 +3256,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-08-07T16:45:15.281Z"
+          "UpdatedAt": "2025-09-08T12:00:16.783Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -8461,7 +8461,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-08-07T16:45:15.281Z"
+          "UpdatedAt": "2025-09-08T12:00:16.783Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -10610,7 +10610,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-08-07T16:45:15.281Z"
+          "UpdatedAt": "2025-09-08T12:00:16.783Z"
         },
         {
           "ID": "wrld_120f1ee6-e61f-40db-977b-717f0cd890d0",
