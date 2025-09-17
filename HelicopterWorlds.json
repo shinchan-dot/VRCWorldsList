@@ -6,20 +6,20 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
-          "Name": "City MIO for Vehicle World By シン《symphony》",
-          "RecommendedCapacity": 20,
-          "Capacity": 36,
-          "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": true
           },
-          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
-          "AuthorName": "シン《symphony》",
-          "CreatedAt": "2024-04-29T14:00:54.172Z",
-          "UpdatedAt": "2025-09-13T09:47:14.716Z"
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-09-16T02:43:50.464Z"
         },
         {
           "ID": "wrld_5663070b-1826-48a4-94e8-cbef9b689d42",
@@ -35,7 +35,55 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-09-03T09:51:31.903Z",
-          "UpdatedAt": "2025-09-13T01:53:07.659Z"
+          "UpdatedAt": "2025-09-15T09:59:34.044Z"
+        },
+        {
+          "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
+          "Name": "Aerobatics Flight Home ․Q By Riezet Lieaner",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "・動画プレイヤー、プレイリスト、ミラー、QV PEN 飛行機はプロペラ機のみ（ヘリコプターが1機） ・曲技飛行（エアロバティックス）を前提にした軽やかな挙動の機種 ・穏やかな挙動の並列複座型機 EN ・Video player‚ playlist‚ mirror‚ QV PEN Only propeller planes （one helicopter） ・Lightweight aircraft designed for aerobatics ・Parallel two-seater aircraft with gentle movements",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-02-24T13:03:56.307Z",
+          "UpdatedAt": "2025-09-15T04:11:48.393Z"
+        },
+        {
+          "ID": "wrld_568f2a00-73b2-4174-976e-891dd6538c55",
+          "Name": "尾瀬国立公園（Oze National Park）地形図フライト ［OWML］ By noritama3",
+          "RecommendedCapacity": 16,
+          "Capacity": 40,
+          "Description": "100kmx100km 2․5万分の1地図を1分の1にした非公式バーチャル尾瀬国立公園で地形図と実際の地形を体感しよう！ のんびり遊覧飛行をお楽しみください。 地形データ出典：電子地形図25000（国土地理院）地理院タイル、国土地理院ウェブサイト 基盤地図情報ダウンロードサイト https˸⁄⁄fgd․gsi․go․jp⁄download⁄menu․php 地形データを加工して利用⁄2024-1013 SDK3․7․1⁄2025-0914 QvPen 3․3․8",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
+          "AuthorName": "noritama3",
+          "CreatedAt": "2024-06-21T15:26:15.946Z",
+          "UpdatedAt": "2025-09-14T13:36:16.106Z"
+        },
+        {
+          "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
+          "Name": "City MIO for Vehicle World By シン《symphony》",
+          "RecommendedCapacity": 20,
+          "Capacity": 36,
+          "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
+          "AuthorName": "シン《symphony》",
+          "CreatedAt": "2024-04-29T14:00:54.172Z",
+          "UpdatedAt": "2025-09-13T09:47:14.716Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -86,22 +134,6 @@
           "UpdatedAt": "2025-09-12T11:19:43.464Z"
         },
         {
-          "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
-          "Name": "Aerobatics Flight Home ․Q By Riezet Lieaner",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "・動画プレイヤー、プレイリスト、ミラー、QV PEN 飛行機はプロペラ機のみ（ヘリコプターが1機） ・曲技飛行（エアロバティックス）を前提にした軽やかな挙動の機種 ・穏やかな挙動の並列複座型機 EN ・Video player‚ playlist‚ mirror‚ QV PEN Only propeller planes （one helicopter） ・Lightweight aircraft designed for aerobatics ・Parallel two-seater aircraft with gentle movements",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-02-24T13:03:56.307Z",
-          "UpdatedAt": "2025-09-11T12:35:21.636Z"
-        },
-        {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
           "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
           "RecommendedCapacity": 25,
@@ -148,22 +180,6 @@
           "AuthorName": "と び う お（Tobiuo）",
           "CreatedAt": "2025-01-05T11:46:50.245Z",
           "UpdatedAt": "2025-09-10T19:05:36.277Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-09-10T19:05:35.01Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -1572,22 +1588,6 @@
           "AuthorName": "noritama3",
           "CreatedAt": "2024-06-07T00:51:26.423Z",
           "UpdatedAt": "2024-10-13T04:55:13.1Z"
-        },
-        {
-          "ID": "wrld_568f2a00-73b2-4174-976e-891dd6538c55",
-          "Name": "尾瀬国立公園（Oze National Park）地形図フライト ［OWML］ By noritama3",
-          "RecommendedCapacity": 16,
-          "Capacity": 40,
-          "Description": "100kmx100km 2․5万分の1地図を1分の1にした非公式バーチャル尾瀬国立公園で地形図と実際の地形を体感しよう！ のんびり遊覧飛行をお楽しみください。 地形データ出典：電子地形図25000（国土地理院）地理院タイル、国土地理院ウェブサイト 基盤地図情報ダウンロードサイト https˸⁄⁄fgd․gsi․go․jp⁄download⁄menu․php 地形データを加工して利用⁄2024-1013 SDK3․7․1",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
-          "AuthorName": "noritama3",
-          "CreatedAt": "2024-06-21T15:26:15.946Z",
-          "UpdatedAt": "2024-10-13T04:24:27.802Z"
         },
         {
           "ID": "wrld_2510c4ed-e63c-4921-aea3-0f23031b8295",
@@ -3016,7 +3016,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-09-03T09:51:31.903Z",
-          "UpdatedAt": "2025-09-13T01:53:07.659Z"
+          "UpdatedAt": "2025-09-15T09:59:34.044Z"
         },
         {
           "ID": "wrld_ea684feb-51c6-41dd-9a9f-df47a2950b82",
@@ -3336,7 +3336,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-24T13:03:56.307Z",
-          "UpdatedAt": "2025-09-11T12:35:21.636Z"
+          "UpdatedAt": "2025-09-15T04:11:48.393Z"
         },
         {
           "ID": "wrld_ffed549e-a0bb-4b9c-a3b9-801b4e500bc8",
@@ -3919,7 +3919,7 @@
           "Name": "尾瀬国立公園（Oze National Park）地形図フライト ［OWML］ By noritama3",
           "RecommendedCapacity": 16,
           "Capacity": 40,
-          "Description": "100kmx100km 2․5万分の1地図を1分の1にした非公式バーチャル尾瀬国立公園で地形図と実際の地形を体感しよう！ のんびり遊覧飛行をお楽しみください。 地形データ出典：電子地形図25000（国土地理院）地理院タイル、国土地理院ウェブサイト 基盤地図情報ダウンロードサイト https˸⁄⁄fgd․gsi․go․jp⁄download⁄menu․php 地形データを加工して利用⁄2024-1013 SDK3․7․1",
+          "Description": "100kmx100km 2․5万分の1地図を1分の1にした非公式バーチャル尾瀬国立公園で地形図と実際の地形を体感しよう！ のんびり遊覧飛行をお楽しみください。 地形データ出典：電子地形図25000（国土地理院）地理院タイル、国土地理院ウェブサイト 基盤地図情報ダウンロードサイト https˸⁄⁄fgd․gsi․go․jp⁄download⁄menu․php 地形データを加工して利用⁄2024-1013 SDK3․7․1⁄2025-0914 QvPen 3․3․8",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -3928,7 +3928,7 @@
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
           "CreatedAt": "2024-06-21T15:26:15.946Z",
-          "UpdatedAt": "2024-10-13T04:24:27.802Z"
+          "UpdatedAt": "2025-09-14T13:36:16.106Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -3944,7 +3944,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-09-10T19:05:35.01Z"
+          "UpdatedAt": "2025-09-16T02:43:50.464Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -6141,7 +6141,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-24T13:03:56.307Z",
-          "UpdatedAt": "2025-09-11T12:35:21.636Z"
+          "UpdatedAt": "2025-09-15T04:11:48.393Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
@@ -8205,7 +8205,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-09-10T19:05:35.01Z"
+          "UpdatedAt": "2025-09-16T02:43:50.464Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -8868,7 +8868,7 @@
           "Name": "尾瀬国立公園（Oze National Park）地形図フライト ［OWML］ By noritama3",
           "RecommendedCapacity": 16,
           "Capacity": 40,
-          "Description": "100kmx100km 2․5万分の1地図を1分の1にした非公式バーチャル尾瀬国立公園で地形図と実際の地形を体感しよう！ のんびり遊覧飛行をお楽しみください。 地形データ出典：電子地形図25000（国土地理院）地理院タイル、国土地理院ウェブサイト 基盤地図情報ダウンロードサイト https˸⁄⁄fgd․gsi․go․jp⁄download⁄menu․php 地形データを加工して利用⁄2024-1013 SDK3․7․1",
+          "Description": "100kmx100km 2․5万分の1地図を1分の1にした非公式バーチャル尾瀬国立公園で地形図と実際の地形を体感しよう！ のんびり遊覧飛行をお楽しみください。 地形データ出典：電子地形図25000（国土地理院）地理院タイル、国土地理院ウェブサイト 基盤地図情報ダウンロードサイト https˸⁄⁄fgd․gsi․go․jp⁄download⁄menu․php 地形データを加工して利用⁄2024-1013 SDK3․7․1⁄2025-0914 QvPen 3․3․8",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -8877,7 +8877,7 @@
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
           "CreatedAt": "2024-06-21T15:26:15.946Z",
-          "UpdatedAt": "2024-10-13T04:24:27.802Z"
+          "UpdatedAt": "2025-09-14T13:36:16.106Z"
         },
         {
           "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
@@ -8973,7 +8973,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-09-03T09:51:31.903Z",
-          "UpdatedAt": "2025-09-13T01:53:07.659Z"
+          "UpdatedAt": "2025-09-15T09:59:34.044Z"
         },
         {
           "ID": "wrld_968264e3-10d1-490b-8b8e-b9322cf6a1e6",
@@ -9897,7 +9897,7 @@
           "Name": "尾瀬国立公園（Oze National Park）地形図フライト ［OWML］ By noritama3",
           "RecommendedCapacity": 16,
           "Capacity": 40,
-          "Description": "100kmx100km 2․5万分の1地図を1分の1にした非公式バーチャル尾瀬国立公園で地形図と実際の地形を体感しよう！ のんびり遊覧飛行をお楽しみください。 地形データ出典：電子地形図25000（国土地理院）地理院タイル、国土地理院ウェブサイト 基盤地図情報ダウンロードサイト https˸⁄⁄fgd․gsi․go․jp⁄download⁄menu․php 地形データを加工して利用⁄2024-1013 SDK3․7․1",
+          "Description": "100kmx100km 2․5万分の1地図を1分の1にした非公式バーチャル尾瀬国立公園で地形図と実際の地形を体感しよう！ のんびり遊覧飛行をお楽しみください。 地形データ出典：電子地形図25000（国土地理院）地理院タイル、国土地理院ウェブサイト 基盤地図情報ダウンロードサイト https˸⁄⁄fgd․gsi․go․jp⁄download⁄menu․php 地形データを加工して利用⁄2024-1013 SDK3․7․1⁄2025-0914 QvPen 3․3․8",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -9906,7 +9906,7 @@
           "AuthorId": "usr_c7fc17c3-8223-432f-9cf7-e6d3943eae85",
           "AuthorName": "noritama3",
           "CreatedAt": "2024-06-21T15:26:15.946Z",
-          "UpdatedAt": "2024-10-13T04:24:27.802Z"
+          "UpdatedAt": "2025-09-14T13:36:16.106Z"
         },
         {
           "ID": "wrld_968264e3-10d1-490b-8b8e-b9322cf6a1e6",
@@ -10370,7 +10370,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-02-24T13:03:56.307Z",
-          "UpdatedAt": "2025-09-11T12:35:21.636Z"
+          "UpdatedAt": "2025-09-15T04:11:48.393Z"
         },
         {
           "ID": "wrld_204dbeb8-49a3-4140-9889-df8eee70f3a1",
@@ -10834,7 +10834,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-09-10T19:05:35.01Z"
+          "UpdatedAt": "2025-09-16T02:43:50.464Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -11522,7 +11522,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-09-03T09:51:31.903Z",
-          "UpdatedAt": "2025-09-13T01:53:07.659Z"
+          "UpdatedAt": "2025-09-15T09:59:34.044Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
