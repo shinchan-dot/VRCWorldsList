@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
+          "Name": "Yui's Home 2․4 By Yui Asakura",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "部屋と空港と空母。航空機の武装は一部を除き解除してあります。Rooms‚ airports and aircraft carriers․ Aircraft are disarmed․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
+          "AuthorName": "Yui Asakura",
+          "CreatedAt": "2024-06-14T11:16:01.481Z",
+          "UpdatedAt": "2025-09-17T06:06:03.885Z"
+        },
+        {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
           "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -420,22 +436,6 @@
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-03-22T09:38:21.869Z",
           "UpdatedAt": "2025-08-22T07:27:02.319Z"
-        },
-        {
-          "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
-          "Name": "Yui's Home 2․4 By Yui Asakura",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "部屋と空港と空母。航空機の武装は一部を除き解除してあります。Rooms‚ airports and aircraft carriers․ Aircraft are disarmed․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
-          "AuthorName": "Yui Asakura",
-          "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-08-20T03:01:13.909Z"
         },
         {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
@@ -3960,7 +3960,7 @@
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-08-20T03:01:13.909Z"
+          "UpdatedAt": "2025-09-17T06:06:03.885Z"
         },
         {
           "ID": "wrld_968264e3-10d1-490b-8b8e-b9322cf6a1e6",
@@ -8061,7 +8061,7 @@
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-08-20T03:01:13.909Z"
+          "UpdatedAt": "2025-09-17T06:06:03.885Z"
         },
         {
           "ID": "wrld_56b5b37b-7470-43d7-beb1-2bad3abcd222",
@@ -10898,7 +10898,7 @@
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-08-20T03:01:13.909Z"
+          "UpdatedAt": "2025-09-17T06:06:03.885Z"
         },
         {
           "ID": "wrld_ca93c2e1-5405-4ff3-bf41-6c94ce1a6c33",
