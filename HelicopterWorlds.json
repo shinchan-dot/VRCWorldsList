@@ -6,20 +6,52 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
-          "Name": "Riezet Flight Home T2R By Riezet Lieaner",
+          "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
+          "Name": "Missile dancing By わたぼー",
+          "RecommendedCapacity": 4,
+          "Capacity": 8,
+          "Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
+          "AuthorName": "わたぼー",
+          "CreatedAt": "2024-11-25T07:15:38.494Z",
+          "UpdatedAt": "2025-09-26T13:14:56.516Z"
+        },
+        {
+          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+          "Name": "Test Pilots By Sacchan",
           "RecommendedCapacity": 12,
-          "Capacity": 22,
-          "Description": "in Niigata AP（新潟空港） フライトホームシリーズ最初のT2のリメイク的なワールドT2R。 島を1周する自動運行の電車（気動車？）は初期位置（空港）除き3箇所に停車します（停車時間は約2分）。",
+          "Capacity": 44,
+          "Description": "For those who love flying․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2020-04-07T09:27:04.715Z",
+          "UpdatedAt": "2025-09-25T15:35:28.927Z"
+        },
+        {
+          "ID": "wrld_f7e6272e-5bf1-490d-bf9c-d676f957c77f",
+          "Name": "Countryside Drive By Star Glider",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "A large forest map with plenty of roads‚ places to explore․ Various vehicles to drive（saccflight system）․",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": false
           },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-05-25T06:47:05.221Z",
-          "UpdatedAt": "2025-09-22T20:51:06.484Z"
+          "AuthorId": "usr_6934bebb-a620-4f22-bcd7-260f5dc335a1",
+          "AuthorName": "Star Glider",
+          "CreatedAt": "2024-04-05T21:58:03.683Z",
+          "UpdatedAt": "2025-09-23T08:48:06.269Z"
         },
         {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
@@ -35,7 +67,39 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-09-21T09:53:44.992Z"
+          "UpdatedAt": "2025-09-23T06:57:03.321Z"
+        },
+        {
+          "ID": "wrld_cb2f6666-765c-4060-a42d-fbd4892b7778",
+          "Name": "BB-63 USS Missouri 1990's By katsuobusi24",
+          "RecommendedCapacity": 40,
+          "Capacity": 40,
+          "Description": "Fan world of BB-63 Missouri 1990's ⁄ Museum Mode Updateǃ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
+          "AuthorName": "katsuobusi24",
+          "CreatedAt": "2023-12-23T16:06:46.654Z",
+          "UpdatedAt": "2025-09-23T04:38:57.33Z"
+        },
+        {
+          "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
+          "Name": "Riezet Flight Home T2R By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "in Niigata AP（新潟空港） フライトホームシリーズ最初のT2のリメイク的なワールドT2R。 島を1周する自動運行の電車（気動車？）は初期位置（空港）除き3箇所に停車します（停車時間は約2分）。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-05-25T06:47:05.221Z",
+          "UpdatedAt": "2025-09-22T20:51:06.484Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -148,22 +212,6 @@
           "AuthorName": "noritama3",
           "CreatedAt": "2024-06-21T15:26:15.946Z",
           "UpdatedAt": "2025-09-14T13:36:16.106Z"
-        },
-        {
-          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
-          "Name": "Test Pilots By Sacchan",
-          "RecommendedCapacity": 12,
-          "Capacity": 44,
-          "Description": "For those who love flying․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-09-12T22:54:48.118Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
@@ -422,22 +470,6 @@
           "UpdatedAt": "2025-08-23T10:26:27.902Z"
         },
         {
-          "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
-          "Name": "Missile dancing By わたぼー",
-          "RecommendedCapacity": 4,
-          "Capacity": 8,
-          "Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
-          "AuthorName": "わたぼー",
-          "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-08-22T08:16:16.609Z"
-        },
-        {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
           "Name": "サヴァ大峡谷 - Sava Great Canyon By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -468,22 +500,6 @@
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
           "UpdatedAt": "2025-08-18T08:43:52.744Z"
-        },
-        {
-          "ID": "wrld_cb2f6666-765c-4060-a42d-fbd4892b7778",
-          "Name": "BB-63 USS Missouri 1990's By katsuobusi24",
-          "RecommendedCapacity": 40,
-          "Capacity": 40,
-          "Description": "Fan world of BB-63 Missouri 1990's ⁄ Museum Mode Updateǃ",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
-          "AuthorName": "katsuobusi24",
-          "CreatedAt": "2023-12-23T16:06:46.654Z",
-          "UpdatedAt": "2025-08-18T06:36:32.372Z"
         },
         {
           "ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
@@ -1686,22 +1702,6 @@
           "UpdatedAt": "2024-09-26T10:38:07.047Z"
         },
         {
-          "ID": "wrld_eff40f82-b5af-433f-8d87-c36e6408652a",
-          "Name": "Shinjuku By TAGOb6c",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "Tokyo‚ Shinjuku ⁄ CHIKUWA VEHICLE SYSTEM 2 ⁄ SaccFlightAndVehicles",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_ec560876-ce34-4ab0-84d3-f7f078784189",
-          "AuthorName": "TAGOb6c",
-          "CreatedAt": "2024-04-02T20:51:03.384Z",
-          "UpdatedAt": "2024-09-16T06:22:32.113Z"
-        },
-        {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
           "Name": "Chikuwa OvalPipe Drive By DoritosDontacos",
           "RecommendedCapacity": 16,
@@ -1876,22 +1876,6 @@
           "AuthorName": "Yumemidori",
           "CreatedAt": "2023-07-10T10:24:00.227Z",
           "UpdatedAt": "2024-05-08T15:28:26.338Z"
-        },
-        {
-          "ID": "wrld_f7e6272e-5bf1-490d-bf9c-d676f957c77f",
-          "Name": "Countryside Drive By Star Glider",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "A large forest map with plenty of roads‚ places to explore․ Various vehicles to drive（saccflight system）․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_6934bebb-a620-4f22-bcd7-260f5dc335a1",
-          "AuthorName": "Star Glider",
-          "CreatedAt": "2024-04-05T21:58:03.683Z",
-          "UpdatedAt": "2024-05-08T08:00:59.406Z"
         },
         {
           "ID": "wrld_e574bbd4-e020-4c49-8287-8edb163cfd3f",
@@ -3320,7 +3304,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-09-21T09:53:44.992Z"
+          "UpdatedAt": "2025-09-23T06:57:03.321Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -3544,7 +3528,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-08-22T08:16:16.609Z"
+          "UpdatedAt": "2025-09-26T13:14:56.516Z"
         },
         {
           "ID": "wrld_20e181eb-50ed-419a-898f-8b999e94c401",
@@ -4136,7 +4120,7 @@
           "AuthorId": "usr_6934bebb-a620-4f22-bcd7-260f5dc335a1",
           "AuthorName": "Star Glider",
           "CreatedAt": "2024-04-05T21:58:03.683Z",
-          "UpdatedAt": "2024-05-08T08:00:59.406Z"
+          "UpdatedAt": "2025-09-23T08:48:06.269Z"
         },
         {
           "ID": "wrld_7a5b8b94-a660-44b9-a0f3-ed7d34c97f3c",
@@ -4153,22 +4137,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-04-04T08:03:31.567Z",
           "UpdatedAt": "2025-01-03T06:53:28.221Z"
-        },
-        {
-          "ID": "wrld_eff40f82-b5af-433f-8d87-c36e6408652a",
-          "Name": "Shinjuku By TAGOb6c",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "Tokyo‚ Shinjuku ⁄ CHIKUWA VEHICLE SYSTEM 2 ⁄ SaccFlightAndVehicles",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_ec560876-ce34-4ab0-84d3-f7f078784189",
-          "AuthorName": "TAGOb6c",
-          "CreatedAt": "2024-04-02T20:51:03.384Z",
-          "UpdatedAt": "2024-09-16T06:22:32.113Z"
         },
         {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
@@ -4408,7 +4376,7 @@
           "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
           "AuthorName": "katsuobusi24",
           "CreatedAt": "2023-12-23T16:06:46.654Z",
-          "UpdatedAt": "2025-08-18T06:36:32.372Z"
+          "UpdatedAt": "2025-09-23T04:38:57.33Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -5976,7 +5944,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-09-12T22:54:48.118Z"
+          "UpdatedAt": "2025-09-25T15:35:28.927Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -6237,7 +6205,7 @@
           "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
           "AuthorName": "katsuobusi24",
           "CreatedAt": "2023-12-23T16:06:46.654Z",
-          "UpdatedAt": "2025-08-18T06:36:32.372Z"
+          "UpdatedAt": "2025-09-23T04:38:57.33Z"
         },
         {
           "ID": "wrld_914b4821-162b-47da-b0c6-376231d9ecaa",
@@ -6429,7 +6397,7 @@
           "AuthorId": "usr_6934bebb-a620-4f22-bcd7-260f5dc335a1",
           "AuthorName": "Star Glider",
           "CreatedAt": "2024-04-05T21:58:03.683Z",
-          "UpdatedAt": "2024-05-08T08:00:59.406Z"
+          "UpdatedAt": "2025-09-23T08:48:06.269Z"
         },
         {
           "ID": "wrld_9a680289-7f96-42a6-a209-76c48ac1aa44",
@@ -7325,7 +7293,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-08-22T08:16:16.609Z"
+          "UpdatedAt": "2025-09-26T13:14:56.516Z"
         },
         {
           "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
@@ -7648,22 +7616,6 @@
           "UpdatedAt": "2025-08-12T13:06:03.574Z"
         },
         {
-          "ID": "wrld_eff40f82-b5af-433f-8d87-c36e6408652a",
-          "Name": "Shinjuku By TAGOb6c",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "Tokyo‚ Shinjuku ⁄ CHIKUWA VEHICLE SYSTEM 2 ⁄ SaccFlightAndVehicles",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_ec560876-ce34-4ab0-84d3-f7f078784189",
-          "AuthorName": "TAGOb6c",
-          "CreatedAt": "2024-04-02T20:51:03.384Z",
-          "UpdatedAt": "2024-09-16T06:22:32.113Z"
-        },
-        {
           "ID": "wrld_76d3b968-d337-46d4-be15-3cd840dba188",
           "Name": "sightseeing in yamato By シン《symphony》",
           "RecommendedCapacity": 16,
@@ -7821,7 +7773,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-09-12T22:54:48.118Z"
+          "UpdatedAt": "2025-09-25T15:35:28.927Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -8541,7 +8493,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-09-21T09:53:44.992Z"
+          "UpdatedAt": "2025-09-23T06:57:03.321Z"
         },
         {
           "ID": "wrld_366d09a6-859e-4340-8325-801bc4267d52",
@@ -9650,7 +9602,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-09-21T09:53:44.992Z"
+          "UpdatedAt": "2025-09-23T06:57:03.321Z"
         },
         {
           "ID": "wrld_614b53a7-b0d2-4b91-9266-42ff17a2dbe0",
@@ -9730,7 +9682,7 @@
           "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
           "AuthorName": "katsuobusi24",
           "CreatedAt": "2023-12-23T16:06:46.654Z",
-          "UpdatedAt": "2025-08-18T06:36:32.372Z"
+          "UpdatedAt": "2025-09-23T04:38:57.33Z"
         },
         {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
@@ -10418,7 +10370,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-09-12T22:54:48.118Z"
+          "UpdatedAt": "2025-09-25T15:35:28.927Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -10642,7 +10594,7 @@
           "AuthorId": "usr_6934bebb-a620-4f22-bcd7-260f5dc335a1",
           "AuthorName": "Star Glider",
           "CreatedAt": "2024-04-05T21:58:03.683Z",
-          "UpdatedAt": "2024-05-08T08:00:59.406Z"
+          "UpdatedAt": "2025-09-23T08:48:06.269Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -10675,22 +10627,6 @@
           "AuthorName": "Swifter1",
           "CreatedAt": "2022-10-07T09:22:21.832Z",
           "UpdatedAt": "2022-10-21T00:24:35.226Z"
-        },
-        {
-          "ID": "wrld_eff40f82-b5af-433f-8d87-c36e6408652a",
-          "Name": "Shinjuku By TAGOb6c",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "Tokyo‚ Shinjuku ⁄ CHIKUWA VEHICLE SYSTEM 2 ⁄ SaccFlightAndVehicles",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_ec560876-ce34-4ab0-84d3-f7f078784189",
-          "AuthorName": "TAGOb6c",
-          "CreatedAt": "2024-04-02T20:51:03.384Z",
-          "UpdatedAt": "2024-09-16T06:22:32.113Z"
         },
         {
           "ID": "wrld_c16cb7a7-d861-4d41-be2f-6e9ac97b4c5a",
@@ -11842,7 +11778,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-08-22T08:16:16.609Z"
+          "UpdatedAt": "2025-09-26T13:14:56.516Z"
         },
         {
           "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
