@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
+          "Name": "Yui's Home 2․4 By Yui Asakura",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "部屋と空港と空母。航空機の武装は一部を除き解除してあります。Rooms‚ airports and aircraft carriers․ Aircraft are disarmed․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
+          "AuthorName": "Yui Asakura",
+          "CreatedAt": "2024-06-14T11:16:01.481Z",
+          "UpdatedAt": "2025-09-29T11:12:39.779Z"
+        },
+        {
+          "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
+          "Name": "City MIO for Vehicle World By シン《symphony》",
+          "RecommendedCapacity": 20,
+          "Capacity": 35,
+          "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
+          "AuthorName": "シン《symphony》",
+          "CreatedAt": "2024-04-29T14:00:54.172Z",
+          "UpdatedAt": "2025-09-28T05:38:34.87Z"
+        },
+        {
           "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
           "Name": "Missile dancing By わたぼー",
           "RecommendedCapacity": 4,
@@ -19,7 +51,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-09-26T13:14:56.516Z"
+          "UpdatedAt": "2025-09-27T13:11:49.134Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -116,38 +148,6 @@
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
           "UpdatedAt": "2025-09-21T05:38:31.92Z"
-        },
-        {
-          "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
-          "Name": "City MIO for Vehicle World By シン《symphony》",
-          "RecommendedCapacity": 20,
-          "Capacity": 34,
-          "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
-          "AuthorName": "シン《symphony》",
-          "CreatedAt": "2024-04-29T14:00:54.172Z",
-          "UpdatedAt": "2025-09-20T23:57:51.575Z"
-        },
-        {
-          "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
-          "Name": "Yui's Home 2․4 By Yui Asakura",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "部屋と空港と空母。航空機の武装は一部を除き解除してあります。Rooms‚ airports and aircraft carriers․ Aircraft are disarmed․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
-          "AuthorName": "Yui Asakura",
-          "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-09-17T06:06:03.885Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -3528,7 +3528,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-09-26T13:14:56.516Z"
+          "UpdatedAt": "2025-09-27T13:11:49.134Z"
         },
         {
           "ID": "wrld_20e181eb-50ed-419a-898f-8b999e94c401",
@@ -3944,7 +3944,7 @@
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-09-17T06:06:03.885Z"
+          "UpdatedAt": "2025-09-29T11:12:39.779Z"
         },
         {
           "ID": "wrld_968264e3-10d1-490b-8b8e-b9322cf6a1e6",
@@ -4078,7 +4078,7 @@
           "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
           "Name": "City MIO for Vehicle World By シン《symphony》",
           "RecommendedCapacity": 20,
-          "Capacity": 34,
+          "Capacity": 35,
           "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
@@ -4088,7 +4088,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2024-04-29T14:00:54.172Z",
-          "UpdatedAt": "2025-09-20T23:57:51.575Z"
+          "UpdatedAt": "2025-09-28T05:38:34.87Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -6307,7 +6307,7 @@
           "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
           "Name": "City MIO for Vehicle World By シン《symphony》",
           "RecommendedCapacity": 20,
-          "Capacity": 34,
+          "Capacity": 35,
           "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
@@ -6317,7 +6317,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2024-04-29T14:00:54.172Z",
-          "UpdatedAt": "2025-09-20T23:57:51.575Z"
+          "UpdatedAt": "2025-09-28T05:38:34.87Z"
         },
         {
           "ID": "wrld_f76f9974-9c8b-49b1-83d3-3a1f9b4da8cf",
@@ -7293,7 +7293,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-09-26T13:14:56.516Z"
+          "UpdatedAt": "2025-09-27T13:11:49.134Z"
         },
         {
           "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
@@ -8013,7 +8013,7 @@
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-09-17T06:06:03.885Z"
+          "UpdatedAt": "2025-09-29T11:12:39.779Z"
         },
         {
           "ID": "wrld_56b5b37b-7470-43d7-beb1-2bad3abcd222",
@@ -10834,7 +10834,7 @@
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
-          "UpdatedAt": "2025-09-17T06:06:03.885Z"
+          "UpdatedAt": "2025-09-29T11:12:39.779Z"
         },
         {
           "ID": "wrld_ca93c2e1-5405-4ff3-bf41-6c94ce1a6c33",
@@ -11224,7 +11224,7 @@
           "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
           "Name": "City MIO for Vehicle World By シン《symphony》",
           "RecommendedCapacity": 20,
-          "Capacity": 34,
+          "Capacity": 35,
           "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
@@ -11234,7 +11234,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2024-04-29T14:00:54.172Z",
-          "UpdatedAt": "2025-09-20T23:57:51.575Z"
+          "UpdatedAt": "2025-09-28T05:38:34.87Z"
         },
         {
           "ID": "wrld_2acbbdb3-2da1-45ab-8a85-76ec7a67d435",
@@ -11778,7 +11778,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-09-26T13:14:56.516Z"
+          "UpdatedAt": "2025-09-27T13:11:49.134Z"
         },
         {
           "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
