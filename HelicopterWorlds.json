@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
+          "Name": "SummerNightFlight ~IwoTo～ By 限界機関長",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドで夏案釣り。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
+          "AuthorName": "限界機関長",
+          "CreatedAt": "2024-08-04T12:24:16.351Z",
+          "UpdatedAt": "2025-10-03T17:58:29.463Z"
+        },
+        {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
           "Name": "Yui's Home 2․4 By Yui Asakura",
           "RecommendedCapacity": 16,
@@ -564,22 +580,6 @@
           "AuthorName": "ぐらまむ",
           "CreatedAt": "2025-03-06T06:07:00.865Z",
           "UpdatedAt": "2025-08-12T13:06:03.574Z"
-        },
-        {
-          "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
-          "Name": "「硫黄島納涼祭」SummerNightFlight ~IwoTo～ By 限界機関長",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドで夏案釣り。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
-          "AuthorName": "限界機関長",
-          "CreatedAt": "2024-08-04T12:24:16.351Z",
-          "UpdatedAt": "2025-08-11T09:03:47.815Z"
         },
         {
           "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
@@ -3772,7 +3772,7 @@
         },
         {
           "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
-          "Name": "「硫黄島納涼祭」SummerNightFlight ~IwoTo～ By 限界機関長",
+          "Name": "SummerNightFlight ~IwoTo～ By 限界機関長",
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドで夏案釣り。",
@@ -3784,7 +3784,7 @@
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
           "AuthorName": "限界機関長",
           "CreatedAt": "2024-08-04T12:24:16.351Z",
-          "UpdatedAt": "2025-08-11T09:03:47.815Z"
+          "UpdatedAt": "2025-10-03T17:58:29.463Z"
         },
         {
           "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
@@ -6064,22 +6064,6 @@
           "UpdatedAt": "2022-04-14T06:30:54.605Z"
         },
         {
-          "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
-          "Name": "「硫黄島納涼祭」SummerNightFlight ~IwoTo～ By 限界機関長",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドで夏案釣り。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
-          "AuthorName": "限界機関長",
-          "CreatedAt": "2024-08-04T12:24:16.351Z",
-          "UpdatedAt": "2025-08-11T09:03:47.815Z"
-        },
-        {
           "ID": "wrld_c6846d53-a644-442f-b4d3-c02a73d58975",
           "Name": "A56-7W＋桜（高ポリ） By 萩キャンパーJP",
           "RecommendedCapacity": 16,
@@ -7710,6 +7694,22 @@
           "AuthorName": "限界機関長",
           "CreatedAt": "2023-06-11T15:23:13.33Z",
           "UpdatedAt": "2025-08-29T15:32:55.87Z"
+        },
+        {
+          "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
+          "Name": "SummerNightFlight ~IwoTo～ By 限界機関長",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドで夏案釣り。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
+          "AuthorName": "限界機関長",
+          "CreatedAt": "2024-08-04T12:24:16.351Z",
+          "UpdatedAt": "2025-10-03T17:58:29.463Z"
         },
         {
           "ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
@@ -11782,7 +11782,7 @@
         },
         {
           "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
-          "Name": "「硫黄島納涼祭」SummerNightFlight ~IwoTo～ By 限界機関長",
+          "Name": "SummerNightFlight ~IwoTo～ By 限界機関長",
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドで夏案釣り。",
@@ -11794,7 +11794,7 @@
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
           "AuthorName": "限界機関長",
           "CreatedAt": "2024-08-04T12:24:16.351Z",
-          "UpdatedAt": "2025-08-11T09:03:47.815Z"
+          "UpdatedAt": "2025-10-03T17:58:29.463Z"
         },
         {
           "ID": "wrld_a824c395-45ff-4de9-a65d-07a724d2de8d",
