@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
+          "Name": "catch＆Shootǃǃ 2 By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-10-04T14:23:01.112Z",
+          "UpdatedAt": "2025-10-11T13:17:35.534Z"
+        },
+        {
           "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
           "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
           "RecommendedCapacity": 16,
@@ -19,7 +35,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-10-09T18:21:41.948Z"
+          "UpdatedAt": "2025-10-10T18:36:29.194Z"
         },
         {
           "ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
@@ -628,22 +644,6 @@
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
           "UpdatedAt": "2025-08-01T12:24:41.894Z"
-        },
-        {
-          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
-          "Name": "catch＆Shootǃǃ 2 By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-07-31T10:53:59.348Z"
         },
         {
           "ID": "wrld_046a5db3-fd6a-4f37-a5f8-6038bb82ba53",
@@ -3176,7 +3176,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-10-09T18:21:41.948Z"
+          "UpdatedAt": "2025-10-10T18:36:29.194Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -3640,7 +3640,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-07-31T10:53:59.348Z"
+          "UpdatedAt": "2025-10-11T13:17:35.534Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -6301,7 +6301,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-07-31T10:53:59.348Z"
+          "UpdatedAt": "2025-10-11T13:17:35.534Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -8941,7 +8941,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-10-09T18:21:41.948Z"
+          "UpdatedAt": "2025-10-10T18:36:29.194Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -10450,7 +10450,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-07-31T10:53:59.348Z"
+          "UpdatedAt": "2025-10-11T13:17:35.534Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -11522,7 +11522,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-10-09T18:21:41.948Z"
+          "UpdatedAt": "2025-10-10T18:36:29.194Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
