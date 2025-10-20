@@ -6,20 +6,20 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
-          "Name": "catch＆Shootǃǃ 2 By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
+          "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
+          "Name": "海虹国際空港 RJKK A320 By Kanlll",
+          "RecommendedCapacity": 20,
+          "Capacity": 80,
+          "Description": "リアルな旅客機を飛ばせるマップ。 日本をベースとしています。 能飞帅气的客机 做的像日本 You can flight cool airplane․ This map like Japan",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": true
+            "Android": false
           },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-10-11T13:17:35.534Z"
+          "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
+          "AuthorName": "Kanlll",
+          "CreatedAt": "2025-02-25T12:26:24.326Z",
+          "UpdatedAt": "2025-10-20T03:15:57.516Z"
         },
         {
           "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
@@ -35,7 +35,71 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-10-10T18:36:29.194Z"
+          "UpdatedAt": "2025-10-19T22:44:52.143Z"
+        },
+        {
+          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+          "Name": "Test Pilots By Sacchan",
+          "RecommendedCapacity": 16,
+          "Capacity": 44,
+          "Description": "For those who love flying․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2020-04-07T09:27:04.715Z",
+          "UpdatedAt": "2025-10-19T14:21:18.064Z"
+        },
+        {
+          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
+          "Name": "catch＆Shootǃǃ 2 By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-10-04T14:23:01.112Z",
+          "UpdatedAt": "2025-10-19T02:43:43.265Z"
+        },
+        {
+          "ID": "wrld_ce7e0f34-ef81-4812-81a6-a580bf14351a",
+          "Name": "ないとふらいと By ミーさん",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "「シネマトグラフの印象は、あまりにも異常で複雑だ。それはまるで黄泉の国であった。 すべては奇妙な沈黙の中で進行する。 馬車の轍の響きも足音も会話も聞こえてこない。人のほほえみには音がない。」Максим Горький",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
+          "AuthorName": "ミーさん",
+          "CreatedAt": "2024-05-29T13:45:47.332Z",
+          "UpdatedAt": "2025-10-16T16:48:41.335Z"
+        },
+        {
+          "ID": "wrld_cb2f6666-765c-4060-a42d-fbd4892b7778",
+          "Name": "BB-63 USS Missouri 1990's By katsuobusi24",
+          "RecommendedCapacity": 40,
+          "Capacity": 40,
+          "Description": "Fan world of BB-63 Missouri 1990's ⁄ Museum Mode Updateǃ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
+          "AuthorName": "katsuobusi24",
+          "CreatedAt": "2023-12-23T16:06:46.654Z",
+          "UpdatedAt": "2025-10-13T09:57:16.203Z"
         },
         {
           "ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
@@ -134,22 +198,6 @@
           "UpdatedAt": "2025-09-27T13:11:49.134Z"
         },
         {
-          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
-          "Name": "Test Pilots By Sacchan",
-          "RecommendedCapacity": 12,
-          "Capacity": 44,
-          "Description": "For those who love flying․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-09-25T15:35:28.927Z"
-        },
-        {
           "ID": "wrld_f7e6272e-5bf1-490d-bf9c-d676f957c77f",
           "Name": "Countryside Drive By Star Glider",
           "RecommendedCapacity": 16,
@@ -164,38 +212,6 @@
           "AuthorName": "Star Glider",
           "CreatedAt": "2024-04-05T21:58:03.683Z",
           "UpdatedAt": "2025-09-23T08:48:06.269Z"
-        },
-        {
-          "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
-          "Name": "海虹国際空港 RJKK A320 By Kanlll",
-          "RecommendedCapacity": 20,
-          "Capacity": 80,
-          "Description": "リアルな旅客機を飛ばせるマップ。 日本をベースとしています。 能飞帅气的客机 做的像日本 You can flight cool airplane․ This map like Japan",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
-          "AuthorName": "Kanlll",
-          "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-09-23T06:57:03.321Z"
-        },
-        {
-          "ID": "wrld_cb2f6666-765c-4060-a42d-fbd4892b7778",
-          "Name": "BB-63 USS Missouri 1990's By katsuobusi24",
-          "RecommendedCapacity": 40,
-          "Capacity": 40,
-          "Description": "Fan world of BB-63 Missouri 1990's ⁄ Museum Mode Updateǃ",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
-          "AuthorName": "katsuobusi24",
-          "CreatedAt": "2023-12-23T16:06:46.654Z",
-          "UpdatedAt": "2025-09-23T04:38:57.33Z"
         },
         {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
@@ -1143,7 +1159,7 @@
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
-          "Name": "Ka52 Test World By eleyp vr",
+          "Name": "Ka52 Test World By 『 B a s i l 』",
           "RecommendedCapacity": 9,
           "Capacity": 10,
           "Description": "Ka52 Test World with apache's",
@@ -1153,13 +1169,13 @@
             "Android": true
           },
           "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
-          "AuthorName": "eleyp vr",
+          "AuthorName": "『 B a s i l 』",
           "CreatedAt": "2024-05-02T20:11:46.466Z",
           "UpdatedAt": "2025-03-20T17:44:02.304Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
-          "Name": "Mi35M test world By eleyp vr",
+          "Name": "Mi35M test world By 『 B a s i l 』",
           "RecommendedCapacity": 14,
           "Capacity": 14,
           "Description": "just a world for testing some stuff with helis",
@@ -1169,7 +1185,7 @@
             "Android": true
           },
           "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
-          "AuthorName": "eleyp vr",
+          "AuthorName": "『 B a s i l 』",
           "CreatedAt": "2025-02-26T22:16:11.988Z",
           "UpdatedAt": "2025-03-12T16:15:35.442Z"
         },
@@ -1252,22 +1268,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-01-18T08:21:27.16Z",
           "UpdatedAt": "2025-02-09T02:09:34.687Z"
-        },
-        {
-          "ID": "wrld_ce7e0f34-ef81-4812-81a6-a580bf14351a",
-          "Name": "ないとふらいと By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "陰鬱とした夜を飛びたい人向け。 ラジオゾーンはリスポーン地点あたり、 機銃は撃てません。 離陸時はエンジントルクにお気を付けください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-05-29T13:45:47.332Z",
-          "UpdatedAt": "2025-02-05T12:31:58.694Z"
         },
         {
           "ID": "wrld_ad87f40b-6492-4b06-9200-3e6b98912ded",
@@ -1572,22 +1572,6 @@
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2023-03-26T02:20:36.586Z",
           "UpdatedAt": "2024-11-16T13:56:13.749Z"
-        },
-        {
-          "ID": "wrld_51f34439-0b1e-4606-b3eb-20639b233e00",
-          "Name": "U＋1F728⁄point：B By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "不法投棄されたダイソン球用建築資材の端材は過疎惑星U＋1F728へと降り注ぎ、その風景を一変させたがもはや人々がこの星に感心を向ける事はなかった。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-05-24T13:53:52.953Z",
-          "UpdatedAt": "2024-11-14T12:31:01.636Z"
         },
         {
           "ID": "wrld_0aa5f8b3-b21e-44b9-9447-c91ff7b616e9",
@@ -3176,7 +3160,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-10-10T18:36:29.194Z"
+          "UpdatedAt": "2025-10-19T22:44:52.143Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -3308,7 +3292,7 @@
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
-          "Name": "Mi35M test world By eleyp vr",
+          "Name": "Mi35M test world By 『 B a s i l 』",
           "RecommendedCapacity": 14,
           "Capacity": 14,
           "Description": "just a world for testing some stuff with helis",
@@ -3318,7 +3302,7 @@
             "Android": true
           },
           "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
-          "AuthorName": "eleyp vr",
+          "AuthorName": "『 B a s i l 』",
           "CreatedAt": "2025-02-26T22:16:11.988Z",
           "UpdatedAt": "2025-03-12T16:15:35.442Z"
         },
@@ -3336,7 +3320,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-09-23T06:57:03.321Z"
+          "UpdatedAt": "2025-10-20T03:15:57.516Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -3640,7 +3624,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-10-11T13:17:35.534Z"
+          "UpdatedAt": "2025-10-19T02:43:43.265Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -4047,7 +4031,7 @@
           "Name": "ないとふらいと By ミーさん",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "陰鬱とした夜を飛びたい人向け。 ラジオゾーンはリスポーン地点あたり、 機銃は撃てません。 離陸時はエンジントルクにお気を付けください。",
+          "Description": "「シネマトグラフの印象は、あまりにも異常で複雑だ。それはまるで黄泉の国であった。 すべては奇妙な沈黙の中で進行する。 馬車の轍の響きも足音も会話も聞こえてこない。人のほほえみには音がない。」Максим Горький",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -4056,23 +4040,7 @@
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-05-29T13:45:47.332Z",
-          "UpdatedAt": "2025-02-05T12:31:58.694Z"
-        },
-        {
-          "ID": "wrld_51f34439-0b1e-4606-b3eb-20639b233e00",
-          "Name": "U＋1F728⁄point：B By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "不法投棄されたダイソン球用建築資材の端材は過疎惑星U＋1F728へと降り注ぎ、その風景を一変させたがもはや人々がこの星に感心を向ける事はなかった。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-05-24T13:53:52.953Z",
-          "UpdatedAt": "2024-11-14T12:31:01.636Z"
+          "UpdatedAt": "2025-10-16T16:48:41.335Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -4092,7 +4060,7 @@
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
-          "Name": "Ka52 Test World By eleyp vr",
+          "Name": "Ka52 Test World By 『 B a s i l 』",
           "RecommendedCapacity": 9,
           "Capacity": 10,
           "Description": "Ka52 Test World with apache's",
@@ -4102,7 +4070,7 @@
             "Android": true
           },
           "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
-          "AuthorName": "eleyp vr",
+          "AuthorName": "『 B a s i l 』",
           "CreatedAt": "2024-05-02T20:11:46.466Z",
           "UpdatedAt": "2025-03-20T17:44:02.304Z"
         },
@@ -4403,12 +4371,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
           "AuthorName": "katsuobusi24",
           "CreatedAt": "2023-12-23T16:06:46.654Z",
-          "UpdatedAt": "2025-09-23T04:38:57.33Z"
+          "UpdatedAt": "2025-10-13T09:57:16.203Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -5965,7 +5933,7 @@
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
           "Name": "Test Pilots By Sacchan",
-          "RecommendedCapacity": 12,
+          "RecommendedCapacity": 16,
           "Capacity": 44,
           "Description": "For those who love flying․",
           "ReleaseStatus": "public",
@@ -5976,7 +5944,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-09-25T15:35:28.927Z"
+          "UpdatedAt": "2025-10-19T14:21:18.064Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -6216,12 +6184,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
           "AuthorName": "katsuobusi24",
           "CreatedAt": "2023-12-23T16:06:46.654Z",
-          "UpdatedAt": "2025-09-23T04:38:57.33Z"
+          "UpdatedAt": "2025-10-13T09:57:16.203Z"
         },
         {
           "ID": "wrld_914b4821-162b-47da-b0c6-376231d9ecaa",
@@ -6301,7 +6269,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-10-11T13:17:35.534Z"
+          "UpdatedAt": "2025-10-19T02:43:43.265Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -7153,7 +7121,7 @@
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
-          "Name": "Ka52 Test World By eleyp vr",
+          "Name": "Ka52 Test World By 『 B a s i l 』",
           "RecommendedCapacity": 9,
           "Capacity": 10,
           "Description": "Ka52 Test World with apache's",
@@ -7163,7 +7131,7 @@
             "Android": true
           },
           "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
-          "AuthorName": "eleyp vr",
+          "AuthorName": "『 B a s i l 』",
           "CreatedAt": "2024-05-02T20:11:46.466Z",
           "UpdatedAt": "2025-03-20T17:44:02.304Z"
         },
@@ -7265,7 +7233,7 @@
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
-          "Name": "Mi35M test world By eleyp vr",
+          "Name": "Mi35M test world By 『 B a s i l 』",
           "RecommendedCapacity": 14,
           "Capacity": 14,
           "Description": "just a world for testing some stuff with helis",
@@ -7275,7 +7243,7 @@
             "Android": true
           },
           "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
-          "AuthorName": "eleyp vr",
+          "AuthorName": "『 B a s i l 』",
           "CreatedAt": "2025-02-26T22:16:11.988Z",
           "UpdatedAt": "2025-03-12T16:15:35.442Z"
         },
@@ -7794,7 +7762,7 @@
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
           "Name": "Test Pilots By Sacchan",
-          "RecommendedCapacity": 12,
+          "RecommendedCapacity": 16,
           "Capacity": 44,
           "Description": "For those who love flying․",
           "ReleaseStatus": "public",
@@ -7805,7 +7773,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-09-25T15:35:28.927Z"
+          "UpdatedAt": "2025-10-19T14:21:18.064Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -7886,22 +7854,6 @@
           "AuthorName": "星見そら",
           "CreatedAt": "2021-04-09T16:29:32.371Z",
           "UpdatedAt": "2023-09-21T12:21:42.165Z"
-        },
-        {
-          "ID": "wrld_51f34439-0b1e-4606-b3eb-20639b233e00",
-          "Name": "U＋1F728⁄point：B By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "不法投棄されたダイソン球用建築資材の端材は過疎惑星U＋1F728へと降り注ぎ、その風景を一変させたがもはや人々がこの星に感心を向ける事はなかった。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-05-24T13:53:52.953Z",
-          "UpdatedAt": "2024-11-14T12:31:01.636Z"
         },
         {
           "ID": "wrld_2da29b7f-8f26-4fa5-afc0-3936a5a20cbc",
@@ -8308,7 +8260,7 @@
           "Name": "ないとふらいと By ミーさん",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "陰鬱とした夜を飛びたい人向け。 ラジオゾーンはリスポーン地点あたり、 機銃は撃てません。 離陸時はエンジントルクにお気を付けください。",
+          "Description": "「シネマトグラフの印象は、あまりにも異常で複雑だ。それはまるで黄泉の国であった。 すべては奇妙な沈黙の中で進行する。 馬車の轍の響きも足音も会話も聞こえてこない。人のほほえみには音がない。」Максим Горький",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -8317,7 +8269,7 @@
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-05-29T13:45:47.332Z",
-          "UpdatedAt": "2025-02-05T12:31:58.694Z"
+          "UpdatedAt": "2025-10-16T16:48:41.335Z"
         },
         {
           "ID": "wrld_bd5474da-9f92-448e-9076-de2716e2e20a",
@@ -8525,7 +8477,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-09-23T06:57:03.321Z"
+          "UpdatedAt": "2025-10-20T03:15:57.516Z"
         },
         {
           "ID": "wrld_366d09a6-859e-4340-8325-801bc4267d52",
@@ -8941,7 +8893,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-10-10T18:36:29.194Z"
+          "UpdatedAt": "2025-10-19T22:44:52.143Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -9043,6 +8995,38 @@
           "AuthorName": "-みや-",
           "CreatedAt": "2024-11-30T04:30:27.819Z",
           "UpdatedAt": "2024-12-08T03:56:31.01Z"
+        },
+        {
+          "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
+          "Name": "Mi35M test world By 『 B a s i l 』",
+          "RecommendedCapacity": 14,
+          "Capacity": 14,
+          "Description": "just a world for testing some stuff with helis",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
+          "AuthorName": "『 B a s i l 』",
+          "CreatedAt": "2025-02-26T22:16:11.988Z",
+          "UpdatedAt": "2025-03-12T16:15:35.442Z"
+        },
+        {
+          "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
+          "Name": "Ka52 Test World By 『 B a s i l 』",
+          "RecommendedCapacity": 9,
+          "Capacity": 10,
+          "Description": "Ka52 Test World with apache's",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
+          "AuthorName": "『 B a s i l 』",
+          "CreatedAt": "2024-05-02T20:11:46.466Z",
+          "UpdatedAt": "2025-03-20T17:44:02.304Z"
         },
         {
           "ID": "wrld_8fee122b-ad23-4ae7-9d8d-a2548a5b4ad0",
@@ -9315,38 +9299,6 @@
           "AuthorName": "DoritosDontacos",
           "CreatedAt": "2024-09-03T11:36:08.549Z",
           "UpdatedAt": "2024-09-16T05:56:25.751Z"
-        },
-        {
-          "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
-          "Name": "Mi35M test world By eleyp vr",
-          "RecommendedCapacity": 14,
-          "Capacity": 14,
-          "Description": "just a world for testing some stuff with helis",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
-          "AuthorName": "eleyp vr",
-          "CreatedAt": "2025-02-26T22:16:11.988Z",
-          "UpdatedAt": "2025-03-12T16:15:35.442Z"
-        },
-        {
-          "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
-          "Name": "Ka52 Test World By eleyp vr",
-          "RecommendedCapacity": 9,
-          "Capacity": 10,
-          "Description": "Ka52 Test World with apache's",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0ca5af7f-d145-4d69-b280-e467c22ac806",
-          "AuthorName": "eleyp vr",
-          "CreatedAt": "2024-05-02T20:11:46.466Z",
-          "UpdatedAt": "2025-03-20T17:44:02.304Z"
         },
         {
           "ID": "wrld_1d45de10-31fc-409c-8bd7-a1fc19839c81",
@@ -9650,7 +9602,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-09-23T06:57:03.321Z"
+          "UpdatedAt": "2025-10-20T03:15:57.516Z"
         },
         {
           "ID": "wrld_614b53a7-b0d2-4b91-9266-42ff17a2dbe0",
@@ -9725,12 +9677,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
           "AuthorName": "katsuobusi24",
           "CreatedAt": "2023-12-23T16:06:46.654Z",
-          "UpdatedAt": "2025-09-23T04:38:57.33Z"
+          "UpdatedAt": "2025-10-13T09:57:16.203Z"
         },
         {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
@@ -10407,7 +10359,7 @@
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
           "Name": "Test Pilots By Sacchan",
-          "RecommendedCapacity": 12,
+          "RecommendedCapacity": 16,
           "Capacity": 44,
           "Description": "For those who love flying․",
           "ReleaseStatus": "public",
@@ -10418,7 +10370,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-09-25T15:35:28.927Z"
+          "UpdatedAt": "2025-10-19T14:21:18.064Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -10450,7 +10402,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-10-11T13:17:35.534Z"
+          "UpdatedAt": "2025-10-19T02:43:43.265Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -11522,7 +11474,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-10-10T18:36:29.194Z"
+          "UpdatedAt": "2025-10-19T22:44:52.143Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -11737,7 +11689,7 @@
           "Name": "ないとふらいと By ミーさん",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "陰鬱とした夜を飛びたい人向け。 ラジオゾーンはリスポーン地点あたり、 機銃は撃てません。 離陸時はエンジントルクにお気を付けください。",
+          "Description": "「シネマトグラフの印象は、あまりにも異常で複雑だ。それはまるで黄泉の国であった。 すべては奇妙な沈黙の中で進行する。 馬車の轍の響きも足音も会話も聞こえてこない。人のほほえみには音がない。」Максим Горький",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -11746,23 +11698,7 @@
           "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-05-29T13:45:47.332Z",
-          "UpdatedAt": "2025-02-05T12:31:58.694Z"
-        },
-        {
-          "ID": "wrld_51f34439-0b1e-4606-b3eb-20639b233e00",
-          "Name": "U＋1F728⁄point：B By ミーさん",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "不法投棄されたダイソン球用建築資材の端材は過疎惑星U＋1F728へと降り注ぎ、その風景を一変させたがもはや人々がこの星に感心を向ける事はなかった。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_b0381824-80c4-4612-a01f-7b11831251ca",
-          "AuthorName": "ミーさん",
-          "CreatedAt": "2024-05-24T13:53:52.953Z",
-          "UpdatedAt": "2024-11-14T12:31:01.636Z"
+          "UpdatedAt": "2025-10-16T16:48:41.335Z"
         },
         {
           "ID": "wrld_3869e4ca-c336-4f0a-ab91-1751b0cb41cc",
