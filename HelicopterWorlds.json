@@ -6,36 +6,52 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "ID": "wrld_60300d73-dd92-47d6-a5d3-ad3b7676d0a5",
+          "Name": "Milky-Dawn Junction - 朝焼けジャンクション - By Coquelicotz",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-13T16:03:59.098Z"
-        },
-        {
-          "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
-          "Name": "海虹国際空港 RJKK A320 By Kanlll",
-          "RecommendedCapacity": 20,
-          "Capacity": 80,
-          "Description": "リアルな旅客機を飛ばせるマップ。 日本をベースとしています。 能飞帅气的客机 做的像日本 You can flight cool airplane․ This map like Japan",
+          "Description": "Milky Dawn Junction Note˸Some airplane sounds are borrowed from DavidSkinnerMusic․",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": false
           },
-          "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
-          "AuthorName": "Kanlll",
-          "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-11-11T06:57:07.723Z"
+          "AuthorId": "usr_4cf2c1d9-f965-4f5f-bc24-c76e45f77b13",
+          "AuthorName": "Coquelicotz",
+          "CreatedAt": "2022-06-11T14:03:28.318Z",
+          "UpdatedAt": "2025-11-18T11:35:47.197Z"
+        },
+        {
+          "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
+          "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
+          "RecommendedCapacity": 25,
+          "Capacity": 50,
+          "Description": "港の見える公園のワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
+          "AuthorName": "monoi_sakura",
+          "CreatedAt": "2022-09-15T00:24:50.897Z",
+          "UpdatedAt": "2025-11-18T10:41:24.86Z"
+        },
+        {
+          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
+          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
+          "AuthorName": "Zweikaku",
+          "CreatedAt": "2020-05-17T13:35:24.03Z",
+          "UpdatedAt": "2025-11-18T09:12:14.187Z"
         },
         {
           "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
@@ -51,7 +67,55 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-11-07T01:51:43.185Z"
+          "UpdatedAt": "2025-11-18T00:06:32.257Z"
+        },
+        {
+          "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
+          "Name": "海虹国際空港 RJKK A320 By Kanlll",
+          "RecommendedCapacity": 20,
+          "Capacity": 80,
+          "Description": "リアルな旅客機を飛ばせるマップ。 日本をベースとしています。 能飞帅气的客机 做的像日本 You can flight cool airplane․ This map like Japan",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
+          "AuthorName": "Kanlll",
+          "CreatedAt": "2025-02-25T12:26:24.326Z",
+          "UpdatedAt": "2025-11-17T02:53:17.964Z"
+        },
+        {
+          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
+          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-24T05:36:00.897Z",
+          "UpdatedAt": "2025-11-17T00:07:03.382Z"
+        },
+        {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-11-15T14:32:05.359Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -134,22 +198,6 @@
           "UpdatedAt": "2025-11-02T05:12:31.499Z"
         },
         {
-          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
-          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-11-02T04:32:26.261Z"
-        },
-        {
           "ID": "wrld_15300551-e360-49c2-8aaa-438faa68039e",
           "Name": "??? By ミーさん",
           "RecommendedCapacity": 16,
@@ -164,22 +212,6 @@
           "AuthorName": "ミーさん",
           "CreatedAt": "2024-11-08T06:01:56.549Z",
           "UpdatedAt": "2025-10-30T16:01:55.696Z"
-        },
-        {
-          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
-          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "∗cues top gun anthem∗",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-10-30T10:04:19.824Z"
         },
         {
           "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
@@ -518,22 +550,6 @@
           "UpdatedAt": "2025-09-12T11:19:43.464Z"
         },
         {
-          "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
-          "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
-          "RecommendedCapacity": 25,
-          "Capacity": 50,
-          "Description": "港の見える公園のワールドです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
-          "AuthorName": "monoi_sakura",
-          "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-09-11T05:15:21.158Z"
-        },
-        {
           "ID": "wrld_4f6537fd-1269-4097-b2e5-fbdbaf272cee",
           "Name": "prawn island - プロウン島 By long-potato",
           "RecommendedCapacity": 16,
@@ -836,22 +852,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-04-11T10:11:26.747Z",
           "UpdatedAt": "2025-06-29T11:42:20.646Z"
-        },
-        {
-          "ID": "wrld_60300d73-dd92-47d6-a5d3-ad3b7676d0a5",
-          "Name": "Milky-Dawn Junction - 朝焼けジャンクション - By Coquelicotz",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "Milky Dawn Junction Note˸Some airplane sounds are borrowed from DavidSkinnerMusic․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_4cf2c1d9-f965-4f5f-bc24-c76e45f77b13",
-          "AuthorName": "Coquelicotz",
-          "CreatedAt": "2022-06-11T14:03:28.318Z",
-          "UpdatedAt": "2025-06-26T11:30:18.612Z"
         },
         {
           "ID": "wrld_fc09dc32-8baf-4baf-99bf-e37f2ac12f7b",
@@ -3112,7 +3112,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-11-02T04:32:26.261Z"
+          "UpdatedAt": "2025-11-17T00:07:03.382Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -3272,7 +3272,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-11-11T06:57:07.723Z"
+          "UpdatedAt": "2025-11-17T02:53:17.964Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -3864,7 +3864,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-13T16:03:59.098Z"
+          "UpdatedAt": "2025-11-15T14:32:05.359Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -4600,7 +4600,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-11-07T01:51:43.185Z"
+          "UpdatedAt": "2025-11-18T00:06:32.257Z"
         },
         {
           "ID": "wrld_39515b4c-36c5-4e0b-959e-ece318384025",
@@ -5208,7 +5208,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-09-11T05:15:21.158Z"
+          "UpdatedAt": "2025-11-18T10:41:24.86Z"
         },
         {
           "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
@@ -5336,7 +5336,7 @@
           "AuthorId": "usr_4cf2c1d9-f965-4f5f-bc24-c76e45f77b13",
           "AuthorName": "Coquelicotz",
           "CreatedAt": "2022-06-11T14:03:28.318Z",
-          "UpdatedAt": "2025-06-26T11:30:18.612Z"
+          "UpdatedAt": "2025-11-18T11:35:47.197Z"
         },
         {
           "ID": "wrld_71293f85-7572-4a80-81cc-229b831bf88e",
@@ -5823,7 +5823,7 @@
           "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
           "RecommendedCapacity": 30,
           "Capacity": 60,
-          "Description": "∗cues top gun anthem∗",
+          "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -5832,7 +5832,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-10-30T10:04:19.824Z"
+          "UpdatedAt": "2025-11-18T09:12:14.187Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -6004,7 +6004,7 @@
           "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
           "RecommendedCapacity": 30,
           "Capacity": 60,
-          "Description": "∗cues top gun anthem∗",
+          "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -6013,7 +6013,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-10-30T10:04:19.824Z"
+          "UpdatedAt": "2025-11-18T09:12:14.187Z"
         },
         {
           "ID": "wrld_7e31e3f8-2ea2-4f8d-9d90-1d0e3181fc7c",
@@ -7149,7 +7149,7 @@
           "AuthorId": "usr_4cf2c1d9-f965-4f5f-bc24-c76e45f77b13",
           "AuthorName": "Coquelicotz",
           "CreatedAt": "2022-06-11T14:03:28.318Z",
-          "UpdatedAt": "2025-06-26T11:30:18.612Z"
+          "UpdatedAt": "2025-11-18T11:35:47.197Z"
         },
         {
           "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
@@ -8013,7 +8013,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-13T16:03:59.098Z"
+          "UpdatedAt": "2025-11-15T14:32:05.359Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -8093,7 +8093,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-11-07T01:51:43.185Z"
+          "UpdatedAt": "2025-11-18T00:06:32.257Z"
         },
         {
           "ID": "wrld_96c165cc-bbbc-475c-bc4d-6f002d732e36",
@@ -8285,7 +8285,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-09-11T05:15:21.158Z"
+          "UpdatedAt": "2025-11-18T10:41:24.86Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -8349,7 +8349,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-11-11T06:57:07.723Z"
+          "UpdatedAt": "2025-11-17T02:53:17.964Z"
         },
         {
           "ID": "wrld_366d09a6-859e-4340-8325-801bc4267d52",
@@ -8749,7 +8749,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-11-02T04:32:26.261Z"
+          "UpdatedAt": "2025-11-17T00:07:03.382Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -9106,7 +9106,7 @@
           "AuthorId": "usr_4cf2c1d9-f965-4f5f-bc24-c76e45f77b13",
           "AuthorName": "Coquelicotz",
           "CreatedAt": "2022-06-11T14:03:28.318Z",
-          "UpdatedAt": "2025-06-26T11:30:18.612Z"
+          "UpdatedAt": "2025-11-18T11:35:47.197Z"
         },
         {
           "ID": "wrld_fcf955e1-a712-4973-aa8d-8ee6704452e2",
@@ -9442,7 +9442,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-11-11T06:57:07.723Z"
+          "UpdatedAt": "2025-11-17T02:53:17.964Z"
         },
         {
           "ID": "wrld_614b53a7-b0d2-4b91-9266-42ff17a2dbe0",
@@ -9650,7 +9650,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-09-11T05:15:21.158Z"
+          "UpdatedAt": "2025-11-18T10:41:24.86Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -10626,7 +10626,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-13T16:03:59.098Z"
+          "UpdatedAt": "2025-11-15T14:32:05.359Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -10793,7 +10793,7 @@
           "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
           "RecommendedCapacity": 30,
           "Capacity": 60,
-          "Description": "∗cues top gun anthem∗",
+          "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -10802,7 +10802,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-10-30T10:04:19.824Z"
+          "UpdatedAt": "2025-11-18T09:12:14.187Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -10882,7 +10882,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-11-07T01:51:43.185Z"
+          "UpdatedAt": "2025-11-18T00:06:32.257Z"
         },
         {
           "ID": "wrld_05334b28-c7f5-493c-881d-469634a99c90",
@@ -11330,7 +11330,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-11-02T04:32:26.261Z"
+          "UpdatedAt": "2025-11-17T00:07:03.382Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
