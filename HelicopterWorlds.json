@@ -6,22 +6,6 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
-          "Name": "海虹国際空港 RJKK A320 By Kanlll",
-          "RecommendedCapacity": 20,
-          "Capacity": 80,
-          "Description": "リアルな旅客機を飛ばせるマップ。 日本をベースとしています。 能飞帅气的客机 做的像日本 You can flight cool airplane․ This map like Japan",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
-          "AuthorName": "Kanlll",
-          "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2025-11-24T06:26:14.17Z"
-        },
-        {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
           "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
           "RecommendedCapacity": 25,
@@ -35,7 +19,23 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-11-24T04:15:02.931Z"
+          "UpdatedAt": "2025-11-24T15:42:05.373Z"
+        },
+        {
+          "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
+          "Name": "The Fighter Trainers of ＂425th VTFTW＂ By Yumemidori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "425th VTFTW（第425戦闘訓練飛行隊）の誇る中等練習機、軽戦闘機、そしてBVR向け特別仕様機（YM⁄SuperMOD）の練習機を自由に乗り回すことができるワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
+          "AuthorName": "Yumemidori",
+          "CreatedAt": "2024-05-26T11:18:50.067Z",
+          "UpdatedAt": "2025-11-24T14:56:19.6Z"
         },
         {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
@@ -51,7 +51,23 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-11-23T16:03:18.456Z"
+          "UpdatedAt": "2025-11-24T12:53:36Z"
+        },
+        {
+          "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
+          "Name": "海虹国際空港 RJKK A320 By Kanlll",
+          "RecommendedCapacity": 20,
+          "Capacity": 80,
+          "Description": "リアルな旅客機を飛ばせるマップ。 日本をベースとしています。 能飞帅气的客机 做的像日本 You can flight cool airplane․ This map like Japan",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
+          "AuthorName": "Kanlll",
+          "CreatedAt": "2025-02-25T12:26:24.326Z",
+          "UpdatedAt": "2025-11-24T06:26:14.17Z"
         },
         {
           "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
@@ -4011,6 +4027,22 @@
           "UpdatedAt": "2025-10-28T03:47:58.866Z"
         },
         {
+          "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
+          "Name": "The Fighter Trainers of ＂425th VTFTW＂ By Yumemidori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "425th VTFTW（第425戦闘訓練飛行隊）の誇る中等練習機、軽戦闘機、そしてBVR向け特別仕様機（YM⁄SuperMOD）の練習機を自由に乗り回すことができるワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
+          "AuthorName": "Yumemidori",
+          "CreatedAt": "2024-05-26T11:18:50.067Z",
+          "UpdatedAt": "2025-11-24T14:56:19.6Z"
+        },
+        {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
           "Name": "レスキューヘリ危機一髪 大怪獣24時 By tanabe",
           "RecommendedCapacity": 16,
@@ -4952,7 +4984,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-11-23T16:03:18.456Z"
+          "UpdatedAt": "2025-11-24T12:53:36Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -5272,7 +5304,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-11-24T04:15:02.931Z"
+          "UpdatedAt": "2025-11-24T15:42:05.373Z"
         },
         {
           "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
@@ -7069,7 +7101,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-11-23T16:03:18.456Z"
+          "UpdatedAt": "2025-11-24T12:53:36Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -7728,6 +7760,22 @@
           "UpdatedAt": "2025-10-20T08:35:42.778Z"
         },
         {
+          "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
+          "Name": "The Fighter Trainers of ＂425th VTFTW＂ By Yumemidori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "425th VTFTW（第425戦闘訓練飛行隊）の誇る中等練習機、軽戦闘機、そしてBVR向け特別仕様機（YM⁄SuperMOD）の練習機を自由に乗り回すことができるワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
+          "AuthorName": "Yumemidori",
+          "CreatedAt": "2024-05-26T11:18:50.067Z",
+          "UpdatedAt": "2025-11-24T14:56:19.6Z"
+        },
+        {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
           "Name": "Toad's Turnpike VR By Hagbard Celine",
           "RecommendedCapacity": 24,
@@ -8365,7 +8413,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-11-24T04:15:02.931Z"
+          "UpdatedAt": "2025-11-24T15:42:05.373Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -9746,7 +9794,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-11-24T04:15:02.931Z"
+          "UpdatedAt": "2025-11-24T15:42:05.373Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -10066,7 +10114,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-11-23T16:03:18.456Z"
+          "UpdatedAt": "2025-11-24T12:53:36Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -10787,6 +10835,22 @@
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
           "UpdatedAt": "2025-09-29T11:12:39.779Z"
+        },
+        {
+          "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
+          "Name": "The Fighter Trainers of ＂425th VTFTW＂ By Yumemidori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "425th VTFTW（第425戦闘訓練飛行隊）の誇る中等練習機、軽戦闘機、そしてBVR向け特別仕様機（YM⁄SuperMOD）の練習機を自由に乗り回すことができるワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
+          "AuthorName": "Yumemidori",
+          "CreatedAt": "2024-05-26T11:18:50.067Z",
+          "UpdatedAt": "2025-11-24T14:56:19.6Z"
         },
         {
           "ID": "wrld_ca93c2e1-5405-4ff3-bf41-6c94ce1a6c33",
