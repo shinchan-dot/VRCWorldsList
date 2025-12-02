@@ -19,7 +19,23 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-11-26T20:18:56.49Z"
+          "UpdatedAt": "2025-12-01T19:48:33.419Z"
+        },
+        {
+          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
+          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-24T05:36:00.897Z",
+          "UpdatedAt": "2025-11-30T18:53:12.493Z"
         },
         {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
@@ -35,7 +51,39 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-11-26T13:03:33.112Z"
+          "UpdatedAt": "2025-11-30T09:06:52.304Z"
+        },
+        {
+          "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
+          "Name": "こぶしめ中心街 -kobusime City centre- By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターと車で遊ぶことのできる街のワールドです ワールド中心から東西南北いずれかに1km進むと反対側にテレポートします 乗り物は互いに無線で繋がっています World音量は20％程度を推奨します",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2025-08-01T14:06:08.323Z",
+          "UpdatedAt": "2025-11-30T04:08:37.965Z"
+        },
+        {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-11-27T07:41:38.344Z"
         },
         {
           "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
@@ -150,22 +198,6 @@
           "UpdatedAt": "2025-11-22T16:14:29.747Z"
         },
         {
-          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
-          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-11-21T17:00:20.55Z"
-        },
-        {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
           "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
           "RecommendedCapacity": 30,
@@ -180,22 +212,6 @@
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
           "UpdatedAt": "2025-11-21T16:05:11.954Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-21T14:46:40.915Z"
         },
         {
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
@@ -3083,6 +3099,22 @@
           "UpdatedAt": "2025-08-13T12:35:12.056Z"
         },
         {
+          "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
+          "Name": "こぶしめ中心街 -kobusime City centre- By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターと車で遊ぶことのできる街のワールドです ワールド中心から東西南北いずれかに1km進むと反対側にテレポートします 乗り物は互いに無線で繋がっています World音量は20％程度を推奨します",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2025-08-01T14:06:08.323Z",
+          "UpdatedAt": "2025-11-30T04:08:37.965Z"
+        },
+        {
           "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
           "Name": "Maldives Cottage - with vehicles By Oppailot",
           "RecommendedCapacity": 16,
@@ -3192,7 +3224,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-11-21T17:00:20.55Z"
+          "UpdatedAt": "2025-11-30T18:53:12.493Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -3944,7 +3976,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-21T14:46:40.915Z"
+          "UpdatedAt": "2025-11-27T07:41:38.344Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -4984,7 +5016,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-11-26T13:03:33.112Z"
+          "UpdatedAt": "2025-11-30T09:06:52.304Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -5304,7 +5336,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-11-26T20:18:56.49Z"
+          "UpdatedAt": "2025-12-01T19:48:33.419Z"
         },
         {
           "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
@@ -7101,7 +7133,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-11-26T13:03:33.112Z"
+          "UpdatedAt": "2025-11-30T09:06:52.304Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -8128,6 +8160,22 @@
           "UpdatedAt": "2025-02-09T02:09:34.687Z"
         },
         {
+          "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
+          "Name": "こぶしめ中心街 -kobusime City centre- By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターと車で遊ぶことのできる街のワールドです ワールド中心から東西南北いずれかに1km進むと反対側にテレポートします 乗り物は互いに無線で繋がっています World音量は20％程度を推奨します",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2025-08-01T14:06:08.323Z",
+          "UpdatedAt": "2025-11-30T04:08:37.965Z"
+        },
+        {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
           "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -8141,7 +8189,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-21T14:46:40.915Z"
+          "UpdatedAt": "2025-11-27T07:41:38.344Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -8413,7 +8461,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-11-26T20:18:56.49Z"
+          "UpdatedAt": "2025-12-01T19:48:33.419Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -8893,7 +8941,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-11-21T17:00:20.55Z"
+          "UpdatedAt": "2025-11-30T18:53:12.493Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -9794,7 +9842,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2025-11-26T20:18:56.49Z"
+          "UpdatedAt": "2025-12-01T19:48:33.419Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -10114,7 +10162,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-11-26T13:03:33.112Z"
+          "UpdatedAt": "2025-11-30T09:06:52.304Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -10709,6 +10757,22 @@
           "UpdatedAt": "2023-06-27T07:21:18.258Z"
         },
         {
+          "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
+          "Name": "こぶしめ中心街 -kobusime City centre- By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターと車で遊ぶことのできる街のワールドです ワールド中心から東西南北いずれかに1km進むと反対側にテレポートします 乗り物は互いに無線で繋がっています World音量は20％程度を推奨します",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2025-08-01T14:06:08.323Z",
+          "UpdatedAt": "2025-11-30T04:08:37.965Z"
+        },
+        {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
           "Name": "夕暮れごまさば群島 Dusk Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -10770,7 +10834,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-21T14:46:40.915Z"
+          "UpdatedAt": "2025-11-27T07:41:38.344Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -11522,7 +11586,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-11-21T17:00:20.55Z"
+          "UpdatedAt": "2025-11-30T18:53:12.493Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
