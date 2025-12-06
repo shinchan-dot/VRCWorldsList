@@ -6,6 +6,54 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
+          "Name": "Merry Christmas by․Sayodori By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "クリスマス仕様の飛行機のあるワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2023-12-18T17:59:05.666Z",
+          "UpdatedAt": "2025-12-05T14:43:55.139Z"
+        },
+        {
+          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
+          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
+          "AuthorName": "Zweikaku",
+          "CreatedAt": "2020-05-17T13:35:24.03Z",
+          "UpdatedAt": "2025-12-05T08:28:17.062Z"
+        },
+        {
+          "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
+          "Name": "Test Drivers By Sacchan",
+          "RecommendedCapacity": 22,
+          "Capacity": 80,
+          "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2022-05-16T22:09:36.369Z",
+          "UpdatedAt": "2025-12-05T07:27:20.365Z"
+        },
+        {
           "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
           "Name": "こぶしめ中心街 -kobusime City centre- By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -196,22 +244,6 @@
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-05-03T15:52:37.563Z",
           "UpdatedAt": "2025-11-22T16:14:29.747Z"
-        },
-        {
-          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
-          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-11-21T16:05:11.954Z"
         },
         {
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
@@ -1078,22 +1110,6 @@
           "UpdatedAt": "2025-04-29T05:30:46.304Z"
         },
         {
-          "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
-          "Name": "Test Drivers By Sacchan",
-          "RecommendedCapacity": 14,
-          "Capacity": 80,
-          "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-04-26T05:56:13.455Z"
-        },
-        {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
           "Name": "夜の星、島、ヘリ（QUEST対応Ver․） By ねねみそ",
           "RecommendedCapacity": 16,
@@ -1556,22 +1572,6 @@
           "AuthorName": "-みや-",
           "CreatedAt": "2024-11-30T04:30:27.819Z",
           "UpdatedAt": "2024-12-08T03:56:31.01Z"
-        },
-        {
-          "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
-          "Name": "Merry Christmas by․Sayodori By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "クリスマス仕様の飛行機のあるワールドです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2023-12-18T17:59:05.666Z",
-          "UpdatedAt": "2024-12-06T10:38:21.996Z"
         },
         {
           "ID": "wrld_2497040b-ab48-491e-b83d-48df41e73170",
@@ -4419,12 +4419,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": true
+            "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2023-12-18T17:59:05.666Z",
-          "UpdatedAt": "2024-12-06T10:38:21.996Z"
+          "UpdatedAt": "2025-12-05T14:43:55.139Z"
         },
         {
           "ID": "wrld_bf0938c7-138f-4977-806d-29e373ebd4db",
@@ -5501,7 +5501,7 @@
         {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
           "Name": "Test Drivers By Sacchan",
-          "RecommendedCapacity": 14,
+          "RecommendedCapacity": 22,
           "Capacity": 80,
           "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
           "ReleaseStatus": "public",
@@ -5512,7 +5512,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-04-26T05:56:13.455Z"
+          "UpdatedAt": "2025-12-05T07:27:20.365Z"
         },
         {
           "ID": "wrld_1d45de10-31fc-409c-8bd7-a1fc19839c81",
@@ -5960,7 +5960,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-11-21T16:05:11.954Z"
+          "UpdatedAt": "2025-12-05T08:28:17.062Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -6141,7 +6141,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-11-21T16:05:11.954Z"
+          "UpdatedAt": "2025-12-05T08:28:17.062Z"
         },
         {
           "ID": "wrld_7e31e3f8-2ea2-4f8d-9d90-1d0e3181fc7c",
@@ -7240,12 +7240,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": true
+            "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2023-12-18T17:59:05.666Z",
-          "UpdatedAt": "2024-12-06T10:38:21.996Z"
+          "UpdatedAt": "2025-12-05T14:43:55.139Z"
         },
         {
           "ID": "wrld_c62ed902-eddd-4a6b-8088-fd9cbb45f57e",
@@ -7762,7 +7762,7 @@
         {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
           "Name": "Test Drivers By Sacchan",
-          "RecommendedCapacity": 14,
+          "RecommendedCapacity": 22,
           "Capacity": 80,
           "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
           "ReleaseStatus": "public",
@@ -7773,7 +7773,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-04-26T05:56:13.455Z"
+          "UpdatedAt": "2025-12-05T07:27:20.365Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -10391,7 +10391,7 @@
         {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
           "Name": "Test Drivers By Sacchan",
-          "RecommendedCapacity": 14,
+          "RecommendedCapacity": 22,
           "Capacity": 80,
           "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
           "ReleaseStatus": "public",
@@ -10402,7 +10402,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-04-26T05:56:13.455Z"
+          "UpdatedAt": "2025-12-05T07:27:20.365Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -10525,12 +10525,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": true
+            "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2023-12-18T17:59:05.666Z",
-          "UpdatedAt": "2024-12-06T10:38:21.996Z"
+          "UpdatedAt": "2025-12-05T14:43:55.139Z"
         },
         {
           "ID": "wrld_4796ac10-bfb9-449c-a67f-88a97bee0ca1",
@@ -11026,7 +11026,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-11-21T16:05:11.954Z"
+          "UpdatedAt": "2025-12-05T08:28:17.062Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
