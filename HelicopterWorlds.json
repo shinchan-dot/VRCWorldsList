@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
+          "Name": "こぶしめ中心街 -kobusime City centre- By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターと車で遊ぶことのできる街のワールドです ワールド中心から東西南北いずれかに1km進むと反対側にテレポートします 乗り物は互いに無線で繋がっています World音量は20％程度を推奨します",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2025-08-01T14:06:08.323Z",
+          "UpdatedAt": "2025-12-08T19:55:07.836Z"
+        },
+        {
+          "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
+          "Name": "Test Drivers By Sacchan",
+          "RecommendedCapacity": 22,
+          "Capacity": 80,
+          "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2022-05-16T22:09:36.369Z",
+          "UpdatedAt": "2025-12-08T10:55:10.178Z"
+        },
+        {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
           "Name": "JVG Sendai Air Station By Oppailot",
           "RecommendedCapacity": 16,
@@ -54,22 +86,6 @@
           "UpdatedAt": "2025-12-06T20:28:46.022Z"
         },
         {
-          "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
-          "Name": "Test Drivers By Sacchan",
-          "RecommendedCapacity": 22,
-          "Capacity": 80,
-          "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-06T04:53:50.704Z"
-        },
-        {
           "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
           "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
           "RecommendedCapacity": 16,
@@ -100,22 +116,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2023-12-18T17:59:05.666Z",
           "UpdatedAt": "2025-12-05T14:43:55.139Z"
-        },
-        {
-          "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
-          "Name": "こぶしめ中心街 -kobusime City centre- By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ヘリコプターと車で遊ぶことのできる街のワールドです ワールド中心から東西南北いずれかに1km進むと反対側にテレポートします 乗り物は互いに無線で繋がっています World音量は20％程度を推奨します",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2025-08-01T14:06:08.323Z",
-          "UpdatedAt": "2025-12-04T04:24:17.43Z"
         },
         {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
@@ -3112,7 +3112,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2025-08-01T14:06:08.323Z",
-          "UpdatedAt": "2025-12-04T04:24:17.43Z"
+          "UpdatedAt": "2025-12-08T19:55:07.836Z"
         },
         {
           "ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
@@ -5512,7 +5512,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-06T04:53:50.704Z"
+          "UpdatedAt": "2025-12-08T10:55:10.178Z"
         },
         {
           "ID": "wrld_1d45de10-31fc-409c-8bd7-a1fc19839c81",
@@ -7773,7 +7773,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-06T04:53:50.704Z"
+          "UpdatedAt": "2025-12-08T10:55:10.178Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -8173,7 +8173,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2025-08-01T14:06:08.323Z",
-          "UpdatedAt": "2025-12-04T04:24:17.43Z"
+          "UpdatedAt": "2025-12-08T19:55:07.836Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -10402,7 +10402,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-06T04:53:50.704Z"
+          "UpdatedAt": "2025-12-08T10:55:10.178Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -10770,7 +10770,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2025-08-01T14:06:08.323Z",
-          "UpdatedAt": "2025-12-04T04:24:17.43Z"
+          "UpdatedAt": "2025-12-08T19:55:07.836Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
