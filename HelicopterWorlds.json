@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
+          "Name": "Kennedy Space Center By medaka0228",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Kennedy Space Center",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
+          "AuthorName": "medaka0228",
+          "CreatedAt": "2021-12-14T13:35:04.995Z",
+          "UpdatedAt": "2025-12-10T11:01:37.679Z"
+        },
+        {
+          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
+          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-24T05:36:00.897Z",
+          "UpdatedAt": "2025-12-10T09:03:15.765Z"
+        },
+        {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
           "Name": "Test Pilots By Sacchan",
           "RecommendedCapacity": 16,
@@ -19,7 +51,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-09T11:33:48.322Z"
+          "UpdatedAt": "2025-12-10T04:57:35.331Z"
         },
         {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
@@ -100,22 +132,6 @@
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
           "UpdatedAt": "2025-12-06T20:28:46.022Z"
-        },
-        {
-          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
-          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-12-06T00:23:23.038Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -500,22 +516,6 @@
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2023-10-09T06:05:44.381Z",
           "UpdatedAt": "2025-10-26T03:14:42.015Z"
-        },
-        {
-          "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
-          "Name": "Kennedy Space Center By medaka0228",
-          "RecommendedCapacity": 40,
-          "Capacity": 80,
-          "Description": "Kennedy Space Center",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
-          "AuthorName": "medaka0228",
-          "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-10-24T13:43:48.207Z"
         },
         {
           "ID": "wrld_f08ad423-45b6-4231-b165-c7401b3f9e51",
@@ -3224,7 +3224,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-12-06T00:23:23.038Z"
+          "UpdatedAt": "2025-12-10T09:03:15.765Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -5704,7 +5704,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-10-24T13:43:48.207Z"
+          "UpdatedAt": "2025-12-10T11:01:37.679Z"
         },
         {
           "ID": "wrld_5241df39-9624-4d25-b644-edb11fe645bf",
@@ -5976,7 +5976,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-09T11:33:48.322Z"
+          "UpdatedAt": "2025-12-10T04:57:35.331Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -7165,7 +7165,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-10-24T13:43:48.207Z"
+          "UpdatedAt": "2025-12-10T11:01:37.679Z"
         },
         {
           "ID": "wrld_73bfab3d-5888-4364-909a-6bba45749538",
@@ -7789,7 +7789,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-09T11:33:48.322Z"
+          "UpdatedAt": "2025-12-10T04:57:35.331Z"
         },
         {
           "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
@@ -8941,7 +8941,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-12-06T00:23:23.038Z"
+          "UpdatedAt": "2025-12-10T09:03:15.765Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -9826,7 +9826,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2025-10-24T13:43:48.207Z"
+          "UpdatedAt": "2025-12-10T11:01:37.679Z"
         },
         {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
@@ -10418,7 +10418,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-09T11:33:48.322Z"
+          "UpdatedAt": "2025-12-10T04:57:35.331Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -11586,7 +11586,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-12-06T00:23:23.038Z"
+          "UpdatedAt": "2025-12-10T09:03:15.765Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
