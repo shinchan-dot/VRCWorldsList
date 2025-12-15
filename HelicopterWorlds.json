@@ -6,6 +6,70 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
+          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
+          "RecommendedCapacity": 16,
+          "Capacity": 26,
+          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
+          "AuthorName": "そーかる«SOKOL»",
+          "CreatedAt": "2025-11-16T11:56:47.129Z",
+          "UpdatedAt": "2025-12-13T08:38:36.731Z"
+        },
+        {
+          "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
+          "Name": "鯖研 湖畔飛行場 YVL airport By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "焼鯖仮想研究所で公開しているsacc対応Vehicleのうち、ジェット機以外に乗ることができるワールドです",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-07-28T13:48:56.155Z",
+          "UpdatedAt": "2025-12-13T08:18:33.775Z"
+        },
+        {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-12-13T06:43:48.487Z"
+        },
+        {
+          "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
+          "Name": "VR Narita Airport《NRT⁄RJAA》 By シン《symphony》",
+          "RecommendedCapacity": 30,
+          "Capacity": 40,
+          "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
+          "AuthorName": "シン《symphony》",
+          "CreatedAt": "2021-10-04T08:47:43.348Z",
+          "UpdatedAt": "2025-12-12T16:07:43.453Z"
+        },
+        {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
           "Name": "Kennedy Space Center By medaka0228",
           "RecommendedCapacity": 40,
@@ -166,22 +230,6 @@
           "UpdatedAt": "2025-12-01T19:48:33.419Z"
         },
         {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-27T07:41:38.344Z"
-        },
-        {
           "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
           "Name": "The Fighter Trainers of ＂425th VTFTW＂ By Yumemidori",
           "RecommendedCapacity": 16,
@@ -276,22 +324,6 @@
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-05-03T15:52:37.563Z",
           "UpdatedAt": "2025-11-22T16:14:29.747Z"
-        },
-        {
-          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
-          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
-          "RecommendedCapacity": 16,
-          "Capacity": 26,
-          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
-          "AuthorName": "そーかる«SOKOL»",
-          "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-11-21T07:49:41.527Z"
         },
         {
           "ID": "wrld_60300d73-dd92-47d6-a5d3-ad3b7676d0a5",
@@ -918,22 +950,6 @@
           "UpdatedAt": "2025-07-29T03:28:39.6Z"
         },
         {
-          "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
-          "Name": "鯖研 湖畔飛行場 YVL airport By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "焼鯖仮想研究所で公開しているsacc対応Vehicleのうち、ジェット機以外に乗ることができるワールドです",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2025-07-09T16:02:15.358Z"
-        },
-        {
           "ID": "wrld_a6b41adb-aef7-4e3e-8f3a-fc72cd943651",
           "Name": "Desert Warfare V2․2 （QUEST BUILD IS BROKEN PLEASE WAIT） By Ahmya Akane ch․",
           "RecommendedCapacity": 62,
@@ -1204,22 +1220,6 @@
           "AuthorName": "BambooPill",
           "CreatedAt": "2025-03-12T19:40:16.049Z",
           "UpdatedAt": "2025-03-29T09:24:49.513Z"
-        },
-        {
-          "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
-          "Name": "VR Narita Airport《NRT⁄RJAA》 By シン《symphony》",
-          "RecommendedCapacity": 30,
-          "Capacity": 40,
-          "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
-          "AuthorName": "シン《symphony》",
-          "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2025-03-27T01:52:11.995Z"
         },
         {
           "ID": "wrld_4130b536-45c5-4703-9843-390d9a53ddcd",
@@ -2326,22 +2326,6 @@
           "UpdatedAt": "2023-09-04T18:45:58.358Z"
         },
         {
-          "ID": "wrld_f62576b9-afee-4686-bf2c-1e6230d901ad",
-          "Name": "鹿児島県いちき串木野市 By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "鹿児島県いちき串木野市",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-09-04T08:52:34.471Z",
-          "UpdatedAt": "2023-09-04T10:48:00.033Z"
-        },
-        {
           "ID": "wrld_2da29b7f-8f26-4fa5-afc0-3936a5a20cbc",
           "Name": "US Military base By ChrisSAF",
           "RecommendedCapacity": 20,
@@ -2710,22 +2694,6 @@
           "UpdatedAt": "2022-10-21T00:24:35.226Z"
         },
         {
-          "ID": "wrld_15230f5c-9eb4-446b-9990-91881e4d02e9",
-          "Name": "SACC BALL By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SACC BALL‚ it is soccer or football played with helicopters and automobiles․ SACC BALL、それはヘリコプターと自動車を使って行うサッカー、あるいはフットボールです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2022-09-27T07:55:21.216Z",
-          "UpdatedAt": "2022-09-29T14:54:21.721Z"
-        },
-        {
           "ID": "wrld_40c04871-dd5f-411e-9d3c-d9ec97b8b9cb",
           "Name": "VR Matsumoto airport《RJAF》《MMJ》 By シン《symphony》",
           "RecommendedCapacity": 18,
@@ -3016,7 +2984,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-11-21T07:49:41.527Z"
+          "UpdatedAt": "2025-12-13T08:38:36.731Z"
         },
         {
           "ID": "wrld_01de54aa-b25c-43ea-9eae-b6a3d1e9f9b6",
@@ -3896,7 +3864,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2025-07-09T16:02:15.358Z"
+          "UpdatedAt": "2025-12-13T08:18:33.775Z"
         },
         {
           "ID": "wrld_e8c7a30d-4d63-4233-bca4-e4eff209e388",
@@ -3976,7 +3944,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-27T07:41:38.344Z"
+          "UpdatedAt": "2025-12-13T06:43:48.487Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -4651,22 +4619,6 @@
           "UpdatedAt": "2023-09-06T18:43:47.194Z"
         },
         {
-          "ID": "wrld_f62576b9-afee-4686-bf2c-1e6230d901ad",
-          "Name": "鹿児島県いちき串木野市 By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "鹿児島県いちき串木野市",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-09-04T08:52:34.471Z",
-          "UpdatedAt": "2023-09-04T10:48:00.033Z"
-        },
-        {
           "ID": "wrld_50c02490-5708-43f7-b27e-630c10bba998",
           "Name": "メリスの世界 By きりしまはるな",
           "RecommendedCapacity": 16,
@@ -5291,22 +5243,6 @@
           "UpdatedAt": "2025-10-28T02:29:43.015Z"
         },
         {
-          "ID": "wrld_15230f5c-9eb4-446b-9990-91881e4d02e9",
-          "Name": "SACC BALL By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SACC BALL‚ it is soccer or football played with helicopters and automobiles․ SACC BALL、それはヘリコプターと自動車を使って行うサッカー、あるいはフットボールです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2022-09-27T07:55:21.216Z",
-          "UpdatedAt": "2022-09-29T14:54:21.721Z"
-        },
-        {
           "ID": "wrld_53651852-637e-4835-a4f1-f5b578ee687d",
           "Name": "第9回ヘリコプター操縦競技会 By Maple_K",
           "RecommendedCapacity": 16,
@@ -5784,7 +5720,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2025-03-27T01:52:11.995Z"
+          "UpdatedAt": "2025-12-12T16:07:43.453Z"
         },
         {
           "ID": "wrld_6e11b9d6-c445-4c8a-8652-eb483f3f74e7",
@@ -7536,22 +7472,6 @@
           "UpdatedAt": "2023-10-11T11:26:35.159Z"
         },
         {
-          "ID": "wrld_15230f5c-9eb4-446b-9990-91881e4d02e9",
-          "Name": "SACC BALL By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SACC BALL‚ it is soccer or football played with helicopters and automobiles․ SACC BALL、それはヘリコプターと自動車を使って行うサッカー、あるいはフットボールです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2022-09-27T07:55:21.216Z",
-          "UpdatedAt": "2022-09-29T14:54:21.721Z"
-        },
-        {
           "ID": "wrld_826115ca-9860-4290-bc0d-237e902c1ae6",
           "Name": "Senka islands By Oppailot",
           "RecommendedCapacity": 64,
@@ -7997,7 +7917,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2025-03-27T01:52:11.995Z"
+          "UpdatedAt": "2025-12-12T16:07:43.453Z"
         },
         {
           "ID": "wrld_71293f85-7572-4a80-81cc-229b831bf88e",
@@ -8189,7 +8109,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-27T07:41:38.344Z"
+          "UpdatedAt": "2025-12-13T06:43:48.487Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -8621,23 +8541,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2025-07-09T16:02:15.358Z"
-        },
-        {
-          "ID": "wrld_f62576b9-afee-4686-bf2c-1e6230d901ad",
-          "Name": "鹿児島県いちき串木野市 By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "鹿児島県いちき串木野市",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-09-04T08:52:34.471Z",
-          "UpdatedAt": "2023-09-04T10:48:00.033Z"
+          "UpdatedAt": "2025-12-13T08:18:33.775Z"
         },
         {
           "ID": "wrld_2510c4ed-e63c-4921-aea3-0f23031b8295",
@@ -8797,7 +8701,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-11-21T07:49:41.527Z"
+          "UpdatedAt": "2025-12-13T08:38:36.731Z"
         },
         {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
@@ -10101,22 +10005,6 @@
           "UpdatedAt": "2024-12-11T23:08:51.668Z"
         },
         {
-          "ID": "wrld_f62576b9-afee-4686-bf2c-1e6230d901ad",
-          "Name": "鹿児島県いちき串木野市 By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "鹿児島県いちき串木野市",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-09-04T08:52:34.471Z",
-          "UpdatedAt": "2023-09-04T10:48:00.033Z"
-        },
-        {
           "ID": "wrld_ad5140ff-74d4-4ed6-8944-3086036400d5",
           "Name": "JVG Kagoshima Air Station By Oppailot",
           "RecommendedCapacity": 16,
@@ -10211,22 +10099,6 @@
           "AuthorName": "Oppailot",
           "CreatedAt": "2022-10-26T11:56:28.127Z",
           "UpdatedAt": "2022-12-20T14:30:32.016Z"
-        },
-        {
-          "ID": "wrld_15230f5c-9eb4-446b-9990-91881e4d02e9",
-          "Name": "SACC BALL By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SACC BALL‚ it is soccer or football played with helicopters and automobiles․ SACC BALL、それはヘリコプターと自動車を使って行うサッカー、あるいはフットボールです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2022-09-27T07:55:21.216Z",
-          "UpdatedAt": "2022-09-29T14:54:21.721Z"
         },
         {
           "ID": "wrld_a9ad0d39-8af2-41d2-b05c-87b0f477441b",
@@ -10818,7 +10690,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2025-07-09T16:02:15.358Z"
+          "UpdatedAt": "2025-12-13T08:18:33.775Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -10834,7 +10706,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-11-27T07:41:38.344Z"
+          "UpdatedAt": "2025-12-13T06:43:48.487Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -11410,7 +11282,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2025-03-27T01:52:11.995Z"
+          "UpdatedAt": "2025-12-12T16:07:43.453Z"
         },
         {
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
@@ -11426,7 +11298,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-11-21T07:49:41.527Z"
+          "UpdatedAt": "2025-12-13T08:38:36.731Z"
         },
         {
           "ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
