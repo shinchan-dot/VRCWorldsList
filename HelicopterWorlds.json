@@ -6,20 +6,20 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
-          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
-          "RecommendedCapacity": 16,
-          "Capacity": 26,
-          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
+          "ID": "wrld_01de54aa-b25c-43ea-9eae-b6a3d1e9f9b6",
+          "Name": "Fly the mountains By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "最近見たとある動画に触発されて作りました。CV-22が6機、CH-53が4機、他小型ヘリが数機あります。 それ以外は特に何もありません。",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": false
           },
-          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
-          "AuthorName": "そーかる«SOKOL»",
-          "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-12-17T15:48:31.563Z"
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-10-24T15:44:23.612Z",
+          "UpdatedAt": "2025-12-19T01:19:16.688Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -35,7 +35,39 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-17T05:46:46.862Z"
+          "UpdatedAt": "2025-12-18T08:45:30.412Z"
+        },
+        {
+          "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
+          "Name": "Test Drivers By Sacchan",
+          "RecommendedCapacity": 22,
+          "Capacity": 80,
+          "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2022-05-16T22:09:36.369Z",
+          "UpdatedAt": "2025-12-18T00:59:13.617Z"
+        },
+        {
+          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
+          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
+          "RecommendedCapacity": 16,
+          "Capacity": 26,
+          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
+          "AuthorName": "そーかる«SOKOL»",
+          "CreatedAt": "2025-11-16T11:56:47.129Z",
+          "UpdatedAt": "2025-12-17T15:48:31.563Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
@@ -148,22 +180,6 @@
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
           "UpdatedAt": "2025-12-10T11:01:37.679Z"
-        },
-        {
-          "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
-          "Name": "Test Drivers By Sacchan",
-          "RecommendedCapacity": 22,
-          "Capacity": 80,
-          "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-09T06:08:34.272Z"
         },
         {
           "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
@@ -500,22 +516,6 @@
           "AuthorName": "Oppailot",
           "CreatedAt": "2025-07-25T06:05:03.97Z",
           "UpdatedAt": "2025-10-27T12:44:17.022Z"
-        },
-        {
-          "ID": "wrld_01de54aa-b25c-43ea-9eae-b6a3d1e9f9b6",
-          "Name": "Fly the mountains By Riezet Lieaner",
-          "RecommendedCapacity": 12,
-          "Capacity": 22,
-          "Description": "最近見たとある動画に触発されて作りました。CV-22が6機、CH-53が4機、他小型ヘリが数機あります。 それ以外は特に何もありません。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-10-24T15:44:23.612Z",
-          "UpdatedAt": "2025-10-26T04:25:32.201Z"
         },
         {
           "ID": "wrld_2acbbdb3-2da1-45ab-8a85-76ec7a67d435",
@@ -3016,7 +3016,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-10-24T15:44:23.612Z",
-          "UpdatedAt": "2025-10-26T04:25:32.201Z"
+          "UpdatedAt": "2025-12-19T01:19:16.688Z"
         },
         {
           "ID": "wrld_5663070b-1826-48a4-94e8-cbef9b689d42",
@@ -5480,7 +5480,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-09T06:08:34.272Z"
+          "UpdatedAt": "2025-12-18T00:59:13.617Z"
         },
         {
           "ID": "wrld_1d45de10-31fc-409c-8bd7-a1fc19839c81",
@@ -5944,7 +5944,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-17T05:46:46.862Z"
+          "UpdatedAt": "2025-12-18T08:45:30.412Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -6557,7 +6557,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-10-24T15:44:23.612Z",
-          "UpdatedAt": "2025-10-26T04:25:32.201Z"
+          "UpdatedAt": "2025-12-19T01:19:16.688Z"
         },
         {
           "ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
@@ -7725,7 +7725,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-09T06:08:34.272Z"
+          "UpdatedAt": "2025-12-18T00:59:13.617Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -7741,7 +7741,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-17T05:46:46.862Z"
+          "UpdatedAt": "2025-12-18T08:45:30.412Z"
         },
         {
           "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
@@ -10274,7 +10274,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-10-24T15:44:23.612Z",
-          "UpdatedAt": "2025-10-26T04:25:32.201Z"
+          "UpdatedAt": "2025-12-19T01:19:16.688Z"
         },
         {
           "ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
@@ -10338,7 +10338,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-09T06:08:34.272Z"
+          "UpdatedAt": "2025-12-18T00:59:13.617Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -10354,7 +10354,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-17T05:46:46.862Z"
+          "UpdatedAt": "2025-12-18T08:45:30.412Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
