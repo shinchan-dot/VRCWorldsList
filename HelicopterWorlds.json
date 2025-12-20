@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2025-12-19T13:04:57.528Z"
+        },
+        {
+          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
+          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
+          "RecommendedCapacity": 16,
+          "Capacity": 26,
+          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
+          "AuthorName": "そーかる«SOKOL»",
+          "CreatedAt": "2025-11-16T11:56:47.129Z",
+          "UpdatedAt": "2025-12-19T11:15:54.368Z"
+        },
+        {
           "ID": "wrld_01de54aa-b25c-43ea-9eae-b6a3d1e9f9b6",
           "Name": "Fly the mountains By Riezet Lieaner",
           "RecommendedCapacity": 12,
@@ -52,22 +84,6 @@
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
           "UpdatedAt": "2025-12-18T00:59:13.617Z"
-        },
-        {
-          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
-          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
-          "RecommendedCapacity": 16,
-          "Capacity": 26,
-          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
-          "AuthorName": "そーかる«SOKOL»",
-          "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-12-17T15:48:31.563Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
@@ -676,22 +692,6 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-05-25T06:47:05.221Z",
           "UpdatedAt": "2025-09-22T20:51:06.484Z"
-        },
-        {
-          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
-          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
-          "AuthorName": "sumisu_san",
-          "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-09-21T05:38:31.92Z"
         },
         {
           "ID": "wrld_5663070b-1826-48a4-94e8-cbef9b689d42",
@@ -3000,7 +3000,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-12-17T15:48:31.563Z"
+          "UpdatedAt": "2025-12-19T11:15:54.368Z"
         },
         {
           "ID": "wrld_01de54aa-b25c-43ea-9eae-b6a3d1e9f9b6",
@@ -3336,7 +3336,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-09-21T05:38:31.92Z"
+          "UpdatedAt": "2025-12-19T13:04:57.528Z"
         },
         {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
@@ -8429,7 +8429,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-09-21T05:38:31.92Z"
+          "UpdatedAt": "2025-12-19T13:04:57.528Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -8749,7 +8749,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-12-17T15:48:31.563Z"
+          "UpdatedAt": "2025-12-19T11:15:54.368Z"
         },
         {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
@@ -10594,7 +10594,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-09-21T05:38:31.92Z"
+          "UpdatedAt": "2025-12-19T13:04:57.528Z"
         },
         {
           "ID": "wrld_120f1ee6-e61f-40db-977b-717f0cd890d0",
@@ -11362,7 +11362,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-12-17T15:48:31.563Z"
+          "UpdatedAt": "2025-12-19T11:15:54.368Z"
         },
         {
           "ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
