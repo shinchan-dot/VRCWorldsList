@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-12-24T01:18:24.418Z"
+        },
+        {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
           "Name": "JVG Sendai Air Station By Oppailot",
           "RecommendedCapacity": 16,
@@ -19,7 +35,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-12-21T09:58:31.203Z"
+          "UpdatedAt": "2025-12-23T11:36:53.982Z"
         },
         {
           "ID": "wrld_cb2f6666-765c-4060-a42d-fbd4892b7778",
@@ -180,22 +196,6 @@
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-07-28T13:48:56.155Z",
           "UpdatedAt": "2025-12-13T08:18:33.775Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-12-13T06:43:48.487Z"
         },
         {
           "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
@@ -3944,7 +3944,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-12-13T06:43:48.487Z"
+          "UpdatedAt": "2025-12-24T01:18:24.418Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -4984,7 +4984,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-12-21T09:58:31.203Z"
+          "UpdatedAt": "2025-12-23T11:36:53.982Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -7101,7 +7101,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-12-21T09:58:31.203Z"
+          "UpdatedAt": "2025-12-23T11:36:53.982Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -8141,7 +8141,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-12-13T06:43:48.487Z"
+          "UpdatedAt": "2025-12-24T01:18:24.418Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -10098,7 +10098,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-12-21T09:58:31.203Z"
+          "UpdatedAt": "2025-12-23T11:36:53.982Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -10770,7 +10770,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-12-13T06:43:48.487Z"
+          "UpdatedAt": "2025-12-24T01:18:24.418Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
