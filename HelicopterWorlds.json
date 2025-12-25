@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
+          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
+          "RecommendedCapacity": 16,
+          "Capacity": 26,
+          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
+          "AuthorName": "そーかる«SOKOL»",
+          "CreatedAt": "2025-11-16T11:56:47.129Z",
+          "UpdatedAt": "2025-12-24T09:08:35.409Z"
+        },
+        {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
           "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -100,22 +116,6 @@
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
           "UpdatedAt": "2025-12-19T13:04:57.528Z"
-        },
-        {
-          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
-          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
-          "RecommendedCapacity": 16,
-          "Capacity": 26,
-          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
-          "AuthorName": "そーかる«SOKOL»",
-          "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-12-19T11:15:54.368Z"
         },
         {
           "ID": "wrld_01de54aa-b25c-43ea-9eae-b6a3d1e9f9b6",
@@ -3000,7 +3000,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-12-19T11:15:54.368Z"
+          "UpdatedAt": "2025-12-24T09:08:35.409Z"
         },
         {
           "ID": "wrld_01de54aa-b25c-43ea-9eae-b6a3d1e9f9b6",
@@ -8749,7 +8749,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-12-19T11:15:54.368Z"
+          "UpdatedAt": "2025-12-24T09:08:35.409Z"
         },
         {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
@@ -11362,7 +11362,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2025-12-19T11:15:54.368Z"
+          "UpdatedAt": "2025-12-24T09:08:35.409Z"
         },
         {
           "ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
