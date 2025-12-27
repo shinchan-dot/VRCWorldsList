@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2025-12-26T04:10:09.417Z"
+        },
+        {
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
           "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
           "RecommendedCapacity": 16,
@@ -20,22 +36,6 @@
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
           "UpdatedAt": "2025-12-24T09:08:35.409Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-12-24T01:18:24.418Z"
         },
         {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
@@ -740,22 +740,6 @@
           "AuthorName": "5Sori",
           "CreatedAt": "2025-03-15T14:48:46.761Z",
           "UpdatedAt": "2025-09-12T11:19:43.464Z"
-        },
-        {
-          "ID": "wrld_4f6537fd-1269-4097-b2e5-fbdbaf272cee",
-          "Name": "prawn island - プロウン島 By long-potato",
-          "RecommendedCapacity": 16,
-          "Capacity": 80,
-          "Description": "遠い昔、ナドンの戦いで野に放たれた生物兵器「エビザウルス」の一部はセレウ川を南下し、死海に浮かぶ小さな島へと辿り着いた。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
-          "AuthorName": "long-potato",
-          "CreatedAt": "2023-02-11T08:44:28.251Z",
-          "UpdatedAt": "2025-09-10T19:05:36.28Z"
         },
         {
           "ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
@@ -3944,7 +3928,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-12-24T01:18:24.418Z"
+          "UpdatedAt": "2025-12-26T04:10:09.417Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -5113,22 +5097,6 @@
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2023-02-15T18:34:33.465Z",
           "UpdatedAt": "2025-11-23T06:50:35.368Z"
-        },
-        {
-          "ID": "wrld_4f6537fd-1269-4097-b2e5-fbdbaf272cee",
-          "Name": "prawn island - プロウン島 By long-potato",
-          "RecommendedCapacity": 16,
-          "Capacity": 80,
-          "Description": "遠い昔、ナドンの戦いで野に放たれた生物兵器「エビザウルス」の一部はセレウ川を南下し、死海に浮かぶ小さな島へと辿り着いた。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
-          "AuthorName": "long-potato",
-          "CreatedAt": "2023-02-11T08:44:28.251Z",
-          "UpdatedAt": "2025-09-10T19:05:36.28Z"
         },
         {
           "ID": "wrld_d331ccca-6f9a-48ef-9ae0-3d515dcca884",
@@ -7376,22 +7344,6 @@
           "UpdatedAt": "2024-07-27T04:55:34.326Z"
         },
         {
-          "ID": "wrld_4f6537fd-1269-4097-b2e5-fbdbaf272cee",
-          "Name": "prawn island - プロウン島 By long-potato",
-          "RecommendedCapacity": 16,
-          "Capacity": 80,
-          "Description": "遠い昔、ナドンの戦いで野に放たれた生物兵器「エビザウルス」の一部はセレウ川を南下し、死海に浮かぶ小さな島へと辿り着いた。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
-          "AuthorName": "long-potato",
-          "CreatedAt": "2023-02-11T08:44:28.251Z",
-          "UpdatedAt": "2025-09-10T19:05:36.28Z"
-        },
-        {
           "ID": "wrld_2497040b-ab48-491e-b83d-48df41e73170",
           "Name": "Project Helo By CodyHayzett",
           "RecommendedCapacity": 18,
@@ -8141,7 +8093,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-12-24T01:18:24.418Z"
+          "UpdatedAt": "2025-12-26T04:10:09.417Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -9701,22 +9653,6 @@
           "UpdatedAt": "2025-06-07T06:44:10.056Z"
         },
         {
-          "ID": "wrld_4f6537fd-1269-4097-b2e5-fbdbaf272cee",
-          "Name": "prawn island - プロウン島 By long-potato",
-          "RecommendedCapacity": 16,
-          "Capacity": 80,
-          "Description": "遠い昔、ナドンの戦いで野に放たれた生物兵器「エビザウルス」の一部はセレウ川を南下し、死海に浮かぶ小さな島へと辿り着いた。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
-          "AuthorName": "long-potato",
-          "CreatedAt": "2023-02-11T08:44:28.251Z",
-          "UpdatedAt": "2025-09-10T19:05:36.28Z"
-        },
-        {
           "ID": "wrld_57f59034-25d1-4078-bdef-90c6d1c486f0",
           "Name": "サザナミドライブアイランド-Sazanami Drive Island By Maple_K",
           "RecommendedCapacity": 24,
@@ -10770,7 +10706,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2025-12-24T01:18:24.418Z"
+          "UpdatedAt": "2025-12-26T04:10:09.417Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
