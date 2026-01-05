@@ -6,22 +6,6 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-01-01T16:01:38.721Z"
-        },
-        {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
           "Name": "海虹国際空港 RJKK A320 By Kanlll",
           "RecommendedCapacity": 20,
@@ -35,7 +19,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2026-01-01T08:09:46.377Z"
+          "UpdatedAt": "2026-01-04T04:38:53.76Z"
         },
         {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
@@ -51,7 +35,23 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-12-30T07:07:02.075Z"
+          "UpdatedAt": "2026-01-03T02:07:45.215Z"
+        },
+        {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2026-01-01T16:01:38.721Z"
         },
         {
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
@@ -3336,7 +3336,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2026-01-01T08:09:46.377Z"
+          "UpdatedAt": "2026-01-04T04:38:53.76Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -4968,7 +4968,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-12-30T07:07:02.075Z"
+          "UpdatedAt": "2026-01-03T02:07:45.215Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -7053,7 +7053,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-12-30T07:07:02.075Z"
+          "UpdatedAt": "2026-01-03T02:07:45.215Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -8429,7 +8429,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2026-01-01T08:09:46.377Z"
+          "UpdatedAt": "2026-01-04T04:38:53.76Z"
         },
         {
           "ID": "wrld_366d09a6-859e-4340-8325-801bc4267d52",
@@ -9522,7 +9522,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2026-01-01T08:09:46.377Z"
+          "UpdatedAt": "2026-01-04T04:38:53.76Z"
         },
         {
           "ID": "wrld_614b53a7-b0d2-4b91-9266-42ff17a2dbe0",
@@ -10050,7 +10050,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2025-12-30T07:07:02.075Z"
+          "UpdatedAt": "2026-01-03T02:07:45.215Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
