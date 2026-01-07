@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+          "Name": "Test Pilots By Sacchan",
+          "RecommendedCapacity": 16,
+          "Capacity": 44,
+          "Description": "For those who love flying․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2020-04-07T09:27:04.715Z",
+          "UpdatedAt": "2026-01-06T19:49:41.704Z"
+        },
+        {
+          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
+          "Name": "Helicopter flight training By 藍香 -aica-",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
+          "AuthorName": "藍香 -aica-",
+          "CreatedAt": "2024-08-04T08:23:01.722Z",
+          "UpdatedAt": "2026-01-06T18:59:23.468Z"
+        },
+        {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
           "Name": "海虹国際空港 RJKK A320 By Kanlll",
           "RecommendedCapacity": 20,
@@ -19,7 +51,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2026-01-04T04:38:53.76Z"
+          "UpdatedAt": "2026-01-06T13:30:21.29Z"
         },
         {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
@@ -148,22 +180,6 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-10-24T15:44:23.612Z",
           "UpdatedAt": "2025-12-19T01:19:16.688Z"
-        },
-        {
-          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
-          "Name": "Test Pilots By Sacchan",
-          "RecommendedCapacity": 16,
-          "Capacity": 44,
-          "Description": "For those who love flying․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-18T08:45:30.412Z"
         },
         {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
@@ -1780,22 +1796,6 @@
           "AuthorName": "まこぺっぺ",
           "CreatedAt": "2024-08-26T03:08:00.451Z",
           "UpdatedAt": "2024-09-13T11:32:41.694Z"
-        },
-        {
-          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
-          "Name": "Helicopter flight training By 藍香 -aica-",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
-          "AuthorName": "藍香 -aica-",
-          "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2024-09-08T07:18:01.671Z"
         },
         {
           "ID": "wrld_57f59034-25d1-4078-bdef-90c6d1c486f0",
@@ -3336,7 +3336,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2026-01-04T04:38:53.76Z"
+          "UpdatedAt": "2026-01-06T13:30:21.29Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -3816,7 +3816,7 @@
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2024-09-08T07:18:01.671Z"
+          "UpdatedAt": "2026-01-06T18:59:23.468Z"
         },
         {
           "ID": "wrld_f16204b8-df69-47e0-b543-db6ec52019a0",
@@ -5912,7 +5912,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-18T08:45:30.412Z"
+          "UpdatedAt": "2026-01-06T19:49:41.704Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -6749,7 +6749,7 @@
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2024-09-08T07:18:01.671Z"
+          "UpdatedAt": "2026-01-06T18:59:23.468Z"
         },
         {
           "ID": "wrld_0deb4bae-57d6-4dbf-8a18-0b05fe0efa9b",
@@ -7693,7 +7693,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-18T08:45:30.412Z"
+          "UpdatedAt": "2026-01-06T19:49:41.704Z"
         },
         {
           "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
@@ -8429,7 +8429,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2026-01-04T04:38:53.76Z"
+          "UpdatedAt": "2026-01-06T13:30:21.29Z"
         },
         {
           "ID": "wrld_366d09a6-859e-4340-8325-801bc4267d52",
@@ -9522,7 +9522,7 @@
           "AuthorId": "usr_3ec8a2cc-67a5-427a-b66a-d8f4f246bb59",
           "AuthorName": "Kanlll",
           "CreatedAt": "2025-02-25T12:26:24.326Z",
-          "UpdatedAt": "2026-01-04T04:38:53.76Z"
+          "UpdatedAt": "2026-01-06T13:30:21.29Z"
         },
         {
           "ID": "wrld_614b53a7-b0d2-4b91-9266-42ff17a2dbe0",
@@ -10306,7 +10306,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2025-12-18T08:45:30.412Z"
+          "UpdatedAt": "2026-01-06T19:49:41.704Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -11858,7 +11858,7 @@
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2024-09-08T07:18:01.671Z"
+          "UpdatedAt": "2026-01-06T18:59:23.468Z"
         }
       ]
     }
