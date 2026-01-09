@@ -6,6 +6,54 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
+          "Name": "catch＆Shootǃǃ 2 By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-10-04T14:23:01.112Z",
+          "UpdatedAt": "2026-01-08T11:50:55.768Z"
+        },
+        {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2026-01-07T12:01:07.802Z"
+        },
+        {
+          "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
+          "Name": "MMD with aircraft By 萩キャンパーJP",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
+          "AuthorName": "萩キャンパーJP",
+          "CreatedAt": "2024-10-16T09:05:51.978Z",
+          "UpdatedAt": "2026-01-07T09:49:29.173Z"
+        },
+        {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
           "Name": "Test Pilots By Sacchan",
           "RecommendedCapacity": 16,
@@ -19,7 +67,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-06T19:49:41.704Z"
+          "UpdatedAt": "2026-01-07T02:41:55.001Z"
         },
         {
           "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
@@ -54,6 +102,22 @@
           "UpdatedAt": "2026-01-06T13:30:21.29Z"
         },
         {
+          "ID": "wrld_14690e2e-4dca-4fab-a691-10ea380a1477",
+          "Name": "【APKU⁄KRL】Kural Airport（クラル空港） By ぺんぎん10",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "景色を観ながらゆったりとした飛行を楽しめるフライトワールドです。 カメラのニアクリップ距離の上書きをOFFにして下さい。民間企業であるPNLSSが保有する大洋域の主要空港であり、PNLSSの運用機材の整備を行う大規模空港です。 日本語以外の言語での反応は作成者の能力の都合上、大幅に遅れる可能性があります。気に入って頂けましたら口コミ等で拡散して頂けると有り難いです。（公式ハッシュタグ＃クラル空港＃KuralAirport）更新情報˸public化（1⁄1）",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_be3ea804-236c-4bc1-b4bf-df059c6f7716",
+          "AuthorName": "ぺんぎん10",
+          "CreatedAt": "2025-11-09T12:58:45.152Z",
+          "UpdatedAt": "2026-01-05T06:17:05.374Z"
+        },
+        {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
           "Name": "JVG Sendai Air Station By Oppailot",
           "RecommendedCapacity": 16,
@@ -68,22 +132,6 @@
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
           "UpdatedAt": "2026-01-03T02:07:45.215Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-01-01T16:01:38.721Z"
         },
         {
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
@@ -358,22 +406,6 @@
           "UpdatedAt": "2025-11-23T06:21:45.343Z"
         },
         {
-          "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
-          "Name": "MMD with aircraft By 萩キャンパーJP",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
-          "AuthorName": "萩キャンパーJP",
-          "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2025-11-23T01:15:25.784Z"
-        },
-        {
           "ID": "wrld_5840ad33-4f82-4875-a31b-b6a198f2c982",
           "Name": "くうこうがあるみなみのしま By ねねみそ",
           "RecommendedCapacity": 16,
@@ -612,22 +644,6 @@
           "AuthorName": "ミーさん",
           "CreatedAt": "2025-06-01T12:40:41.23Z",
           "UpdatedAt": "2025-10-23T14:13:45.198Z"
-        },
-        {
-          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
-          "Name": "catch＆Shootǃǃ 2 By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-10-19T02:43:43.265Z"
         },
         {
           "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
@@ -2987,6 +3003,22 @@
           "UpdatedAt": "2025-12-24T09:08:35.409Z"
         },
         {
+          "ID": "wrld_14690e2e-4dca-4fab-a691-10ea380a1477",
+          "Name": "【APKU⁄KRL】Kural Airport（クラル空港） By ぺんぎん10",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "景色を観ながらゆったりとした飛行を楽しめるフライトワールドです。 カメラのニアクリップ距離の上書きをOFFにして下さい。民間企業であるPNLSSが保有する大洋域の主要空港であり、PNLSSの運用機材の整備を行う大規模空港です。 日本語以外の言語での反応は作成者の能力の都合上、大幅に遅れる可能性があります。気に入って頂けましたら口コミ等で拡散して頂けると有り難いです。（公式ハッシュタグ＃クラル空港＃KuralAirport）更新情報˸public化（1⁄1）",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_be3ea804-236c-4bc1-b4bf-df059c6f7716",
+          "AuthorName": "ぺんぎん10",
+          "CreatedAt": "2025-11-09T12:58:45.152Z",
+          "UpdatedAt": "2026-01-05T06:17:05.374Z"
+        },
+        {
           "ID": "wrld_01de54aa-b25c-43ea-9eae-b6a3d1e9f9b6",
           "Name": "Fly the mountains By Riezet Lieaner",
           "RecommendedCapacity": 12,
@@ -3624,7 +3656,7 @@
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2025-11-23T01:15:25.784Z"
+          "UpdatedAt": "2026-01-07T09:49:29.173Z"
         },
         {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
@@ -3640,7 +3672,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-10-19T02:43:43.265Z"
+          "UpdatedAt": "2026-01-08T11:50:55.768Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -3928,7 +3960,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-01-01T16:01:38.721Z"
+          "UpdatedAt": "2026-01-07T12:01:07.802Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -5912,7 +5944,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-06T19:49:41.704Z"
+          "UpdatedAt": "2026-01-07T02:41:55.001Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -6030,6 +6062,22 @@
           "AuthorName": "ESNYA／エスニヤ",
           "CreatedAt": "2022-03-19T12:04:08.58Z",
           "UpdatedAt": "2022-04-14T06:30:54.605Z"
+        },
+        {
+          "ID": "wrld_14690e2e-4dca-4fab-a691-10ea380a1477",
+          "Name": "【APKU⁄KRL】Kural Airport（クラル空港） By ぺんぎん10",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "景色を観ながらゆったりとした飛行を楽しめるフライトワールドです。 カメラのニアクリップ距離の上書きをOFFにして下さい。民間企業であるPNLSSが保有する大洋域の主要空港であり、PNLSSの運用機材の整備を行う大規模空港です。 日本語以外の言語での反応は作成者の能力の都合上、大幅に遅れる可能性があります。気に入って頂けましたら口コミ等で拡散して頂けると有り難いです。（公式ハッシュタグ＃クラル空港＃KuralAirport）更新情報˸public化（1⁄1）",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_be3ea804-236c-4bc1-b4bf-df059c6f7716",
+          "AuthorName": "ぺんぎん10",
+          "CreatedAt": "2025-11-09T12:58:45.152Z",
+          "UpdatedAt": "2026-01-05T06:17:05.374Z"
         },
         {
           "ID": "wrld_c6846d53-a644-442f-b4d3-c02a73d58975",
@@ -6221,7 +6269,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-10-19T02:43:43.265Z"
+          "UpdatedAt": "2026-01-08T11:50:55.768Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -7213,7 +7261,7 @@
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2025-11-23T01:15:25.784Z"
+          "UpdatedAt": "2026-01-07T09:49:29.173Z"
         },
         {
           "ID": "wrld_225c3dc9-9067-45e5-9053-3e5226db3663",
@@ -7693,7 +7741,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-06T19:49:41.704Z"
+          "UpdatedAt": "2026-01-07T02:41:55.001Z"
         },
         {
           "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
@@ -8093,7 +8141,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-01-01T16:01:38.721Z"
+          "UpdatedAt": "2026-01-07T12:01:07.802Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -10306,7 +10354,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-06T19:49:41.704Z"
+          "UpdatedAt": "2026-01-07T02:41:55.001Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -10338,7 +10386,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2025-10-19T02:43:43.265Z"
+          "UpdatedAt": "2026-01-08T11:50:55.768Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -10706,7 +10754,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-01-01T16:01:38.721Z"
+          "UpdatedAt": "2026-01-07T12:01:07.802Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -11541,6 +11589,22 @@
           "UpdatedAt": "2025-01-05T04:11:58.56Z"
         },
         {
+          "ID": "wrld_14690e2e-4dca-4fab-a691-10ea380a1477",
+          "Name": "【APKU⁄KRL】Kural Airport（クラル空港） By ぺんぎん10",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "景色を観ながらゆったりとした飛行を楽しめるフライトワールドです。 カメラのニアクリップ距離の上書きをOFFにして下さい。民間企業であるPNLSSが保有する大洋域の主要空港であり、PNLSSの運用機材の整備を行う大規模空港です。 日本語以外の言語での反応は作成者の能力の都合上、大幅に遅れる可能性があります。気に入って頂けましたら口コミ等で拡散して頂けると有り難いです。（公式ハッシュタグ＃クラル空港＃KuralAirport）更新情報˸public化（1⁄1）",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_be3ea804-236c-4bc1-b4bf-df059c6f7716",
+          "AuthorName": "ぺんぎん10",
+          "CreatedAt": "2025-11-09T12:58:45.152Z",
+          "UpdatedAt": "2026-01-05T06:17:05.374Z"
+        },
+        {
           "ID": "wrld_c802e02d-7394-4168-9250-70fdd7df9c39",
           "Name": "とある山中の飛行場 By まこぺっぺ",
           "RecommendedCapacity": 20,
@@ -11778,7 +11842,7 @@
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2025-11-23T01:15:25.784Z"
+          "UpdatedAt": "2026-01-07T09:49:29.173Z"
         },
         {
           "ID": "wrld_0d79f7b1-0a1e-446a-b091-291575537a6c",
