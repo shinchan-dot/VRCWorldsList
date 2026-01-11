@@ -6,6 +6,70 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+          "Name": "Test Pilots By Sacchan",
+          "RecommendedCapacity": 16,
+          "Capacity": 44,
+          "Description": "For those who love flying․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2020-04-07T09:27:04.715Z",
+          "UpdatedAt": "2026-01-10T05:38:24.395Z"
+        },
+        {
+          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
+          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
+          "AuthorName": "Zweikaku",
+          "CreatedAt": "2020-05-17T13:35:24.03Z",
+          "UpdatedAt": "2026-01-09T16:56:19.253Z"
+        },
+        {
+          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
+          "Name": "すやみーる -Suya Mile- By かもみーる",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄11⁄3",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
+          "AuthorName": "かもみーる",
+          "CreatedAt": "2023-07-27T21:44:38.895Z",
+          "UpdatedAt": "2026-01-09T15:11:31.633Z"
+        },
+        {
+          "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
+          "Name": "鯖研 湖畔飛行場 YVL airport By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "焼鯖仮想研究所で公開しているsacc対応Vehicleのうち、ジェット機以外に乗ることができるワールドです",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-07-28T13:48:56.155Z",
+          "UpdatedAt": "2026-01-09T12:02:59.086Z"
+        },
+        {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
           "Name": "catch＆Shootǃǃ 2 By Sayodori",
           "RecommendedCapacity": 16,
@@ -52,22 +116,6 @@
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
           "UpdatedAt": "2026-01-07T09:49:29.173Z"
-        },
-        {
-          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
-          "Name": "Test Pilots By Sacchan",
-          "RecommendedCapacity": 16,
-          "Capacity": 44,
-          "Description": "For those who love flying․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-07T02:41:55.001Z"
         },
         {
           "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
@@ -166,22 +214,6 @@
           "UpdatedAt": "2025-12-21T09:38:42.621Z"
         },
         {
-          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
-          "Name": "Aircraft Carrier Jets˸ F-14 ［Winter］ By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-12-21T08:57:54.642Z"
-        },
-        {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
           "Name": "Test Drivers By Sacchan",
           "RecommendedCapacity": 22,
@@ -260,22 +292,6 @@
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
           "UpdatedAt": "2025-12-15T08:22:32.851Z"
-        },
-        {
-          "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
-          "Name": "鯖研 湖畔飛行場 YVL airport By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "焼鯖仮想研究所で公開しているsacc対応Vehicleのうち、ジェット機以外に乗ることができるワールドです",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2025-12-13T08:18:33.775Z"
         },
         {
           "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
@@ -436,22 +452,6 @@
           "AuthorName": "Coquelicotz",
           "CreatedAt": "2022-06-11T14:03:28.318Z",
           "UpdatedAt": "2025-11-20T11:02:51.232Z"
-        },
-        {
-          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
-          "Name": "すやみーる -Suya Mile- By かもみーる",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 25⁄11⁄3",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
-          "AuthorName": "かもみーる",
-          "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-11-18T00:06:32.257Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -3880,7 +3880,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2025-12-13T08:18:33.775Z"
+          "UpdatedAt": "2026-01-09T12:02:59.086Z"
         },
         {
           "ID": "wrld_e8c7a30d-4d63-4233-bca4-e4eff209e388",
@@ -4712,7 +4712,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-11-18T00:06:32.257Z"
+          "UpdatedAt": "2026-01-09T15:11:31.633Z"
         },
         {
           "ID": "wrld_39515b4c-36c5-4e0b-959e-ece318384025",
@@ -5916,7 +5916,7 @@
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
-          "Name": "Aircraft Carrier Jets˸ F-14 ［Winter］ By Zweikaku",
+          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
           "RecommendedCapacity": 30,
           "Capacity": 60,
           "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
@@ -5928,7 +5928,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-12-21T08:57:54.642Z"
+          "UpdatedAt": "2026-01-09T16:56:19.253Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -5944,7 +5944,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-07T02:41:55.001Z"
+          "UpdatedAt": "2026-01-10T05:38:24.395Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -6113,7 +6113,7 @@
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
-          "Name": "Aircraft Carrier Jets˸ F-14 ［Winter］ By Zweikaku",
+          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
           "RecommendedCapacity": 30,
           "Capacity": 60,
           "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
@@ -6125,7 +6125,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-12-21T08:57:54.642Z"
+          "UpdatedAt": "2026-01-09T16:56:19.253Z"
         },
         {
           "ID": "wrld_7e31e3f8-2ea2-4f8d-9d90-1d0e3181fc7c",
@@ -7741,7 +7741,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-07T02:41:55.001Z"
+          "UpdatedAt": "2026-01-10T05:38:24.395Z"
         },
         {
           "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
@@ -8221,7 +8221,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-11-18T00:06:32.257Z"
+          "UpdatedAt": "2026-01-09T15:11:31.633Z"
         },
         {
           "ID": "wrld_96c165cc-bbbc-475c-bc4d-6f002d732e36",
@@ -8573,7 +8573,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2025-12-13T08:18:33.775Z"
+          "UpdatedAt": "2026-01-09T12:02:59.086Z"
         },
         {
           "ID": "wrld_f62576b9-afee-4686-bf2c-1e6230d901ad",
@@ -10354,7 +10354,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-07T02:41:55.001Z"
+          "UpdatedAt": "2026-01-10T05:38:24.395Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -10738,7 +10738,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-07-28T13:48:56.155Z",
-          "UpdatedAt": "2025-12-13T08:18:33.775Z"
+          "UpdatedAt": "2026-01-09T12:02:59.086Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -10934,7 +10934,7 @@
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
-          "Name": "Aircraft Carrier Jets˸ F-14 ［Winter］ By Zweikaku",
+          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
           "RecommendedCapacity": 30,
           "Capacity": 60,
           "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
@@ -10946,7 +10946,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2025-12-21T08:57:54.642Z"
+          "UpdatedAt": "2026-01-09T16:56:19.253Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -11026,7 +11026,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2025-11-18T00:06:32.257Z"
+          "UpdatedAt": "2026-01-09T15:11:31.633Z"
         },
         {
           "ID": "wrld_05334b28-c7f5-493c-881d-469634a99c90",
