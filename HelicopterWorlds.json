@@ -19,7 +19,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-17T16:05:11.323Z"
+          "UpdatedAt": "2026-01-18T03:25:06.694Z"
         },
         {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
@@ -2292,22 +2292,6 @@
           "AuthorName": "かすみん",
           "CreatedAt": "2023-02-20T11:09:39.831Z",
           "UpdatedAt": "2023-09-14T07:09:35.963Z"
-        },
-        {
-          "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
-          "Name": "糞ワールド By きりしまはるな",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "糞ワールド",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
-          "AuthorName": "きりしまはるな",
-          "CreatedAt": "2023-09-04T14:58:08.335Z",
-          "UpdatedAt": "2023-09-06T18:43:47.194Z"
         },
         {
           "ID": "wrld_50c02490-5708-43f7-b27e-630c10bba998",
@@ -4619,22 +4603,6 @@
           "UpdatedAt": "2023-11-02T07:49:27.068Z"
         },
         {
-          "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
-          "Name": "糞ワールド By きりしまはるな",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "糞ワールド",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
-          "AuthorName": "きりしまはるな",
-          "CreatedAt": "2023-09-04T14:58:08.335Z",
-          "UpdatedAt": "2023-09-06T18:43:47.194Z"
-        },
-        {
           "ID": "wrld_f62576b9-afee-4686-bf2c-1e6230d901ad",
           "Name": "鹿児島県いちき串木野市 By Oppailot",
           "RecommendedCapacity": 16,
@@ -5256,7 +5224,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-17T16:05:11.323Z"
+          "UpdatedAt": "2026-01-18T03:25:06.694Z"
         },
         {
           "ID": "wrld_15230f5c-9eb4-446b-9990-91881e4d02e9",
@@ -7645,7 +7613,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-17T16:05:11.323Z"
+          "UpdatedAt": "2026-01-18T03:25:06.694Z"
         },
         {
           "ID": "wrld_0c8800fb-777d-4ac5-99eb-daee776cc1d7",
@@ -8830,22 +8798,6 @@
           "AuthorName": "noritama3",
           "CreatedAt": "2024-06-21T15:26:15.946Z",
           "UpdatedAt": "2025-09-14T13:36:16.106Z"
-        },
-        {
-          "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
-          "Name": "糞ワールド By きりしまはるな",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "糞ワールド",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
-          "AuthorName": "きりしまはるな",
-          "CreatedAt": "2023-09-04T14:58:08.335Z",
-          "UpdatedAt": "2023-09-06T18:43:47.194Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -11093,22 +11045,6 @@
           "UpdatedAt": "2023-10-30T15:01:11.864Z"
         },
         {
-          "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
-          "Name": "糞ワールド By きりしまはるな",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "糞ワールド",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
-          "AuthorName": "きりしまはるな",
-          "CreatedAt": "2023-09-04T14:58:08.335Z",
-          "UpdatedAt": "2023-09-06T18:43:47.194Z"
-        },
-        {
           "ID": "wrld_50c02490-5708-43f7-b27e-630c10bba998",
           "Name": "メリスの世界 By きりしまはるな",
           "RecommendedCapacity": 16,
@@ -11266,7 +11202,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-17T16:05:11.323Z"
+          "UpdatedAt": "2026-01-18T03:25:06.694Z"
         },
         {
           "ID": "wrld_f76f9974-9c8b-49b1-83d3-3a1f9b4da8cf",
