@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_5840ad33-4f82-4875-a31b-b6a198f2c982",
+          "Name": "くうこうがあるみなみのしま By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "中央に空港がある夏をイメージした南の島風なワールドを作りました。動画プレーヤー、QVペン、飛行機、ヘリコプター、車が置いてあるのでのんびりしたりドライブしたり気ままに飛んだりしてもらえればと思います。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-05-03T15:52:37.563Z",
+          "UpdatedAt": "2026-01-19T11:16:33.494Z"
+        },
+        {
           "ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
           "Name": "studio-symphonys- for flight world1 By シン《symphony》",
           "RecommendedCapacity": 16,
@@ -52,22 +68,6 @@
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
           "UpdatedAt": "2026-01-17T00:22:42.111Z"
-        },
-        {
-          "ID": "wrld_5840ad33-4f82-4875-a31b-b6a198f2c982",
-          "Name": "くうこうがあるみなみのしま By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "中央に空港がある夏をイメージした南の島風なワールドを作りました。動画プレーヤー、QVペン、飛行機、ヘリコプター、車が置いてあるのでのんびりしたりドライブしたり気ままに飛んだりしてもらえればと思います。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-05-03T15:52:37.563Z",
-          "UpdatedAt": "2026-01-16T03:03:57.645Z"
         },
         {
           "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
@@ -2294,6 +2294,22 @@
           "UpdatedAt": "2023-09-14T07:09:35.963Z"
         },
         {
+          "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
+          "Name": "糞ワールド By きりしまはるな",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "糞ワールド",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
+          "AuthorName": "きりしまはるな",
+          "CreatedAt": "2023-09-04T14:58:08.335Z",
+          "UpdatedAt": "2023-09-06T18:43:47.194Z"
+        },
+        {
           "ID": "wrld_50c02490-5708-43f7-b27e-630c10bba998",
           "Name": "メリスの世界 By きりしまはるな",
           "RecommendedCapacity": 16,
@@ -2500,22 +2516,6 @@
           "AuthorName": "Just a Nomad",
           "CreatedAt": "2022-08-03T19:29:58.527Z",
           "UpdatedAt": "2023-04-09T12:24:01.734Z"
-        },
-        {
-          "ID": "wrld_606ce8ab-150d-46b3-bf10-b6654bacdaf6",
-          "Name": "Just Hamamatsu ［RJNH］ By きりしまはるな",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "浜松市を再現したワールドです、無線を導入し編隊飛行が可能です、訓練飛行や展示飛行などにどうぞ。クエスト対応ですがおまけ程度なので、推奨はしていません、縮尺や施設など実在の物とは異なります。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
-          "AuthorName": "きりしまはるな",
-          "CreatedAt": "2023-02-17T18:19:16.254Z",
-          "UpdatedAt": "2023-03-20T17:25:38.059Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -3176,7 +3176,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-05-03T15:52:37.563Z",
-          "UpdatedAt": "2026-01-16T03:03:57.645Z"
+          "UpdatedAt": "2026-01-19T11:16:33.494Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -4603,6 +4603,22 @@
           "UpdatedAt": "2023-11-02T07:49:27.068Z"
         },
         {
+          "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
+          "Name": "糞ワールド By きりしまはるな",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "糞ワールド",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
+          "AuthorName": "きりしまはるな",
+          "CreatedAt": "2023-09-04T14:58:08.335Z",
+          "UpdatedAt": "2023-09-06T18:43:47.194Z"
+        },
+        {
           "ID": "wrld_f62576b9-afee-4686-bf2c-1e6230d901ad",
           "Name": "鹿児島県いちき串木野市 By Oppailot",
           "RecommendedCapacity": 16,
@@ -5065,22 +5081,6 @@
           "AuthorName": "かすみん",
           "CreatedAt": "2023-02-20T11:09:39.831Z",
           "UpdatedAt": "2023-09-14T07:09:35.963Z"
-        },
-        {
-          "ID": "wrld_606ce8ab-150d-46b3-bf10-b6654bacdaf6",
-          "Name": "Just Hamamatsu ［RJNH］ By きりしまはるな",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "浜松市を再現したワールドです、無線を導入し編隊飛行が可能です、訓練飛行や展示飛行などにどうぞ。クエスト対応ですがおまけ程度なので、推奨はしていません、縮尺や施設など実在の物とは異なります。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
-          "AuthorName": "きりしまはるな",
-          "CreatedAt": "2023-02-17T18:19:16.254Z",
-          "UpdatedAt": "2023-03-20T17:25:38.059Z"
         },
         {
           "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
@@ -6944,22 +6944,6 @@
           "UpdatedAt": "2023-10-30T15:01:11.864Z"
         },
         {
-          "ID": "wrld_606ce8ab-150d-46b3-bf10-b6654bacdaf6",
-          "Name": "Just Hamamatsu ［RJNH］ By きりしまはるな",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "浜松市を再現したワールドです、無線を導入し編隊飛行が可能です、訓練飛行や展示飛行などにどうぞ。クエスト対応ですがおまけ程度なので、推奨はしていません、縮尺や施設など実在の物とは異なります。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
-          "AuthorName": "きりしまはるな",
-          "CreatedAt": "2023-02-17T18:19:16.254Z",
-          "UpdatedAt": "2023-03-20T17:25:38.059Z"
-        },
-        {
           "ID": "wrld_c4bf37ef-1ba5-4705-8009-f1ec7ccd17e8",
           "Name": "Just Hamamatsu Night Party By きりしまはるな",
           "RecommendedCapacity": 30,
@@ -8061,7 +8045,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-05-03T15:52:37.563Z",
-          "UpdatedAt": "2026-01-16T03:03:57.645Z"
+          "UpdatedAt": "2026-01-19T11:16:33.494Z"
         },
         {
           "ID": "wrld_44f7c1e2-38b6-45c6-9c96-ba32b6c1c420",
@@ -8798,6 +8782,22 @@
           "AuthorName": "noritama3",
           "CreatedAt": "2024-06-21T15:26:15.946Z",
           "UpdatedAt": "2025-09-14T13:36:16.106Z"
+        },
+        {
+          "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
+          "Name": "糞ワールド By きりしまはるな",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "糞ワールド",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
+          "AuthorName": "きりしまはるな",
+          "CreatedAt": "2023-09-04T14:58:08.335Z",
+          "UpdatedAt": "2023-09-06T18:43:47.194Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -11045,6 +11045,22 @@
           "UpdatedAt": "2023-10-30T15:01:11.864Z"
         },
         {
+          "ID": "wrld_5e1f1c1f-ee56-4354-adca-cb82d8032620",
+          "Name": "糞ワールド By きりしまはるな",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "糞ワールド",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
+          "AuthorName": "きりしまはるな",
+          "CreatedAt": "2023-09-04T14:58:08.335Z",
+          "UpdatedAt": "2023-09-06T18:43:47.194Z"
+        },
+        {
           "ID": "wrld_50c02490-5708-43f7-b27e-630c10bba998",
           "Name": "メリスの世界 By きりしまはるな",
           "RecommendedCapacity": 16,
@@ -11075,22 +11091,6 @@
           "AuthorName": "きりしまはるな",
           "CreatedAt": "2023-02-25T07:55:38.694Z",
           "UpdatedAt": "2023-02-25T09:30:10.201Z"
-        },
-        {
-          "ID": "wrld_606ce8ab-150d-46b3-bf10-b6654bacdaf6",
-          "Name": "Just Hamamatsu ［RJNH］ By きりしまはるな",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "浜松市を再現したワールドです、無線を導入し編隊飛行が可能です、訓練飛行や展示飛行などにどうぞ。クエスト対応ですがおまけ程度なので、推奨はしていません、縮尺や施設など実在の物とは異なります。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
-          "AuthorName": "きりしまはるな",
-          "CreatedAt": "2023-02-17T18:19:16.254Z",
-          "UpdatedAt": "2023-03-20T17:25:38.059Z"
         },
         {
           "ID": "wrld_f03bd1b3-2fa0-47ec-a3b0-8e851f39af7a",
@@ -11426,7 +11426,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-05-03T15:52:37.563Z",
-          "UpdatedAt": "2026-01-16T03:03:57.645Z"
+          "UpdatedAt": "2026-01-19T11:16:33.494Z"
         },
         {
           "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
