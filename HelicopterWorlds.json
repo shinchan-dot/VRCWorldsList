@@ -6,20 +6,68 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
-          "Name": "すやみーる -Suya Mile- By かもみーる",
+          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
+          "Name": "Helicopter flight training By 藍香 -aica-",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄1⁄21",
+          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": true
           },
-          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
-          "AuthorName": "かもみーる",
-          "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2026-01-21T08:20:50.889Z"
+          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
+          "AuthorName": "藍香 -aica-",
+          "CreatedAt": "2024-08-04T08:23:01.722Z",
+          "UpdatedAt": "2026-01-27T16:48:32.384Z"
+        },
+        {
+          "ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
+          "Name": "studio-symphonys- for flight world1 By シン《symphony》",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "studio-symphonys-としてboothに置いている物を置いてます！ 普通に飛んだりして遊べるので是非遊んでくださいー！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
+          "AuthorName": "シン《symphony》",
+          "CreatedAt": "2022-10-01T10:11:10.652Z",
+          "UpdatedAt": "2026-01-27T07:37:59.088Z"
+        },
+        {
+          "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
+          "Name": "MMD with aircraft By 萩キャンパーJP",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
+          "AuthorName": "萩キャンパーJP",
+          "CreatedAt": "2024-10-16T09:05:51.978Z",
+          "UpdatedAt": "2026-01-26T09:27:56.984Z"
+        },
+        {
+          "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
+          "Name": "VR Narita Airport《NRT⁄RJAA》 By シン《symphony》",
+          "RecommendedCapacity": 30,
+          "Capacity": 40,
+          "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
+          "AuthorName": "シン《symphony》",
+          "CreatedAt": "2021-10-04T08:47:43.348Z",
+          "UpdatedAt": "2026-01-24T15:36:42.903Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -35,7 +83,55 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-20T01:11:30.506Z"
+          "UpdatedAt": "2026-01-23T23:23:52.83Z"
+        },
+        {
+          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
+          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-24T05:36:00.897Z",
+          "UpdatedAt": "2026-01-23T07:30:59.747Z"
+        },
+        {
+          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
+          "Name": "catch＆Shootǃǃ 2 By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-10-04T14:23:01.112Z",
+          "UpdatedAt": "2026-01-22T12:21:24.523Z"
+        },
+        {
+          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
+          "Name": "すやみーる -Suya Mile- By かもみーる",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄1⁄21",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
+          "AuthorName": "かもみーる",
+          "CreatedAt": "2023-07-27T21:44:38.895Z",
+          "UpdatedAt": "2026-01-21T08:20:50.889Z"
         },
         {
           "ID": "wrld_5840ad33-4f82-4875-a31b-b6a198f2c982",
@@ -54,22 +150,6 @@
           "UpdatedAt": "2026-01-19T11:16:33.494Z"
         },
         {
-          "ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
-          "Name": "studio-symphonys- for flight world1 By シン《symphony》",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "studio-symphonys-としてboothに置いている物を置いてます！ 普通に飛んだりして遊べるので是非遊んでくださいー！",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
-          "AuthorName": "シン《symphony》",
-          "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-18T03:25:06.694Z"
-        },
-        {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
           "Name": "Kennedy Space Center By medaka0228",
           "RecommendedCapacity": 40,
@@ -84,22 +164,6 @@
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
           "UpdatedAt": "2026-01-17T11:27:46.074Z"
-        },
-        {
-          "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
-          "Name": "VR Narita Airport《NRT⁄RJAA》 By シン《symphony》",
-          "RecommendedCapacity": 30,
-          "Capacity": 40,
-          "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
-          "AuthorName": "シン《symphony》",
-          "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2026-01-17T00:22:42.111Z"
         },
         {
           "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
@@ -150,22 +214,6 @@
           "UpdatedAt": "2026-01-09T12:02:59.086Z"
         },
         {
-          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
-          "Name": "catch＆Shootǃǃ 2 By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2026-01-08T11:50:55.768Z"
-        },
-        {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
           "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -180,38 +228,6 @@
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
           "UpdatedAt": "2026-01-07T12:01:07.802Z"
-        },
-        {
-          "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
-          "Name": "MMD with aircraft By 萩キャンパーJP",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
-          "AuthorName": "萩キャンパーJP",
-          "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2026-01-07T09:49:29.173Z"
-        },
-        {
-          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
-          "Name": "Helicopter flight training By 藍香 -aica-",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
-          "AuthorName": "藍香 -aica-",
-          "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2026-01-06T18:59:23.468Z"
         },
         {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
@@ -356,22 +372,6 @@
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
           "UpdatedAt": "2025-12-15T21:20:42.996Z"
-        },
-        {
-          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
-          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-12-15T08:22:32.851Z"
         },
         {
           "ID": "wrld_c922b367-61a7-4353-a9f6-14eec71e8d3a",
@@ -3224,7 +3224,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-12-15T08:22:32.851Z"
+          "UpdatedAt": "2026-01-23T07:30:59.747Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -3656,7 +3656,7 @@
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2026-01-07T09:49:29.173Z"
+          "UpdatedAt": "2026-01-26T09:27:56.984Z"
         },
         {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
@@ -3672,7 +3672,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2026-01-08T11:50:55.768Z"
+          "UpdatedAt": "2026-01-22T12:21:24.523Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -3843,12 +3843,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2026-01-06T18:59:23.468Z"
+          "UpdatedAt": "2026-01-27T16:48:32.384Z"
         },
         {
           "ID": "wrld_f16204b8-df69-47e0-b543-db6ec52019a0",
@@ -5256,7 +5256,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-18T03:25:06.694Z"
+          "UpdatedAt": "2026-01-27T07:37:59.088Z"
         },
         {
           "ID": "wrld_15230f5c-9eb4-446b-9990-91881e4d02e9",
@@ -5752,7 +5752,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2026-01-17T00:22:42.111Z"
+          "UpdatedAt": "2026-01-24T15:36:42.903Z"
         },
         {
           "ID": "wrld_6e11b9d6-c445-4c8a-8652-eb483f3f74e7",
@@ -5944,7 +5944,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-20T01:11:30.506Z"
+          "UpdatedAt": "2026-01-23T23:23:52.83Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -6269,7 +6269,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2026-01-08T11:50:55.768Z"
+          "UpdatedAt": "2026-01-22T12:21:24.523Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -6792,12 +6792,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2026-01-06T18:59:23.468Z"
+          "UpdatedAt": "2026-01-27T16:48:32.384Z"
         },
         {
           "ID": "wrld_0deb4bae-57d6-4dbf-8a18-0b05fe0efa9b",
@@ -7261,7 +7261,7 @@
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2026-01-07T09:49:29.173Z"
+          "UpdatedAt": "2026-01-26T09:27:56.984Z"
         },
         {
           "ID": "wrld_225c3dc9-9067-45e5-9053-3e5226db3663",
@@ -7645,7 +7645,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-18T03:25:06.694Z"
+          "UpdatedAt": "2026-01-27T07:37:59.088Z"
         },
         {
           "ID": "wrld_0c8800fb-777d-4ac5-99eb-daee776cc1d7",
@@ -7741,7 +7741,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-20T01:11:30.506Z"
+          "UpdatedAt": "2026-01-23T23:23:52.83Z"
         },
         {
           "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
@@ -7949,7 +7949,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2026-01-17T00:22:42.111Z"
+          "UpdatedAt": "2026-01-24T15:36:42.903Z"
         },
         {
           "ID": "wrld_71293f85-7572-4a80-81cc-229b831bf88e",
@@ -8893,7 +8893,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-12-15T08:22:32.851Z"
+          "UpdatedAt": "2026-01-23T07:30:59.747Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -10354,7 +10354,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-01-20T01:11:30.506Z"
+          "UpdatedAt": "2026-01-23T23:23:52.83Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -10386,7 +10386,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2026-01-08T11:50:55.768Z"
+          "UpdatedAt": "2026-01-22T12:21:24.523Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -11266,7 +11266,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-18T03:25:06.694Z"
+          "UpdatedAt": "2026-01-27T07:37:59.088Z"
         },
         {
           "ID": "wrld_f76f9974-9c8b-49b1-83d3-3a1f9b4da8cf",
@@ -11330,7 +11330,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2026-01-17T00:22:42.111Z"
+          "UpdatedAt": "2026-01-24T15:36:42.903Z"
         },
         {
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
@@ -11506,7 +11506,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2025-12-15T08:22:32.851Z"
+          "UpdatedAt": "2026-01-23T07:30:59.747Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -11842,7 +11842,7 @@
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2026-01-07T09:49:29.173Z"
+          "UpdatedAt": "2026-01-26T09:27:56.984Z"
         },
         {
           "ID": "wrld_0d79f7b1-0a1e-446a-b091-291575537a6c",
@@ -11917,12 +11917,12 @@
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
-            "Android": false
+            "Android": true
           },
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2026-01-06T18:59:23.468Z"
+          "UpdatedAt": "2026-01-27T16:48:32.384Z"
         }
       ]
     }
