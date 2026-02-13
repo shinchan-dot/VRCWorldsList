@@ -6,20 +6,36 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_e96ddd89-023e-41b0-bb0d-f7d8cbbf3e6f",
-          "Name": "Icebreaker「砕氷船」 By まこぺっぺ",
+          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
+          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
           "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "船で流氷を砕いて進む、ということをやってみたくて作ったワールドです。 視界は悪いですが潜水艇もあります。 衝突の仕方によってはおかしな動きするかもしれませんがそれはそれとして遊んでいただければ･･･ 需要があるかは微妙な船ワールドです。",
+          "Capacity": 30,
+          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": false
           },
-          "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
-          "AuthorName": "まこぺっぺ",
-          "CreatedAt": "2026-01-12T12:44:58.787Z",
-          "UpdatedAt": "2026-02-10T04:59:48.032Z"
+          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
+          "AuthorName": "そーかる«SOKOL»",
+          "CreatedAt": "2025-11-16T11:56:47.129Z",
+          "UpdatedAt": "2026-02-13T06:03:21.429Z"
+        },
+        {
+          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+          "Name": "Test Pilots By Sacchan",
+          "RecommendedCapacity": 16,
+          "Capacity": 44,
+          "Description": "For those who love flying․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2020-04-07T09:27:04.715Z",
+          "UpdatedAt": "2026-02-12T15:40:58.674Z"
         },
         {
           "ID": "wrld_bf942cb8-394c-4e39-8b20-1c7364c8d68d",
@@ -35,7 +51,87 @@
           "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
           "AuthorName": "えこ！！",
           "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-02-09T14:33:06.436Z"
+          "UpdatedAt": "2026-02-11T14:16:57.514Z"
+        },
+        {
+          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
+          "Name": "すやみーる -Suya Mile- By かもみーる",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄2⁄10",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
+          "AuthorName": "かもみーる",
+          "CreatedAt": "2023-07-27T21:44:38.895Z",
+          "UpdatedAt": "2026-02-11T12:16:42.301Z"
+        },
+        {
+          "ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
+          "Name": "studio-symphonys- for flight world1 By シン《symphony》",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "studio-symphonys-としてboothに置いている物を置いてます！ 普通に飛んだりして遊べるので是非遊んでくださいー！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
+          "AuthorName": "シン《symphony》",
+          "CreatedAt": "2022-10-01T10:11:10.652Z",
+          "UpdatedAt": "2026-02-11T09:13:58.716Z"
+        },
+        {
+          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
+          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-24T05:36:00.897Z",
+          "UpdatedAt": "2026-02-11T03:17:07.386Z"
+        },
+        {
+          "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
+          "Name": "VR Narita Airport《NRT⁄RJAA》 By シン《symphony》",
+          "RecommendedCapacity": 30,
+          "Capacity": 40,
+          "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
+          "AuthorName": "シン《symphony》",
+          "CreatedAt": "2021-10-04T08:47:43.348Z",
+          "UpdatedAt": "2026-02-10T08:23:28.163Z"
+        },
+        {
+          "ID": "wrld_e96ddd89-023e-41b0-bb0d-f7d8cbbf3e6f",
+          "Name": "Icebreaker「砕氷船」 By まこぺっぺ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "船で流氷を砕いて進む、ということをやってみたくて作ったワールドです。 視界は悪いですが潜水艇もあります。 衝突の仕方によってはおかしな動きするかもしれませんがそれはそれとして遊んでいただければ･･･ 需要があるかは微妙な船ワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
+          "AuthorName": "まこぺっぺ",
+          "CreatedAt": "2026-01-12T12:44:58.787Z",
+          "UpdatedAt": "2026-02-10T04:59:48.032Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
@@ -54,22 +150,6 @@
           "UpdatedAt": "2026-02-08T15:02:00.097Z"
         },
         {
-          "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
-          "Name": "すやみーる -Suya Mile- By かもみーる",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄2⁄6",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
-          "AuthorName": "かもみーる",
-          "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2026-02-06T02:42:57.106Z"
-        },
-        {
           "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
           "Name": "File A56-7W By 萩キャンパーJP",
           "RecommendedCapacity": 16,
@@ -86,22 +166,6 @@
           "UpdatedAt": "2026-02-04T08:42:36.163Z"
         },
         {
-          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
-          "Name": "Test Pilots By Sacchan",
-          "RecommendedCapacity": 16,
-          "Capacity": 44,
-          "Description": "For those who love flying․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-02-03T17:34:14.072Z"
-        },
-        {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
           "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
           "RecommendedCapacity": 30,
@@ -116,22 +180,6 @@
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
           "UpdatedAt": "2026-01-30T08:40:59.997Z"
-        },
-        {
-          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
-          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
-          "RecommendedCapacity": 16,
-          "Capacity": 26,
-          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
-          "AuthorName": "そーかる«SOKOL»",
-          "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2026-01-30T07:01:36.159Z"
         },
         {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
@@ -166,22 +214,6 @@
           "UpdatedAt": "2026-01-27T16:48:32.384Z"
         },
         {
-          "ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
-          "Name": "studio-symphonys- for flight world1 By シン《symphony》",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "studio-symphonys-としてboothに置いている物を置いてます！ 普通に飛んだりして遊べるので是非遊んでくださいー！",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
-          "AuthorName": "シン《symphony》",
-          "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-27T07:37:59.088Z"
-        },
-        {
           "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
           "Name": "MMD with aircraft By 萩キャンパーJP",
           "RecommendedCapacity": 16,
@@ -196,38 +228,6 @@
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
           "UpdatedAt": "2026-01-26T09:27:56.984Z"
-        },
-        {
-          "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
-          "Name": "VR Narita Airport《NRT⁄RJAA》 By シン《symphony》",
-          "RecommendedCapacity": 30,
-          "Capacity": 40,
-          "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
-          "AuthorName": "シン《symphony》",
-          "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2026-01-24T15:36:42.903Z"
-        },
-        {
-          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
-          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-01-23T07:30:59.747Z"
         },
         {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
@@ -3000,7 +3000,7 @@
           "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
           "AuthorName": "えこ！！",
           "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-02-09T14:33:06.436Z"
+          "UpdatedAt": "2026-02-11T14:16:57.514Z"
         },
         {
           "ID": "wrld_e96ddd89-023e-41b0-bb0d-f7d8cbbf3e6f",
@@ -3022,7 +3022,7 @@
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
           "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
           "RecommendedCapacity": 16,
-          "Capacity": 26,
+          "Capacity": 30,
           "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
           "ReleaseStatus": "public",
           "Platform": {
@@ -3032,7 +3032,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2026-01-30T07:01:36.159Z"
+          "UpdatedAt": "2026-02-13T06:03:21.429Z"
         },
         {
           "ID": "wrld_14690e2e-4dca-4fab-a691-10ea380a1477",
@@ -3240,7 +3240,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-01-23T07:30:59.747Z"
+          "UpdatedAt": "2026-02-11T03:17:07.386Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -4703,7 +4703,7 @@
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄2⁄6",
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄2⁄10",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -4712,7 +4712,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2026-02-06T02:42:57.106Z"
+          "UpdatedAt": "2026-02-11T12:16:42.301Z"
         },
         {
           "ID": "wrld_39515b4c-36c5-4e0b-959e-ece318384025",
@@ -5256,7 +5256,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-27T07:37:59.088Z"
+          "UpdatedAt": "2026-02-11T09:13:58.716Z"
         },
         {
           "ID": "wrld_15230f5c-9eb4-446b-9990-91881e4d02e9",
@@ -5752,7 +5752,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2026-01-24T15:36:42.903Z"
+          "UpdatedAt": "2026-02-10T08:23:28.163Z"
         },
         {
           "ID": "wrld_6e11b9d6-c445-4c8a-8652-eb483f3f74e7",
@@ -5944,7 +5944,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-02-03T17:34:14.072Z"
+          "UpdatedAt": "2026-02-12T15:40:58.674Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -7309,7 +7309,7 @@
           "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
           "AuthorName": "えこ！！",
           "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-02-09T14:33:06.436Z"
+          "UpdatedAt": "2026-02-11T14:16:57.514Z"
         },
         {
           "ID": "wrld_7a125096-a3b5-4e28-a197-0bc7a1254946",
@@ -7645,7 +7645,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-27T07:37:59.088Z"
+          "UpdatedAt": "2026-02-11T09:13:58.716Z"
         },
         {
           "ID": "wrld_0c8800fb-777d-4ac5-99eb-daee776cc1d7",
@@ -7741,7 +7741,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-02-03T17:34:14.072Z"
+          "UpdatedAt": "2026-02-12T15:40:58.674Z"
         },
         {
           "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
@@ -7949,7 +7949,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2026-01-24T15:36:42.903Z"
+          "UpdatedAt": "2026-02-10T08:23:28.163Z"
         },
         {
           "ID": "wrld_71293f85-7572-4a80-81cc-229b831bf88e",
@@ -8212,7 +8212,7 @@
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄2⁄6",
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄2⁄10",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -8221,7 +8221,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2026-02-06T02:42:57.106Z"
+          "UpdatedAt": "2026-02-11T12:16:42.301Z"
         },
         {
           "ID": "wrld_96c165cc-bbbc-475c-bc4d-6f002d732e36",
@@ -8739,7 +8739,7 @@
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
           "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
           "RecommendedCapacity": 16,
-          "Capacity": 26,
+          "Capacity": 30,
           "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
           "ReleaseStatus": "public",
           "Platform": {
@@ -8749,7 +8749,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2026-01-30T07:01:36.159Z"
+          "UpdatedAt": "2026-02-13T06:03:21.429Z"
         },
         {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
@@ -8893,7 +8893,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-01-23T07:30:59.747Z"
+          "UpdatedAt": "2026-02-11T03:17:07.386Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -10306,7 +10306,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-02-03T17:34:14.072Z"
+          "UpdatedAt": "2026-02-12T15:40:58.674Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -10962,7 +10962,7 @@
           "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
           "AuthorName": "えこ！！",
           "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-02-09T14:33:06.436Z"
+          "UpdatedAt": "2026-02-11T14:16:57.514Z"
         },
         {
           "ID": "wrld_9a680289-7f96-42a6-a209-76c48ac1aa44",
@@ -10985,7 +10985,7 @@
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄2⁄6",
+          "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․7。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄2⁄10",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -10994,7 +10994,7 @@
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
           "CreatedAt": "2023-07-27T21:44:38.895Z",
-          "UpdatedAt": "2026-02-06T02:42:57.106Z"
+          "UpdatedAt": "2026-02-11T12:16:42.301Z"
         },
         {
           "ID": "wrld_05334b28-c7f5-493c-881d-469634a99c90",
@@ -11234,7 +11234,7 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
-          "UpdatedAt": "2026-01-27T07:37:59.088Z"
+          "UpdatedAt": "2026-02-11T09:13:58.716Z"
         },
         {
           "ID": "wrld_f76f9974-9c8b-49b1-83d3-3a1f9b4da8cf",
@@ -11298,13 +11298,13 @@
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2021-10-04T08:47:43.348Z",
-          "UpdatedAt": "2026-01-24T15:36:42.903Z"
+          "UpdatedAt": "2026-02-10T08:23:28.163Z"
         },
         {
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
           "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
           "RecommendedCapacity": 16,
-          "Capacity": 26,
+          "Capacity": 30,
           "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
           "ReleaseStatus": "public",
           "Platform": {
@@ -11314,7 +11314,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2026-01-30T07:01:36.159Z"
+          "UpdatedAt": "2026-02-13T06:03:21.429Z"
         },
         {
           "ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
@@ -11474,7 +11474,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-01-23T07:30:59.747Z"
+          "UpdatedAt": "2026-02-11T03:17:07.386Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
