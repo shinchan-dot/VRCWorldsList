@@ -6,6 +6,70 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_bf942cb8-394c-4e39-8b20-1c7364c8d68d",
+          "Name": "Night Drive ＆ Flight By えこ！！",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Under development․開発途中です。これからアップデートを重ねていきます。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
+          "AuthorName": "えこ！！",
+          "CreatedAt": "2026-01-18T14:44:08.001Z",
+          "UpdatedAt": "2026-02-15T17:15:11.098Z"
+        },
+        {
+          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
+          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-24T05:36:00.897Z",
+          "UpdatedAt": "2026-02-15T06:43:53.335Z"
+        },
+        {
+          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
+          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-08-17T04:25:51.108Z",
+          "UpdatedAt": "2026-02-14T21:30:05.208Z"
+        },
+        {
+          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
+          "Name": "Helicopter flight training By 藍香 -aica-",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
+          "AuthorName": "藍香 -aica-",
+          "CreatedAt": "2024-08-04T08:23:01.722Z",
+          "UpdatedAt": "2026-02-14T17:07:15.805Z"
+        },
+        {
           "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
           "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
           "RecommendedCapacity": 16,
@@ -38,22 +102,6 @@
           "UpdatedAt": "2026-02-12T15:40:58.674Z"
         },
         {
-          "ID": "wrld_bf942cb8-394c-4e39-8b20-1c7364c8d68d",
-          "Name": "Night Drive ＆ Flight By えこ！！",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "Under development․開発途中です。これからアップデートを重ねていきます。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
-          "AuthorName": "えこ！！",
-          "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-02-11T14:16:57.514Z"
-        },
-        {
           "ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
           "Name": "すやみーる -Suya Mile- By かもみーる",
           "RecommendedCapacity": 16,
@@ -84,22 +132,6 @@
           "AuthorName": "シン《symphony》",
           "CreatedAt": "2022-10-01T10:11:10.652Z",
           "UpdatedAt": "2026-02-11T09:13:58.716Z"
-        },
-        {
-          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
-          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-02-11T03:17:07.386Z"
         },
         {
           "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
@@ -196,22 +228,6 @@
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
           "UpdatedAt": "2026-01-28T13:34:09.382Z"
-        },
-        {
-          "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
-          "Name": "Helicopter flight training By 藍香 -aica-",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "saccflightのヘリコプターの練習ができるワールドです。 飛ばし方の解説動画や、練習に使えるガイドがあります。 直接飛ばし方を教わりたい方は作者のXへDMをお願いします。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
-          "AuthorName": "藍香 -aica-",
-          "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2026-01-27T16:48:32.384Z"
         },
         {
           "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
@@ -3000,7 +3016,7 @@
           "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
           "AuthorName": "えこ！！",
           "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-02-11T14:16:57.514Z"
+          "UpdatedAt": "2026-02-15T17:15:11.098Z"
         },
         {
           "ID": "wrld_e96ddd89-023e-41b0-bb0d-f7d8cbbf3e6f",
@@ -3113,6 +3129,22 @@
           "AuthorName": "katamitirunner",
           "CreatedAt": "2025-08-17T12:44:02.046Z",
           "UpdatedAt": "2025-08-24T14:23:58.78Z"
+        },
+        {
+          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
+          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-08-17T04:25:51.108Z",
+          "UpdatedAt": "2026-02-14T21:30:05.208Z"
         },
         {
           "ID": "wrld_3869e4ca-c336-4f0a-ab91-1751b0cb41cc",
@@ -3240,7 +3272,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-02-11T03:17:07.386Z"
+          "UpdatedAt": "2026-02-15T06:43:53.335Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -3848,7 +3880,7 @@
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2026-01-27T16:48:32.384Z"
+          "UpdatedAt": "2026-02-14T17:07:15.805Z"
         },
         {
           "ID": "wrld_f16204b8-df69-47e0-b543-db6ec52019a0",
@@ -6781,7 +6813,7 @@
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2026-01-27T16:48:32.384Z"
+          "UpdatedAt": "2026-02-14T17:07:15.805Z"
         },
         {
           "ID": "wrld_0deb4bae-57d6-4dbf-8a18-0b05fe0efa9b",
@@ -7309,7 +7341,7 @@
           "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
           "AuthorName": "えこ！！",
           "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-02-11T14:16:57.514Z"
+          "UpdatedAt": "2026-02-15T17:15:11.098Z"
         },
         {
           "ID": "wrld_7a125096-a3b5-4e28-a197-0bc7a1254946",
@@ -8400,6 +8432,22 @@
           "UpdatedAt": "2025-07-01T22:05:28.457Z"
         },
         {
+          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
+          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-08-17T04:25:51.108Z",
+          "UpdatedAt": "2026-02-14T21:30:05.208Z"
+        },
+        {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
           "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
           "RecommendedCapacity": 25,
@@ -8893,7 +8941,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-02-11T03:17:07.386Z"
+          "UpdatedAt": "2026-02-15T06:43:53.335Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -10245,6 +10293,22 @@
           "UpdatedAt": "2025-12-19T01:19:16.688Z"
         },
         {
+          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
+          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-08-17T04:25:51.108Z",
+          "UpdatedAt": "2026-02-14T21:30:05.208Z"
+        },
+        {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
           "Name": "Aerobatics Flight Home ․Q By Riezet Lieaner",
           "RecommendedCapacity": 16,
@@ -10962,7 +11026,7 @@
           "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
           "AuthorName": "えこ！！",
           "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-02-11T14:16:57.514Z"
+          "UpdatedAt": "2026-02-15T17:15:11.098Z"
         },
         {
           "ID": "wrld_9a680289-7f96-42a6-a209-76c48ac1aa44",
@@ -11474,7 +11538,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-02-11T03:17:07.386Z"
+          "UpdatedAt": "2026-02-15T06:43:53.335Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -11922,7 +11986,7 @@
           "AuthorId": "usr_2f8b5cac-6619-4564-8455-1868b8f9447c",
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
-          "UpdatedAt": "2026-01-27T16:48:32.384Z"
+          "UpdatedAt": "2026-02-14T17:07:15.805Z"
         }
       ]
     }
