@@ -6,6 +6,54 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+          "Name": "JVG Sendai Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 45,
+          "Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-03-21T10:58:00.822Z",
+          "UpdatedAt": "2026-02-18T07:15:30.817Z"
+        },
+        {
+          "ID": "wrld_4fe4cfe2-fad8-439e-b2f1-49ab11c8aadd",
+          "Name": "高松ゆうらん飛行 By ときわ（tokiwa）",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "香川県高松市の上空を、ヘリコプターでゆうらん飛行しましょう。 ｜ 国土交通省ホームページによる3D都市モデル（Project PLATEAU）高松市（2022年度）を加工し利用しています。 https˸⁄⁄www․geospatial․jp⁄ckan⁄dataset⁄plateau-37201-takamatsu-shi-2022 ｜ フリーBGM・音楽素材MusMus http˸⁄⁄musmus․main․jp⁄",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
+          "AuthorName": "ときわ（tokiwa）",
+          "CreatedAt": "2024-02-13T12:50:46.489Z",
+          "UpdatedAt": "2026-02-17T14:57:53.877Z"
+        },
+        {
+          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
+          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
+          "RecommendedCapacity": 16,
+          "Capacity": 30,
+          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
+          "AuthorName": "そーかる«SOKOL»",
+          "CreatedAt": "2025-11-16T11:56:47.129Z",
+          "UpdatedAt": "2026-02-17T11:57:56.423Z"
+        },
+        {
           "ID": "wrld_bf942cb8-394c-4e39-8b20-1c7364c8d68d",
           "Name": "Night Drive ＆ Flight By えこ！！",
           "RecommendedCapacity": 16,
@@ -68,22 +116,6 @@
           "AuthorName": "藍香 -aica-",
           "CreatedAt": "2024-08-04T08:23:01.722Z",
           "UpdatedAt": "2026-02-14T17:07:15.805Z"
-        },
-        {
-          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
-          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
-          "RecommendedCapacity": 16,
-          "Capacity": 30,
-          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
-          "AuthorName": "そーかる«SOKOL»",
-          "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2026-02-13T06:03:21.429Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -358,22 +390,6 @@
           "UpdatedAt": "2026-01-05T06:17:05.374Z"
         },
         {
-          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
-          "Name": "JVG Sendai Air Station By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 45,
-          "Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-01-03T02:07:45.215Z"
-        },
-        {
           "ID": "wrld_cb2f6666-765c-4060-a42d-fbd4892b7778",
           "Name": "BB-63 USS Missouri 1990's By katsuobusi24",
           "RecommendedCapacity": 40,
@@ -500,22 +516,6 @@
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2023-02-15T18:34:33.465Z",
           "UpdatedAt": "2025-11-23T06:50:35.368Z"
-        },
-        {
-          "ID": "wrld_4fe4cfe2-fad8-439e-b2f1-49ab11c8aadd",
-          "Name": "高松ゆうらん飛行 By ときわ（tokiwa）",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "香川県高松市の上空を、ヘリコプターでゆうらん飛行しましょう。 ｜ 国土交通省ホームページによる3D都市モデル（Project PLATEAU）高松市（2022年度）を加工し利用しています。 https˸⁄⁄www․geospatial․jp⁄ckan⁄dataset⁄plateau-37201-takamatsu-shi-2022 ｜ フリーBGM・音楽素材MusMus http˸⁄⁄musmus․main․jp⁄",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
-          "AuthorName": "ときわ（tokiwa）",
-          "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2025-11-23T06:38:42.017Z"
         },
         {
           "ID": "wrld_56b5b37b-7470-43d7-beb1-2bad3abcd222",
@@ -3048,7 +3048,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2026-02-13T06:03:21.429Z"
+          "UpdatedAt": "2026-02-17T11:57:56.423Z"
         },
         {
           "ID": "wrld_14690e2e-4dca-4fab-a691-10ea380a1477",
@@ -4328,7 +4328,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2025-11-23T06:38:42.017Z"
+          "UpdatedAt": "2026-02-17T14:57:53.877Z"
         },
         {
           "ID": "wrld_bd5474da-9f92-448e-9076-de2716e2e20a",
@@ -5032,7 +5032,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-01-03T02:07:45.215Z"
+          "UpdatedAt": "2026-02-18T07:15:30.817Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -7133,7 +7133,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-01-03T02:07:45.215Z"
+          "UpdatedAt": "2026-02-18T07:15:30.817Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -8605,7 +8605,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2025-11-23T06:38:42.017Z"
+          "UpdatedAt": "2026-02-17T14:57:53.877Z"
         },
         {
           "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
@@ -8797,7 +8797,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2026-02-13T06:03:21.429Z"
+          "UpdatedAt": "2026-02-17T11:57:56.423Z"
         },
         {
           "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
@@ -10114,7 +10114,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-01-03T02:07:45.215Z"
+          "UpdatedAt": "2026-02-18T07:15:30.817Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -11378,7 +11378,7 @@
           "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
           "AuthorName": "そーかる«SOKOL»",
           "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2026-02-13T06:03:21.429Z"
+          "UpdatedAt": "2026-02-17T11:57:56.423Z"
         },
         {
           "ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
@@ -11426,7 +11426,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2024-02-13T12:50:46.489Z",
-          "UpdatedAt": "2025-11-23T06:38:42.017Z"
+          "UpdatedAt": "2026-02-17T14:57:53.877Z"
         },
         {
           "ID": "wrld_e574bbd4-e020-4c49-8287-8edb163cfd3f",
