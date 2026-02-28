@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
+          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-08-17T04:25:51.108Z",
+          "UpdatedAt": "2026-02-27T12:33:01.984Z"
+        },
+        {
+          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
+          "Name": "catch＆Shootǃǃ 2 By Sayodori",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
+          "AuthorName": "Sayodori",
+          "CreatedAt": "2024-10-04T14:23:01.112Z",
+          "UpdatedAt": "2026-02-27T11:29:18.706Z"
+        },
+        {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
           "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
           "RecommendedCapacity": 25,
@@ -19,7 +51,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-02-23T22:30:40.426Z"
+          "UpdatedAt": "2026-02-24T08:41:50.148Z"
         },
         {
           "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
@@ -116,22 +148,6 @@
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
           "UpdatedAt": "2026-02-15T06:43:53.335Z"
-        },
-        {
-          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
-          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
-          "RecommendedCapacity": 12,
-          "Capacity": 22,
-          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-02-14T21:30:05.208Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -292,22 +308,6 @@
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
           "UpdatedAt": "2026-01-26T09:27:56.984Z"
-        },
-        {
-          "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
-          "Name": "catch＆Shootǃǃ 2 By Sayodori",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
-          "AuthorName": "Sayodori",
-          "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2026-01-22T12:21:24.523Z"
         },
         {
           "ID": "wrld_5840ad33-4f82-4875-a31b-b6a198f2c982",
@@ -3144,7 +3144,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-02-14T21:30:05.208Z"
+          "UpdatedAt": "2026-02-27T12:33:01.984Z"
         },
         {
           "ID": "wrld_3869e4ca-c336-4f0a-ab91-1751b0cb41cc",
@@ -3704,7 +3704,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2026-01-22T12:21:24.523Z"
+          "UpdatedAt": "2026-02-27T11:29:18.706Z"
         },
         {
           "ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
@@ -5336,7 +5336,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-02-23T22:30:40.426Z"
+          "UpdatedAt": "2026-02-24T08:41:50.148Z"
         },
         {
           "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
@@ -6285,7 +6285,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2026-01-22T12:21:24.523Z"
+          "UpdatedAt": "2026-02-27T11:29:18.706Z"
         },
         {
           "ID": "wrld_505e903a-11ed-4280-95d2-b00878f67a36",
@@ -8445,7 +8445,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-02-14T21:30:05.208Z"
+          "UpdatedAt": "2026-02-27T12:33:01.984Z"
         },
         {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
@@ -8461,7 +8461,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-02-23T22:30:40.426Z"
+          "UpdatedAt": "2026-02-24T08:41:50.148Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -9794,7 +9794,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-02-23T22:30:40.426Z"
+          "UpdatedAt": "2026-02-24T08:41:50.148Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -10306,7 +10306,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-02-14T21:30:05.208Z"
+          "UpdatedAt": "2026-02-27T12:33:01.984Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -10402,7 +10402,7 @@
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
-          "UpdatedAt": "2026-01-22T12:21:24.523Z"
+          "UpdatedAt": "2026-02-27T11:29:18.706Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
