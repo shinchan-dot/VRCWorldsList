@@ -6,20 +6,36 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
-          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
-          "RecommendedCapacity": 16,
-          "Capacity": 30,
-          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
+          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
+          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": false
           },
-          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
-          "AuthorName": "そーかる«SOKOL»",
-          "CreatedAt": "2025-11-16T11:56:47.129Z",
-          "UpdatedAt": "2026-03-08T14:16:40.881Z"
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-08-17T04:25:51.108Z",
+          "UpdatedAt": "2026-03-09T22:52:38.011Z"
+        },
+        {
+          "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
+          "Name": "Missile dancing By わたぼー",
+          "RecommendedCapacity": 4,
+          "Capacity": 8,
+          "Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
+          "AuthorName": "わたぼー",
+          "CreatedAt": "2024-11-25T07:15:38.494Z",
+          "UpdatedAt": "2026-03-09T15:37:00.451Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -35,23 +51,23 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-03-08T09:19:40.45Z"
+          "UpdatedAt": "2026-03-09T05:10:40.545Z"
         },
         {
-          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
-          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
-          "RecommendedCapacity": 12,
-          "Capacity": 22,
-          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
+          "ID": "wrld_3a7d0ed0-700c-41dd-a1e0-dd2abc8ba15c",
+          "Name": "那覇ブルーコリドー VR NAHA AIRPORT［ROAH］ By そーかる«SOKOL»",
+          "RecommendedCapacity": 16,
+          "Capacity": 30,
+          "Description": "沖縄県 那覇空港を中心に沖縄本島や周辺の飛行場を再現したフライトワールドです。段階フラップやトグル式のエアブレーキ、灯火操作、長いエンジンスタートアニメーションなどの機能がある多彩な航空機、レーダーや周波数変更可能な無線といった管制設備や管制資料、風の発生や時間変更、航空機の牽引、一定距離を離れるとネームプレートが消えるようになるなど様々な機能を含んでいます。入口にワールド詳細の説明資料を置いています。 推奨ハッシュタグ˸＃VRC那覇ブルーコリドー",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
             "Android": false
           },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-03-08T04:04:42.318Z"
+          "AuthorId": "usr_926fe09e-ffc5-49cf-8223-1c4a4647e0e1",
+          "AuthorName": "そーかる«SOKOL»",
+          "CreatedAt": "2025-11-16T11:56:47.129Z",
+          "UpdatedAt": "2026-03-08T14:16:40.881Z"
         },
         {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
@@ -740,22 +756,6 @@
           "AuthorName": "Yui Asakura",
           "CreatedAt": "2024-06-14T11:16:01.481Z",
           "UpdatedAt": "2025-09-29T11:12:39.779Z"
-        },
-        {
-          "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
-          "Name": "Missile dancing By わたぼー",
-          "RecommendedCapacity": 4,
-          "Capacity": 8,
-          "Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
-          "AuthorName": "わたぼー",
-          "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-09-27T13:11:49.134Z"
         },
         {
           "ID": "wrld_f7e6272e-5bf1-490d-bf9c-d676f957c77f",
@@ -3144,7 +3144,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-03-08T04:04:42.318Z"
+          "UpdatedAt": "2026-03-09T22:52:38.011Z"
         },
         {
           "ID": "wrld_3869e4ca-c336-4f0a-ab91-1751b0cb41cc",
@@ -3640,7 +3640,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-09-27T13:11:49.134Z"
+          "UpdatedAt": "2026-03-09T15:37:00.451Z"
         },
         {
           "ID": "wrld_20e181eb-50ed-419a-898f-8b999e94c401",
@@ -3992,7 +3992,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-03-08T09:19:40.45Z"
+          "UpdatedAt": "2026-03-09T05:10:40.545Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -7277,7 +7277,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-09-27T13:11:49.134Z"
+          "UpdatedAt": "2026-03-09T15:37:00.451Z"
         },
         {
           "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
@@ -8173,7 +8173,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-03-08T09:19:40.45Z"
+          "UpdatedAt": "2026-03-09T05:10:40.545Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -8445,7 +8445,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-03-08T04:04:42.318Z"
+          "UpdatedAt": "2026-03-09T22:52:38.011Z"
         },
         {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
@@ -10306,7 +10306,7 @@
           "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-03-08T04:04:42.318Z"
+          "UpdatedAt": "2026-03-09T22:52:38.011Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -10770,7 +10770,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-03-08T09:19:40.45Z"
+          "UpdatedAt": "2026-03-09T05:10:40.545Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -11826,7 +11826,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2025-09-27T13:11:49.134Z"
+          "UpdatedAt": "2026-03-09T15:37:00.451Z"
         },
         {
           "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
