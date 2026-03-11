@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
+          "Name": "Missile dancing By わたぼー",
+          "RecommendedCapacity": 4,
+          "Capacity": 8,
+          "Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
+          "AuthorName": "わたぼー",
+          "CreatedAt": "2024-11-25T07:15:38.494Z",
+          "UpdatedAt": "2026-03-10T14:56:35.922Z"
+        },
+        {
           "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
           "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
           "RecommendedCapacity": 12,
@@ -20,22 +36,6 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-08-17T04:25:51.108Z",
           "UpdatedAt": "2026-03-09T22:52:38.011Z"
-        },
-        {
-          "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
-          "Name": "Missile dancing By わたぼー",
-          "RecommendedCapacity": 4,
-          "Capacity": 8,
-          "Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
-          "AuthorName": "わたぼー",
-          "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2026-03-09T15:37:00.451Z"
         },
         {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
@@ -3640,7 +3640,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2026-03-09T15:37:00.451Z"
+          "UpdatedAt": "2026-03-10T14:56:35.922Z"
         },
         {
           "ID": "wrld_20e181eb-50ed-419a-898f-8b999e94c401",
@@ -7277,7 +7277,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2026-03-09T15:37:00.451Z"
+          "UpdatedAt": "2026-03-10T14:56:35.922Z"
         },
         {
           "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
@@ -11826,7 +11826,7 @@
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
           "CreatedAt": "2024-11-25T07:15:38.494Z",
-          "UpdatedAt": "2026-03-09T15:37:00.451Z"
+          "UpdatedAt": "2026-03-10T14:56:35.922Z"
         },
         {
           "ID": "wrld_6bd1ac9e-7a93-4308-9ea0-ee8c7e44a336",
