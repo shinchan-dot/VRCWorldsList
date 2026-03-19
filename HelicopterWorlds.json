@@ -6,6 +6,38 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
+          "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
+          "RecommendedCapacity": 25,
+          "Capacity": 50,
+          "Description": "港の見える公園のワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
+          "AuthorName": "monoi_sakura",
+          "CreatedAt": "2022-09-15T00:24:50.897Z",
+          "UpdatedAt": "2026-03-18T15:11:30.861Z"
+        },
+        {
+          "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
+          "Name": "Vierinan War 1967 By Nameko649",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 軽い暴力表現あり 20250315アップデート",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
+          "AuthorName": "Nameko649",
+          "CreatedAt": "2025-02-08T22:55:44.59Z",
+          "UpdatedAt": "2026-03-18T11:17:50.34Z"
+        },
+        {
           "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
           "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -116,22 +148,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-10-04T14:23:01.112Z",
           "UpdatedAt": "2026-02-27T11:29:18.706Z"
-        },
-        {
-          "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
-          "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
-          "RecommendedCapacity": 25,
-          "Capacity": 50,
-          "Description": "港の見える公園のワールドです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
-          "AuthorName": "monoi_sakura",
-          "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-02-24T08:41:50.148Z"
         },
         {
           "ID": "wrld_47f22de7-06a8-4b80-bf0a-917275e1626e",
@@ -1012,22 +1028,6 @@
           "AuthorName": "heyhey_t",
           "CreatedAt": "2024-06-30T08:38:49.071Z",
           "UpdatedAt": "2025-07-01T22:05:28.457Z"
-        },
-        {
-          "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
-          "Name": "Vierinan War 1967 By Nameko649",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 軽い暴力表現あり 20250315アップデート",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
-          "AuthorName": "Nameko649",
-          "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-06-30T11:39:26.06Z"
         },
         {
           "ID": "wrld_9ff3aa62-26a4-4129-bcf4-627fd98c70b5",
@@ -3400,7 +3400,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-06-30T11:39:26.06Z"
+          "UpdatedAt": "2026-03-18T11:17:50.34Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -5240,7 +5240,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-02-24T08:41:50.148Z"
+          "UpdatedAt": "2026-03-18T15:11:30.861Z"
         },
         {
           "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
@@ -7821,7 +7821,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-06-30T11:39:26.06Z"
+          "UpdatedAt": "2026-03-18T11:17:50.34Z"
         },
         {
           "ID": "wrld_a3dd33ba-cf1c-4d5d-ab05-d7448b302796",
@@ -8333,7 +8333,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-02-24T08:41:50.148Z"
+          "UpdatedAt": "2026-03-18T15:11:30.861Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -9650,7 +9650,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-02-24T08:41:50.148Z"
+          "UpdatedAt": "2026-03-18T15:11:30.861Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -9666,7 +9666,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2025-06-30T11:39:26.06Z"
+          "UpdatedAt": "2026-03-18T11:17:50.34Z"
         },
         {
           "ID": "wrld_bf0938c7-138f-4977-806d-29e373ebd4db",
