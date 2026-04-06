@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_4acd6ab2-5dfa-42a7-bd53-e33249e7c12b",
+          "Name": "船・回転翼・箱 Ships‚ Helos‚ and Cargoes By shinchan․",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "走っている駆逐艦にヘリで着艦したりVERTREPしたりできるワールドです。 This is a world where you can land or VERTREP on a moving destroyer by helicopter․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+          "AuthorName": "shinchan․",
+          "CreatedAt": "2025-04-09T12:43:33.842Z",
+          "UpdatedAt": "2026-04-04T23:45:56.825Z"
+        },
+        {
           "ID": "wrld_bf942cb8-394c-4e39-8b20-1c7364c8d68d",
           "Name": "Night Drive ＆ Flight By えこ！！",
           "RecommendedCapacity": 16,
@@ -3209,6 +3225,22 @@
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
           "UpdatedAt": "2026-02-15T06:43:53.335Z"
+        },
+        {
+          "ID": "wrld_4acd6ab2-5dfa-42a7-bd53-e33249e7c12b",
+          "Name": "船・回転翼・箱 Ships‚ Helos‚ and Cargoes By shinchan․",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "走っている駆逐艦にヘリで着艦したりVERTREPしたりできるワールドです。 This is a world where you can land or VERTREP on a moving destroyer by helicopter․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+          "AuthorName": "shinchan․",
+          "CreatedAt": "2025-04-09T12:43:33.842Z",
+          "UpdatedAt": "2026-04-04T23:45:56.825Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -8544,6 +8576,22 @@
           "UpdatedAt": "2024-10-06T10:12:36.795Z"
         },
         {
+          "ID": "wrld_4acd6ab2-5dfa-42a7-bd53-e33249e7c12b",
+          "Name": "船・回転翼・箱 Ships‚ Helos‚ and Cargoes By shinchan․",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "走っている駆逐艦にヘリで着艦したりVERTREPしたりできるワールドです。 This is a world where you can land or VERTREP on a moving destroyer by helicopter․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+          "AuthorName": "shinchan․",
+          "CreatedAt": "2025-04-09T12:43:33.842Z",
+          "UpdatedAt": "2026-04-04T23:45:56.825Z"
+        },
+        {
           "ID": "wrld_109b88d2-2ab4-4b13-ae25-9741905b6bf2",
           "Name": "第100海上基地⁄sea base By onezerozero",
           "RecommendedCapacity": 16,
@@ -10339,6 +10387,22 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2023-12-18T17:59:05.666Z",
           "UpdatedAt": "2025-12-05T14:43:55.139Z"
+        },
+        {
+          "ID": "wrld_4acd6ab2-5dfa-42a7-bd53-e33249e7c12b",
+          "Name": "船・回転翼・箱 Ships‚ Helos‚ and Cargoes By shinchan․",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "走っている駆逐艦にヘリで着艦したりVERTREPしたりできるワールドです。 This is a world where you can land or VERTREP on a moving destroyer by helicopter․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
+          "AuthorName": "shinchan․",
+          "CreatedAt": "2025-04-09T12:43:33.842Z",
+          "UpdatedAt": "2026-04-04T23:45:56.825Z"
         },
         {
           "ID": "wrld_4796ac10-bfb9-449c-a67f-88a97bee0ca1",
