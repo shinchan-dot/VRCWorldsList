@@ -150,22 +150,6 @@
           "UpdatedAt": "2026-03-26T15:47:28.901Z"
         },
         {
-          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
-          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
-          "RecommendedCapacity": 12,
-          "Capacity": 22,
-          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-03-23T03:27:14.782Z"
-        },
-        {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
           "Name": "Vierinan War 1967 By Nameko649",
           "RecommendedCapacity": 16,
@@ -2969,22 +2953,6 @@
           "AuthorName": "katamitirunner",
           "CreatedAt": "2025-08-17T12:44:02.046Z",
           "UpdatedAt": "2025-08-24T14:23:58.78Z"
-        },
-        {
-          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
-          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
-          "RecommendedCapacity": 12,
-          "Capacity": 22,
-          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-03-23T03:27:14.782Z"
         },
         {
           "ID": "wrld_3869e4ca-c336-4f0a-ab91-1751b0cb41cc",
@@ -7952,22 +7920,6 @@
           "UpdatedAt": "2025-07-01T22:05:28.457Z"
         },
         {
-          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
-          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
-          "RecommendedCapacity": 12,
-          "Capacity": 22,
-          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-03-23T03:27:14.782Z"
-        },
-        {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
           "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
           "RecommendedCapacity": 25,
@@ -9683,22 +9635,6 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-10-24T15:44:23.612Z",
           "UpdatedAt": "2025-12-19T01:19:16.688Z"
-        },
-        {
-          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
-          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
-          "RecommendedCapacity": 12,
-          "Capacity": 22,
-          "Description": "以前作ったワールドT5のリメイクみたいな感じ。滑走路長は398ｍ。 ペン、動画プレイヤー等、有り。 永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
-          "AuthorName": "Riezet Lieaner",
-          "CreatedAt": "2025-08-17T04:25:51.108Z",
-          "UpdatedAt": "2026-03-23T03:27:14.782Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
