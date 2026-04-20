@@ -6,22 +6,6 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-04-13T17:26:22.922Z"
-        },
-        {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
           "Name": "Kennedy Space Center By medaka0228",
           "RecommendedCapacity": 40,
@@ -35,7 +19,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2026-04-13T11:23:57.471Z"
+          "UpdatedAt": "2026-04-19T08:39:34.262Z"
         },
         {
           "ID": "wrld_4acd6ab2-5dfa-42a7-bd53-e33249e7c12b",
@@ -51,7 +35,55 @@
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan․",
           "CreatedAt": "2025-04-09T12:43:33.842Z",
-          "UpdatedAt": "2026-04-12T13:26:43.28Z"
+          "UpdatedAt": "2026-04-19T08:32:35.213Z"
+        },
+        {
+          "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
+          "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
+          "RecommendedCapacity": 25,
+          "Capacity": 50,
+          "Description": "港の見える公園のワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
+          "AuthorName": "monoi_sakura",
+          "CreatedAt": "2022-09-15T00:24:50.897Z",
+          "UpdatedAt": "2026-04-18T02:23:57.798Z"
+        },
+        {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2026-04-17T12:34:44.138Z"
+        },
+        {
+          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
+          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-24T05:36:00.897Z",
+          "UpdatedAt": "2026-04-17T07:40:45.985Z"
         },
         {
           "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
@@ -68,22 +100,6 @@
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
           "UpdatedAt": "2026-04-12T05:53:05.353Z"
-        },
-        {
-          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
-          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-04-10T07:54:06.912Z"
         },
         {
           "ID": "wrld_e8a5b452-adb5-4f93-9d34-15142b209277",
@@ -180,22 +196,6 @@
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
           "UpdatedAt": "2026-03-19T14:18:55.766Z"
-        },
-        {
-          "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
-          "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park- By monoi_sakura",
-          "RecommendedCapacity": 25,
-          "Capacity": 50,
-          "Description": "港の見える公園のワールドです。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
-          "AuthorName": "monoi_sakura",
-          "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-03-18T15:11:30.861Z"
         },
         {
           "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
@@ -3080,7 +3080,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-04-10T07:54:06.912Z"
+          "UpdatedAt": "2026-04-17T07:40:45.985Z"
         },
         {
           "ID": "wrld_4acd6ab2-5dfa-42a7-bd53-e33249e7c12b",
@@ -3096,7 +3096,7 @@
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan․",
           "CreatedAt": "2025-04-09T12:43:33.842Z",
-          "UpdatedAt": "2026-04-12T13:26:43.28Z"
+          "UpdatedAt": "2026-04-19T08:32:35.213Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -3816,7 +3816,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-04-13T17:26:22.922Z"
+          "UpdatedAt": "2026-04-17T12:34:44.138Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -5144,7 +5144,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-03-18T15:11:30.861Z"
+          "UpdatedAt": "2026-04-18T02:23:57.798Z"
         },
         {
           "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
@@ -5448,7 +5448,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2026-04-13T11:23:57.471Z"
+          "UpdatedAt": "2026-04-19T08:39:34.262Z"
         },
         {
           "ID": "wrld_ac70ebe9-a687-4d4f-a220-c58a84ea60b7",
@@ -6733,7 +6733,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2026-04-13T11:23:57.471Z"
+          "UpdatedAt": "2026-04-19T08:39:34.262Z"
         },
         {
           "ID": "wrld_73bfab3d-5888-4364-909a-6bba45749538",
@@ -7725,7 +7725,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-04-13T17:26:22.922Z"
+          "UpdatedAt": "2026-04-17T12:34:44.138Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -7981,7 +7981,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-03-18T15:11:30.861Z"
+          "UpdatedAt": "2026-04-18T02:23:57.798Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -8205,7 +8205,7 @@
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan․",
           "CreatedAt": "2025-04-09T12:43:33.842Z",
-          "UpdatedAt": "2026-04-12T13:26:43.28Z"
+          "UpdatedAt": "2026-04-19T08:32:35.213Z"
         },
         {
           "ID": "wrld_109b88d2-2ab4-4b13-ae25-9741905b6bf2",
@@ -8461,7 +8461,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-04-10T07:54:06.912Z"
+          "UpdatedAt": "2026-04-17T07:40:45.985Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -9170,7 +9170,7 @@
           "AuthorId": "usr_205a4913-996a-4f50-af8d-9a1e3c9e07c3",
           "AuthorName": "medaka0228",
           "CreatedAt": "2021-12-14T13:35:04.995Z",
-          "UpdatedAt": "2026-04-13T11:23:57.471Z"
+          "UpdatedAt": "2026-04-19T08:39:34.262Z"
         },
         {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
@@ -9186,7 +9186,7 @@
           "AuthorId": "usr_84671ae7-bb03-48f0-baac-81e1458276e6",
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
-          "UpdatedAt": "2026-03-18T15:11:30.861Z"
+          "UpdatedAt": "2026-04-18T02:23:57.798Z"
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
@@ -9874,7 +9874,7 @@
           "AuthorId": "usr_b06d406a-d151-4fe9-84e3-068bc3b08ba7",
           "AuthorName": "shinchan․",
           "CreatedAt": "2025-04-09T12:43:33.842Z",
-          "UpdatedAt": "2026-04-12T13:26:43.28Z"
+          "UpdatedAt": "2026-04-19T08:32:35.213Z"
         },
         {
           "ID": "wrld_4796ac10-bfb9-449c-a67f-88a97bee0ca1",
@@ -10162,7 +10162,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-04-13T17:26:22.922Z"
+          "UpdatedAt": "2026-04-17T12:34:44.138Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -10930,7 +10930,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-04-10T07:54:06.912Z"
+          "UpdatedAt": "2026-04-17T07:40:45.985Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
