@@ -6,6 +6,86 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_5840ad33-4f82-4875-a31b-b6a198f2c982",
+          "Name": "くうこうがあるみなみのしま By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "中央に空港がある夏をイメージした南の島風なワールドを作りました。動画プレーヤー、QVペン、飛行機、ヘリコプター、車が置いてあるのでのんびりしたりドライブしたり気ままに飛んだりしてもらえればと思います。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-05-03T15:52:37.563Z",
+          "UpdatedAt": "2026-04-30T08:23:59.698Z"
+        },
+        {
+          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
+          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-08-17T04:25:51.108Z",
+          "UpdatedAt": "2026-04-29T12:57:47.163Z"
+        },
+        {
+          "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
+          "Name": "Tanuki Island By ときわ（tokiwa）",
+          "RecommendedCapacity": 64,
+          "Capacity": 64,
+          "Description": "（Free BGM MusMus http˸⁄⁄musmus․main․jp⁄）",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
+          "AuthorName": "ときわ（tokiwa）",
+          "CreatedAt": "2023-02-15T18:34:33.465Z",
+          "UpdatedAt": "2026-04-28T12:15:05.858Z"
+        },
+        {
+          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
+          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic Tomcat and more․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
+          "AuthorName": "Zweikaku",
+          "CreatedAt": "2020-05-17T13:35:24.03Z",
+          "UpdatedAt": "2026-04-25T22:29:42.231Z"
+        },
+        {
+          "ID": "wrld_bf942cb8-394c-4e39-8b20-1c7364c8d68d",
+          "Name": "Night Drive ＆ Flight By えこ！！",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Under development․開発途中です。これからアップデートを重ねていきます。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
+          "AuthorName": "えこ！！",
+          "CreatedAt": "2026-01-18T14:44:08.001Z",
+          "UpdatedAt": "2026-04-25T05:46:30.632Z"
+        },
+        {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
           "Name": "JVG Sendai Air Station By Oppailot",
           "RecommendedCapacity": 16,
@@ -19,7 +99,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-04-23T11:47:45.802Z"
+          "UpdatedAt": "2026-04-24T13:11:21.238Z"
         },
         {
           "ID": "wrld_62a56683-ecd5-44b5-b31c-ed938f6ba9f9",
@@ -102,22 +182,6 @@
           "UpdatedAt": "2026-04-17T07:40:45.985Z"
         },
         {
-          "ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
-          "Name": "Aircraft Carrier Jets˸ F-14 By Zweikaku",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic Tomcat and more․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
-          "AuthorName": "Zweikaku",
-          "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2026-04-12T05:53:05.353Z"
-        },
-        {
           "ID": "wrld_e8a5b452-adb5-4f93-9d34-15142b209277",
           "Name": "The Colour Out of Space By ミーさん",
           "RecommendedCapacity": 16,
@@ -148,22 +212,6 @@
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
           "UpdatedAt": "2026-04-08T03:30:26.03Z"
-        },
-        {
-          "ID": "wrld_bf942cb8-394c-4e39-8b20-1c7364c8d68d",
-          "Name": "Night Drive ＆ Flight By えこ！！",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "Under development․開発途中です。これからアップデートを重ねていきます。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
-          "AuthorName": "えこ！！",
-          "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-04-04T04:38:15.664Z"
         },
         {
           "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
@@ -212,22 +260,6 @@
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
           "UpdatedAt": "2026-03-19T14:18:55.766Z"
-        },
-        {
-          "ID": "wrld_2efd35c7-3bb0-4f0d-85ce-8b2b3aea832d",
-          "Name": "Tanuki Island By ときわ（tokiwa）",
-          "RecommendedCapacity": 64,
-          "Capacity": 64,
-          "Description": "（Free BGM MusMus http˸⁄⁄musmus․main․jp⁄）",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
-          "AuthorName": "ときわ（tokiwa）",
-          "CreatedAt": "2023-02-15T18:34:33.465Z",
-          "UpdatedAt": "2026-03-13T05:19:53.43Z"
         },
         {
           "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
@@ -404,22 +436,6 @@
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
           "UpdatedAt": "2026-01-26T09:27:56.984Z"
-        },
-        {
-          "ID": "wrld_5840ad33-4f82-4875-a31b-b6a198f2c982",
-          "Name": "くうこうがあるみなみのしま By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "中央に空港がある夏をイメージした南の島風なワールドを作りました。動画プレーヤー、QVペン、飛行機、ヘリコプター、車が置いてあるのでのんびりしたりドライブしたり気ままに飛んだりしてもらえればと思います。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-05-03T15:52:37.563Z",
-          "UpdatedAt": "2026-01-19T11:16:33.494Z"
         },
         {
           "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
@@ -2856,7 +2872,7 @@
           "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
           "AuthorName": "えこ！！",
           "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-04-04T04:38:15.664Z"
+          "UpdatedAt": "2026-04-25T05:46:30.632Z"
         },
         {
           "ID": "wrld_e96ddd89-023e-41b0-bb0d-f7d8cbbf3e6f",
@@ -2971,6 +2987,22 @@
           "UpdatedAt": "2025-08-24T14:23:58.78Z"
         },
         {
+          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
+          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-08-17T04:25:51.108Z",
+          "UpdatedAt": "2026-04-29T12:57:47.163Z"
+        },
+        {
           "ID": "wrld_3869e4ca-c336-4f0a-ab91-1751b0cb41cc",
           "Name": "シンプルHルーム By もふたこ-mofutako-",
           "RecommendedCapacity": 6,
@@ -3048,7 +3080,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-05-03T15:52:37.563Z",
-          "UpdatedAt": "2026-01-19T11:16:33.494Z"
+          "UpdatedAt": "2026-04-30T08:23:59.698Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -4840,7 +4872,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-04-23T11:47:45.802Z"
+          "UpdatedAt": "2026-04-24T13:11:21.238Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -4968,7 +5000,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2023-02-15T18:34:33.465Z",
-          "UpdatedAt": "2026-03-13T05:19:53.43Z"
+          "UpdatedAt": "2026-04-28T12:15:05.858Z"
         },
         {
           "ID": "wrld_4f6537fd-1269-4097-b2e5-fbdbaf272cee",
@@ -5640,7 +5672,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2026-04-12T05:53:05.353Z"
+          "UpdatedAt": "2026-04-25T22:29:42.231Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -5773,7 +5805,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2026-04-12T05:53:05.353Z"
+          "UpdatedAt": "2026-04-25T22:29:42.231Z"
         },
         {
           "ID": "wrld_7e31e3f8-2ea2-4f8d-9d90-1d0e3181fc7c",
@@ -6701,7 +6733,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-04-23T11:47:45.802Z"
+          "UpdatedAt": "2026-04-24T13:11:21.238Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -6909,7 +6941,7 @@
           "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
           "AuthorName": "えこ！！",
           "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-04-04T04:38:15.664Z"
+          "UpdatedAt": "2026-04-25T05:46:30.632Z"
         },
         {
           "ID": "wrld_7a125096-a3b5-4e28-a197-0bc7a1254946",
@@ -7293,7 +7325,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2023-02-15T18:34:33.465Z",
-          "UpdatedAt": "2026-03-13T05:19:53.43Z"
+          "UpdatedAt": "2026-04-28T12:15:05.858Z"
         },
         {
           "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
@@ -7677,7 +7709,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-05-03T15:52:37.563Z",
-          "UpdatedAt": "2026-01-19T11:16:33.494Z"
+          "UpdatedAt": "2026-04-30T08:23:59.698Z"
         },
         {
           "ID": "wrld_44f7c1e2-38b6-45c6-9c96-ba32b6c1c420",
@@ -7966,6 +7998,22 @@
           "AuthorName": "heyhey_t",
           "CreatedAt": "2024-06-30T08:38:49.071Z",
           "UpdatedAt": "2025-07-01T22:05:28.457Z"
+        },
+        {
+          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
+          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-08-17T04:25:51.108Z",
+          "UpdatedAt": "2026-04-29T12:57:47.163Z"
         },
         {
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
@@ -9506,7 +9554,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-04-23T11:47:45.802Z"
+          "UpdatedAt": "2026-04-24T13:11:21.238Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -9683,6 +9731,22 @@
           "AuthorName": "Riezet Lieaner",
           "CreatedAt": "2025-10-24T15:44:23.612Z",
           "UpdatedAt": "2025-12-19T01:19:16.688Z"
+        },
+        {
+          "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
+          "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
+          "RecommendedCapacity": 12,
+          "Capacity": 22,
+          "Description": "永く、永く刻を連ねる夜の暗がりは、天上に満つる月に仄か照らされる。ずっと、眠り続けていられたらどれほどに良いものだろうか。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_f5b72c4f-dd54-4474-931f-99175354e6fc",
+          "AuthorName": "Riezet Lieaner",
+          "CreatedAt": "2025-08-17T04:25:51.108Z",
+          "UpdatedAt": "2026-04-29T12:57:47.163Z"
         },
         {
           "ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
@@ -10354,7 +10418,7 @@
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
           "CreatedAt": "2020-05-17T13:35:24.03Z",
-          "UpdatedAt": "2026-04-12T05:53:05.353Z"
+          "UpdatedAt": "2026-04-25T22:29:42.231Z"
         },
         {
           "ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
@@ -10418,7 +10482,7 @@
           "AuthorId": "usr_6267e3a1-09b1-4797-814c-ed0182f929bc",
           "AuthorName": "えこ！！",
           "CreatedAt": "2026-01-18T14:44:08.001Z",
-          "UpdatedAt": "2026-04-04T04:38:15.664Z"
+          "UpdatedAt": "2026-04-25T05:46:30.632Z"
         },
         {
           "ID": "wrld_9a680289-7f96-42a6-a209-76c48ac1aa44",
@@ -10866,7 +10930,7 @@
           "AuthorId": "usr_f91f0079-5a51-4e1d-99db-97bc97ec7ef0",
           "AuthorName": "ときわ（tokiwa）",
           "CreatedAt": "2023-02-15T18:34:33.465Z",
-          "UpdatedAt": "2026-03-13T05:19:53.43Z"
+          "UpdatedAt": "2026-04-28T12:15:05.858Z"
         },
         {
           "ID": "wrld_ffed549e-a0bb-4b9c-a3b9-801b4e500bc8",
@@ -10914,7 +10978,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-05-03T15:52:37.563Z",
-          "UpdatedAt": "2026-01-19T11:16:33.494Z"
+          "UpdatedAt": "2026-04-30T08:23:59.698Z"
         },
         {
           "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
