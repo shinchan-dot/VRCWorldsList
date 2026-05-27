@@ -6,6 +6,118 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
+          "Name": "Vierinan War 1967 ver1․1 By Nameko649",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 20265⁄22Updateǃǃǃǃǃǃ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
+          "AuthorName": "Nameko649",
+          "CreatedAt": "2025-02-08T22:55:44.59Z",
+          "UpdatedAt": "2026-05-26T18:04:32.034Z"
+        },
+        {
+          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+          "Name": "Test Pilots By Sacchan",
+          "RecommendedCapacity": 16,
+          "Capacity": 44,
+          "Description": "For those who love flying․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2020-04-07T09:27:04.715Z",
+          "UpdatedAt": "2026-05-26T17:28:48.442Z"
+        },
+        {
+          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+          "Name": "JVG Sendai Air Station By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 45,
+          "Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-03-21T10:58:00.822Z",
+          "UpdatedAt": "2026-05-26T14:02:03.487Z"
+        },
+        {
+          "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
+          "Name": "MMD with aircraft By 萩キャンパーJP",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
+          "AuthorName": "萩キャンパーJP",
+          "CreatedAt": "2024-10-16T09:05:51.978Z",
+          "UpdatedAt": "2026-05-26T11:30:03.637Z"
+        },
+        {
+          "ID": "wrld_ad87f40b-6492-4b06-9200-3e6b98912ded",
+          "Name": "GANZER COMBAT By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "You can board the humanoid combat robot （mech ⁄ mecha） Ganzer‚ armored fighting vehicle （Wheeled tank）‚ jet attack aircraft（Light fighter）‚ and attack helicopter․ 人型戦闘ロボット「Ganzer」や装甲戦闘車（装輪戦車）、ジェット攻撃機（戦闘機）、攻撃ヘリコプターを操縦して遊ぶことができます。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2024-05-29T13:45:49.752Z",
+          "UpdatedAt": "2026-05-24T14:21:07.299Z"
+        },
+        {
+          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
+          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-24T05:36:00.897Z",
+          "UpdatedAt": "2026-05-23T18:48:57.463Z"
+        },
+        {
+          "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
+          "Name": "Test Drivers By Sacchan",
+          "RecommendedCapacity": 22,
+          "Capacity": 80,
+          "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
+          "AuthorName": "Sacchan",
+          "CreatedAt": "2022-05-16T22:09:36.369Z",
+          "UpdatedAt": "2026-05-22T07:21:41.598Z"
+        },
+        {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
           "Name": "catch＆Shootǃǃ 2 By Sayodori",
           "RecommendedCapacity": 16,
@@ -36,22 +148,6 @@
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-05-03T15:52:37.563Z",
           "UpdatedAt": "2026-05-16T23:57:24.355Z"
-        },
-        {
-          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
-          "Name": "JVG Sendai Air Station By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 45,
-          "Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-05-16T11:50:29.775Z"
         },
         {
           "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
@@ -214,22 +310,6 @@
           "UpdatedAt": "2026-04-17T12:34:44.138Z"
         },
         {
-          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
-          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-04-17T07:40:45.985Z"
-        },
-        {
           "ID": "wrld_e8a5b452-adb5-4f93-9d34-15142b209277",
           "Name": "The Colour Out of Space By ミーさん",
           "RecommendedCapacity": 16,
@@ -246,22 +326,6 @@
           "UpdatedAt": "2026-04-08T16:54:05.196Z"
         },
         {
-          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
-          "Name": "Test Pilots By Sacchan",
-          "RecommendedCapacity": 16,
-          "Capacity": 44,
-          "Description": "For those who love flying․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-04-08T03:30:26.03Z"
-        },
-        {
           "ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
           "Name": "こぶしめ中心街 -kobusime City centre- By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -276,22 +340,6 @@
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2025-08-01T14:06:08.323Z",
           "UpdatedAt": "2026-03-27T07:24:54.18Z"
-        },
-        {
-          "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
-          "Name": "Vierinan War 1967 By Nameko649",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 軽い暴力表現あり 20250315アップデート",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
-          "AuthorName": "Nameko649",
-          "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2026-03-19T14:18:55.766Z"
         },
         {
           "ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
@@ -438,22 +486,6 @@
           "UpdatedAt": "2026-01-30T08:40:59.997Z"
         },
         {
-          "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
-          "Name": "MMD with aircraft By 萩キャンパーJP",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
-          "AuthorName": "萩キャンパーJP",
-          "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2026-01-26T09:27:56.984Z"
-        },
-        {
           "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
           "Name": "鯖研 湖畔飛行場 YVL airport By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -500,22 +532,6 @@
           "AuthorName": "katsuobusi24",
           "CreatedAt": "2023-12-23T16:06:46.654Z",
           "UpdatedAt": "2025-12-21T09:38:42.621Z"
-        },
-        {
-          "ID": "wrld_78a0bf79-b042-48e9-97f8-61a2c15037fe",
-          "Name": "Test Drivers By Sacchan",
-          "RecommendedCapacity": 22,
-          "Capacity": 80,
-          "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
-          "AuthorName": "Sacchan",
-          "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-20T05:26:54.238Z"
         },
         {
           "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
@@ -1396,22 +1412,6 @@
           "AuthorName": "Sayodori",
           "CreatedAt": "2024-01-18T08:21:27.16Z",
           "UpdatedAt": "2025-02-09T02:09:34.687Z"
-        },
-        {
-          "ID": "wrld_ad87f40b-6492-4b06-9200-3e6b98912ded",
-          "Name": "GANZER COMBAT v2․8 By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "You can board the humanoid combat robot （mech ⁄ mecha） Ganzer‚ armored fighting vehicle （Wheeled tank）‚ jet attack aircraft（Light fighter）‚ and attack helicopter․ 人型戦闘ロボット「Ganzer」や装甲戦闘車（装輪戦車）、ジェット攻撃機（戦闘機）、攻撃ヘリコプターを操縦して遊ぶことができます。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2024-05-29T13:45:49.752Z",
-          "UpdatedAt": "2025-02-03T00:07:15.911Z"
         },
         {
           "ID": "wrld_24aa017a-9e5d-4dbb-87f8-d2499f3936b2",
@@ -3112,7 +3112,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-04-17T07:40:45.985Z"
+          "UpdatedAt": "2026-05-23T18:48:57.463Z"
         },
         {
           "ID": "wrld_4acd6ab2-5dfa-42a7-bd53-e33249e7c12b",
@@ -3308,10 +3308,10 @@
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
-          "Name": "Vierinan War 1967 By Nameko649",
+          "Name": "Vierinan War 1967 ver1․1 By Nameko649",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 軽い暴力表現あり 20250315アップデート",
+          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 20265⁄22Updateǃǃǃǃǃǃ",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -3320,7 +3320,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2026-03-19T14:18:55.766Z"
+          "UpdatedAt": "2026-05-26T18:04:32.034Z"
         },
         {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
@@ -3544,7 +3544,7 @@
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2026-01-26T09:27:56.984Z"
+          "UpdatedAt": "2026-05-26T11:30:03.637Z"
         },
         {
           "ID": "wrld_38e9546e-3207-4b41-a684-19a8c9390f8f",
@@ -3900,7 +3900,7 @@
         },
         {
           "ID": "wrld_ad87f40b-6492-4b06-9200-3e6b98912ded",
-          "Name": "GANZER COMBAT v2․8 By Oppailot",
+          "Name": "GANZER COMBAT By Oppailot",
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "You can board the humanoid combat robot （mech ⁄ mecha） Ganzer‚ armored fighting vehicle （Wheeled tank）‚ jet attack aircraft（Light fighter）‚ and attack helicopter․ 人型戦闘ロボット「Ganzer」や装甲戦闘車（装輪戦車）、ジェット攻撃機（戦闘機）、攻撃ヘリコプターを操縦して遊ぶことができます。",
@@ -3912,7 +3912,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2024-05-29T13:45:49.752Z",
-          "UpdatedAt": "2025-02-03T00:07:15.911Z"
+          "UpdatedAt": "2026-05-24T14:21:07.299Z"
         },
         {
           "ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
@@ -4872,7 +4872,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-05-16T11:50:29.775Z"
+          "UpdatedAt": "2026-05-26T14:02:03.487Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -5352,7 +5352,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-20T05:26:54.238Z"
+          "UpdatedAt": "2026-05-22T07:21:41.598Z"
         },
         {
           "ID": "wrld_40c04871-dd5f-411e-9d3c-d9ec97b8b9cb",
@@ -5688,7 +5688,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-04-08T03:30:26.03Z"
+          "UpdatedAt": "2026-05-26T17:28:48.442Z"
         },
         {
           "ID": "wrld_f4b4a9c9-8326-418f-a714-31cb2afa6797",
@@ -6289,7 +6289,7 @@
         },
         {
           "ID": "wrld_ad87f40b-6492-4b06-9200-3e6b98912ded",
-          "Name": "GANZER COMBAT v2․8 By Oppailot",
+          "Name": "GANZER COMBAT By Oppailot",
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "You can board the humanoid combat robot （mech ⁄ mecha） Ganzer‚ armored fighting vehicle （Wheeled tank）‚ jet attack aircraft（Light fighter）‚ and attack helicopter․ 人型戦闘ロボット「Ganzer」や装甲戦闘車（装輪戦車）、ジェット攻撃機（戦闘機）、攻撃ヘリコプターを操縦して遊ぶことができます。",
@@ -6301,7 +6301,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2024-05-29T13:45:49.752Z",
-          "UpdatedAt": "2025-02-03T00:07:15.911Z"
+          "UpdatedAt": "2026-05-24T14:21:07.299Z"
         },
         {
           "ID": "wrld_614b53a7-b0d2-4b91-9266-42ff17a2dbe0",
@@ -6733,7 +6733,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-05-16T11:50:29.775Z"
+          "UpdatedAt": "2026-05-26T14:02:03.487Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -6893,7 +6893,7 @@
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2026-01-26T09:27:56.984Z"
+          "UpdatedAt": "2026-05-26T11:30:03.637Z"
         },
         {
           "ID": "wrld_225c3dc9-9067-45e5-9053-3e5226db3663",
@@ -7341,7 +7341,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-20T05:26:54.238Z"
+          "UpdatedAt": "2026-05-22T07:21:41.598Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -7357,7 +7357,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-04-08T03:30:26.03Z"
+          "UpdatedAt": "2026-05-26T17:28:48.442Z"
         },
         {
           "ID": "wrld_e8a5b452-adb5-4f93-9d34-15142b209277",
@@ -7521,10 +7521,10 @@
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
-          "Name": "Vierinan War 1967 By Nameko649",
+          "Name": "Vierinan War 1967 ver1․1 By Nameko649",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 軽い暴力表現あり 20250315アップデート",
+          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 20265⁄22Updateǃǃǃǃǃǃ",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -7533,7 +7533,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2026-03-19T14:18:55.766Z"
+          "UpdatedAt": "2026-05-26T18:04:32.034Z"
         },
         {
           "ID": "wrld_a3dd33ba-cf1c-4d5d-ab05-d7448b302796",
@@ -8509,7 +8509,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-04-17T07:40:45.985Z"
+          "UpdatedAt": "2026-05-23T18:48:57.463Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -9238,10 +9238,10 @@
         },
         {
           "ID": "wrld_49aef751-c50d-42ab-af82-ca7d344e6279",
-          "Name": "Vierinan War 1967 By Nameko649",
+          "Name": "Vierinan War 1967 ver1․1 By Nameko649",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 軽い暴力表現あり 20250315アップデート",
+          "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 20265⁄22Updateǃǃǃǃǃǃ",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -9250,7 +9250,7 @@
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
           "AuthorName": "Nameko649",
           "CreatedAt": "2025-02-08T22:55:44.59Z",
-          "UpdatedAt": "2026-03-19T14:18:55.766Z"
+          "UpdatedAt": "2026-05-26T18:04:32.034Z"
         },
         {
           "ID": "wrld_bf0938c7-138f-4977-806d-29e373ebd4db",
@@ -9462,7 +9462,7 @@
         },
         {
           "ID": "wrld_ad87f40b-6492-4b06-9200-3e6b98912ded",
-          "Name": "GANZER COMBAT v2․8 By Oppailot",
+          "Name": "GANZER COMBAT By Oppailot",
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "You can board the humanoid combat robot （mech ⁄ mecha） Ganzer‚ armored fighting vehicle （Wheeled tank）‚ jet attack aircraft（Light fighter）‚ and attack helicopter․ 人型戦闘ロボット「Ganzer」や装甲戦闘車（装輪戦車）、ジェット攻撃機（戦闘機）、攻撃ヘリコプターを操縦して遊ぶことができます。",
@@ -9474,7 +9474,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2024-05-29T13:45:49.752Z",
-          "UpdatedAt": "2025-02-03T00:07:15.911Z"
+          "UpdatedAt": "2026-05-24T14:21:07.299Z"
         },
         {
           "ID": "wrld_826115ca-9860-4290-bc0d-237e902c1ae6",
@@ -9554,7 +9554,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-05-16T11:50:29.775Z"
+          "UpdatedAt": "2026-05-26T14:02:03.487Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -9794,7 +9794,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
-          "UpdatedAt": "2025-12-20T05:26:54.238Z"
+          "UpdatedAt": "2026-05-22T07:21:41.598Z"
         },
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
@@ -9810,7 +9810,7 @@
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2020-04-07T09:27:04.715Z",
-          "UpdatedAt": "2026-04-08T03:30:26.03Z"
+          "UpdatedAt": "2026-05-26T17:28:48.442Z"
         },
         {
           "ID": "wrld_0c134ce2-270f-44e3-b039-281ed39acc5c",
@@ -10994,7 +10994,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-04-17T07:40:45.985Z"
+          "UpdatedAt": "2026-05-23T18:48:57.463Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -11330,7 +11330,7 @@
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2024-10-16T09:05:51.978Z",
-          "UpdatedAt": "2026-01-26T09:27:56.984Z"
+          "UpdatedAt": "2026-05-26T11:30:03.637Z"
         },
         {
           "ID": "wrld_0d79f7b1-0a1e-446a-b091-291575537a6c",
