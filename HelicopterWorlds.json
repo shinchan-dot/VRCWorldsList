@@ -6,6 +6,134 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_f82ee082-350b-4988-bdc0-3de672313956",
+          "Name": "逃げろ！ 武装工作船 By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "【船酔い注意！】海上保安庁 vs 北朝鮮",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2026-05-22T14:51:53.021Z",
+          "UpdatedAt": "2026-06-21T14:42:15.755Z"
+        },
+        {
+          "ID": "wrld_c22fd4fa-642a-4017-98b8-8c5481271de1",
+          "Name": "JVG Patrol Vessels By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "仮想保安庁の飛行機やヘリコプターを操縦して、巡視船での離着船を体験できます。 You can fly virtual guard planes and helicopters and experience taking off and landing on patrol vessels․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2026-05-31T09:30:30.769Z",
+          "UpdatedAt": "2026-06-21T14:37:41.051Z"
+        },
+        {
+          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+          "Name": "JVG Sendai Air Station 【仮想保安庁 仙台航空基地】 By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 45,
+          "Description": "シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。 The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-03-21T10:58:00.822Z",
+          "UpdatedAt": "2026-06-21T14:31:52.084Z"
+        },
+        {
+          "ID": "wrld_522b17d4-286f-4dee-bd87-69fad77c8b43",
+          "Name": "Aircraft playground 215 By れびん-Levin",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "飛行機の遊び場 ˸多様な飛行機＆ヘリ有り タイムアタックコース４つ ターゲット島 都市 PSM練習にもぜひ Sacc's Flight",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_5d95a081-b6d2-4ca5-acdf-c7410706d9de",
+          "AuthorName": "れびん-Levin",
+          "CreatedAt": "2024-08-31T09:39:04.897Z",
+          "UpdatedAt": "2026-06-21T11:02:03.923Z"
+        },
+        {
+          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
+          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "密林でUH-1‚F-4‚Type-52‚LCH-47を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開のものやら公開済みやら色々置いてますが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
+          "AuthorName": "ねねみそ",
+          "CreatedAt": "2025-04-24T05:36:00.897Z",
+          "UpdatedAt": "2026-06-21T02:42:11.233Z"
+        },
+        {
+          "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
+          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
+          "RecommendedCapacity": 30,
+          "Capacity": 30,
+          "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
+          "AuthorName": "いちごみるく2100",
+          "CreatedAt": "2025-02-04T10:58:00.395Z",
+          "UpdatedAt": "2026-06-19T12:10:08.743Z"
+        },
+        {
+          "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
+          "Name": "File A56-7W By 萩キャンパーJP",
+          "RecommendedCapacity": 16,
+          "Capacity": 16,
+          "Description": "エアーウルフの飛ぶ姿を見たいだけで作った",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
+          "AuthorName": "萩キャンパーJP",
+          "CreatedAt": "2022-09-03T05:05:23.624Z",
+          "UpdatedAt": "2026-06-19T10:26:09.089Z"
+        },
+        {
+          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
+          "AuthorName": "sumisu_san",
+          "CreatedAt": "2025-03-02T15:07:43.843Z",
+          "UpdatedAt": "2026-06-16T09:28:42.378Z"
+        },
+        {
           "ID": "wrld_9e542694-4095-4080-84ca-342ed42dff5c",
           "Name": "ゆるり廻る星の空、照る月は優しく By Riezet Lieaner",
           "RecommendedCapacity": 12,
@@ -22,70 +150,6 @@
           "UpdatedAt": "2026-06-14T12:33:27.641Z"
         },
         {
-          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
-          "Name": "JVG Sendai Air Station 【仮想保安庁 仙台航空基地】 By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 45,
-          "Description": "シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。 The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-06-14T11:34:09.529Z"
-        },
-        {
-          "ID": "wrld_c22fd4fa-642a-4017-98b8-8c5481271de1",
-          "Name": "JVG Patrol Vessels By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "仮想保安庁の飛行機やヘリコプターを操縦して、巡視船での離着船を体験できます。 You can fly virtual guard planes and helicopters and experience taking off and landing on patrol vessels․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2026-05-31T09:30:30.769Z",
-          "UpdatedAt": "2026-06-14T11:18:15.522Z"
-        },
-        {
-          "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
-          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
-          "RecommendedCapacity": 30,
-          "Capacity": 30,
-          "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
-          "AuthorName": "いちごみるく2100",
-          "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-13T06:11:47.646Z"
-        },
-        {
-          "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
-          "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "密林でUH-1‚F-4‚Type-52‚LCH-47を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開のものやら公開済みやら色々置いてますが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
-          "AuthorName": "ねねみそ",
-          "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-06-12T14:24:49.58Z"
-        },
-        {
           "ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
           "Name": "MMD with aircraft By 萩キャンパーJP",
           "RecommendedCapacity": 16,
@@ -93,7 +157,7 @@
           "Description": "",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -109,7 +173,7 @@
           "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 20265⁄22Updateǃǃǃǃǃǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
@@ -134,22 +198,6 @@
           "UpdatedAt": "2026-06-09T14:17:47.387Z"
         },
         {
-          "ID": "wrld_f82ee082-350b-4988-bdc0-3de672313956",
-          "Name": "逃げろ！ 武装工作船 By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "【船酔い注意！】海上保安庁 vs 北朝鮮",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2026-05-22T14:51:53.021Z",
-          "UpdatedAt": "2026-06-09T11:41:28.513Z"
-        },
-        {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
           "Name": "Test Pilots By Sacchan",
           "RecommendedCapacity": 16,
@@ -157,8 +205,8 @@
           "Description": "For those who love flying․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -173,7 +221,7 @@
           "Description": "You can board the humanoid combat robot （mech ⁄ mecha） Ganzer‚ armored fighting vehicle （Wheeled tank）‚ jet attack aircraft（Light fighter）‚ and attack helicopter․ 人型戦闘ロボット「Ganzer」や装甲戦闘車（装輪戦車）、ジェット攻撃機（戦闘機）、攻撃ヘリコプターを操縦して遊ぶことができます。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -189,8 +237,8 @@
           "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -205,8 +253,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -253,8 +301,8 @@
           "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․8。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄5⁄8",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
@@ -285,8 +333,8 @@
           "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic Tomcat and more․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
@@ -397,8 +445,8 @@
           "Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
@@ -461,8 +509,8 @@
           "Description": "studio-symphonys-としてboothに置いている物を置いてます！ 普通に飛んだりして遊べるので是非遊んでくださいー！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -477,8 +525,8 @@
           "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -500,22 +548,6 @@
           "AuthorName": "まこぺっぺ",
           "CreatedAt": "2026-01-12T12:44:58.787Z",
           "UpdatedAt": "2026-02-10T04:59:48.032Z"
-        },
-        {
-          "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
-          "Name": "File A56-7W By 萩キャンパーJP",
-          "RecommendedCapacity": 16,
-          "Capacity": 16,
-          "Description": "エアーウルフの飛ぶ姿を見たいだけで作った",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
-          "AuthorName": "萩キャンパーJP",
-          "CreatedAt": "2022-09-03T05:05:23.624Z",
-          "UpdatedAt": "2026-02-04T08:42:36.163Z"
         },
         {
           "ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
@@ -557,29 +589,13 @@
           "Description": "Fan world of BB-63 Missouri 1990's ⁄ Museum Mode Updateǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
           "AuthorName": "katsuobusi24",
           "CreatedAt": "2023-12-23T16:06:46.654Z",
           "UpdatedAt": "2025-12-21T09:38:42.621Z"
-        },
-        {
-          "ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
-          "Name": "ヨシキリ第二試験飛行場 By sumisu_san",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
-          "AuthorName": "sumisu_san",
-          "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-12-19T13:04:57.528Z"
         },
         {
           "ID": "wrld_01de54aa-b25c-43ea-9eae-b6a3d1e9f9b6",
@@ -605,7 +621,7 @@
           "Description": "クリスマス仕様の飛行機のあるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
@@ -653,7 +669,7 @@
           "Description": "Milky Dawn Junction Note˸Some airplane sounds are borrowed from DavidSkinnerMusic․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_4cf2c1d9-f965-4f5f-bc24-c76e45f77b13",
@@ -717,7 +733,7 @@
           "Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -733,8 +749,8 @@
           "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -765,8 +781,8 @@
           "Description": "VRCのflight系グループ、V․R․A․Fのフライトワールド「ウォーターアイランド基地」です！ ここでしか乗れない機体等がある、 VRAFのワールドの一つですǃ 良ければ遊んでくださいねǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -797,7 +813,7 @@
           "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドで夏案釣り。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -813,7 +829,7 @@
           "Description": "部屋と空港と空母。航空機の武装は一部を除き解除してあります。Rooms‚ airports and aircraft carriers․ Aircraft are disarmed․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
@@ -877,7 +893,7 @@
           "Description": "Protect aircraft carrier from AI fighters and bombersǃ It's a kind of gimmick demo world AI戦闘機と爆撃機から空母を守れ！ ギミックデモを兼ねて作ったワールドです。 ＃VRC_BrokenSky",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -893,8 +909,8 @@
           "Description": "遠い昔、ナドンの戦いで野に放たれた生物兵器「エビザウルス」の一部はセレウ川を南下し、死海に浮かぶ小さな島へと辿り着いた。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
           "AuthorName": "long-potato",
@@ -934,22 +950,6 @@
           "UpdatedAt": "2025-09-05T05:43:53.785Z"
         },
         {
-          "ID": "wrld_522b17d4-286f-4dee-bd87-69fad77c8b43",
-          "Name": "Aircraft playground 215 By れびん-Levin",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "飛行機の遊び場 ˸多様な飛行機＆ヘリ有り タイムアタックコース４つ ターゲット島 都市 PSM練習にもぜひ Sacc's Flight",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_5d95a081-b6d2-4ca5-acdf-c7410706d9de",
-          "AuthorName": "れびん-Levin",
-          "CreatedAt": "2024-08-31T09:39:04.897Z",
-          "UpdatedAt": "2025-09-02T04:20:17.827Z"
-        },
-        {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
           "Name": "夕暮れごまさば群島 Dusk Gomasaba archipelago By Yakisaba dayo",
           "RecommendedCapacity": 16,
@@ -973,7 +973,7 @@
           "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドです。 Flyable：ZeroType32 （Hamp）ShidenKai SHINDEN FUGAKU F-15DJ F-2 UF-104J T-2 F-99（F-1color）",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -1053,8 +1053,8 @@
           "Description": "B-SFCVN67ーMARINBLUEーに着艦練習が出来るワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -1101,8 +1101,8 @@
           "Description": "簡単に飛ばせるプロペラ機からちょっと難しい飛行機まで様々な乗り物に乗る事のできる群島の飛行場です。ゆっくり遊覧飛行してお楽しみください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
@@ -1117,8 +1117,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -1133,7 +1133,7 @@
           "Description": "金さえあればなんでもやる傭兵組織 Variant Point Breaker Company 【略称˸V․P․B․C】の本部です。 SaccFlightシステムが入っています 何かあれば 社長【＠jakujijik】か 本部accountまでお願いします 公式X 【＠VPBCompany】 制作-ベースプラント、橋 ICH＠youtuu 八雲 狐月《kou》 -本部ワールド調整、ジャク-jak0629 -その他小物、兵器改変 熊野 零",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a9700f0d-bbd3-40e0-bd34-8e5a1d5b5753",
@@ -1149,8 +1149,8 @@
           "Description": "空母にIFLOLSとLRLLS、LSOを設置、カタパルトは機体外部から操作が可能です。アレスティングワイヤーが引っ張られて伸びます。滑走路以外は30knの速度制限があり、超過すると壁が出現して止められます。武装は双方が無効化モードをオフにすることで使用可能になります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
@@ -1165,8 +1165,8 @@
           "Description": "静かな南の島で、流れ星を。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_3c06993c-1bbd-43bc-bd6c-bfab1fcdebd2",
           "AuthorName": "kiri（きり）",
@@ -1213,7 +1213,7 @@
           "Description": "比較的高波の海象で発着艦を行えるワールドです。ＤＤＨ以外は動揺があります。また、動揺はローカルでありますし動揺に伴いアバターが勝手に動くように錯覚し振動もありますから、酔いに弱い方は他艦船に移動しないか長くとどまるのはご遠慮ください。 SeaRAM甲板前面で風速等の設定が出来ます。ワールドとしては、風向は設置されている通り、相対風は30～40ktを想定しております。 格納庫前部側に休憩スペースがありますから、飛行で疲れたらぜひご利用ください。艦内へは、艦橋構造物左舷側にテレポーターがありますからぜひご利用ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
@@ -1245,7 +1245,7 @@
           "Description": "World allows you to operate around the Island in a jet fighter or helicopter․ 某国某所の島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -1277,7 +1277,7 @@
           "Description": "ＮＰＣとドッグファイトのできるフライトワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -1341,8 +1341,8 @@
           "Description": "特撮のロケ地といえば採石場。タイマー式やセンサー式の爆薬が仕込んであります。変形ロボット「ファイバリオン」やヘリにも乗れるよ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "バンボー（Bambo）",
@@ -1373,7 +1373,7 @@
           "Description": "既存のワールドに高ポリな桜を植樹しただけ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -1389,8 +1389,8 @@
           "Description": "1˸1リアルスケールの日本列島です。（縦横約3000kmx3000km） Zhakamizhako氏によるOWMLシステムにより実現しました。 日本の空港 全97箇所＋αに離着陸できる様、滑走路を追加しました（簡易的な再現）。今後もアップデートします。 OWML˸Open World Movement Logic System for SaccFlight_____This is a 1˸1 real scale of the Japanese archipelago （approximately 3000km x 3000km）․ It was realized by the OWML system by Mr․ Zhakamizhako․ Runways have been added to all 97＋α airports in Japan so that planes can take off and land （simplified reproduction）․ I will continue to update this world․ OWML˸Open World Movement Logic System for SaccFlight․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -1405,8 +1405,8 @@
           "Description": "家の中をヘリコプターで飛べるワールドです。玄関から外にでることもできます。フックを使ってぬいぐるみを屋上のカゴに入れて遊ぶことができます。～It's a world where you can fly helicopters and collide with each other inside a house․You can enter and exit the outside world through the front door․ You can grab a big plush toy with a helicopter hook and drop it into a large basket on a rooftop․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_16fb9a83-755c-4024-b484-4230b35190ad",
           "AuthorName": "akira0111",
@@ -1421,7 +1421,7 @@
           "Description": "Sacchan_VRC様より公開されている航空機プレハブSacc's Flight and Vehicles Prefab を利用させて頂いて作成しています",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_798fb9de-0e46-4adf-bec9-1ceb2836940d",
@@ -1437,7 +1437,7 @@
           "Description": "海雲の上を飛行できるワールドです。フレアやスモークで夜空に君だけの絵を描いてみてください。他の人が飛んでいるのを紅茶を飲みながらまったりできるカフェも併設しています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
@@ -1501,8 +1501,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある赤い床の上に置くのが成功すると、白く変わります。 先に全て置くことが出来たら勝ち、や時間制限を設けて多く置けた方の勝ち等ルールを決めて遊んでみてください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -1517,7 +1517,7 @@
           "Description": "ヘリコプターで福笑いを作るワールドです！観戦用スクリーンがあるのでヘリに乗れない方も楽しめます。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1303cfb4-8c39-4bd6-b17c-07e74087e028",
@@ -1549,7 +1549,7 @@
           "Description": "Radio zoneはスポーン地点近くの木目模様の円内です。 管制塔屋上に雀卓あります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_6c263a3a-214b-43bd-a733-920864b7ba7c",
@@ -1581,7 +1581,7 @@
           "Description": "24⁄5月にプロジェクト壊れて２度と更新できなくなりました․․․ 新ワールドできたのでAircraft playground 215で遊んでね 今までありがとう！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5d95a081-b6d2-4ca5-acdf-c7410706d9de",
@@ -1597,7 +1597,7 @@
           "Description": "World allows you to operate around the fictional Senka Islands in a jet fighter or helicopter․ 架空の島、尖華諸島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -1629,8 +1629,8 @@
           "Description": "Practice flying helicopters here․ Last update˸ 11⁄27⁄2024",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -1645,8 +1645,8 @@
           "Description": "Work in Progress aerial fire fighting world ｜ Updated 11⁄30⁄2024",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -1661,8 +1661,8 @@
           "Description": "へりの操縦の練習ができるよ You can practice piloting a helicopter․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_464689ff-8d40-49e2-b864-e37cf9c1825a",
           "AuthorName": "ぱーしー HyprShield",
@@ -1677,7 +1677,7 @@
           "Description": "高さ１２００ｍの桜の周りで気持ち良いフライトを楽しめます",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -1757,7 +1757,7 @@
           "Description": "This is air hockey․ In other words‚ it is aircraft hockey․ Shoot the puck into the opponent's goalǃ This is a super exciting 3D action game․ いわゆるエアホッケー、それはすなわちエアクラフト・ホッケーです。 パックを相手のゴールにシュート！ 超・エキサイティングな3Dアクションゲームです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -1773,7 +1773,7 @@
           "Description": "水没市街地跡地にてStudio-Symphonys-さん作の【架空二足攻撃機 BGG-03 Rhinoceros（ライナースレス）】をベースにVPBCが改造した機体、課【BGGM05 dolphin（ドルフィン）】を水上で走らせ、撃ちあったりすることができるワールドです ほかにも水陸両用の装甲車、ヘリ、航空機が少しあります。 まだテスト段階ではあるので不具合があればご連絡ください ⁄byジャク ＠jakujiji ＃VPBCompany",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a9700f0d-bbd3-40e0-bd34-8e5a1d5b5753",
@@ -1789,7 +1789,7 @@
           "Description": "Anytime․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
@@ -1805,8 +1805,8 @@
           "Description": "各種航空機、地上水上の乗り物で何ができるか自由に探索してみてください",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "まこぺっぺ",
@@ -1837,8 +1837,8 @@
           "Description": "シンプルに飛行できるワールド。 空港エリア、飛行中は滑走路上を低空飛行すると各種補給が可能なので活用して下さい。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "まこぺっぺ",
@@ -1853,7 +1853,7 @@
           "Description": "2024⁄9 Update 海岸線を車でドライブしたり、山の上からヘリコプターやグライダー、海からはホバーボードで水上移動したりすることができます。⁄You can drive along the coastline‚ travel by helicopter or glider from the mountains‚ or hoverboard from the sea․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5770c4cf-2515-4374-a3e5-8e9b3d9d74e1",
@@ -1869,8 +1869,8 @@
           "Description": "美しい港町、city湊。 たくさんのヘリと共に、編隊飛行や練習にどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -1901,7 +1901,7 @@
           "Description": "PLATEAUを使用した飛行機を飛ばせるワールドの23区の大きさ版です。20240623update",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -1917,7 +1917,7 @@
           "Description": "kaijuuheri",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_3f0fde5a-c3f2-49f1-83b1-12912713ebe0",
@@ -1933,8 +1933,8 @@
           "Description": "各種スイッチが指で触れたり、はしごに登れたり、中距離ミサイル戦が出来たりする空戦ワールドです ⁄ Super Modified SF-1 with Clickable Cakepit‚ Climbable Ladders‚ and Mid-Range Missile Combat․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -1949,8 +1949,8 @@
           "Description": "PvE Mission Test",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_6b2302e2-8bdd-4ab1-8935-fc8cbd8e7706",
           "AuthorName": "Object",
@@ -1965,7 +1965,7 @@
           "Description": "Victoria Harbour",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7148bba0-f6f1-4032-bd8c-728e05c65ddb",
@@ -1981,8 +1981,8 @@
           "Description": "天空の雲海に浮かぶ空母です。 艦橋でくつろげるようにしました。 ミサイルを沢山（数万発）発射できる様にしています。 浮いている敵UFOに発射してください。 今後もアップデートしていきます！ An aircraft carrier floating over the cloud․ You can relax on the bridge of aircraft carrier․ The aircrafts are set up to fire a large number of missiles （around tens of thousands）․ Please fire at the floating enemy UFO․ I will continue to updateǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -1997,7 +1997,7 @@
           "Description": "Sandy dunes‚ canyons and rock ridges․ Waifuwehr solders race through various courses around these parts in competitions for fame and prestigeǃ Find out more by joining our discord˸ Waifuwehr․com․ Also big shoutout to Sacchan for creating the helicopter prefab․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -2013,7 +2013,7 @@
           "Description": "V-22、F-35B、AV-8B、XAH-1K、LCACを搭載した強襲揚陸艦ワスプのワールドです 海兵隊基地にはF⁄A-18C⁄Dが置いてあります。 トーイングカーもおいてありますので自信のある人はエレベーター乗り入れ等してみてください。 ブリッジに置いてある無線機を持っていれば各機と話せますが、これを持った状態で機体に近づかないでください。 It is the World of Wasp assault landing ship with V-22‚ F-35B‚ AV-8B‚ XAH-1K and LCACǃ F⁄A-18C⁄D are available at the Marine Corps base․ There is also a towing car‚ so if you are confident‚ you can try to enter the elevator․ If you have the radio on the bridge‚ you can talk to each aircraft‚ but please do not approach the aircraft with it in your hand․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -2029,8 +2029,8 @@
           "Description": "日本の年中行事（諸説あり）をVRでも。2024年もよろしくお願いします。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -2045,7 +2045,7 @@
           "Description": "八丈島。遊覧や空戦にどうぞ。 Hachijojima‚Tokyo‚Japan",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_aae0da4a-506f-40fd-9c8d-58acc2dd2310",
@@ -2061,7 +2061,7 @@
           "Description": "静岡県浜松市の夜景を楽しめるフライトワールドです",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -2077,7 +2077,7 @@
           "Description": "NC-220 flight",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
@@ -2093,7 +2093,7 @@
           "Description": "heli-SUMOU",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_3f0fde5a-c3f2-49f1-83b1-12912713ebe0",
@@ -2109,7 +2109,7 @@
           "Description": "It is a world where you can experience a aircraft carrier in a storm․ Try landing and flying in low visibilityǃ There are also several features such as TACAN and ILS automated LSO․ Some features may not work or there may be bugs due to work in progress․ ∗ Recent Update ˸ Adjust plane's seat‚ Fixed HMD func of heli",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -2125,7 +2125,7 @@
           "Description": "海に浮かんでいるハオラン君を見つけ出そう 管制塔1階に正解位置を掲示しました",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_b0358922-2d51-4906-bc6e-1c77442f947e",
@@ -2157,7 +2157,7 @@
           "Description": "Just Halloween Party",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -2173,8 +2173,8 @@
           "Description": "PVE CO-OP Urban CAS world Enjoy itǃ ｜ PS․ it's a test‚demo world‚ so there might be a bug․ ｜ Contact me ˸ （Discord） 5Sori ‚（Twitter） ＠5So2_",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
@@ -2221,7 +2221,7 @@
           "Description": "Blame Fallapa for the name․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -2253,8 +2253,8 @@
           "Description": "A small Forward Operating Base with SA 341 gazelles and GR1a Sepecat Jaguars․ （plans to add an east german base with SU22 and MI24P）",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7fe9ece6-1fcd-4eb6-81a7-20851b87dc4a",
           "AuthorName": "_l Mia l_",
@@ -2285,7 +2285,7 @@
           "Description": "糞ワールド",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -2301,7 +2301,7 @@
           "Description": "邪悪な緑",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -2317,7 +2317,7 @@
           "Description": "鹿児島県いちき串木野市",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2365,7 +2365,7 @@
           "Description": "You can play against other players using vehicles․ There are multiple types of military vehicles that can be used˸ armored fighting vehicle‚ MLRS‚ MQ-9 drone‚ Warship‚ attack helicopter‚ utility helicopter‚ and jet fighter․多数の軍用ビークルを使用した対戦が行えます。 使用できるビークルは機動戦闘車、MLRS、MQ-9ドローン、駆逐艦、攻撃ヘリコプター、多用途ヘリコプター、そしてジェット戦闘機。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2381,7 +2381,7 @@
           "Description": "SH-1G_night_test_夜間飛行のテストができます、ダークブルー（HUDあり）、ピンク（HUDあり） 遊覧無形にいろいろ外して性能を変えていないSH-1です。 UnityPackageが欲しい方は、DMください。昼まで試せるワールドリンクhttps˸⁄⁄vrchat․com⁄home⁄world⁄wrld_37d215e4-c5d4-475f-a93a-55c427909685",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_9e433fa8-f50c-4a3b-8bc5-02266a52b1b1",
@@ -2413,7 +2413,7 @@
           "Description": "Ballmang｜ Waifuwehr's Op Balmung Part 5 World․ Feel free to check out the op․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2f9273a1-8507-45e5-a3d5-054e3f61780d",
@@ -2429,7 +2429,7 @@
           "Description": "Waifuwehr's Op Balmung World․ Feel free to check out the op․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2f9273a1-8507-45e5-a3d5-054e3f61780d",
@@ -2454,6 +2454,22 @@
           "UpdatedAt": "2023-06-26T06:42:25.044Z"
         },
         {
+          "ID": "wrld_74a1a7e3-095a-4eaa-a9a3-d791582fd714",
+          "Name": "飛ばせるところ By zawabroccoli",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "U-125A SH-60K が飛ばせるよ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0358922-2d51-4906-bc6e-1c77442f947e",
+          "AuthorName": "zawabroccoli",
+          "CreatedAt": "2023-04-08T11:39:57.566Z",
+          "UpdatedAt": "2023-05-14T10:08:30.317Z"
+        },
+        {
           "ID": "wrld_225c3dc9-9067-45e5-9053-3e5226db3663",
           "Name": "N island By Oppailot",
           "RecommendedCapacity": 16,
@@ -2461,7 +2477,7 @@
           "Description": "N island",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2477,7 +2493,7 @@
           "Description": "Shoutout to all the chads who made this possible˸ Wulf‚ Zeppelin and everyone else from WaifuWehr dev team as well as Lusif and of course Sacchan for the vehicle prefab （Sorry if I forgot anyone）․ Special thanks to BassHunter for helping a ton with quality control․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -2493,8 +2509,8 @@
           "Description": "浜松市を再現したワールドです、無線を導入し編隊飛行が可能です、訓練飛行や展示飛行などにどうぞ。クエスト対応ですがおまけ程度なので、推奨はしていません、縮尺や施設など実在の物とは異なります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "きりしまはるな",
@@ -2509,7 +2525,7 @@
           "Description": "国土交通省の３DモデルPLATEAUを使用した臨海・羽田空港周辺を飛び回れるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -2525,7 +2541,7 @@
           "Description": "国土交通省の３DモデルPLATEAUを使用した新宿の町を飛び回れるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -2541,8 +2557,8 @@
           "Description": "空母艦載機運用ができるワールドです、対地、対艦攻撃のPVE戦闘ができます。 無線を導入し、航空機、母艦において音声通話による連携が可能です。 クエスト対応ですがおまけ程度なので、推奨はしていません",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "きりしまはるな",
@@ -2557,7 +2573,7 @@
           "Description": "第9回ヘリコプター操縦競技会用ワールドです。競技会の詳細は304TWを確認して下さい。（Twitter˸＠304TW_HQ）-World for the 9th Helicopter Maneuvering Competition․ See 304TW for competition details․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5770c4cf-2515-4374-a3e5-8e9b3d9d74e1",
@@ -2605,7 +2621,7 @@
           "Description": "ヘリコプターで競馬場を飛ぶことができるジョークWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2621,7 +2637,7 @@
           "Description": "石垣空港を基点に、戦闘機で実寸大の先島諸島一帯を自由に飛行することができます。 Based at Ishigaki Airport‚ you are free to fly by fighter jet over the full-size Japanese archipelago of Sakishima Islands․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2637,29 +2653,13 @@
           "Description": "",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2022-10-26T11:56:28.127Z",
           "UpdatedAt": "2022-12-20T14:30:32.016Z"
-        },
-        {
-          "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
-          "Name": "CrabCopter By Swifter1",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "CrabCopter",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
-          "AuthorName": "Swifter1",
-          "CreatedAt": "2022-12-20T09:22:18.026Z",
-          "UpdatedAt": "2022-12-20T09:22:18.026Z"
         },
         {
           "ID": "wrld_120f1ee6-e61f-40db-977b-717f0cd890d0",
@@ -2669,8 +2669,8 @@
           "Description": "Free Flight Combat‚ a world with Combat ready‚ and Civilian Aircraft․ Roleplay‚ or enjoy flying․ More Coming․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -2685,7 +2685,7 @@
           "Description": "SACC BALL‚ it is soccer or football played with helicopters and automobiles․ SACC BALL、それはヘリコプターと自動車を使って行うサッカー、あるいはフットボールです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2701,8 +2701,8 @@
           "Description": "松本空港！プール！フライトǃ カフェ要素も楽しめますよ～！！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -2733,7 +2733,7 @@
           "Description": "Attack of flying hamburger",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2758,22 +2758,6 @@
           "UpdatedAt": "2022-06-05T18:42:47.659Z"
         },
         {
-          "ID": "wrld_a77d0208-be34-43cc-975f-1020c9353736",
-          "Name": "Project Helo April Fools By CodyHayzett",
-          "RecommendedCapacity": 8,
-          "Capacity": 16,
-          "Description": "Project Helo April Fools",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
-          "AuthorName": "CodyHayzett",
-          "CreatedAt": "2022-04-03T19:21:19.491Z",
-          "UpdatedAt": "2022-04-03T19:34:01.48Z"
-        },
-        {
           "ID": "wrld_a3dd33ba-cf1c-4d5d-ab05-d7448b302796",
           "Name": "Vietnam River Combat By Oppailot",
           "RecommendedCapacity": 32,
@@ -2781,7 +2765,7 @@
           "Description": "ベトナム戦争期のビークルに乗って動かすことができます。 UH-1 Huey、AH-1G Cobra、PBR（Patrol boat river）があります。 M16やAK47といったライフルを撃つことができます。 暴れまわったり、対戦をしたり、遊び方は自由。 タイムトライアル形式のレースモードもあります。You can ride and move a vehicle from the Vietnam War era․ There is the UH-1 Huey‚ the AH-1G Cobra‚ and the PBR （Patrol boat river）․ You can shoot rifles such as M16 and AK47․ The game can be played in any way you like‚ from rampaging to fighting․ There is also a time trial style race mode․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2797,7 +2781,7 @@
           "Description": "Nightflight＆Chill",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -2813,7 +2797,7 @@
           "Description": "This is a training area for helicopter pilot training․ Step-by-step instructions are given through voice guidance‚ models and diagrams․ It is based on the education that real helicopter pilots receive․ヘリコプターの操縦訓練のための訓練場所です。 音声ガイダンスと模型や図によって、段階的に操縦方法を教示します。 本物のヘリコプターパイロットが受ける教育を土台にしています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2829,7 +2813,7 @@
           "Description": "You can play against other players using vehicles․ There are four types of vehicles that can be used˸ tanks‚ anti-aircraft vehicles‚ attack helicopters‚ビークルを使用した対戦が行えます。 使用できるビークルは戦車、対空車両、攻撃ヘリコプター、戦闘機の４種類。 戦闘に備えよ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2845,8 +2829,8 @@
           "Description": "フルスクラッチで頑張って再現されたほぼ原寸大の戦艦大和を観光しよう！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -2861,7 +2845,7 @@
           "Description": "不思議な島をヘリコプターで探検しましょう！Let's explore the mysterious island by helicopterǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -2877,7 +2861,7 @@
           "Description": "A chill flying map I've been working on for a while‚ includes my attempt at a few custom aircraft․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_016f16ba-d5ca-4599-88f4-a6045d193a70",
@@ -2920,7 +2904,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-31T09:30:30.769Z",
-          "UpdatedAt": "2026-06-14T11:18:15.522Z"
+          "UpdatedAt": "2026-06-21T14:37:41.051Z"
         },
         {
           "ID": "wrld_f82ee082-350b-4988-bdc0-3de672313956",
@@ -2936,7 +2920,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-22T14:51:53.021Z",
-          "UpdatedAt": "2026-06-09T11:41:28.513Z"
+          "UpdatedAt": "2026-06-21T14:42:15.755Z"
         },
         {
           "ID": "wrld_bf942cb8-394c-4e39-8b20-1c7364c8d68d",
@@ -3192,7 +3176,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-06-12T14:24:49.58Z"
+          "UpdatedAt": "2026-06-21T02:42:11.233Z"
         },
         {
           "ID": "wrld_4acd6ab2-5dfa-42a7-bd53-e33249e7c12b",
@@ -3234,7 +3218,7 @@
           "Description": "Protect aircraft carrier from AI fighters and bombersǃ It's a kind of gimmick demo world AI戦闘機と爆撃機から空母を守れ！ ギミックデモを兼ねて作ったワールドです。 ＃VRC_BrokenSky",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -3282,8 +3266,8 @@
           "Description": "空母にIFLOLSとLRLLS、LSOを設置、カタパルトは機体外部から操作が可能です。アレスティングワイヤーが引っ張られて伸びます。滑走路以外は30knの速度制限があり、超過すると壁が出現して止められます。武装は双方が無効化モードをオフにすることで使用可能になります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
@@ -3298,8 +3282,8 @@
           "Description": "特撮のロケ地といえば採石場。タイマー式やセンサー式の爆薬が仕込んであります。変形ロボット「ファイバリオン」やヘリにも乗れるよ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "バンボー（Bambo）",
@@ -3336,7 +3320,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-12-19T13:04:57.528Z"
+          "UpdatedAt": "2026-06-16T09:28:42.378Z"
         },
         {
           "ID": "wrld_95f3ea50-590f-418f-a08b-d3b3bbba82dc",
@@ -3378,7 +3362,7 @@
           "Description": "比較的高波の海象で発着艦を行えるワールドです。ＤＤＨ以外は動揺があります。また、動揺はローカルでありますし動揺に伴いアバターが勝手に動くように錯覚し振動もありますから、酔いに弱い方は他艦船に移動しないか長くとどまるのはご遠慮ください。 SeaRAM甲板前面で風速等の設定が出来ます。ワールドとしては、風向は設置されている通り、相対風は30～40ktを想定しております。 格納庫前部側に休憩スペースがありますから、飛行で疲れたらぜひご利用ください。艦内へは、艦橋構造物左舷側にテレポーターがありますからぜひご利用ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
@@ -3394,7 +3378,7 @@
           "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 20265⁄22Updateǃǃǃǃǃǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
@@ -3410,13 +3394,13 @@
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-13T06:11:47.646Z"
+          "UpdatedAt": "2026-06-19T12:10:08.743Z"
         },
         {
           "ID": "wrld_630c5246-8ef7-4dee-b6a9-8095f4001ec8",
@@ -3426,7 +3410,7 @@
           "Description": "ＮＰＣとドッグファイトのできるフライトワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -3506,7 +3490,7 @@
           "Description": "ヘリコプターで福笑いを作るワールドです！観戦用スクリーンがあるのでヘリに乗れない方も楽しめます。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1303cfb4-8c39-4bd6-b17c-07e74087e028",
@@ -3522,7 +3506,7 @@
           "Description": "World allows you to operate around the Island in a jet fighter or helicopter․ 某国某所の島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -3570,8 +3554,8 @@
           "Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
@@ -3586,8 +3570,8 @@
           "Description": "家の中をヘリコプターで飛べるワールドです。玄関から外にでることもできます。フックを使ってぬいぐるみを屋上のカゴに入れて遊ぶことができます。～It's a world where you can fly helicopters and collide with each other inside a house․You can enter and exit the outside world through the front door․ You can grab a big plush toy with a helicopter hook and drop it into a large basket on a rooftop․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_16fb9a83-755c-4024-b484-4230b35190ad",
           "AuthorName": "akira0111",
@@ -3618,7 +3602,7 @@
           "Description": "",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -3634,8 +3618,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -3666,7 +3650,7 @@
           "Description": "Anytime․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
@@ -3714,8 +3698,8 @@
           "Description": "各種航空機、地上水上の乗り物で何ができるか自由に探索してみてください",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "まこぺっぺ",
@@ -3746,7 +3730,7 @@
           "Description": "Sacchan_VRC様より公開されている航空機プレハブSacc's Flight and Vehicles Prefab を利用させて頂いて作成しています",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_798fb9de-0e46-4adf-bec9-1ceb2836940d",
@@ -3762,13 +3746,13 @@
           "Description": "飛行機の遊び場 ˸多様な飛行機＆ヘリ有り タイムアタックコース４つ ターゲット島 都市 PSM練習にもぜひ Sacc's Flight",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5d95a081-b6d2-4ca5-acdf-c7410706d9de",
           "AuthorName": "れびん-Levin",
           "CreatedAt": "2024-08-31T09:39:04.897Z",
-          "UpdatedAt": "2025-09-02T04:20:17.827Z"
+          "UpdatedAt": "2026-06-21T11:02:03.923Z"
         },
         {
           "ID": "wrld_12b1901b-97a1-475e-8b37-3e9ffb9533bc",
@@ -3778,8 +3762,8 @@
           "Description": "シンプルに飛行できるワールド。 空港エリア、飛行中は滑走路上を低空飛行すると各種補給が可能なので活用して下さい。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "まこぺっぺ",
@@ -3810,7 +3794,7 @@
           "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドで夏案釣り。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -3858,7 +3842,7 @@
           "Description": "This is air hockey․ In other words‚ it is aircraft hockey․ Shoot the puck into the opponent's goalǃ This is a super exciting 3D action game․ いわゆるエアホッケー、それはすなわちエアクラフト・ホッケーです。 パックを相手のゴールにシュート！ 超・エキサイティングな3Dアクションゲームです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -3874,7 +3858,7 @@
           "Description": "Radio zoneはスポーン地点近くの木目模様の円内です。 管制塔屋上に雀卓あります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_6c263a3a-214b-43bd-a733-920864b7ba7c",
@@ -3890,8 +3874,8 @@
           "Description": "簡単に飛ばせるプロペラ機からちょっと難しい飛行機まで様々な乗り物に乗る事のできる群島の飛行場です。ゆっくり遊覧飛行してお楽しみください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
@@ -3938,7 +3922,7 @@
           "Description": "部屋と空港と空母。航空機の武装は一部を除き解除してあります。Rooms‚ airports and aircraft carriers․ Aircraft are disarmed․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
@@ -3986,7 +3970,7 @@
           "Description": "You can board the humanoid combat robot （mech ⁄ mecha） Ganzer‚ armored fighting vehicle （Wheeled tank）‚ jet attack aircraft（Light fighter）‚ and attack helicopter․ 人型戦闘ロボット「Ganzer」や装甲戦闘車（装輪戦車）、ジェット攻撃機（戦闘機）、攻撃ヘリコプターを操縦して遊ぶことができます。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -4018,7 +4002,7 @@
           "Description": "kaijuuheri",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_3f0fde5a-c3f2-49f1-83b1-12912713ebe0",
@@ -4050,8 +4034,8 @@
           "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -4066,8 +4050,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -4098,8 +4082,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある赤い床の上に置くのが成功すると、白く変わります。 先に全て置くことが出来たら勝ち、や時間制限を設けて多く置けた方の勝ち等ルールを決めて遊んでみてください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -4114,8 +4098,8 @@
           "Description": "1˸1リアルスケールの日本列島です。（縦横約3000kmx3000km） Zhakamizhako氏によるOWMLシステムにより実現しました。 日本の空港 全97箇所＋αに離着陸できる様、滑走路を追加しました（簡易的な再現）。今後もアップデートします。 OWML˸Open World Movement Logic System for SaccFlight_____This is a 1˸1 real scale of the Japanese archipelago （approximately 3000km x 3000km）․ It was realized by the OWML system by Mr․ Zhakamizhako․ Runways have been added to all 97＋α airports in Japan so that planes can take off and land （simplified reproduction）․ I will continue to update this world․ OWML˸Open World Movement Logic System for SaccFlight․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -4146,7 +4130,7 @@
           "Description": "水没市街地跡地にてStudio-Symphonys-さん作の【架空二足攻撃機 BGG-03 Rhinoceros（ライナースレス）】をベースにVPBCが改造した機体、課【BGGM05 dolphin（ドルフィン）】を水上で走らせ、撃ちあったりすることができるワールドです ほかにも水陸両用の装甲車、ヘリ、航空機が少しあります。 まだテスト段階ではあるので不具合があればご連絡ください ⁄byジャク ＠jakujiji ＃VPBCompany",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a9700f0d-bbd3-40e0-bd34-8e5a1d5b5753",
@@ -4162,7 +4146,7 @@
           "Description": "24⁄5月にプロジェクト壊れて２度と更新できなくなりました․․․ 新ワールドできたのでAircraft playground 215で遊んでね 今までありがとう！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5d95a081-b6d2-4ca5-acdf-c7410706d9de",
@@ -4178,7 +4162,7 @@
           "Description": "Victoria Harbour",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7148bba0-f6f1-4032-bd8c-728e05c65ddb",
@@ -4210,7 +4194,7 @@
           "Description": "V-22、F-35B、AV-8B、XAH-1K、LCACを搭載した強襲揚陸艦ワスプのワールドです 海兵隊基地にはF⁄A-18C⁄Dが置いてあります。 トーイングカーもおいてありますので自信のある人はエレベーター乗り入れ等してみてください。 ブリッジに置いてある無線機を持っていれば各機と話せますが、これを持った状態で機体に近づかないでください。 It is the World of Wasp assault landing ship with V-22‚ F-35B‚ AV-8B‚ XAH-1K and LCACǃ F⁄A-18C⁄D are available at the Marine Corps base․ There is also a towing car‚ so if you are confident‚ you can try to enter the elevator․ If you have the radio on the bridge‚ you can talk to each aircraft‚ but please do not approach the aircraft with it in your hand․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -4258,8 +4242,8 @@
           "Description": "へりの操縦の練習ができるよ You can practice piloting a helicopter․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_464689ff-8d40-49e2-b864-e37cf9c1825a",
           "AuthorName": "ぱーしー HyprShield",
@@ -4290,7 +4274,7 @@
           "Description": "金さえあればなんでもやる傭兵組織 Variant Point Breaker Company 【略称˸V․P․B․C】の本部です。 SaccFlightシステムが入っています 何かあれば 社長【＠jakujijik】か 本部accountまでお願いします 公式X 【＠VPBCompany】 制作-ベースプラント、橋 ICH＠youtuu 八雲 狐月《kou》 -本部ワールド調整、ジャク-jak0629 -その他小物、兵器改変 熊野 零",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a9700f0d-bbd3-40e0-bd34-8e5a1d5b5753",
@@ -4306,7 +4290,7 @@
           "Description": "海雲の上を飛行できるワールドです。フレアやスモークで夜空に君だけの絵を描いてみてください。他の人が飛んでいるのを紅茶を飲みながらまったりできるカフェも併設しています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
@@ -4322,8 +4306,8 @@
           "Description": "B-SFCVN67ーMARINBLUEーに着艦練習が出来るワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -4338,8 +4322,8 @@
           "Description": "Fan world of BB-63 Missouri 1990's ⁄ Museum Mode Updateǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
           "AuthorName": "katsuobusi24",
@@ -4354,7 +4338,7 @@
           "Description": "クリスマス仕様の飛行機のあるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
@@ -4370,7 +4354,7 @@
           "Description": "NC-220 flight",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
@@ -4386,8 +4370,8 @@
           "Description": "天空の雲海に浮かぶ空母です。 艦橋でくつろげるようにしました。 ミサイルを沢山（数万発）発射できる様にしています。 浮いている敵UFOに発射してください。 今後もアップデートしていきます！ An aircraft carrier floating over the cloud․ You can relax on the bridge of aircraft carrier․ The aircrafts are set up to fire a large number of missiles （around tens of thousands）․ Please fire at the floating enemy UFO․ I will continue to updateǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -4402,7 +4386,7 @@
           "Description": "静岡県浜松市の夜景を楽しめるフライトワールドです",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -4418,7 +4402,7 @@
           "Description": "heli-SUMOU",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_3f0fde5a-c3f2-49f1-83b1-12912713ebe0",
@@ -4434,7 +4418,7 @@
           "Description": "It is a world where you can experience a aircraft carrier in a storm․ Try landing and flying in low visibilityǃ There are also several features such as TACAN and ILS automated LSO․ Some features may not work or there may be bugs due to work in progress․ ∗ Recent Update ˸ Adjust plane's seat‚ Fixed HMD func of heli",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -4450,7 +4434,7 @@
           "Description": "Just Halloween Party",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -4482,7 +4466,7 @@
           "Description": "PLATEAUを使用した飛行機を飛ばせるワールドの23区の大きさ版です。20240623update",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -4530,8 +4514,8 @@
           "Description": "PvE Mission Test",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_6b2302e2-8bdd-4ab1-8935-fc8cbd8e7706",
           "AuthorName": "Object",
@@ -4546,7 +4530,7 @@
           "Description": "World allows you to operate around the fictional Senka Islands in a jet fighter or helicopter․ 架空の島、尖華諸島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -4562,7 +4546,7 @@
           "Description": "海に浮かんでいるハオラン君を見つけ出そう 管制塔1階に正解位置を掲示しました",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_b0358922-2d51-4906-bc6e-1c77442f947e",
@@ -4578,7 +4562,7 @@
           "Description": "糞ワールド",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -4594,7 +4578,7 @@
           "Description": "鹿児島県いちき串木野市",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -4610,7 +4594,7 @@
           "Description": "邪悪な緑",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -4626,8 +4610,8 @@
           "Description": "Work in Progress aerial fire fighting world ｜ Updated 11⁄30⁄2024",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -4658,8 +4642,8 @@
           "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․8。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄5⁄8",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
@@ -4690,7 +4674,7 @@
           "Description": "SH-1G_night_test_夜間飛行のテストができます、ダークブルー（HUDあり）、ピンク（HUDあり） 遊覧無形にいろいろ外して性能を変えていないSH-1です。 UnityPackageが欲しい方は、DMください。昼まで試せるワールドリンクhttps˸⁄⁄vrchat․com⁄home⁄world⁄wrld_37d215e4-c5d4-475f-a93a-55c427909685",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_9e433fa8-f50c-4a3b-8bc5-02266a52b1b1",
@@ -4706,8 +4690,8 @@
           "Description": "各種スイッチが指で触れたり、はしごに登れたり、中距離ミサイル戦が出来たりする空戦ワールドです ⁄ Super Modified SF-1 with Clickable Cakepit‚ Climbable Ladders‚ and Mid-Range Missile Combat․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -4722,7 +4706,7 @@
           "Description": "八丈島。遊覧や空戦にどうぞ。 Hachijojima‚Tokyo‚Japan",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_aae0da4a-506f-40fd-9c8d-58acc2dd2310",
@@ -4738,7 +4722,7 @@
           "Description": "2024⁄9 Update 海岸線を車でドライブしたり、山の上からヘリコプターやグライダー、海からはホバーボードで水上移動したりすることができます。⁄You can drive along the coastline‚ travel by helicopter or glider from the mountains‚ or hoverboard from the sea․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5770c4cf-2515-4374-a3e5-8e9b3d9d74e1",
@@ -4754,7 +4738,7 @@
           "Description": "Sandy dunes‚ canyons and rock ridges․ Waifuwehr solders race through various courses around these parts in competitions for fame and prestigeǃ Find out more by joining our discord˸ Waifuwehr․com․ Also big shoutout to Sacchan for creating the helicopter prefab․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -4770,7 +4754,7 @@
           "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドです。 Flyable：ZeroType32 （Hamp）ShidenKai SHINDEN FUGAKU F-15DJ F-2 UF-104J T-2 F-99（F-1color）",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -4786,8 +4770,8 @@
           "Description": "PVE CO-OP Urban CAS world Enjoy itǃ ｜ PS․ it's a test‚demo world‚ so there might be a bug․ ｜ Contact me ˸ （Discord） 5Sori ‚（Twitter） ＠5So2_",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
@@ -4802,7 +4786,7 @@
           "Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -4850,7 +4834,7 @@
           "Description": "Blame Fallapa for the name․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -4866,8 +4850,8 @@
           "Description": "VRCのflight系グループ、V․R․A․Fのフライトワールド「ウォーターアイランド基地」です！ ここでしか乗れない機体等がある、 VRAFのワールドの一つですǃ 良ければ遊んでくださいねǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -4882,13 +4866,29 @@
           "Description": "N island",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-04-14T04:12:24.53Z",
           "UpdatedAt": "2023-04-14T04:12:24.53Z"
+        },
+        {
+          "ID": "wrld_74a1a7e3-095a-4eaa-a9a3-d791582fd714",
+          "Name": "飛ばせるところ By zawabroccoli",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "U-125A SH-60K が飛ばせるよ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0358922-2d51-4906-bc6e-1c77442f947e",
+          "AuthorName": "zawabroccoli",
+          "CreatedAt": "2023-04-08T11:39:57.566Z",
+          "UpdatedAt": "2023-05-14T10:08:30.317Z"
         },
         {
           "ID": "wrld_455e5734-4463-44a9-b6f6-516a3c538eff",
@@ -4898,8 +4898,8 @@
           "Description": "A small Forward Operating Base with SA 341 gazelles and GR1a Sepecat Jaguars․ （plans to add an east german base with SU22 and MI24P）",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7fe9ece6-1fcd-4eb6-81a7-20851b87dc4a",
           "AuthorName": "_l Mia l_",
@@ -4914,7 +4914,7 @@
           "Description": "高さ１２００ｍの桜の周りで気持ち良いフライトを楽しめます",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -4930,13 +4930,13 @@
           "Description": "シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。 The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-06-14T11:34:09.529Z"
+          "UpdatedAt": "2026-06-21T14:31:52.084Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -4946,7 +4946,7 @@
           "Description": "国土交通省の３DモデルPLATEAUを使用した臨海・羽田空港周辺を飛び回れるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -4962,7 +4962,7 @@
           "Description": "国土交通省の３DモデルPLATEAUを使用した新宿の町を飛び回れるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -4978,7 +4978,7 @@
           "Description": "既存のワールドに高ポリな桜を植樹しただけ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -5010,8 +5010,8 @@
           "Description": "空母艦載機運用ができるワールドです、対地、対艦攻撃のPVE戦闘ができます。 無線を導入し、航空機、母艦において音声通話による連携が可能です。 クエスト対応ですがおまけ程度なので、推奨はしていません",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "きりしまはるな",
@@ -5042,8 +5042,8 @@
           "Description": "浜松市を再現したワールドです、無線を導入し編隊飛行が可能です、訓練飛行や展示飛行などにどうぞ。クエスト対応ですがおまけ程度なので、推奨はしていません、縮尺や施設など実在の物とは異なります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "きりしまはるな",
@@ -5074,8 +5074,8 @@
           "Description": "遠い昔、ナドンの戦いで野に放たれた生物兵器「エビザウルス」の一部はセレウ川を南下し、死海に浮かぶ小さな島へと辿り着いた。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
           "AuthorName": "long-potato",
@@ -5090,7 +5090,7 @@
           "Description": "ヘリコプターで競馬場を飛ぶことができるジョークWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -5106,29 +5106,13 @@
           "Description": "日本の年中行事（諸説あり）をVRでも。2024年もよろしくお願いします。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
           "CreatedAt": "2022-12-30T21:54:01.126Z",
           "UpdatedAt": "2023-12-31T12:52:17.018Z"
-        },
-        {
-          "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
-          "Name": "CrabCopter By Swifter1",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "CrabCopter",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
-          "AuthorName": "Swifter1",
-          "CreatedAt": "2022-12-20T09:22:18.026Z",
-          "UpdatedAt": "2022-12-20T09:22:18.026Z"
         },
         {
           "ID": "wrld_ec155d74-d8ff-4981-a687-4023f4767076",
@@ -5138,7 +5122,7 @@
           "Description": "石垣空港を基点に、戦闘機で実寸大の先島諸島一帯を自由に飛行することができます。 Based at Ishigaki Airport‚ you are free to fly by fighter jet over the full-size Japanese archipelago of Sakishima Islands․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -5170,7 +5154,7 @@
           "Description": "",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -5186,8 +5170,8 @@
           "Description": "Free Flight Combat‚ a world with Combat ready‚ and Civilian Aircraft․ Roleplay‚ or enjoy flying․ More Coming․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -5202,8 +5186,8 @@
           "Description": "studio-symphonys-としてboothに置いている物を置いてます！ 普通に飛んだりして遊べるので是非遊んでくださいー！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -5218,7 +5202,7 @@
           "Description": "SACC BALL‚ it is soccer or football played with helicopters and automobiles․ SACC BALL、それはヘリコプターと自動車を使って行うサッカー、あるいはフットボールです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -5234,7 +5218,7 @@
           "Description": "第9回ヘリコプター操縦競技会用ワールドです。競技会の詳細は304TWを確認して下さい。（Twitter˸＠304TW_HQ）-World for the 9th Helicopter Maneuvering Competition․ See 304TW for competition details․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5770c4cf-2515-4374-a3e5-8e9b3d9d74e1",
@@ -5266,13 +5250,13 @@
           "Description": "エアーウルフの飛ぶ姿を見たいだけで作った",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2022-09-03T05:05:23.624Z",
-          "UpdatedAt": "2026-02-04T08:42:36.163Z"
+          "UpdatedAt": "2026-06-19T10:26:09.089Z"
         },
         {
           "ID": "wrld_a9ad0d39-8af2-41d2-b05c-87b0f477441b",
@@ -5282,7 +5266,7 @@
           "Description": "You can play against other players using vehicles․ There are multiple types of military vehicles that can be used˸ armored fighting vehicle‚ MLRS‚ MQ-9 drone‚ Warship‚ attack helicopter‚ utility helicopter‚ and jet fighter․多数の軍用ビークルを使用した対戦が行えます。 使用できるビークルは機動戦闘車、MLRS、MQ-9ドローン、駆逐艦、攻撃ヘリコプター、多用途ヘリコプター、そしてジェット戦闘機。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -5298,7 +5282,7 @@
           "Description": "Shoutout to all the chads who made this possible˸ Wulf‚ Zeppelin and everyone else from WaifuWehr dev team as well as Lusif and of course Sacchan for the vehicle prefab （Sorry if I forgot anyone）․ Special thanks to BassHunter for helping a ton with quality control․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -5330,8 +5314,8 @@
           "Description": "静かな南の島で、流れ星を。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_3c06993c-1bbd-43bc-bd6c-bfab1fcdebd2",
           "AuthorName": "kiri（きり）",
@@ -5346,7 +5330,7 @@
           "Description": "Attack of flying hamburger",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -5378,7 +5362,7 @@
           "Description": "Milky Dawn Junction Note˸Some airplane sounds are borrowed from DavidSkinnerMusic․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_4cf2c1d9-f965-4f5f-bc24-c76e45f77b13",
@@ -5410,8 +5394,8 @@
           "Description": "美しい港町、city湊。 たくさんのヘリと共に、編隊飛行や練習にどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -5426,29 +5410,13 @@
           "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
           "CreatedAt": "2022-05-16T22:09:36.369Z",
           "UpdatedAt": "2026-05-22T07:21:41.598Z"
-        },
-        {
-          "ID": "wrld_a77d0208-be34-43cc-975f-1020c9353736",
-          "Name": "Project Helo April Fools By CodyHayzett",
-          "RecommendedCapacity": 8,
-          "Capacity": 16,
-          "Description": "Project Helo April Fools",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
-          "AuthorName": "CodyHayzett",
-          "CreatedAt": "2022-04-03T19:21:19.491Z",
-          "UpdatedAt": "2022-04-03T19:34:01.48Z"
         },
         {
           "ID": "wrld_40c04871-dd5f-411e-9d3c-d9ec97b8b9cb",
@@ -5458,8 +5426,8 @@
           "Description": "松本空港！プール！フライトǃ カフェ要素も楽しめますよ～！！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -5474,7 +5442,7 @@
           "Description": "ベトナム戦争期のビークルに乗って動かすことができます。 UH-1 Huey、AH-1G Cobra、PBR（Patrol boat river）があります。 M16やAK47といったライフルを撃つことができます。 暴れまわったり、対戦をしたり、遊び方は自由。 タイムトライアル形式のレースモードもあります。You can ride and move a vehicle from the Vietnam War era․ There is the UH-1 Huey‚ the AH-1G Cobra‚ and the PBR （Patrol boat river）․ You can shoot rifles such as M16 and AK47․ The game can be played in any way you like‚ from rampaging to fighting․ There is also a time trial style race mode․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -5506,7 +5474,7 @@
           "Description": "Ballmang｜ Waifuwehr's Op Balmung Part 5 World․ Feel free to check out the op․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2f9273a1-8507-45e5-a3d5-054e3f61780d",
@@ -5538,8 +5506,8 @@
           "Description": "Practice flying helicopters here․ Last update˸ 11⁄27⁄2024",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -5586,7 +5554,7 @@
           "Description": "You can play against other players using vehicles․ There are four types of vehicles that can be used˸ tanks‚ anti-aircraft vehicles‚ attack helicopters‚ビークルを使用した対戦が行えます。 使用できるビークルは戦車、対空車両、攻撃ヘリコプター、戦闘機の４種類。 戦闘に備えよ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -5602,8 +5570,8 @@
           "Description": "フルスクラッチで頑張って再現されたほぼ原寸大の戦艦大和を観光しよう！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -5618,8 +5586,8 @@
           "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -5634,7 +5602,7 @@
           "Description": "Waifuwehr's Op Balmung World․ Feel free to check out the op․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2f9273a1-8507-45e5-a3d5-054e3f61780d",
@@ -5650,7 +5618,7 @@
           "Description": "不思議な島をヘリコプターで探検しましょう！Let's explore the mysterious island by helicopterǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -5666,7 +5634,7 @@
           "Description": "Nightflight＆Chill",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -5682,7 +5650,7 @@
           "Description": "A chill flying map I've been working on for a while‚ includes my attempt at a few custom aircraft․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_016f16ba-d5ca-4599-88f4-a6045d193a70",
@@ -5714,7 +5682,7 @@
           "Description": "This is a training area for helicopter pilot training․ Step-by-step instructions are given through voice guidance‚ models and diagrams․ It is based on the education that real helicopter pilots receive․ヘリコプターの操縦訓練のための訓練場所です。 音声ガイダンスと模型や図によって、段階的に操縦方法を教示します。 本物のヘリコプターパイロットが受ける教育を土台にしています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -5762,8 +5730,8 @@
           "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic Tomcat and more․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
@@ -5778,8 +5746,8 @@
           "Description": "For those who love flying․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -5863,7 +5831,7 @@
           "Description": "既存のワールドに高ポリな桜を植樹しただけ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -5895,8 +5863,8 @@
           "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic Tomcat and more․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
@@ -5927,13 +5895,13 @@
           "Description": "飛行機の遊び場 ˸多様な飛行機＆ヘリ有り タイムアタックコース４つ ターゲット島 都市 PSM練習にもぜひ Sacc's Flight",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5d95a081-b6d2-4ca5-acdf-c7410706d9de",
           "AuthorName": "れびん-Levin",
           "CreatedAt": "2024-08-31T09:39:04.897Z",
-          "UpdatedAt": "2025-09-02T04:20:17.827Z"
+          "UpdatedAt": "2026-06-21T11:02:03.923Z"
         },
         {
           "ID": "wrld_095e3b32-f0ed-4055-a46c-cb5505ea180b",
@@ -5943,7 +5911,7 @@
           "Description": "A chill flying map I've been working on for a while‚ includes my attempt at a few custom aircraft․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_016f16ba-d5ca-4599-88f4-a6045d193a70",
@@ -5959,7 +5927,7 @@
           "Description": "Blame Fallapa for the name․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -5975,8 +5943,8 @@
           "Description": "Fan world of BB-63 Missouri 1990's ⁄ Museum Mode Updateǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
           "AuthorName": "katsuobusi24",
@@ -5991,7 +5959,7 @@
           "Description": "It is a world where you can experience a aircraft carrier in a storm․ Try landing and flying in low visibilityǃ There are also several features such as TACAN and ILS automated LSO․ Some features may not work or there may be bugs due to work in progress․ ∗ Recent Update ˸ Adjust plane's seat‚ Fixed HMD func of heli",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -6007,8 +5975,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある赤い床の上に置くのが成功すると、白く変わります。 先に全て置くことが出来たら勝ち、や時間制限を設けて多く置けた方の勝ち等ルールを決めて遊んでみてください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -6023,8 +5991,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -6039,8 +6007,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -6071,8 +6039,8 @@
           "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -6087,8 +6055,8 @@
           "Description": "美しい港町、city湊。 たくさんのヘリと共に、編隊飛行や練習にどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -6103,7 +6071,7 @@
           "Description": "You can play against other players using vehicles․ There are four types of vehicles that can be used˸ tanks‚ anti-aircraft vehicles‚ attack helicopters‚ビークルを使用した対戦が行えます。 使用できるビークルは戦車、対空車両、攻撃ヘリコプター、戦闘機の４種類。 戦闘に備えよ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -6119,7 +6087,7 @@
           "Description": "You can play against other players using vehicles․ There are multiple types of military vehicles that can be used˸ armored fighting vehicle‚ MLRS‚ MQ-9 drone‚ Warship‚ attack helicopter‚ utility helicopter‚ and jet fighter․多数の軍用ビークルを使用した対戦が行えます。 使用できるビークルは機動戦闘車、MLRS、MQ-9ドローン、駆逐艦、攻撃ヘリコプター、多用途ヘリコプター、そしてジェット戦闘機。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -6160,22 +6128,6 @@
           "UpdatedAt": "2025-09-23T08:48:06.269Z"
         },
         {
-          "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
-          "Name": "CrabCopter By Swifter1",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "CrabCopter",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
-          "AuthorName": "Swifter1",
-          "CreatedAt": "2022-12-20T09:22:18.026Z",
-          "UpdatedAt": "2022-12-20T09:22:18.026Z"
-        },
-        {
           "ID": "wrld_9a680289-7f96-42a6-a209-76c48ac1aa44",
           "Name": "DDG179＂MAYA＂ By かすみん",
           "RecommendedCapacity": 10,
@@ -6199,7 +6151,7 @@
           "Description": "Sandy dunes‚ canyons and rock ridges․ Waifuwehr solders race through various courses around these parts in competitions for fame and prestigeǃ Find out more by joining our discord˸ Waifuwehr․com․ Also big shoutout to Sacchan for creating the helicopter prefab․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -6231,7 +6183,7 @@
           "Description": "Anytime․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
@@ -6263,8 +6215,8 @@
           "Description": "Free Flight Combat‚ a world with Combat ready‚ and Civilian Aircraft․ Roleplay‚ or enjoy flying․ More Coming․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -6279,13 +6231,13 @@
           "Description": "エアーウルフの飛ぶ姿を見たいだけで作った",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2022-09-03T05:05:23.624Z",
-          "UpdatedAt": "2026-02-04T08:42:36.163Z"
+          "UpdatedAt": "2026-06-19T10:26:09.089Z"
         },
         {
           "ID": "wrld_8008565b-2305-4672-9c66-84657411fcfd",
@@ -6295,7 +6247,7 @@
           "Description": "Ballmang｜ Waifuwehr's Op Balmung Part 5 World․ Feel free to check out the op․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2f9273a1-8507-45e5-a3d5-054e3f61780d",
@@ -6327,8 +6279,8 @@
           "Description": "VRCのflight系グループ、V․R․A․Fのフライトワールド「ウォーターアイランド基地」です！ ここでしか乗れない機体等がある、 VRAFのワールドの一つですǃ 良ければ遊んでくださいねǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -6375,7 +6327,7 @@
           "Description": "Sacchan_VRC様より公開されている航空機プレハブSacc's Flight and Vehicles Prefab を利用させて頂いて作成しています",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_798fb9de-0e46-4adf-bec9-1ceb2836940d",
@@ -6391,8 +6343,8 @@
           "Description": "A small Forward Operating Base with SA 341 gazelles and GR1a Sepecat Jaguars․ （plans to add an east german base with SU22 and MI24P）",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7fe9ece6-1fcd-4eb6-81a7-20851b87dc4a",
           "AuthorName": "_l Mia l_",
@@ -6407,7 +6359,7 @@
           "Description": "You can board the humanoid combat robot （mech ⁄ mecha） Ganzer‚ armored fighting vehicle （Wheeled tank）‚ jet attack aircraft（Light fighter）‚ and attack helicopter․ 人型戦闘ロボット「Ganzer」や装甲戦闘車（装輪戦車）、ジェット攻撃機（戦闘機）、攻撃ヘリコプターを操縦して遊ぶことができます。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -6439,7 +6391,7 @@
           "Description": "Attack of flying hamburger",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -6455,7 +6407,7 @@
           "Description": "This is air hockey․ In other words‚ it is aircraft hockey․ Shoot the puck into the opponent's goalǃ This is a super exciting 3D action game․ いわゆるエアホッケー、それはすなわちエアクラフト・ホッケーです。 パックを相手のゴールにシュート！ 超・エキサイティングな3Dアクションゲームです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -6487,7 +6439,7 @@
           "Description": "heli-SUMOU",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_3f0fde5a-c3f2-49f1-83b1-12912713ebe0",
@@ -6535,7 +6487,7 @@
           "Description": "ヘリコプターで福笑いを作るワールドです！観戦用スクリーンがあるのでヘリに乗れない方も楽しめます。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1303cfb4-8c39-4bd6-b17c-07e74087e028",
@@ -6567,7 +6519,7 @@
           "Description": "不思議な島をヘリコプターで探検しましょう！Let's explore the mysterious island by helicopterǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -6583,7 +6535,7 @@
           "Description": "This is a training area for helicopter pilot training․ Step-by-step instructions are given through voice guidance‚ models and diagrams․ It is based on the education that real helicopter pilots receive․ヘリコプターの操縦訓練のための訓練場所です。 音声ガイダンスと模型や図によって、段階的に操縦方法を教示します。 本物のヘリコプターパイロットが受ける教育を土台にしています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -6647,7 +6599,7 @@
           "Description": "Shoutout to all the chads who made this possible˸ Wulf‚ Zeppelin and everyone else from WaifuWehr dev team as well as Lusif and of course Sacchan for the vehicle prefab （Sorry if I forgot anyone）․ Special thanks to BassHunter for helping a ton with quality control․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -6663,7 +6615,7 @@
           "Description": "Protect aircraft carrier from AI fighters and bombersǃ It's a kind of gimmick demo world AI戦闘機と爆撃機から空母を守れ！ ギミックデモを兼ねて作ったワールドです。 ＃VRC_BrokenSky",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -6679,8 +6631,8 @@
           "Description": "Work in Progress aerial fire fighting world ｜ Updated 11⁄30⁄2024",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -6695,7 +6647,7 @@
           "Description": "Waifuwehr's Op Balmung World․ Feel free to check out the op․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2f9273a1-8507-45e5-a3d5-054e3f61780d",
@@ -6727,7 +6679,7 @@
           "Description": "Just Halloween Party",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -6743,8 +6695,8 @@
           "Description": "浜松市を再現したワールドです、無線を導入し編隊飛行が可能です、訓練飛行や展示飛行などにどうぞ。クエスト対応ですがおまけ程度なので、推奨はしていません、縮尺や施設など実在の物とは異なります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "きりしまはるな",
@@ -6759,7 +6711,7 @@
           "Description": "静岡県浜松市の夜景を楽しめるフライトワールドです",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -6791,8 +6743,8 @@
           "Description": "PVE CO-OP Urban CAS world Enjoy itǃ ｜ PS․ it's a test‚demo world‚ so there might be a bug․ ｜ Contact me ˸ （Discord） 5Sori ‚（Twitter） ＠5So2_",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
@@ -6807,7 +6759,7 @@
           "Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -6845,7 +6797,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-31T09:30:30.769Z",
-          "UpdatedAt": "2026-06-14T11:18:15.522Z"
+          "UpdatedAt": "2026-06-21T14:37:41.051Z"
         },
         {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
@@ -6855,13 +6807,13 @@
           "Description": "シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。 The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-06-14T11:34:09.529Z"
+          "UpdatedAt": "2026-06-21T14:31:52.084Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -6903,7 +6855,7 @@
           "Description": "24⁄5月にプロジェクト壊れて２度と更新できなくなりました․․․ 新ワールドできたのでAircraft playground 215で遊んでね 今までありがとう！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5d95a081-b6d2-4ca5-acdf-c7410706d9de",
@@ -6919,7 +6871,7 @@
           "Description": "V-22、F-35B、AV-8B、XAH-1K、LCACを搭載した強襲揚陸艦ワスプのワールドです 海兵隊基地にはF⁄A-18C⁄Dが置いてあります。 トーイングカーもおいてありますので自信のある人はエレベーター乗り入れ等してみてください。 ブリッジに置いてある無線機を持っていれば各機と話せますが、これを持った状態で機体に近づかないでください。 It is the World of Wasp assault landing ship with V-22‚ F-35B‚ AV-8B‚ XAH-1K and LCACǃ F⁄A-18C⁄D are available at the Marine Corps base․ There is also a towing car‚ so if you are confident‚ you can try to enter the elevator․ If you have the radio on the bridge‚ you can talk to each aircraft‚ but please do not approach the aircraft with it in your hand․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -6967,7 +6919,7 @@
           "Description": "クリスマス仕様の飛行機のあるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
@@ -6983,7 +6935,7 @@
           "Description": "Milky Dawn Junction Note˸Some airplane sounds are borrowed from DavidSkinnerMusic․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_4cf2c1d9-f965-4f5f-bc24-c76e45f77b13",
@@ -6999,8 +6951,8 @@
           "Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
@@ -7015,7 +6967,7 @@
           "Description": "",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -7031,7 +6983,7 @@
           "Description": "N island",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -7047,7 +6999,7 @@
           "Description": "NC-220 flight",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
@@ -7079,7 +7031,7 @@
           "Description": "Nightflight＆Chill",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -7095,7 +7047,7 @@
           "Description": "ＮＰＣとドッグファイトのできるフライトワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -7111,8 +7063,8 @@
           "Description": "空母艦載機運用ができるワールドです、対地、対艦攻撃のPVE戦闘ができます。 無線を導入し、航空機、母艦において音声通話による連携が可能です。 クエスト対応ですがおまけ程度なので、推奨はしていません",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "きりしまはるな",
@@ -7159,8 +7111,8 @@
           "Description": "遠い昔、ナドンの戦いで野に放たれた生物兵器「エビザウルス」の一部はセレウ川を南下し、死海に浮かぶ小さな島へと辿り着いた。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
           "AuthorName": "long-potato",
@@ -7175,29 +7127,13 @@
           "Description": "Practice flying helicopters here․ Last update˸ 11⁄27⁄2024",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
           "CreatedAt": "2021-12-17T07:26:50.542Z",
           "UpdatedAt": "2024-12-01T02:18:53.623Z"
-        },
-        {
-          "ID": "wrld_a77d0208-be34-43cc-975f-1020c9353736",
-          "Name": "Project Helo April Fools By CodyHayzett",
-          "RecommendedCapacity": 8,
-          "Capacity": 16,
-          "Description": "Project Helo April Fools",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
-          "AuthorName": "CodyHayzett",
-          "CreatedAt": "2022-04-03T19:21:19.491Z",
-          "UpdatedAt": "2022-04-03T19:34:01.48Z"
         },
         {
           "ID": "wrld_4130b536-45c5-4703-9843-390d9a53ddcd",
@@ -7223,8 +7159,8 @@
           "Description": "PvE Mission Test",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_6b2302e2-8bdd-4ab1-8935-fc8cbd8e7706",
           "AuthorName": "Object",
@@ -7255,7 +7191,7 @@
           "Description": "SACC BALL‚ it is soccer or football played with helicopters and automobiles․ SACC BALL、それはヘリコプターと自動車を使って行うサッカー、あるいはフットボールです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -7271,7 +7207,7 @@
           "Description": "World allows you to operate around the fictional Senka Islands in a jet fighter or helicopter․ 架空の島、尖華諸島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -7287,8 +7223,8 @@
           "Description": "各種スイッチが指で触れたり、はしごに登れたり、中距離ミサイル戦が出来たりする空戦ワールドです ⁄ Super Modified SF-1 with Clickable Cakepit‚ Climbable Ladders‚ and Mid-Range Missile Combat․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -7303,7 +7239,7 @@
           "Description": "SH-1G_night_test_夜間飛行のテストができます、ダークブルー（HUDあり）、ピンク（HUDあり） 遊覧無形にいろいろ外して性能を変えていないSH-1です。 UnityPackageが欲しい方は、DMください。昼まで試せるワールドリンクhttps˸⁄⁄vrchat․com⁄home⁄world⁄wrld_37d215e4-c5d4-475f-a93a-55c427909685",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_9e433fa8-f50c-4a3b-8bc5-02266a52b1b1",
@@ -7335,8 +7271,8 @@
           "Description": "フルスクラッチで頑張って再現されたほぼ原寸大の戦艦大和を観光しよう！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -7351,7 +7287,7 @@
           "Description": "World allows you to operate around the Island in a jet fighter or helicopter․ 某国某所の島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -7367,7 +7303,7 @@
           "Description": "石垣空港を基点に、戦闘機で実寸大の先島諸島一帯を自由に飛行することができます。 Based at Ishigaki Airport‚ you are free to fly by fighter jet over the full-size Japanese archipelago of Sakishima Islands․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -7399,8 +7335,8 @@
           "Description": "studio-symphonys-としてboothに置いている物を置いてます！ 普通に飛んだりして遊べるので是非遊んでくださいー！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -7415,7 +7351,7 @@
           "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドです。 Flyable：ZeroType32 （Hamp）ShidenKai SHINDEN FUGAKU F-15DJ F-2 UF-104J T-2 F-99（F-1color）",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -7431,7 +7367,7 @@
           "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドで夏案釣り。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -7479,8 +7415,8 @@
           "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -7495,8 +7431,8 @@
           "Description": "For those who love flying․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -7559,7 +7495,7 @@
           "Description": "国土交通省の３DモデルPLATEAUを使用した臨海・羽田空港周辺を飛び回れるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -7575,7 +7511,7 @@
           "Description": "国土交通省の３DモデルPLATEAUを使用した新宿の町を飛び回れるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -7591,7 +7527,7 @@
           "Description": "PLATEAUを使用した飛行機を飛ばせるワールドの23区の大きさ版です。20240623update",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -7639,7 +7575,7 @@
           "Description": "金さえあればなんでもやる傭兵組織 Variant Point Breaker Company 【略称˸V․P․B․C】の本部です。 SaccFlightシステムが入っています 何かあれば 社長【＠jakujijik】か 本部accountまでお願いします 公式X 【＠VPBCompany】 制作-ベースプラント、橋 ICH＠youtuu 八雲 狐月《kou》 -本部ワールド調整、ジャク-jak0629 -その他小物、兵器改変 熊野 零",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a9700f0d-bbd3-40e0-bd34-8e5a1d5b5753",
@@ -7655,7 +7591,7 @@
           "Description": "Victoria Harbour",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7148bba0-f6f1-4032-bd8c-728e05c65ddb",
@@ -7671,7 +7607,7 @@
           "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 20265⁄22Updateǃǃǃǃǃǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
@@ -7687,7 +7623,7 @@
           "Description": "ベトナム戦争期のビークルに乗って動かすことができます。 UH-1 Huey、AH-1G Cobra、PBR（Patrol boat river）があります。 M16やAK47といったライフルを撃つことができます。 暴れまわったり、対戦をしたり、遊び方は自由。 タイムトライアル形式のレースモードもあります。You can ride and move a vehicle from the Vietnam War era․ There is the UH-1 Huey‚ the AH-1G Cobra‚ and the PBR （Patrol boat river）․ You can shoot rifles such as M16 and AK47․ The game can be played in any way you like‚ from rampaging to fighting․ There is also a time trial style race mode․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -7703,8 +7639,8 @@
           "Description": "松本空港！プール！フライトǃ カフェ要素も楽しめますよ～！！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -7719,8 +7655,8 @@
           "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -7751,7 +7687,7 @@
           "Description": "部屋と空港と空母。航空機の武装は一部を除き解除してあります。Rooms‚ airports and aircraft carriers․ Aircraft are disarmed․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
@@ -7799,8 +7735,8 @@
           "Description": "空母にIFLOLSとLRLLS、LSOを設置、カタパルトは機体外部から操作が可能です。アレスティングワイヤーが引っ張られて伸びます。滑走路以外は30knの速度制限があり、超過すると壁が出現して止められます。武装は双方が無効化モードをオフにすることで使用可能になります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
@@ -7815,13 +7751,13 @@
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-13T06:11:47.646Z"
+          "UpdatedAt": "2026-06-19T12:10:08.743Z"
         },
         {
           "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
@@ -7831,8 +7767,8 @@
           "Description": "B-SFCVN67ーMARINBLUEーに着艦練習が出来るワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -7863,7 +7799,7 @@
           "Description": "海雲の上を飛行できるワールドです。フレアやスモークで夜空に君だけの絵を描いてみてください。他の人が飛んでいるのを紅茶を飲みながらまったりできるカフェも併設しています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
@@ -7927,7 +7863,7 @@
           "Description": "2024⁄9 Update 海岸線を車でドライブしたり、山の上からヘリコプターやグライダー、海からはホバーボードで水上移動したりすることができます。⁄You can drive along the coastline‚ travel by helicopter or glider from the mountains‚ or hoverboard from the sea․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5770c4cf-2515-4374-a3e5-8e9b3d9d74e1",
@@ -7943,8 +7879,8 @@
           "Description": "日本の年中行事（諸説あり）をVRでも。2024年もよろしくお願いします。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -7975,8 +7911,8 @@
           "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․8。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄5⁄8",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
@@ -8007,8 +7943,8 @@
           "Description": "各種航空機、地上水上の乗り物で何ができるか自由に探索してみてください",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "まこぺっぺ",
@@ -8023,8 +7959,8 @@
           "Description": "へりの操縦の練習ができるよ You can practice piloting a helicopter․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_464689ff-8d40-49e2-b864-e37cf9c1825a",
           "AuthorName": "ぱーしー HyprShield",
@@ -8087,7 +8023,7 @@
           "Description": "ヘリコプターで競馬場を飛ぶことができるジョークWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -8103,8 +8039,8 @@
           "Description": "静かな南の島で、流れ星を。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_3c06993c-1bbd-43bc-bd6c-bfab1fcdebd2",
           "AuthorName": "kiri（きり）",
@@ -8119,7 +8055,7 @@
           "Description": "邪悪な緑",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -8135,8 +8071,8 @@
           "Description": "簡単に飛ばせるプロペラ機からちょっと難しい飛行機まで様々な乗り物に乗る事のできる群島の飛行場です。ゆっくり遊覧飛行してお楽しみください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
@@ -8189,7 +8125,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-12-19T13:04:57.528Z"
+          "UpdatedAt": "2026-06-16T09:28:42.378Z"
         },
         {
           "ID": "wrld_9b31ab4c-9269-41eb-947d-1bc1214e9a2d",
@@ -8199,7 +8135,7 @@
           "Description": "kaijuuheri",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_3f0fde5a-c3f2-49f1-83b1-12912713ebe0",
@@ -8215,8 +8151,8 @@
           "Description": "家の中をヘリコプターで飛べるワールドです。玄関から外にでることもできます。フックを使ってぬいぐるみを屋上のカゴに入れて遊ぶことができます。～It's a world where you can fly helicopters and collide with each other inside a house․You can enter and exit the outside world through the front door․ You can grab a big plush toy with a helicopter hook and drop it into a large basket on a rooftop․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_16fb9a83-755c-4024-b484-4230b35190ad",
           "AuthorName": "akira0111",
@@ -8247,7 +8183,7 @@
           "Description": "海に浮かんでいるハオラン君を見つけ出そう 管制塔1階に正解位置を掲示しました",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_b0358922-2d51-4906-bc6e-1c77442f947e",
@@ -8263,8 +8199,8 @@
           "Description": "シンプルに飛行できるワールド。 空港エリア、飛行中は滑走路上を低空飛行すると各種補給が可能なので活用して下さい。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "まこぺっぺ",
@@ -8279,7 +8215,7 @@
           "Description": "比較的高波の海象で発着艦を行えるワールドです。ＤＤＨ以外は動揺があります。また、動揺はローカルでありますし動揺に伴いアバターが勝手に動くように錯覚し振動もありますから、酔いに弱い方は他艦船に移動しないか長くとどまるのはご遠慮ください。 SeaRAM甲板前面で風速等の設定が出来ます。ワールドとしては、風向は設置されている通り、相対風は30～40ktを想定しております。 格納庫前部側に休憩スペースがありますから、飛行で疲れたらぜひご利用ください。艦内へは、艦橋構造物左舷側にテレポーターがありますからぜひご利用ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
@@ -8295,7 +8231,7 @@
           "Description": "高さ１２００ｍの桜の周りで気持ち良いフライトを楽しめます",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -8343,7 +8279,7 @@
           "Description": "鹿児島県いちき串木野市",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -8375,7 +8311,7 @@
           "Description": "水没市街地跡地にてStudio-Symphonys-さん作の【架空二足攻撃機 BGG-03 Rhinoceros（ライナースレス）】をベースにVPBCが改造した機体、課【BGGM05 dolphin（ドルフィン）】を水上で走らせ、撃ちあったりすることができるワールドです ほかにも水陸両用の装甲車、ヘリ、航空機が少しあります。 まだテスト段階ではあるので不具合があればご連絡ください ⁄byジャク ＠jakujiji ＃VPBCompany",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a9700f0d-bbd3-40e0-bd34-8e5a1d5b5753",
@@ -8407,7 +8343,7 @@
           "Description": "Radio zoneはスポーン地点近くの木目模様の円内です。 管制塔屋上に雀卓あります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_6c263a3a-214b-43bd-a733-920864b7ba7c",
@@ -8423,7 +8359,7 @@
           "Description": "",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -8439,7 +8375,7 @@
           "Description": "第9回ヘリコプター操縦競技会用ワールドです。競技会の詳細は304TWを確認して下さい。（Twitter˸＠304TW_HQ）-World for the 9th Helicopter Maneuvering Competition․ See 304TW for competition details․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5770c4cf-2515-4374-a3e5-8e9b3d9d74e1",
@@ -8455,8 +8391,8 @@
           "Description": "天空の雲海に浮かぶ空母です。 艦橋でくつろげるようにしました。 ミサイルを沢山（数万発）発射できる様にしています。 浮いている敵UFOに発射してください。 今後もアップデートしていきます！ An aircraft carrier floating over the cloud․ You can relax on the bridge of aircraft carrier․ The aircrafts are set up to fire a large number of missiles （around tens of thousands）․ Please fire at the floating enemy UFO․ I will continue to updateǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -8493,7 +8429,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-22T14:51:53.021Z",
-          "UpdatedAt": "2026-06-09T11:41:28.513Z"
+          "UpdatedAt": "2026-06-21T14:42:15.755Z"
         },
         {
           "ID": "wrld_8cc58555-c794-4a60-b4d6-9771a587baca",
@@ -8503,8 +8439,8 @@
           "Description": "特撮のロケ地といえば採石場。タイマー式やセンサー式の爆薬が仕込んであります。変形ロボット「ファイバリオン」やヘリにも乗れるよ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "バンボー（Bambo）",
@@ -8535,8 +8471,8 @@
           "Description": "1˸1リアルスケールの日本列島です。（縦横約3000kmx3000km） Zhakamizhako氏によるOWMLシステムにより実現しました。 日本の空港 全97箇所＋αに離着陸できる様、滑走路を追加しました（簡易的な再現）。今後もアップデートします。 OWML˸Open World Movement Logic System for SaccFlight_____This is a 1˸1 real scale of the Japanese archipelago （approximately 3000km x 3000km）․ It was realized by the OWML system by Mr․ Zhakamizhako․ Runways have been added to all 97＋α airports in Japan so that planes can take off and land （simplified reproduction）․ I will continue to update this world․ OWML˸Open World Movement Logic System for SaccFlight․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -8551,13 +8487,29 @@
           "Description": "八丈島。遊覧や空戦にどうぞ。 Hachijojima‚Tokyo‚Japan",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_aae0da4a-506f-40fd-9c8d-58acc2dd2310",
           "AuthorName": "うきだけ",
           "CreatedAt": "2023-07-07T10:31:37.865Z",
           "UpdatedAt": "2023-12-29T12:16:13.805Z"
+        },
+        {
+          "ID": "wrld_74a1a7e3-095a-4eaa-a9a3-d791582fd714",
+          "Name": "飛ばせるところ By zawabroccoli",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "U-125A SH-60K が飛ばせるよ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0358922-2d51-4906-bc6e-1c77442f947e",
+          "AuthorName": "zawabroccoli",
+          "CreatedAt": "2023-04-08T11:39:57.566Z",
+          "UpdatedAt": "2023-05-14T10:08:30.317Z"
         },
         {
           "ID": "wrld_3eeefe79-eeaa-446d-9123-6fae997c2d8f",
@@ -8599,7 +8551,7 @@
           "Description": "糞ワールド",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -8653,7 +8605,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-06-12T14:24:49.58Z"
+          "UpdatedAt": "2026-06-21T02:42:11.233Z"
         },
         {
           "ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
@@ -8716,8 +8668,8 @@
           "Description": "A small Forward Operating Base with SA 341 gazelles and GR1a Sepecat Jaguars․ （plans to add an east german base with SU22 and MI24P）",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7fe9ece6-1fcd-4eb6-81a7-20851b87dc4a",
           "AuthorName": "_l Mia l_",
@@ -8748,7 +8700,7 @@
           "Description": "Sacchan_VRC様より公開されている航空機プレハブSacc's Flight and Vehicles Prefab を利用させて頂いて作成しています",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_798fb9de-0e46-4adf-bec9-1ceb2836940d",
@@ -8764,7 +8716,7 @@
           "Description": "Protect aircraft carrier from AI fighters and bombersǃ It's a kind of gimmick demo world AI戦闘機と爆撃機から空母を守れ！ ギミックデモを兼ねて作ったワールドです。 ＃VRC_BrokenSky",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -8780,7 +8732,7 @@
           "Description": "It is a world where you can experience a aircraft carrier in a storm․ Try landing and flying in low visibilityǃ There are also several features such as TACAN and ILS automated LSO․ Some features may not work or there may be bugs due to work in progress․ ∗ Recent Update ˸ Adjust plane's seat‚ Fixed HMD func of heli",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -8796,8 +8748,8 @@
           "Description": "PVE CO-OP Urban CAS world Enjoy itǃ ｜ PS․ it's a test‚demo world‚ so there might be a bug․ ｜ Contact me ˸ （Discord） 5Sori ‚（Twitter） ＠5So2_",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
           "AuthorName": "5Sori",
@@ -8812,7 +8764,7 @@
           "Description": "Nightflight＆Chill",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7db042df-3df8-493f-997b-5aac18c56813",
@@ -8844,8 +8796,8 @@
           "Description": "家の中をヘリコプターで飛べるワールドです。玄関から外にでることもできます。フックを使ってぬいぐるみを屋上のカゴに入れて遊ぶことができます。～It's a world where you can fly helicopters and collide with each other inside a house․You can enter and exit the outside world through the front door․ You can grab a big plush toy with a helicopter hook and drop it into a large basket on a rooftop․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_16fb9a83-755c-4024-b484-4230b35190ad",
           "AuthorName": "akira0111",
@@ -8924,29 +8876,13 @@
           "Description": "Work in Progress aerial fire fighting world ｜ Updated 11⁄30⁄2024",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
           "CreatedAt": "2023-08-16T05:56:02.733Z",
           "UpdatedAt": "2024-11-30T11:53:29.653Z"
-        },
-        {
-          "ID": "wrld_a77d0208-be34-43cc-975f-1020c9353736",
-          "Name": "Project Helo April Fools By CodyHayzett",
-          "RecommendedCapacity": 8,
-          "Capacity": 16,
-          "Description": "Project Helo April Fools",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
-          "AuthorName": "CodyHayzett",
-          "CreatedAt": "2022-04-03T19:21:19.491Z",
-          "UpdatedAt": "2022-04-03T19:34:01.48Z"
         },
         {
           "ID": "wrld_2497040b-ab48-491e-b83d-48df41e73170",
@@ -8956,8 +8892,8 @@
           "Description": "Practice flying helicopters here․ Last update˸ 11⁄27⁄2024",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7616beb1-46a2-4851-8c52-f6bc80f2998e",
           "AuthorName": "CodyHayzett",
@@ -8972,7 +8908,7 @@
           "Description": "Milky Dawn Junction Note˸Some airplane sounds are borrowed from DavidSkinnerMusic․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_4cf2c1d9-f965-4f5f-bc24-c76e45f77b13",
@@ -8988,7 +8924,7 @@
           "Description": "Victoria Harbour",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_7148bba0-f6f1-4032-bd8c-728e05c65ddb",
@@ -9036,7 +8972,7 @@
           "Description": "A chill flying map I've been working on for a while‚ includes my attempt at a few custom aircraft․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_016f16ba-d5ca-4599-88f4-a6045d193a70",
@@ -9100,8 +9036,8 @@
           "Description": "簡単に飛ばせるプロペラ機からちょっと難しい飛行機まで様々な乗り物に乗る事のできる群島の飛行場です。ゆっくり遊覧飛行してお楽しみください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_46a537ad-c4bc-4ffe-b828-b47f281ad65c",
           "AuthorName": "heyhey_t",
@@ -9132,7 +9068,7 @@
           "Description": "Sandy dunes‚ canyons and rock ridges․ Waifuwehr solders race through various courses around these parts in competitions for fame and prestigeǃ Find out more by joining our discord˸ Waifuwehr․com․ Also big shoutout to Sacchan for creating the helicopter prefab․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -9148,7 +9084,7 @@
           "Description": "Blame Fallapa for the name․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -9164,7 +9100,7 @@
           "Description": "Shoutout to all the chads who made this possible˸ Wulf‚ Zeppelin and everyone else from WaifuWehr dev team as well as Lusif and of course Sacchan for the vehicle prefab （Sorry if I forgot anyone）․ Special thanks to BassHunter for helping a ton with quality control․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_554c3d9f-1b61-4041-8ea5-e562e7e33267",
@@ -9212,7 +9148,7 @@
           "Description": "PLATEAUを使用した飛行機を飛ばせるワールドの23区の大きさ版です。20240623update",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -9228,7 +9164,7 @@
           "Description": "国土交通省の３DモデルPLATEAUを使用した臨海・羽田空港周辺を飛び回れるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -9244,7 +9180,7 @@
           "Description": "国土交通省の３DモデルPLATEAUを使用した新宿の町を飛び回れるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_460b9291-5c24-48e1-a0e6-fb26648e7e75",
@@ -9260,8 +9196,8 @@
           "Description": "Fan world of BB-63 Missouri 1990's ⁄ Museum Mode Updateǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_81757225-c775-47a1-a359-a2c96fabc623",
           "AuthorName": "katsuobusi24",
@@ -9276,8 +9212,8 @@
           "Description": "1˸1リアルスケールの日本列島です。（縦横約3000kmx3000km） Zhakamizhako氏によるOWMLシステムにより実現しました。 日本の空港 全97箇所＋αに離着陸できる様、滑走路を追加しました（簡易的な再現）。今後もアップデートします。 OWML˸Open World Movement Logic System for SaccFlight_____This is a 1˸1 real scale of the Japanese archipelago （approximately 3000km x 3000km）․ It was realized by the OWML system by Mr․ Zhakamizhako․ Runways have been added to all 97＋α airports in Japan so that planes can take off and land （simplified reproduction）․ I will continue to update this world․ OWML˸Open World Movement Logic System for SaccFlight․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -9292,8 +9228,8 @@
           "Description": "天空の雲海に浮かぶ空母です。 艦橋でくつろげるようにしました。 ミサイルを沢山（数万発）発射できる様にしています。 浮いている敵UFOに発射してください。 今後もアップデートしていきます！ An aircraft carrier floating over the cloud․ You can relax on the bridge of aircraft carrier․ The aircrafts are set up to fire a large number of missiles （around tens of thousands）․ Please fire at the floating enemy UFO․ I will continue to updateǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_7b6a1636-a0d5-49fc-9aee-d907d1ebbf0b",
           "AuthorName": "Katu-",
@@ -9308,8 +9244,8 @@
           "Description": "静かな南の島で、流れ星を。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_3c06993c-1bbd-43bc-bd6c-bfab1fcdebd2",
           "AuthorName": "kiri（きり）",
@@ -9324,8 +9260,8 @@
           "Description": "遠い昔、ナドンの戦いで野に放たれた生物兵器「エビザウルス」の一部はセレウ川を南下し、死海に浮かぶ小さな島へと辿り着いた。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
           "AuthorName": "long-potato",
@@ -9340,7 +9276,7 @@
           "Description": "2024⁄9 Update 海岸線を車でドライブしたり、山の上からヘリコプターやグライダー、海からはホバーボードで水上移動したりすることができます。⁄You can drive along the coastline‚ travel by helicopter or glider from the mountains‚ or hoverboard from the sea․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5770c4cf-2515-4374-a3e5-8e9b3d9d74e1",
@@ -9356,7 +9292,7 @@
           "Description": "第9回ヘリコプター操縦競技会用ワールドです。競技会の詳細は304TWを確認して下さい。（Twitter˸＠304TW_HQ）-World for the 9th Helicopter Maneuvering Competition․ See 304TW for competition details․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5770c4cf-2515-4374-a3e5-8e9b3d9d74e1",
@@ -9404,7 +9340,7 @@
           "Description": "ジャングルの架空国家ベリナンで繰り広げられる激闘！ A fierce battle unfolds in the fictional jungle country of Berinanǃ ジャングルを戦闘車両 船舶 航空機で動き回り、敵をせん滅せよ！Move around the jungle with a combat vehicle or aircraft and destroy the enemy․ 20265⁄22Updateǃǃǃǃǃǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
@@ -9420,7 +9356,7 @@
           "Description": "NC-220 flight",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8a498837-46a7-44e7-9bdf-1e064de6fe1f",
@@ -9500,8 +9436,8 @@
           "Description": "PvE Mission Test",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_6b2302e2-8bdd-4ab1-8935-fc8cbd8e7706",
           "AuthorName": "Object",
@@ -9516,7 +9452,7 @@
           "Description": "Radio zoneはスポーン地点近くの木目模様の円内です。 管制塔屋上に雀卓あります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_6c263a3a-214b-43bd-a733-920864b7ba7c",
@@ -9554,7 +9490,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-31T09:30:30.769Z",
-          "UpdatedAt": "2026-06-14T11:18:15.522Z"
+          "UpdatedAt": "2026-06-21T14:37:41.051Z"
         },
         {
           "ID": "wrld_f82ee082-350b-4988-bdc0-3de672313956",
@@ -9570,7 +9506,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-22T14:51:53.021Z",
-          "UpdatedAt": "2026-06-09T11:41:28.513Z"
+          "UpdatedAt": "2026-06-21T14:42:15.755Z"
         },
         {
           "ID": "wrld_ea684feb-51c6-41dd-9a9f-df47a2950b82",
@@ -9628,7 +9564,7 @@
           "Description": "World allows you to operate around the Island in a jet fighter or helicopter․ 某国某所の島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9644,7 +9580,7 @@
           "Description": "This is air hockey․ In other words‚ it is aircraft hockey․ Shoot the puck into the opponent's goalǃ This is a super exciting 3D action game․ いわゆるエアホッケー、それはすなわちエアクラフト・ホッケーです。 パックを相手のゴールにシュート！ 超・エキサイティングな3Dアクションゲームです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9660,7 +9596,7 @@
           "Description": "You can board the humanoid combat robot （mech ⁄ mecha） Ganzer‚ armored fighting vehicle （Wheeled tank）‚ jet attack aircraft（Light fighter）‚ and attack helicopter․ 人型戦闘ロボット「Ganzer」や装甲戦闘車（装輪戦車）、ジェット攻撃機（戦闘機）、攻撃ヘリコプターを操縦して遊ぶことができます。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9676,7 +9612,7 @@
           "Description": "World allows you to operate around the fictional Senka Islands in a jet fighter or helicopter․ 架空の島、尖華諸島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9692,7 +9628,7 @@
           "Description": "鹿児島県いちき串木野市",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9708,7 +9644,7 @@
           "Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9724,7 +9660,7 @@
           "Description": "N island",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9740,13 +9676,13 @@
           "Description": "シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。 The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-06-14T11:34:09.529Z"
+          "UpdatedAt": "2026-06-21T14:31:52.084Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -9756,7 +9692,7 @@
           "Description": "ヘリコプターで競馬場を飛ぶことができるジョークWorldです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9772,7 +9708,7 @@
           "Description": "石垣空港を基点に、戦闘機で実寸大の先島諸島一帯を自由に飛行することができます。 Based at Ishigaki Airport‚ you are free to fly by fighter jet over the full-size Japanese archipelago of Sakishima Islands․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9788,7 +9724,7 @@
           "Description": "",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9804,7 +9740,7 @@
           "Description": "SACC BALL‚ it is soccer or football played with helicopters and automobiles․ SACC BALL、それはヘリコプターと自動車を使って行うサッカー、あるいはフットボールです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9820,7 +9756,7 @@
           "Description": "You can play against other players using vehicles․ There are multiple types of military vehicles that can be used˸ armored fighting vehicle‚ MLRS‚ MQ-9 drone‚ Warship‚ attack helicopter‚ utility helicopter‚ and jet fighter․多数の軍用ビークルを使用した対戦が行えます。 使用できるビークルは機動戦闘車、MLRS、MQ-9ドローン、駆逐艦、攻撃ヘリコプター、多用途ヘリコプター、そしてジェット戦闘機。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9836,7 +9772,7 @@
           "Description": "Attack of flying hamburger",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9852,7 +9788,7 @@
           "Description": "ベトナム戦争期のビークルに乗って動かすことができます。 UH-1 Huey、AH-1G Cobra、PBR（Patrol boat river）があります。 M16やAK47といったライフルを撃つことができます。 暴れまわったり、対戦をしたり、遊び方は自由。 タイムトライアル形式のレースモードもあります。You can ride and move a vehicle from the Vietnam War era․ There is the UH-1 Huey‚ the AH-1G Cobra‚ and the PBR （Patrol boat river）․ You can shoot rifles such as M16 and AK47․ The game can be played in any way you like‚ from rampaging to fighting․ There is also a time trial style race mode․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9868,7 +9804,7 @@
           "Description": "You can play against other players using vehicles․ There are four types of vehicles that can be used˸ tanks‚ anti-aircraft vehicles‚ attack helicopters‚ビークルを使用した対戦が行えます。 使用できるビークルは戦車、対空車両、攻撃ヘリコプター、戦闘機の４種類。 戦闘に備えよ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9884,7 +9820,7 @@
           "Description": "不思議な島をヘリコプターで探検しましょう！Let's explore the mysterious island by helicopterǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9900,7 +9836,7 @@
           "Description": "This is a training area for helicopter pilot training․ Step-by-step instructions are given through voice guidance‚ models and diagrams․ It is based on the education that real helicopter pilots receive․ヘリコプターの操縦訓練のための訓練場所です。 音声ガイダンスと模型や図によって、段階的に操縦方法を教示します。 本物のヘリコプターパイロットが受ける教育を土台にしています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
@@ -9980,8 +9916,8 @@
           "Description": "Drive some carsǃ We also have tanks a boat and helicopters",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -9996,8 +9932,8 @@
           "Description": "For those who love flying․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_0e9e349a-c993-41d5-9b1c-b0d1e7830189",
           "AuthorName": "Sacchan",
@@ -10028,8 +9964,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -10044,8 +9980,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある籠に入れるのが成功すると、数字が増えます。 時間制限を設けて多く入れた方の勝ち等ルールを決めて遊んでみてください。 同期等不具合がありますがご了承ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -10060,8 +9996,8 @@
           "Description": "ヘリコプターのHOOKで真ん中にある荷物を取り、左右にある赤い床の上に置くのが成功すると、白く変わります。 先に全て置くことが出来たら勝ち、や時間制限を設けて多く置けた方の勝ち等ルールを決めて遊んでみてください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -10076,7 +10012,7 @@
           "Description": "海雲の上を飛行できるワールドです。フレアやスモークで夜空に君だけの絵を描いてみてください。他の人が飛んでいるのを紅茶を飲みながらまったりできるカフェも併設しています。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
@@ -10092,8 +10028,8 @@
           "Description": "B-SFCVN67ーMARINBLUEーに着艦練習が出来るワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
           "AuthorName": "Sayodori",
@@ -10108,7 +10044,7 @@
           "Description": "クリスマス仕様の飛行機のあるワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_585e40e3-2c37-47a6-8d07-c223b4156b81",
@@ -10242,23 +10178,7 @@
           "AuthorId": "usr_42b14aa3-7a41-4c83-b2c8-4a754075be98",
           "AuthorName": "sumisu_san",
           "CreatedAt": "2025-03-02T15:07:43.843Z",
-          "UpdatedAt": "2025-12-19T13:04:57.528Z"
-        },
-        {
-          "ID": "wrld_c6e2ca70-f54b-4e4d-b4e5-f087f773208a",
-          "Name": "CrabCopter By Swifter1",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "CrabCopter",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": false,
-            "Android": false
-          },
-          "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
-          "AuthorName": "Swifter1",
-          "CreatedAt": "2022-12-20T09:22:18.026Z",
-          "UpdatedAt": "2022-12-20T09:22:18.026Z"
+          "UpdatedAt": "2026-06-16T09:28:42.378Z"
         },
         {
           "ID": "wrld_120f1ee6-e61f-40db-977b-717f0cd890d0",
@@ -10268,8 +10188,8 @@
           "Description": "Free Flight Combat‚ a world with Combat ready‚ and Civilian Aircraft․ Roleplay‚ or enjoy flying․ More Coming․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_5ac5f055-7028-4df0-adf4-fb5e8e187573",
           "AuthorName": "Swifter1",
@@ -10284,7 +10204,7 @@
           "Description": "SH-1G_night_test_夜間飛行のテストができます、ダークブルー（HUDあり）、ピンク（HUDあり） 遊覧無形にいろいろ外して性能を変えていないSH-1です。 UnityPackageが欲しい方は、DMください。昼まで試せるワールドリンクhttps˸⁄⁄vrchat․com⁄home⁄world⁄wrld_37d215e4-c5d4-475f-a93a-55c427909685",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_9e433fa8-f50c-4a3b-8bc5-02266a52b1b1",
@@ -10300,7 +10220,7 @@
           "Description": "kaijuuheri",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_3f0fde5a-c3f2-49f1-83b1-12912713ebe0",
@@ -10316,7 +10236,7 @@
           "Description": "heli-SUMOU",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_3f0fde5a-c3f2-49f1-83b1-12912713ebe0",
@@ -10332,7 +10252,7 @@
           "Description": "Ballmang｜ Waifuwehr's Op Balmung Part 5 World․ Feel free to check out the op․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2f9273a1-8507-45e5-a3d5-054e3f61780d",
@@ -10348,7 +10268,7 @@
           "Description": "Waifuwehr's Op Balmung World․ Feel free to check out the op․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2f9273a1-8507-45e5-a3d5-054e3f61780d",
@@ -10492,7 +10412,7 @@
           "Description": "部屋と空港と空母。航空機の武装は一部を除き解除してあります。Rooms‚ airports and aircraft carriers․ Aircraft are disarmed․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_ac7cd44a-4319-4489-96ba-7f85b9cc1c1a",
@@ -10524,8 +10444,8 @@
           "Description": "各種スイッチが指で触れたり、はしごに登れたり、中距離ミサイル戦が出来たりする空戦ワールドです ⁄ Super Modified SF-1 with Clickable Cakepit‚ Climbable Ladders‚ and Mid-Range Missile Combat․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -10540,8 +10460,8 @@
           "Description": "日本の年中行事（諸説あり）をVRでも。2024年もよろしくお願いします。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_32e4a42e-237f-4477-8249-713a52ae09ac",
           "AuthorName": "Yumemidori",
@@ -10572,13 +10492,29 @@
           "Description": "海に浮かんでいるハオラン君を見つけ出そう 管制塔1階に正解位置を掲示しました",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_b0358922-2d51-4906-bc6e-1c77442f947e",
           "AuthorName": "zawabroccoli",
           "CreatedAt": "2023-09-13T05:40:04.931Z",
           "UpdatedAt": "2023-11-02T07:49:27.068Z"
+        },
+        {
+          "ID": "wrld_74a1a7e3-095a-4eaa-a9a3-d791582fd714",
+          "Name": "飛ばせるところ By zawabroccoli",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "U-125A SH-60K が飛ばせるよ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_b0358922-2d51-4906-bc6e-1c77442f947e",
+          "AuthorName": "zawabroccoli",
+          "CreatedAt": "2023-04-08T11:39:57.566Z",
+          "UpdatedAt": "2023-05-14T10:08:30.317Z"
         },
         {
           "ID": "wrld_00aacfe7-ab03-4a8c-9efc-5a8909d89f01",
@@ -10588,7 +10524,7 @@
           "Description": "Anytime․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
@@ -10604,8 +10540,8 @@
           "Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic Tomcat and more․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_07b277e9-b21f-4b26-9ed9-413787e46f11",
           "AuthorName": "Zweikaku",
@@ -10620,8 +10556,8 @@
           "Description": "空母にIFLOLSとLRLLS、LSOを設置、カタパルトは機体外部から操作が可能です。アレスティングワイヤーが引っ張られて伸びます。滑走路以外は30knの速度制限があり、超過すると壁が出現して止められます。武装は双方が無効化モードをオフにすることで使用可能になります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_33bc5832-e330-4717-a263-e2181d715e9f",
           "AuthorName": "あややね",
@@ -10636,13 +10572,13 @@
           "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-13T06:11:47.646Z"
+          "UpdatedAt": "2026-06-19T12:10:08.743Z"
         },
         {
           "ID": "wrld_caf90a82-5287-4d27-bd2d-a1103f2b5d7d",
@@ -10652,7 +10588,7 @@
           "Description": "八丈島。遊覧や空戦にどうぞ。 Hachijojima‚Tokyo‚Japan",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_aae0da4a-506f-40fd-9c8d-58acc2dd2310",
@@ -10700,8 +10636,8 @@
           "Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․8。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄5⁄8",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_47eb7aa9-d27b-466e-9258-07d3f8cf2b5d",
           "AuthorName": "かもみーる",
@@ -10732,7 +10668,7 @@
           "Description": "ＮＰＣとドッグファイトのできるフライトワールドです。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -10748,7 +10684,7 @@
           "Description": "静岡県浜松市の夜景を楽しめるフライトワールドです",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -10764,7 +10700,7 @@
           "Description": "Just Halloween Party",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -10780,7 +10716,7 @@
           "Description": "糞ワールド",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -10796,7 +10732,7 @@
           "Description": "邪悪な緑",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
@@ -10812,8 +10748,8 @@
           "Description": "空母艦載機運用ができるワールドです、対地、対艦攻撃のPVE戦闘ができます。 無線を導入し、航空機、母艦において音声通話による連携が可能です。 クエスト対応ですがおまけ程度なので、推奨はしていません",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "きりしまはるな",
@@ -10828,8 +10764,8 @@
           "Description": "浜松市を再現したワールドです、無線を導入し編隊飛行が可能です、訓練飛行や展示飛行などにどうぞ。クエスト対応ですがおまけ程度なので、推奨はしていません、縮尺や施設など実在の物とは異なります。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_8d6f93b1-147a-4212-a869-f9b5b4627414",
           "AuthorName": "きりしまはるな",
@@ -10860,7 +10796,7 @@
           "Description": "水没市街地跡地にてStudio-Symphonys-さん作の【架空二足攻撃機 BGG-03 Rhinoceros（ライナースレス）】をベースにVPBCが改造した機体、課【BGGM05 dolphin（ドルフィン）】を水上で走らせ、撃ちあったりすることができるワールドです ほかにも水陸両用の装甲車、ヘリ、航空機が少しあります。 まだテスト段階ではあるので不具合があればご連絡ください ⁄byジャク ＠jakujiji ＃VPBCompany",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a9700f0d-bbd3-40e0-bd34-8e5a1d5b5753",
@@ -10876,7 +10812,7 @@
           "Description": "金さえあればなんでもやる傭兵組織 Variant Point Breaker Company 【略称˸V․P․B․C】の本部です。 SaccFlightシステムが入っています 何かあれば 社長【＠jakujijik】か 本部accountまでお願いします 公式X 【＠VPBCompany】 制作-ベースプラント、橋 ICH＠youtuu 八雲 狐月《kou》 -本部ワールド調整、ジャク-jak0629 -その他小物、兵器改変 熊野 零",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_a9700f0d-bbd3-40e0-bd34-8e5a1d5b5753",
@@ -10892,7 +10828,7 @@
           "Description": "ヘリコプターで福笑いを作るワールドです！観戦用スクリーンがあるのでヘリに乗れない方も楽しめます。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1303cfb4-8c39-4bd6-b17c-07e74087e028",
@@ -10908,8 +10844,8 @@
           "Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -10924,8 +10860,8 @@
           "Description": "VRCのflight系グループ、V․R․A․Fのフライトワールド「ウォーターアイランド基地」です！ ここでしか乗れない機体等がある、 VRAFのワールドの一つですǃ 良ければ遊んでくださいねǃ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -10940,8 +10876,8 @@
           "Description": "studio-symphonys-としてboothに置いている物を置いてます！ 普通に飛んだりして遊べるので是非遊んでくださいー！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -10956,8 +10892,8 @@
           "Description": "美しい港町、city湊。 たくさんのヘリと共に、編隊飛行や練習にどうぞ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -10972,8 +10908,8 @@
           "Description": "松本空港！プール！フライトǃ カフェ要素も楽しめますよ～！！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -10988,8 +10924,8 @@
           "Description": "フルスクラッチで頑張って再現されたほぼ原寸大の戦艦大和を観光しよう！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -11004,8 +10940,8 @@
           "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_af3e14a9-4a8a-4132-bc56-1756889f2772",
           "AuthorName": "シン《symphony》",
@@ -11132,7 +11068,7 @@
           "Description": "比較的高波の海象で発着艦を行えるワールドです。ＤＤＨ以外は動揺があります。また、動揺はローカルでありますし動揺に伴いアバターが勝手に動くように錯覚し振動もありますから、酔いに弱い方は他艦船に移動しないか長くとどまるのはご遠慮ください。 SeaRAM甲板前面で風速等の設定が出来ます。ワールドとしては、風向は設置されている通り、相対風は30～40ktを想定しております。 格納庫前部側に休憩スペースがありますから、飛行で疲れたらぜひご利用ください。艦内へは、艦橋構造物左舷側にテレポーターがありますからぜひご利用ください。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2d88c083-f7b2-40c0-b6d5-7d5017b44361",
@@ -11186,7 +11122,7 @@
           "AuthorId": "usr_01ec1938-996a-428b-a5a5-493f4decd5ee",
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
-          "UpdatedAt": "2026-06-12T14:24:49.58Z"
+          "UpdatedAt": "2026-06-21T02:42:11.233Z"
         },
         {
           "ID": "wrld_71e8d706-3063-4322-b3c6-1bedcf14f6ba",
@@ -11228,8 +11164,8 @@
           "Description": "へりの操縦の練習ができるよ You can practice piloting a helicopter․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_464689ff-8d40-49e2-b864-e37cf9c1825a",
           "AuthorName": "ぱーしー HyprShield",
@@ -11244,8 +11180,8 @@
           "Description": "特撮のロケ地といえば採石場。タイマー式やセンサー式の爆薬が仕込んであります。変形ロボット「ファイバリオン」やヘリにも乗れるよ！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_41dd2a3e-6c83-4b57-8b64-9645ebef57b1",
           "AuthorName": "バンボー（Bambo）",
@@ -11340,8 +11276,8 @@
           "Description": "各種航空機、地上水上の乗り物で何ができるか自由に探索してみてください",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "まこぺっぺ",
@@ -11356,8 +11292,8 @@
           "Description": "シンプルに飛行できるワールド。 空港エリア、飛行中は滑走路上を低空飛行すると各種補給が可能なので活用して下さい。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_709152c8-73ea-4895-a443-3a6cf0d8a5d8",
           "AuthorName": "まこぺっぺ",
@@ -11404,13 +11340,13 @@
           "Description": "飛行機の遊び場 ˸多様な飛行機＆ヘリ有り タイムアタックコース４つ ターゲット島 都市 PSM練習にもぜひ Sacc's Flight",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5d95a081-b6d2-4ca5-acdf-c7410706d9de",
           "AuthorName": "れびん-Levin",
           "CreatedAt": "2024-08-31T09:39:04.897Z",
-          "UpdatedAt": "2025-09-02T04:20:17.827Z"
+          "UpdatedAt": "2026-06-21T11:02:03.923Z"
         },
         {
           "ID": "wrld_73bfab3d-5888-4364-909a-6bba45749538",
@@ -11420,7 +11356,7 @@
           "Description": "24⁄5月にプロジェクト壊れて２度と更新できなくなりました․․․ 新ワールドできたのでAircraft playground 215で遊んでね 今までありがとう！",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_5d95a081-b6d2-4ca5-acdf-c7410706d9de",
@@ -11436,8 +11372,8 @@
           "Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_71ab598b-f213-468b-8564-2a268699c0c8",
           "AuthorName": "わたぼー",
@@ -11452,7 +11388,7 @@
           "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドで夏案釣り。",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -11468,7 +11404,7 @@
           "Description": "V-22、F-35B、AV-8B、XAH-1K、LCACを搭載した強襲揚陸艦ワスプのワールドです 海兵隊基地にはF⁄A-18C⁄Dが置いてあります。 トーイングカーもおいてありますので自信のある人はエレベーター乗り入れ等してみてください。 ブリッジに置いてある無線機を持っていれば各機と話せますが、これを持った状態で機体に近づかないでください。 It is the World of Wasp assault landing ship with V-22‚ F-35B‚ AV-8B‚ XAH-1K and LCACǃ F⁄A-18C⁄D are available at the Marine Corps base․ There is also a towing car‚ so if you are confident‚ you can try to enter the elevator․ If you have the radio on the bridge‚ you can talk to each aircraft‚ but please do not approach the aircraft with it in your hand․",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -11484,7 +11420,7 @@
           "Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドです。 Flyable：ZeroType32 （Hamp）ShidenKai SHINDEN FUGAKU F-15DJ F-2 UF-104J T-2 F-99（F-1color）",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_2fcda590-06ea-4670-8905-251177a15433",
@@ -11516,7 +11452,7 @@
           "Description": "",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -11532,7 +11468,7 @@
           "Description": "高さ１２００ｍの桜の周りで気持ち良いフライトを楽しめます",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -11548,7 +11484,7 @@
           "Description": "既存のワールドに高ポリな桜を植樹しただけ",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
+            "PC": true,
             "Android": false
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
@@ -11564,13 +11500,13 @@
           "Description": "エアーウルフの飛ぶ姿を見たいだけで作った",
           "ReleaseStatus": "public",
           "Platform": {
-            "PC": false,
-            "Android": false
+            "PC": true,
+            "Android": true
           },
           "AuthorId": "usr_1f83d125-c9f1-4e7c-9bdc-595f1d6821c4",
           "AuthorName": "萩キャンパーJP",
           "CreatedAt": "2022-09-03T05:05:23.624Z",
-          "UpdatedAt": "2026-02-04T08:42:36.163Z"
+          "UpdatedAt": "2026-06-19T10:26:09.089Z"
         },
         {
           "ID": "wrld_a3c4c416-8375-4ec4-9fa8-b9bb7ca0c3fa",
