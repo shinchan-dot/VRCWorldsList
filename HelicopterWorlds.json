@@ -6,6 +6,22 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
+          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
+          "RecommendedCapacity": 30,
+          "Capacity": 30,
+          "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
+          "AuthorName": "いちごみるく2100",
+          "CreatedAt": "2025-02-04T10:58:00.395Z",
+          "UpdatedAt": "2026-06-25T14:56:17.502Z"
+        },
+        {
           "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
           "Name": "夕焼け空、ヘリと密林、ときどき戦闘機 By ねねみそ",
           "RecommendedCapacity": 16,
@@ -84,22 +100,6 @@
           "AuthorName": "れびん-Levin",
           "CreatedAt": "2024-08-31T09:39:04.897Z",
           "UpdatedAt": "2026-06-21T11:02:03.923Z"
-        },
-        {
-          "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
-          "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
-          "RecommendedCapacity": 30,
-          "Capacity": 30,
-          "Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
-          "AuthorName": "いちごみるく2100",
-          "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-19T12:10:08.743Z"
         },
         {
           "ID": "wrld_44869861-044d-4deb-8707-7881bd02cd3b",
@@ -3400,7 +3400,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-19T12:10:08.743Z"
+          "UpdatedAt": "2026-06-25T14:56:17.502Z"
         },
         {
           "ID": "wrld_630c5246-8ef7-4dee-b6a9-8095f4001ec8",
@@ -7757,7 +7757,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-19T12:10:08.743Z"
+          "UpdatedAt": "2026-06-25T14:56:17.502Z"
         },
         {
           "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
@@ -10578,7 +10578,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-19T12:10:08.743Z"
+          "UpdatedAt": "2026-06-25T14:56:17.502Z"
         },
         {
           "ID": "wrld_caf90a82-5287-4d27-bd2d-a1103f2b5d7d",
