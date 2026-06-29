@@ -6,6 +6,54 @@
       "Category": "更新日順(UpdatedAt)",
       "Worlds": [
         {
+          "ID": "wrld_c22fd4fa-642a-4017-98b8-8c5481271de1",
+          "Name": "JVG Patrol Vessels By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "仮想保安庁の飛行機やヘリコプターを操縦して、巡視船での離着船を体験できます。 You can fly virtual guard planes and helicopters and experience taking off and landing on patrol vessels․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2026-05-31T09:30:30.769Z",
+          "UpdatedAt": "2026-06-28T13:32:15.574Z"
+        },
+        {
+          "ID": "wrld_f82ee082-350b-4988-bdc0-3de672313956",
+          "Name": "逃げろ！ 武装工作船 By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "【船酔い注意！】海上保安庁 vs 北朝鮮",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2026-05-22T14:51:53.021Z",
+          "UpdatedAt": "2026-06-28T13:23:31.154Z"
+        },
+        {
+          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+          "Name": "JVG Sendai Air Station 【仮想保安庁 仙台航空基地】 By Oppailot",
+          "RecommendedCapacity": 16,
+          "Capacity": 45,
+          "Description": "シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。 The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          },
+          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
+          "AuthorName": "Oppailot",
+          "CreatedAt": "2023-03-21T10:58:00.822Z",
+          "UpdatedAt": "2026-06-28T13:19:12.646Z"
+        },
+        {
           "ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
           "Name": "いちごみるくヘリポート＆飛行場 By いちごみるく2100",
           "RecommendedCapacity": 30,
@@ -19,7 +67,23 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-25T14:56:17.502Z"
+          "UpdatedAt": "2026-06-28T01:23:01.723Z"
+        },
+        {
+          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          },
+          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
+          "AuthorName": "Yakisaba dayo",
+          "CreatedAt": "2024-06-20T14:27:33.969Z",
+          "UpdatedAt": "2026-06-27T12:24:59.719Z"
         },
         {
           "ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
@@ -36,54 +100,6 @@
           "AuthorName": "ねねみそ",
           "CreatedAt": "2025-04-24T05:36:00.897Z",
           "UpdatedAt": "2026-06-24T15:32:20.056Z"
-        },
-        {
-          "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
-          "Name": "JVG Sendai Air Station 【仮想保安庁 仙台航空基地】 By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 45,
-          "Description": "シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。 The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-06-24T11:59:32.925Z"
-        },
-        {
-          "ID": "wrld_f82ee082-350b-4988-bdc0-3de672313956",
-          "Name": "逃げろ！ 武装工作船 By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "【船酔い注意！】海上保安庁 vs 北朝鮮",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2026-05-22T14:51:53.021Z",
-          "UpdatedAt": "2026-06-21T14:42:15.755Z"
-        },
-        {
-          "ID": "wrld_c22fd4fa-642a-4017-98b8-8c5481271de1",
-          "Name": "JVG Patrol Vessels By Oppailot",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "仮想保安庁の飛行機やヘリコプターを操縦して、巡視船での離着船を体験できます。 You can fly virtual guard planes and helicopters and experience taking off and landing on patrol vessels․",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
-          },
-          "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
-          "AuthorName": "Oppailot",
-          "CreatedAt": "2026-05-31T09:30:30.769Z",
-          "UpdatedAt": "2026-06-21T14:37:41.051Z"
         },
         {
           "ID": "wrld_522b17d4-286f-4dee-bd87-69fad77c8b43",
@@ -388,22 +404,6 @@
           "AuthorName": "monoi_sakura",
           "CreatedAt": "2022-09-15T00:24:50.897Z",
           "UpdatedAt": "2026-04-18T02:23:57.798Z"
-        },
-        {
-          "ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
-          "Name": "ごまさば群島 - Gomasaba archipelago By Yakisaba dayo",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": true
-          },
-          "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
-          "AuthorName": "Yakisaba dayo",
-          "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-04-17T12:34:44.138Z"
         },
         {
           "ID": "wrld_e8a5b452-adb5-4f93-9d34-15142b209277",
@@ -2904,7 +2904,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-31T09:30:30.769Z",
-          "UpdatedAt": "2026-06-21T14:37:41.051Z"
+          "UpdatedAt": "2026-06-28T13:32:15.574Z"
         },
         {
           "ID": "wrld_f82ee082-350b-4988-bdc0-3de672313956",
@@ -2920,7 +2920,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-22T14:51:53.021Z",
-          "UpdatedAt": "2026-06-21T14:42:15.755Z"
+          "UpdatedAt": "2026-06-28T13:23:31.154Z"
         },
         {
           "ID": "wrld_bf942cb8-394c-4e39-8b20-1c7364c8d68d",
@@ -3400,7 +3400,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-25T14:56:17.502Z"
+          "UpdatedAt": "2026-06-28T01:23:01.723Z"
         },
         {
           "ID": "wrld_630c5246-8ef7-4dee-b6a9-8095f4001ec8",
@@ -3912,7 +3912,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-04-17T12:34:44.138Z"
+          "UpdatedAt": "2026-06-27T12:24:59.719Z"
         },
         {
           "ID": "wrld_228ab0b4-46a5-4483-9543-6e7aae90230f",
@@ -4936,7 +4936,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-06-24T11:59:32.925Z"
+          "UpdatedAt": "2026-06-28T13:19:12.646Z"
         },
         {
           "ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
@@ -6797,7 +6797,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-31T09:30:30.769Z",
-          "UpdatedAt": "2026-06-21T14:37:41.051Z"
+          "UpdatedAt": "2026-06-28T13:32:15.574Z"
         },
         {
           "ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
@@ -6813,7 +6813,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-06-24T11:59:32.925Z"
+          "UpdatedAt": "2026-06-28T13:19:12.646Z"
         },
         {
           "ID": "wrld_f24ea90b-ce7a-4a24-a100-aefb705871a5",
@@ -7757,7 +7757,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-25T14:56:17.502Z"
+          "UpdatedAt": "2026-06-28T01:23:01.723Z"
         },
         {
           "ID": "wrld_5bcc6884-2c00-49e0-a490-ab8b5e4f52a3",
@@ -7837,7 +7837,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-04-17T12:34:44.138Z"
+          "UpdatedAt": "2026-06-27T12:24:59.719Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -8429,7 +8429,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-22T14:51:53.021Z",
-          "UpdatedAt": "2026-06-21T14:42:15.755Z"
+          "UpdatedAt": "2026-06-28T13:23:31.154Z"
         },
         {
           "ID": "wrld_8cc58555-c794-4a60-b4d6-9771a587baca",
@@ -9490,7 +9490,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-31T09:30:30.769Z",
-          "UpdatedAt": "2026-06-21T14:37:41.051Z"
+          "UpdatedAt": "2026-06-28T13:32:15.574Z"
         },
         {
           "ID": "wrld_f82ee082-350b-4988-bdc0-3de672313956",
@@ -9506,7 +9506,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2026-05-22T14:51:53.021Z",
-          "UpdatedAt": "2026-06-21T14:42:15.755Z"
+          "UpdatedAt": "2026-06-28T13:23:31.154Z"
         },
         {
           "ID": "wrld_ea684feb-51c6-41dd-9a9f-df47a2950b82",
@@ -9682,7 +9682,7 @@
           "AuthorId": "usr_a8c78b4b-fe81-493f-91ec-b3e0dab9d4d4",
           "AuthorName": "Oppailot",
           "CreatedAt": "2023-03-21T10:58:00.822Z",
-          "UpdatedAt": "2026-06-24T11:59:32.925Z"
+          "UpdatedAt": "2026-06-28T13:19:12.646Z"
         },
         {
           "ID": "wrld_9da1df9b-b303-4dad-b5f1-c621cbf45cb6",
@@ -10354,7 +10354,7 @@
           "AuthorId": "usr_b737b633-a177-48f1-9fd0-61bbf3d52525",
           "AuthorName": "Yakisaba dayo",
           "CreatedAt": "2024-06-20T14:27:33.969Z",
-          "UpdatedAt": "2026-04-17T12:34:44.138Z"
+          "UpdatedAt": "2026-06-27T12:24:59.719Z"
         },
         {
           "ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
@@ -10578,7 +10578,7 @@
           "AuthorId": "usr_5b2dd338-0ed4-4c9f-a726-a7e6947b9a25",
           "AuthorName": "いちごみるく2100",
           "CreatedAt": "2025-02-04T10:58:00.395Z",
-          "UpdatedAt": "2026-06-25T14:56:17.502Z"
+          "UpdatedAt": "2026-06-28T01:23:01.723Z"
         },
         {
           "ID": "wrld_caf90a82-5287-4d27-bd2d-a1103f2b5d7d",
